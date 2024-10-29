@@ -1,6 +1,4 @@
-# HW2 - Report
 ### Chris Skeens
-### Due Date: 09/29/24
 
 # Q1: 
 *How many of your 500 URIs produced useful text? If that number was less than 500, did that surprise you*?
