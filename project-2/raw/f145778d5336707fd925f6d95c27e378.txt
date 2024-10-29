@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>NBC News Tips - NBC News</title>
+  <meta name="description"
+    content="Do you have a news story or a tip to report? Submit news tips directly to journalists at NBCNews.com">
+  <link rel="stylesheet" href="https://nodeassets.nbcnews.com/cdnassets/toolkit/3.0.0/css/toolkit.css">
+  <link rel="stylesheet" href="https://nodeassets.nbcnews.com/assets/fonts/shared/fontface.css">
+  <link href="./style.css" rel="stylesheet">
+  <link rel="shortcut icon" href="https://nodeassets.nbcnews.com/31533d28.favicon.ico">
+  </style>
+  <script> 
+    const HFSconfig = {
+      brand: "news",
+      header: {
+        theme: "vertical",
+        globalNav: false,
+      }
+    };
+  </script>
+  <script src="https://nodeassets.nbcnews.com/assets/header-footer/latest.js"></script>
+</head>
+
+<body class="publico-txt lh-copy tl">
+  <div class="header" id="hfs-header"></div>
+
+  <div class="outer mv8-m">
+    <div class="inner mh-auto-m ph4">
+
+      <h4 class="publico-hed f7 f10-m tc">
+        NBC NEWS TIPS
+      </h4>
+
+      <div class="df justify-center mv4">
+        <div class="flex1 h2 w2 mh4">
+          <a href="https://facebook.com/NBCInvestigates/" target="_blank" title="Share on Facebook">
+            <svg version="1.1" x="0" y="0" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+              <desc>Share on Facebook</desc>
+              <path
+                d="M17 1H3C1.9 1 1 1.9 1 3v14c0 1.1 0.9 2 2 2h7v-7H8V9.53h2V7.48c0-2.16 1.21-3.68 3.77-3.68l1.8 0v2.61h-1.2C13.38 6.4 13 7.14 13 7.84v1.69h2.57L15 12h-2v7h4c1.1 0 2-0.9 2-2V3C19 1.9 18.1 1 17 1z">
+              </path>
+            </svg>
+          </a>
+        </div>
+
+        <div class="flex1 h2 w2 mh4">
+          <a href="https://twitter.com/nbcinvestigates" target="_blank" title="Tweet">
+            <svg version="1.1" x="0px" y="0px" viewBox="0 0 20 20" enable-background="new 0 0 20 20"
+              xml:space="preserve">
+              <desc>Share on Twitter</desc>
+              <path
+                d="M17.316 6.246c0.008 0.2 0 0.3 0 0.488c0 4.99-3.797 10.742-10.74 10.742c-2.133 0-4.116-0.625-5.787-1.697 c0.296 0 0.6 0.1 0.9 0.053c1.77 0 3.397-0.604 4.688-1.615c-1.651-0.031-3.046-1.121-3.526-2.621 c0.23 0 0.5 0.1 0.7 0.066c0.345 0 0.679-0.045 0.995-0.131c-1.727-0.348-3.028-1.873-3.028-3.703c0-0.016 0-0.031 0-0.047 c0.509 0.3 1.1 0.5 1.7 0.473c-1.013-0.678-1.68-1.832-1.68-3.143c0-0.691 0.186-1.34 0.512-1.898 C3.942 5.5 6.7 7 9.9 7.158C9.798 6.9 9.8 6.6 9.8 6.297c0-2.084 1.689-3.773 3.774-3.773 c1.086 0 2.1 0.5 2.8 1.191c0.859-0.17 1.667-0.484 2.397-0.916c-0.282 0.881-0.881 1.621-1.66 2.1 c0.764-0.092 1.49-0.293 2.168-0.594C18.694 5.1 18.1 5.7 17.3 6.246z">
+              </path>
+            </svg>
+          </a>
+        </div>
+
+        <div class="flex1 h2 w2 mh4">
+          <a href="https://secure.nbcnews.com/_tps/accounts/newsletters" target="_blank" title="Email">
+            <svg version="1.1" x="0" y="0" viewBox="0 0 20 20" xml:space="preserve">
+              <desc>Email page link</desc>
+              <path
+                d="M1.57 5.29c0.49 0.26 7.25 3.89 7.5 4.03C9.33 9.45 9.65 9.51 9.98 9.51c0.33 0 0.65-0.06 0.91-0.2s7.01-3.77 7.5-4.03C18.88 5.02 19.34 4 18.44 4H1.52C0.62 4 1.09 5.02 1.57 5.29zM18.61 7.49c-0.56 0.29-7.39 3.85-7.73 4.03s-0.58 0.2-0.91 0.2 -0.57-0.02-0.91-0.2S1.94 7.78 1.39 7.49C1 7.28 1 7.52 1 7.71S1 15 1 15c0 0.42 0.57 1 1 1h16c0.43 0 1-0.58 1-1 0 0 0-7.11 0-7.29S19 7.29 18.61 7.49z">
+              </path>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="ph7-m">
+        <p class="mv4 mv6-m">
+          Newsworthy tips shed light on a matter of significant public interest. Do you have a news tip you want to share with our journalists? You can contact them directly by email, or you can send tips to our general newsroom inbox at <a href="mailto:tips@nbcuni.com?Subject=NBC%20News%20Tips">tips@nbcuni.com</a>.
+        </p>
+        <p class="mv4 mv6-m">
+          You can also find ways to communicate more securely below. Keep in mind there are several tools that help protect your anonymity â but none are foolproof. Review each platformâs terms, conditions and instructions, and use them at your own risk.
+        </p>
+        <p class="mv4 mv6-m">
+          A good tip is specific, backed up by evidence or documentation, and includes the names of people or organizations whom we can contact to verify the information.
+        </p>
+        <p class="mv4 mv6-m">
+          We review all messages we receive but may not respond to all of them. If our reporters have questions, they may reach out to you on the platform where you contacted us.
+        </p>
+      </div>
+
+      <div class="relative pt7 mb7 ph7-m pt6-m pb3-m mb8-m b-gray-20 b-solid bw-1px bt-1 br-0 bb-0 bl-0 bw-1px-m bt-0-m br-0-m bb-0-m bl-1-m">
+        <div class="dib db-m bg-white w2 f1 lh-none absolute-m top2-m -left1-m">
+          <img src="https://nodeassets.nbcnews.com/cdnassets/projects/news-tips/tips-icon-textsecure.png" class="db w-100 radius" />
+        </div>
+        <h4 class="publico-hed f7 f8-m" style="color:#2090ea;">
+          Signal
+        </h4>
+        <p class="mv4 mv6-m">
+          Signal is a free app that allows you to send messages or make calls with end-to-end encryption. Signal says that it does not retain any metadata. You can set it up to self-destruct messages automatically after a certain amount of time. You can read Signalâs terms, security and instructions, and download the app on Signalâs <a href="https://signal.org/en/">website</a>.
+        </p>
+        <p class="mv4 mv6-m b">
+          +1-646-858-9310
+        </p>
+      </div>
+
+      <div class="relative pt7 mb7 ph7-m pt6-m pb3-m mb8-m b-gray-20 b-solid bw-1px bt-1 br-0 bb-0 bl-0 bw-1px-m bt-0-m br-0-m bb-0-m bl-1-m">
+        <div class="dib db-m bg-white w2 f1 lh-none absolute-m top2-m -left1-m">
+          <img src="https://nodeassets.nbcnews.com/cdnassets/projects/news-tips/tips-icon-whatsapp.png" class="db w-100 radius" />
+        </div>
+        <h4 class="publico-hed f7 f8-m" style="color:#00E676;">
+          WhatsApp
+        </h4>
+        <p class="mv4 mv6-m">
+          WhatsApp is a free app that allows you to send messages or make calls with end-to-end encryption. Itâs owned by Meta (the parent company of Facebook) and retains some data and <a href="https://faq.whatsapp.com/683043392411948/?locale=en_US">shares some information with Meta</a>. You can set it up to self-destruct messages automatically after a certain amount of time. You can read about WhatsAppâs terms, security and instructions, and download the app on the <a href="https://www.whatsapp.com/">WhatsApp website</a>.
+        </p>
+        <p class="mv4 mv6-m b">
+          +1-646-858-9310
+        </p>
+      </div>
+
+      <div class="relative pt7 mb7 ph7-m pt6-m pb3-m mb8-m b-gray-20 b-solid bw-1px bt-1 br-0 bb-0 bl-0 bw-1px-m bt-0-m br-0-m bb-0-m bl-1-m">
+        <div class="dib db-m bg-white w2 f1 lh-none absolute-m top2-m -left1-m">
+          <img src="https://nodeassets.nbcnews.com/cdnassets/projects/news-tips/tips-icon-telegram.png" class="db w-100 radius" />
+        </div>
+        <h4 class="publico-hed f7 f8-m" style="color:#33aadf;">
+          Telegram
+        </h4>
+        <p class="mv4 mv6-m">
+          Telegram is a free app that offers an option to send messages or make calls with end-to-end encryption. In order to take advantage of this feature, you need to enable a âsecret chat.â You can set secret chats up to self-destruct automatically after a certain amount of time. You can read about Telegramâs terms, security and instructions, and download the app on the <a href="https://telegram.org/">Telegram website</a>. 
+        </p>
+        <p class="mv4 mv6-m b">
+          +1-646-858-9310
+        </p>
+      </div>
+
+      <div class="relative pt7 mb7 ph7-m pt6-m pb3-m mb8-m b-gray-20 b-solid bw-1px bt-1 br-0 bb-0 bl-0 bw-1px-m bt-0-m br-0-m bb-0-m bl-1-m">
+        <div class="dib db-m bg-white w2 f1 lh-none absolute-m top2-m -left1-m">
+          <svg class="radius" version="1.1" x="0" y="0" viewBox="0 0 20 20" xml:space="preserve" fill="#888">
+            <path
+              d="M1.57 5.29c0.49 0.26 7.25 3.89 7.5 4.03C9.33 9.45 9.65 9.51 9.98 9.51c0.33 0 0.65-0.06 0.91-0.2s7.01-3.77 7.5-4.03C18.88 5.02 19.34 4 18.44 4H1.52C0.62 4 1.09 5.02 1.57 5.29zM18.61 7.49c-0.56 0.29-7.39 3.85-7.73 4.03s-0.58 0.2-0.91 0.2 -0.57-0.02-0.91-0.2S1.94 7.78 1.39 7.49C1 7.28 1 7.52 1 7.71S1 15 1 15c0 0.42 0.57 1 1 1h16c0.43 0 1-0.58 1-1 0 0 0-7.11 0-7.29S19 7.29 18.61 7.49z">
+            </path>
+          </svg>
+        </div>
+        <h4 class="publico-hed f7 f8-m" style="color:#888;">
+          Postal Mail
+        </h4>
+        <p class="mv4 mv6-m">
+          Postal mail can be sent to the address below. If you are concerned about anonymity, we suggest using a public mailbox rather than a post office and omitting a return address on the outside of the envelope.
+        </p>
+        <p class="mv4 mv6-m b">
+          Tips<br />
+          c/o NBC News<br />
+          30 Rockefeller Plaza<br />
+          New York, NY, 10112
+        </p>
+      </div>
+
+      <div class="relative pt7 mb7 ph7-m pt6-m pb3-m mb8-m b-gray-20 b-solid bw-1px bt-1 br-0 bb-0 bl-0 bw-1px-m bt-0-m br-0-m bb-0-m bl-1-m">
+        <div class="dib db-m bg-white w2 f1 lh-none absolute-m top2-m -left1-m">
+          <img class="db w-100 radius" src="https://nodeassets.nbcnews.com/cdnassets/projects/news-tips/tips-icon-securedrop.png" />
+        </div>
+        <h4 class="publico-hed f7 f8-m" style="color:#888;">
+          SecureDrop
+        </h4>
+        <p class="mv4 mv6-m">
+          SecureDrop is a secure submission system that allows you to anonymously send tips, documents and media files to news organizations. SecureDrop relies on Tor, software that enables anonymous communication and obscures your computerâs IP address. SecureDrop is a project of the <a href="https://securedrop.org/">Freedom of the Press Foundation</a>.
+        </p>
+        <p class="mv4 mv6-m">
+          In order to use SecureDrop:
+          <ul>
+            <li>Go to a place with a public Internet connection, one that you don't normally frequent.</li>
+            <li>Download and install the Tor browser bundle from https://www.torproject.org</li>
+            <li>Open the Tor browser and copy this url into the browser address bar: 4cjb3is6fnzgnwadeasmvk4oinukh6wqn2dmaggoz5kf6q3qoa6splid.onion</li>
+            <li>From this url, you will be able to send messages and files to a secure dropbox that we will check periodically.</li>
+            <li>You will be provided with a codename that you will use to log in to check for replies from NBC News.</li>
+            <li>Keep the codename you are provided safe and secure. We will not know your codename, and you should never share it with anyone. If you forget your codename, we will have no other way to contact you.</li>
+          </ul>
+        </p>
+        <p class="mv4 mv6-m">
+          Nearly all digital communications can leave a trail. NBC Newsâ SecureDrop is designed to minimize these digital trails using best practices, such as:
+          <ul>
+            <li>
+              Limiting collection of information logged about your browser, computer or operating system.
+            </li>
+            <li>
+              Using Tor to encrypt and anonymize your communications with us.
+            </li>
+            <li>
+              Storing submissions in encrypted form on our systems.
+            </li>
+            <li>
+              Physically isolating SecureDrop from the rest of our network.
+            </li>
+          </ul>
+        </p>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="footer" id="hfs-footer"></div>
+</body>
+
+</html>

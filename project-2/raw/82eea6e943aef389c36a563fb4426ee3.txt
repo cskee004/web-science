@@ -1,0 +1,3101 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="prev" href="https://datasmart.hks.harvard.edu/housing" />
+<link rel="up" href="https://datasmart.hks.harvard.edu/housing" />
+<link rel="next" href="https://datasmart.hks.harvard.edu/early-interventions-eviction-prevention" />
+<script src="https://www.googletagmanager.com/gtag/js?id=G-SFXEYPKNXD" async="1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-SFXEYPKNXD');</script>
+<link rel="shortcut icon" href="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/datasmart/files/favicon.png?m=1727525979" />
+<meta name="description" content="February 16, 2024  Housing" />
+<meta name="generator" content="OpenScholar for Drupal 7 (http://theopenscholar.org)" />
+<link rel="canonical" href="https://datasmart.hks.harvard.edu/addressing-native-homelessness-culturally-appropriate-housing" />
+<link rel="shortlink" href="https://datasmart.hks.harvard.edu/node/1562031" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Addressing Native Homelessness with Culturally Appropriate Housing" />
+<meta property="og:description" content="February 16, 2024  Housing" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Addressing Native Homelessness with Culturally Appropriate Housing" />
+<meta name="twitter:description" content="February 16, 2024  Housing" />
+<meta name="twitter:image" content="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/datasmart/files/adam-blank-ff4bbi31czg-unsplash.jpg?m=1676403715&amp;amp;itok=rE2tfsJC" />
+<title>Addressing Native Homelessness with Culturally Appropriate Housing | Data-Smart City Solutions</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link type="text/css" rel="stylesheet" href="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css?m=1722240918" media="all" />
+<link type="text/css" rel="stylesheet" href="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/css/css_YnlUIvHP13qgpYEqubzE8JyDwlSxUnVibfnVkSoSDb0.css?m=1722240918" media="all" />
+<link type="text/css" rel="stylesheet" href="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/css/css_jW6D-yyPFrxEmPcDeT-ntu6LbRQK93ipmzhgXXCXuvM.css?m=1722241105" media="all" />
+<link type="text/css" rel="stylesheet" href="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/css/css_5wysTIGyZAM1DFOA_404Xl9rEf9q63L5PiO4-w7gYGk.css?m=1722240918" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/css/css_dW-aNNrctRhQNc-KECjtQd0PxuW-h19IEum-TX2MeEk.css?m=1722240918" media="print" />
+<link type="text/css" rel="stylesheet" href="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/css/css_uaIDKcYMUK5osSQXuirpr3ZleXtnnpBN-eiECm7N0M0.css?m=1722240918" media="all" />
+<link type="text/css" rel="stylesheet" href="https://datasmart.hks.harvard.edu/profiles/openscholar/themes/hwpi_onepage/flavors/winthrop/winthrop.css?shsffw" media="all" />
+<link type="text/css" rel="stylesheet" href="https://datasmart.hks.harvard.edu/profiles/openscholar/themes/hwpi_onepage/flavors/winthrop/responsive.winthrop.css?shsffw" media="all" />
+  <!--[if lte IE 8]>
+<script type="text/javascript">
+  var os_c = document.createElement;os_c('header');os_c('nav');os_c('section');os_c('article');os_c('aside');os_c('footer');os_c('hgroup');os_c('figure');
+</script>
+  <![endif]-->
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="GBUU5-S9S78-P7UW2-BSS9F-LR483",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"GBUU5-S9S78-P7UW2-BSS9F-LR483";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdndcoqxez7bwzxx6rnq-f-d34ec672f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"1393464","ak.ai":parseInt("841065",10),"ak.ol":"0","ak.cr":19,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"27782973","ak.r":45983,"ak.a2":n,"ak.m":"b","ak.n":"ff","ak.bpcip":"72.218.49.0","ak.cport":59821,"ak.gh":"23.38.126.23","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727525979","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Iv3cefHAfGTacSO0UcKeZoyqNPURcwR0RMMRqIydfmPrN6sVuXjLb1ZQHSx9tzNrwJU/UcDWuFY2vKwPU7dyVs/L7jaKw6sytZwgC2ED66hPTy0vXN5Y6BlUS38UnaNXC920MAorj6RDyvJJlPmd9sF7fAp5DesxoqivIEw7Q/sN3/3ig4ZQivToV3g9Rj9aEWU9gWo+qwkjVvQ/Bb+3fnql3+RwQ0GEiUMrulT20O/R5zM5rgwJFaX1VEij7OTdHjgjo/PXhFFBDadgHlHxjJhX9H8KBOYd1ceYT0ND/lNCRD9GlUZ7ZkpFZIbSb6p5Gmh7K6+HYs6dS7clmiGfRBdbv1P5K5ndYc7xJ1bMlalK15Ir7r4L5waVuKO32KLtksZSipzBit6Ash84K6BbvameN4xM5I2DwUI/2IbKUFM=","ak.pv":"239","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1562031 node-type-page og-context og-context-node og-context-node-1402236 articlepage - no subtitle navbar-on">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable" tabindex="1">Skip to main content</a>
+  </div>
+    <div id="page_wrap" class="page_wrap">
+<!--REGION TO HOUSE RESPONSIVE MENU. OTHER CONTENT CAN'T BE PLACED HERE-->
+<div class="responive-menu-container clearfix">
+  <ul class="mobile-buttons num-links-3"><li class="link-count-mobi-main first"><a href="#"  data-target="#block-os-primary-menu"><span aria-hidden="true" class="icon-menu"></span><span class="move">Main Menu</span></a></li><li class="link-count-mobi-util"><a href="#"  data-target="#block-os-quick-links, #block-os-secondary-menu, #header .os-custom-menu"><span aria-hidden="true" class="icon-plus"></span><span class="move">Utility Menu</span></a></li><li class="link-count-mobi-search last"><a href="#"  data-target="#block-os-search-db-site-search, #block-boxes-solr-search-box"><span aria-hidden="true" class="icon-search3"></span><span class="move">Search</span></a></li></ul></div>
+
+<!--FLEXIBLE ADMIN HEADER FOR USE BY SELECT GROUPS USING OS-->
+	<div id="branding_header">
+		<div  class="branding-container clearfix">
+		  <div class="branding-left"><a href="http://www.harvard.edu/" ><img src="https://datasmart.hks.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/images/harvard-logo.png" width="235" height="32" alt="University Logo" /></a></div><div class="branding-right"><a href="http://www.harvard.edu/" >HARVARD.EDU</a></div>		</div>
+	</div>
+
+<div id="page" class="container page os_pages-section-1405963 header-main header-right content-top content-left footer">
+	<div id="page-wrapper">
+
+		
+					<!--header regions beg-->
+			<header id="header" class="clearfix" role="banner">
+			 <div id="header-container">
+				 <div id="header-panels" class="at-panel gpanel panel-display three-col clearfix">
+					  					  <div class="region region-header-second"><div class="region-inner clearfix"><div id="block-boxes-1680100258" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1680100258"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1680100258' class='boxes-box'><div class="boxes-box-content"><div id="file-1263931" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">5b833306552607c7751d83281934fae0</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T54RC44N');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T54RC44N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-site-info" class="block block-boxes block-boxes-os_boxes_site_info no-title"  module="boxes" delta="site_info"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-site_info' class='boxes-box'><div class="boxes-box-content"><h1><a href="https://datasmart.hks.harvard.edu/" >Data-Smart City Solutions</a></h1>
+    
+    <p></p></div></div></div>
+  </div></div></div></div>					  					  <div class="region region-header-third"><div class="region-inner clearfix"><div id="block-boxes-1623159310" class="block block-boxes block-boxes-os_boxes_html social _header menu--social-media ash_logo no-title"  module="boxes" delta="1623159310"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1623159310' class='boxes-box'><div class="boxes-box-content"><div>
+	 
+</div>
+
+<ul class="menu">
+	<li class="menu-item">
+		<a class="twitter" href="http://twitter.com/DataSmartCities" rel="" target="_blank">Twitter</a>
+	</li>
+	<li class="menu-item">
+		<a class="facebook" href="https://www.facebook.com/DataSmartCitySolutions" rel="" target="_blank">Facebook</a>
+	</li>
+</ul>
+</div></div></div>
+  </div></div><div id="block-boxes-solr-search-box" class="block block-boxes block-boxes-os_search_solr_search_box no-title"  module="boxes" delta="solr_search_box"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-solr_search_box' class='boxes-box'><div class="boxes-box-content"><form class="search-block-form" action="/addressing-native-homelessness-culturally-appropriate-housing" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." ng-non-bindable="" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-D37fuZW4FIjtXygnXc7YOjjBh2FQPMOEX1S3MJ69rLs" />
+<input type="hidden" name="form_id" value="os_solr_search_box___solr_search_box" />
+</div></div></form></div></div></div>
+  </div></div></div></div>					  				 </div>
+			  </div>
+		  </header>
+      <!--header regions end-->
+		
+				  <!--main menu region beg-->
+		  <div id="menu-bar" class="nav region-menu-bar clearfix"><nav id="block-os-primary-menu" class="block block-os no-title menu-wrapper menu-bar-wrapper clearfix"  module="os" delta="primary-menu">  
+  
+  <ul class="nice-menu nice-menu-down nice-menu-primary-menu" id="nice-menu-primary-menu"><li class="menu-640561 menuparent   first   odd  "><a href="https://datasmart.hks.harvard.edu/"  class="menu-heading">Themes</a><span class="open-submenu"></span><ul><li class="menu-876831 menu-path-https--datasmarthksharvardedu-artificial-intelligence  first   odd  "><a href="https://datasmart.hks.harvard.edu/artificial-intelligence" >Artificial Intelligence</a></li><li class="menu-640581 menu-path-node-1403028   even  "><a href="https://datasmart.hks.harvard.edu/civic-data" >Civic Data</a></li><li class="menu-841274 menu-path-https--datasmarthksharvardedu-infrastructure   odd  "><a href="https://datasmart.hks.harvard.edu/infrastructure" >Infrastructure</a></li><li class="menu-662757 menu-path-node-1403030   even  "><a href="https://datasmart.hks.harvard.edu/mobility" >Mobility</a></li><li class="menu-841276 menu-path-https--datasmarthksharvardedu-public-health   odd  "><a href="https://datasmart.hks.harvard.edu/public-health" >Public Health</a></li><li class="menu-664527 menu-path-node-1411649   even   last "><a href="https://datasmart.hks.harvard.edu/browse-all-themes"  title="">Browse All</a></li></ul></li><li class="menu-637938 menuparent    even  "><a href="https://datasmart.hks.harvard.edu/"  class="menu-heading">Projects</a><span class="open-submenu"></span><ul><li class="menu-671976 menu-path-node-1405980  first   odd  "><a href="https://datasmart.hks.harvard.edu/civic-analytics-network" >Civic Analytics Network</a></li><li class="menu-934300 menu-path-https--datasmarthksharvardedu-about-community-data-health-initiative   even  "><a href="https://datasmart.hks.harvard.edu/about-community-data-health-initiative" >The Community Data Health Initiative</a></li><li class="menu-671993 menu-path-node-1413758   odd  "><a href="https://datasmart.hks.harvard.edu/podcast"  title="">Data-Smart City Pod</a></li><li class="menu-642589 menu-path-node-1403721   even  "><a href="https://datasmart.hks.harvard.edu/solutions-search"  title="">Solutions Search</a></li><li class="menu-671995 menu-path-node-1406064   odd   last "><a href="https://datasmart.hks.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723"  title="">Civic Data Use Cases</a></li></ul></li><li class="menu-640563 menuparent    odd   last "><a href="https://datasmart.hks.harvard.edu/"  class="menu-heading">About</a><span class="open-submenu"></span><ul><li class="menu-672003 menu-path-node-1413762  first   odd  "><a href="https://datasmart.hks.harvard.edu/data-smart-city-solutions"  title="">Data-Smart City Solutions</a></li><li class="menu-672016 menu-path-node-1413763   even  "><a href="https://datasmart.hks.harvard.edu/stephen-goldsmith" >Stephen Goldsmith</a></li><li class="menu-813918 menu-path-node-1466456   odd  "><a href="https://datasmart.hks.harvard.edu/research"  title="">Research</a></li><li class="menu-746196 menu-path-node-1433575   even   last "><a href="https://datasmart.hks.harvard.edu/staff"  title="">Staff &amp; Contact</a></li></ul></li></ul>
+
+  </nav></div>		  <!--main menu region end-->
+		
+    
+		<div id="columns" class="clearfix">
+			<div class="hg-container">
+				<div id="content-column" role="main">
+					<div class="content-inner">
+					  <div class="breadcrumb"><a href="https://datasmart.hks.harvard.edu/" >HOME</a> <span>&#47;</span> <a href="https://datasmart.hks.harvard.edu/housing" >HOUSING</a> <span>&#47;</span> </div>
+													              <a name="main-content"></a>
+															<header id="main-content-header">
+									<a name="main-content"></a>
+                    <h1 id="page-title" ng-non-bindable="">
+                      Addressing Native Homelessness with Culturally Appropriate Housing                    </h1>
+                </header>
+														
+															<!--front panel regions beg-->
+								<div id="content-panels" class="at-panel gpanel panel-display content clearfix">
+									<div class="region region-content-top"><div class="region-inner clearfix"><div id="block-boxes-1708096322" class="block block-boxes block-boxes-os_boxes_html banner no-title"  module="boxes" delta="1708096322"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1708096322' class='boxes-box'><div class="boxes-box-content"><img height="1280" width="1920" class="media-element file-default file-os-files-xxlarge" src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/datasmart/files/sean-oulashin-tkwfr_y1zji-unsplash1.jpg?m=1708096318&amp;itok=MoP4QcnZ" alt="" title="" /></div></div></div>
+  </div></div><div id="block-boxes-1708095807" class="block block-boxes block-boxes-os_boxes_html band_author no-title"  module="boxes" delta="1708095807"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1708095807' class='boxes-box'><div class="boxes-box-content"><p>
+	<span style="color:rgb(65,65,65); font-style:normal; font-weight:500; text-align:left; text-indent:0px; text-transform:uppercase; float:none">BY </span><a href="https://datasmart.ash.harvard.edu/datasmart/betsy-gardner" style="margin:0px; padding:0px; text-decoration:underline; color:rgb(165,28,48); font-style:normal; font-weight:500; text-align:left; text-indent:0px; text-transform:uppercase" title="">BETSY GARDNER</a><span style="color:rgb(65,65,65); font-style:normal; font-weight:500; text-align:left; text-indent:0px; text-transform:uppercase; float:none"><span><span> </span></span></span><span style="color:rgb(65,65,65); font-style:normal; font-weight:500; text-align:left; text-indent:0px; text-transform:uppercase; float:none">• FEBRUARY 16, 2024</span>
+</p>
+</div></div></div>
+  </div></div></div></div>									<div class="region region-content-first"><div class="region-inner clearfix"><div id="block-boxes-os-addthis" class="block block-boxes block-boxes-os_boxes_addthis no-title"  module="boxes" delta="os_addthis"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-os_addthis' class='boxes-box'><div class="boxes-box-content"><div class="addthis_toolbox addthis_default_style addthis_32x32_style"><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email"></a><a class="addthis_button_linkedin"></a><a class="addthis_button_google_plusone"></a></div></div></div></div>
+  </div></div><div id="block-os-pages-main-content" class="block block-os-pages no-title"  module="os_pages" delta="main_content"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><article id="node-1562031" class="node node-page article clearfix" role="article">
+  
+  
+  
+  <div class="node-content" ng-non-bindable="">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div>
+	<a href="/addressing-native-homelessness-culturally-appropriate-housing" title=""><img height="1125" width="2000" style="width: 720px; height: 418px;" class="media-element file-default file-os-files-xxlarge" src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/datasmart/files/adam-blank-ff4bbi31czg-unsplash.jpg?m=1676403715&amp;itok=rE2tfsJC" alt="" title="" /></a>
+</div>
+
+<ul>
+	<li>
+		February 16, 2024
+	</li>
+	<li>
+		<a href="/housing" title="">Housing</a>
+	</li>
+</ul>
+
+<p>
+	<!--break-->The treatment of Indigenous peoples in the United States is one of displacement and violence. This has had significant repercussions for American Indian/Alaska Native (AI/AN) peoples throughout the country’s history and well into modern times, including the <a href="https://datasmart.hks.harvard.edu/news/article/they-disappear-not-once-three-times-life-media-and-data">epidemic of missing and murdered Indigenous women and girls (MMIWGs)</a> and <a href="https://datasmart.hks.harvard.edu/news/article/data-and-disparities-racialized-impact-covid-19">disparate rates of COVID-19</a> and <a href="https://datasmart.hks.harvard.edu/news/article/vaccine-equity-why-it-matters-and-how-achieve-it">inequitable vaccine distribution</a>. Homelessness is no exception.
+</p>
+
+<p>
+	While only <a href="https://www.usnews.com/news/health-news/articles/2022-11-22/the-native-american-and-alaska-native-population-at-a-glance#:~:text=The%20nation%20is%20home%20to,Bureau's%202021%20American%20Community%20Survey.">2.6 percent of the national population</a> identifies as AI/AN (alone or in part), according to the <a href="https://data.census.gov/table?q=B02010:+AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE+OR+IN+COMBINATION+WITH+ONE+OR+MORE+OTHER+RACES&amp;g=0100000US&amp;tid=ACSDT1Y2021.B02010">US Census Bureau’s 2021 American Community Survey</a>, AI/AN folks’ rate of homelessness is significantly higher; in a <a href="https://www.huduser.gov/portal/sites/default/files/pdf/2022-ahar-part-1.pdf">2022 congressional report</a> people who identified as American Indian, Alaska Native, or Indigenous were 2.5 percent of the sheltered homeless population and 4.6 percent of the unsheltered homeless population. And according to the federal Indian Health Services, <a href="https://www.ihs.gov/newsroom/factsheets/uihp/">70 percent of people who identify as American Indians and Alaska Natives live in urban areas</a>.
+</p>
+
+<p>
+	This has created a situation where AI/AN folks are facing extreme levels of homelessness in many cities, especially in the southeast and west coast. In 2020 Maricopa County, AZ’s native population was <a href="https://azmag.gov/Portals/0/Documents/MagContent/PIT-Count-Report-2020.pdf?ver=2020-07-27-155257-657">3 percent overall yet 7 percent of the unhoused population</a>; in Seattle/King County, WA, American Indian or Alaskan Natives were <a href="https://kcrha.org/wp-content/uploads/2020/07/Count-Us-In-2020-Final.pdf">1 percent of the total population but 15 percent of the total homeless population</a> in 2020.
+</p>
+
+<h2>
+	A Native-first Approach
+</h2>
+
+<p>
+	A few initiatives have specifically targeted this intersecting population, both on the federal level and on the community level, like the <a href="https://www.chiefseattleclub.org/permanent-housing">Chief Seattle Club</a>. However, there are challenges in funding and providing shelter or affordable housing, and these issues are amplified when working with urban Indian populations. Financing affordable housing projects is challenging, and engaging culturally-relevant service providers takes a significant amount of time and effort. That is why Data-Smart City Solutions is featuring the affordable housing work in Portland by the <a href="https://nayapdx.org/">Native American Youth and Family Center</a> (NAYA) in partnership with the <a href="https://www.ctsi.nsn.us/">Confederated Tribes of Siletz Indians</a>. Their innovative and culturally specific approach to housing for Native folks is a national model of collaboration, advocacy, and creativity.
+</p>
+
+<p>
+	Serving the Native community requires more intentionality and resources, said Oscar Arana, Indigenous and of Chichimeca descent and interim CEO of NAYA, because the Native community that has been disproportionately impacted by antiquated, racist systems and policies leading to higher rates of housing insecurity and homelessness. While there have been similar <a href="https://www.chiefseattleclub.org/permanent-housing">Native-specific housing projects</a>, two of NAYA’s projects in Portland came from a unique funding and partnership model; the <a href="https://nayapdx.org/services/housing/nesika-illahee/">Nesika Illahee</a> and <a href="https://nayapdx.org/services/housing/mamook-tokatee/">Mamook Tokatee</a> buildings utilized federal Indian Housing Block Grants (IHBG), which are typically used for housing on tribal lands and/or reservations. Nesika Illahee, which means “Our Place” in the Chinook language, is one of the first times that a tribal entity’s block grant was used for urban Indian housing.
+</p>
+
+<p>
+	The Siletz Indians are a federally recognized confederation of more than 27 Native American tribes and bands and therefore are eligible for <a href="https://www.hud.gov/program_offices/public_indian_housing/ih/grants/ihbg">block grants from the US Department of Housing and Urban Development</a> (HUD), which can be used for “affordable housing activities including new housing construction, rehabilitation, and housing services.” As a Native community-based organization, NAYA has been doing affordable housing work in Portland since 2008, and in 2016 began working with the California-based <a href="https://www.communitydevpartners.com/">Community Development Partners</a> to build the 59-unit Nesika Illahee building. 
+</p>
+
+<p>
+	While NAYA didn’t originally begin this project with the intention of utilizing IHBGs, there had been a good relationship between Paul Lumley, the previous CEO of NAYA, and Sami Jo Difuntorum, the executive director of the Siletz Tribal Housing Department and member of the Kwekaeke band of the Shasta Indian Nation. NAYA serves the Native community in the Portland-metro, including Siletz tribal members — and the city of Portland is part of the Siletz territory. During the project’s pre-development phase, Lumley reached out to Difuntorum about partnering on Nesika Illahee. According to Difuntorum, Lumley had heard from HUD that using an IHBG would legally establish tribal preference into the project.
+</p>
+
+<p>
+	This would create both financial and cultural benefits. First, directing a portion of funding from the IHBG to NAYA as a sub-recipient would help supplement capital construction costs improve the operating budget, and keep the affordable housing low-cost. As is required by IHBG regulations, none of the Native residents pay more than 30 percent of household income. According to Arana this is atypical for mainstream affordable housing tax credit expectations, and therefore required significant advocacy and city assistance. “What was challenging with the IHBG source is that it wasn’t paired with Section 8 vouchers or tenant-based subsidies making it very difficult to meet the 30% income requirement,” he said. Thankfully, the team overcame this challenge with additional support from the local housing authority, which allowed Nesika Illahee to welcome the lowest-income tribal families.
+</p>
+
+<p>
+	Second, it meant that the project could legally have a preference for federally-recognize tribal members. Traditional affordable housing work doesn’t allow for this, but since an IHBG is specifically for federally-recognized tribal members, the Siletz tribe was able set a housing policy that meant tribal members have first preference, followed by any other federally recognized tribal member, then non-Native applicants.
+</p>
+
+<p>
+	Arana acknowledged that this second piece required additional education, as some people thought that a Native or tribal preference was a racial preference. It is not, as there is no racial component to tribal affiliation or federal status; instead, this is actually a government-to-government relationship as tribes have rights to self-sovereignty and function as self-governing bodies. Yet there is a cultural component, as cultural awareness and sensitivity is an incredibly important aspect in successfully providing services like health care, particularly substance abuse and addiction treatment, and safe housing. One part of this cultural awareness is understanding — and preserving — how AI/AN populations live. “Multi-generational living is traditional for Natives,” said Difuntorum, “Elders in general are really important and the public housing model doesn’t really work for Native tribes.” Many shelters or transitional housing projects separate residents by age and gender, while in Nesika Illahee multiple generations of the same family can live together in the building.
+</p>
+
+<p>
+	NAYA also conducted focus groups with targeted residents to discuss the look, feel, and offerings in the building. A feeling of belonging and pride were important, particularly as many Native communities are still feeling the <a href="https://pluralism.org/religious-freedom-for-native-americans">impacts of having their cultures, languages, and religious practices outlawed</a>. At Mamook Tokatee there is a full-time staff member dedicated to cultural and arts programming with residents, and all of the building’s art was designed and produced by Native artists. Research shows that when interventions, whether around homelessness or healthcare, are <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7063680/">culturally informed AI/AN folks have better outcomes</a> and the disparities between Native and other populations decrease. NAYA has a <a href="https://nayapdx.org/services/housing/mamook-tokatee/">second housing development in partnership with the Siletz tribe, Mamook Tokatee</a> which translates from the Chinook Wawa “make beautiful.” This building has a strong focus on the arts and the Native artist community as cultural stewards. And, in Nesika Illahee, residents can access culturally informed substance abuse treatment and mental healthcare from community partners at the Native American Rehabilitation Association (NARA). Thanks to this innovative partnership and very dedicated work by all partners, these two buildings house and provide services for 187 residents; in Mamook Tokatee 79 percent of residents are Native and in Nesika Illahee 83 percent are.
+</p>
+
+<h2>
+	Recommendations and Lessons Learned
+</h2>
+
+<p>
+	Other cities can, and should, benefit from the hard work that went into opening the doors of Nesika Illahee and Mamook Tokatee. It's clear from the data that the urban Indian population is disparately experiencing homelessness, and addressing this will make a significant impact on a city’s overall unhoused population — but it requires a culturally-aware approach. Arana and Difuntorum discussed what lessons other city leaders can apply to their own urban context.
+</p>
+
+<ul>
+	<li>
+		Choose partners thoughtfully: Many different stakeholders have to come together for this type of housing project. In addition to engaging local tribes and Native organizations, Arana advised finding partners with shared values, visions, and approaches. For example, NARA was a natural fit, as the group has been <a href="https://www.naranorthwest.org/home-2/about-us/">serving Native Americans in the Pacific Northwest area</a> since its founding in 1970, using “traditional Indian culture and spirituality” practices.   
+	</li>
+	<li>
+		Understand the legal landscape: Difuntorum recommended that interested parties engage with lawyers who are familiar with tribal law. There are 574 federally recognized tribes in the United States with rights to self-governance, and laws can be very specific to different tribes. Using IHBG money requires a specific understanding of the legal responsibilities associated with grantees and sub-recipients, as well as the federal-tribal relationship.
+	</li>
+	<li>
+		Build trust across communities: NAYA held several focus groups with the local urban Indian population, to discuss what they wanted for housing and any specific needs or services they would prefer, before beginning development of Nesika Illahee. Maintaining the existing trust between NAYA and the local communities was important, as was establishing trust with the community around the proposed building locations. Finally, NAYA also acted as a trusted partner of the Siletz tribe by acting as responsible recipients of IHBG funding and ensuring that there would be preference for their members.
+	</li>
+	<li>
+		Focus on outreach and education: Both Difuntorum and Arana recommend frequent, comprehensive communication and outreach. While all affordable housing developments require a level of community engagement, there are special considerations when utilizing an IHBG — for example, having to explain how tribal preference works and why these developments aren’t the traditional “first come, first serve” model. Arana also emphasized the importance of communication from city officials, who may not have done much outreach with local tribes or the urban Indian population in the past: “they need to make deeper investments in this community.”
+	</li>
+</ul>
+
+<p>
+	Arana is cautiously optimistic about replicating this model in other cities. Creating these affordable homes for unhoused Indigenous people took an incredible amount of work and creativity, plus support from local tribes and elected leaders. But he is hopeful that other Native organizations can bring together all these elements and overcome any challenges through collaboration and advocacy.
+</p>
+
+<p>
+	“I don’t know of any tribe that has, in their native language, a word for homeless,” said Difuntorum. Developing these tribal-preferenced buildings and giving a space for traditional cultural and arts practices is a means of strengthening the traditional ways of living that are still important for many Indigenous folks and addresses the lingering impacts of displacement.
+</p>
+
+<p>
+	<em>*In this article, the terms Native, Native American, and American Indian/Alaska Native are used interchangeably, in accordance with the Urban Indian Health Institute’s practices. These terms acknowledge the varying ways that North American Indigenous peoples are forced to identify within the American racial structure and English language.</em>
+</p>
+</div></div></div>  </div>
+
+  
+  
+  </article>
+</div>
+  </div></div><div id="block-boxes-1708095667" class="block block-boxes block-boxes-os_boxes_html topics no-title"  module="boxes" delta="1708095667"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1708095667' class='boxes-box'><div class="boxes-box-content"><h3>
+	Topics
+</h3>
+
+<ul>
+	<li>
+		<a href="/housing" title="">Housing</a>
+	</li>
+	<li>
+		<a href="/health-and-human-services" title="">Health and Human Services</a>
+	</li>
+	<li>
+		<a href="/indian-country" title="">Indian Country</a>
+	</li>
+</ul>
+</div></div></div>
+  </div></div><section id="block-boxes-1625762025" class="block block-boxes block-boxes-os_boxes_html card ruled authorcard"  module="boxes" delta="1625762025"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">About the Author</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1625762025' class='boxes-box'><div class="boxes-box-content"><h3>
+	<a name="betsygardner" id="betsygardner"></a>Betsy Gardner<img style="width: 150px; height: 150px; float: right;" class="media-element file-default  file-os-files-xxlarge" src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/datasmart/files/edited_betsysheadshots-1-2.png?m=1641219286&amp;itok=g4pAHn1s" width="4473" height="4472" alt="" title="" />
+</h3>
+
+<p>
+	Betsy Gardner is the editor of Data-Smart City Solutions and the producer of the Data-Smart City Pod. Prior to this, Betsy worked in a variety of roles in higher education, focusing on deconstructing racial and gender inequality through research, writing, and facilitation. She also researched government spending and transparency at the Lincoln Institute of Land Policy. Betsy holds a master’s degree in Urban and Regional Policy from Northeastern University, a bachelor’s degree in Art History from Boston University, and a graduate certificate in Digital Storytelling from the Harvard Extension School.
+</p>
+
+
+</div></div></div>
+  </div></section><section id="block-boxes-1628180174" class="block block-boxes block-boxes-os_sv_list_box list_lop"  module="boxes" delta="1628180174"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Also on Data-Smart City Solutions</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1628180174' class='boxes-box'><div class="boxes-box-content"><div id='box-1628180174-page' data-page='0' data-delta='1628180174' class='os-sv-list os_sv_list_box sv-list-all sv-list-view-teaser sv-list-layout-list sv-grid-3'><article id="node-1586251" class="node node-page node-teaser article clearfix" role="article" target="_top">
+  
+      <header class="node-header">
+              <h1 class="node-title" rel="nofollow" ng-non-bindable="">
+          <a href="https://datasmart.hks.harvard.edu/leveraging-data-healthier-neighborhoods-kate-robb" rel="bookmark" target="_top">Leveraging Data for Healthier Neighborhoods with Kate Robb</a>
+        </h1>
+          </header>
+  
+  
+  <div class="node-content" ng-non-bindable="">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><div>
+	<a href="/leveraging-data-healthier-neighborhoods-kate-robb" title="" target="_top"><img height="418" width="720" class="media-element file-default file-os-files-xlarge" src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xlarge/public/datasmart/files/podcast_microphone.jpg?m=1626272786&amp;itok=HUFzlnLJ" alt="" title="" /></a>
+</div>
+
+<ul>
+	<li>
+		June 10, 2024
+	</li>
+	<li>
+		<a href="/public-health" title="" target="_top">Public Health</a>
+	</li>
+</ul>
+
+<p>... <a href="https://datasmart.hks.harvard.edu/leveraging-data-healthier-neighborhoods-kate-robb" class="node-readmore" target="_top">Read more <span class="element-invisible"> about Leveraging Data for Healthier Neighborhoods with Kate Robb</span></a></p></div></div></div>  </div>
+
+  
+  
+  </article>
+<article id="node-1562031" class="node node-page node-teaser article clearfix" role="article" target="_top">
+  
+      <header class="node-header">
+              <h1 class="node-title" rel="nofollow" ng-non-bindable="">
+          <a href="https://datasmart.hks.harvard.edu/addressing-native-homelessness-culturally-appropriate-housing" rel="bookmark" target="_top">Addressing Native Homelessness with Culturally Appropriate Housing</a>
+        </h1>
+          </header>
+  
+  
+  <div class="node-content" ng-non-bindable="">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><div>
+	<a href="/addressing-native-homelessness-culturally-appropriate-housing" title="" target="_top"><img height="1125" width="2000" style="width: 720px; height: 418px;" class="media-element file-default file-os-files-xxlarge" src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/datasmart/files/adam-blank-ff4bbi31czg-unsplash.jpg?m=1676403715&amp;itok=rE2tfsJC" alt="" title="" /></a>
+</div>
+
+<ul>
+	<li>
+		February 16, 2024
+	</li>
+	<li>
+		<a href="/housing" title="" target="_top">Housing</a>
+	</li>
+</ul>
+
+<p>... <a href="https://datasmart.hks.harvard.edu/addressing-native-homelessness-culturally-appropriate-housing" class="node-readmore" target="_top">Read more <span class="element-invisible"> about Addressing Native Homelessness with Culturally Appropriate Housing</span></a></p></div></div></div>  </div>
+
+  
+  
+  </article>
+<article id="node-1560926" class="node node-page node-teaser article clearfix" role="article" target="_top">
+  
+      <header class="node-header">
+              <h1 class="node-title" rel="nofollow" ng-non-bindable="">
+          <a href="https://datasmart.hks.harvard.edu/tackling-homelessness-strategic-data-and-skills" rel="bookmark" target="_top">Tackling Homelessness with Strategic Data and Skills</a>
+        </h1>
+          </header>
+  
+  
+  <div class="node-content" ng-non-bindable="">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><div>
+	<img height="418" width="720" class="media-element file-default file-os-files-xlarge" src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xlarge/public/datasmart/files/podcast_microphone.jpg?m=1626272786&amp;itok=HUFzlnLJ" alt="" title="" />
+</div>
+
+<ul>
+	<li>
+		February 12, 2024
+	</li>
+	<li>
+		<a href="/housing" title="" target="_top">Housing</a>
+	</li>
+</ul>
+
+<p>... <a href="https://datasmart.hks.harvard.edu/tackling-homelessness-strategic-data-and-skills" class="node-readmore" target="_top">Read more <span class="element-invisible"> about Tackling Homelessness with Strategic Data and Skills</span></a></p></div></div></div>  </div>
+
+  
+  
+  </article>
+</div></div></div></div>
+  </div></section></div></div>																										</div>
+								<!--front panel regions end-->
+													
+											</div>
+				</div>
+
+				
+				
+			</div>
+		</div>
+		<!--footer region beg-->
+		<footer id="footer" class="clearfix" role="contentinfo">
+		<!-- Three column 3x33 Gpanel -->
+		
+			<div class="at-panel gpanel panel-display footer clearfix">
+												<div class="region region-footer"><div class="region-inner clearfix"><div id="block-boxes-1683124184" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1683124184"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1683124184' class='boxes-box'><div class="boxes-box-content"><div id="file-1203421" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">sign-up form 11/2023</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><form action="/newsletter-sign" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<h2>Sign up for our Newsletter</h2>
+<div class="mc-field-group">
+<label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+</label>
+<input type="email" value="" name="tfa_3" class="required email" id="mce-EMAIL">
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_16d6aa354472ac50341ec9d72_66aa93ba62" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div><p style="margin-top:15px;">The Bloomberg Center for Cities at Harvard University will use the information on this form to provide you with updates on activities, programs, and events. By completing this form, you agree to receive communications and allow us to store your data. We will never sell your email address or other information to a third party. All communications will include the opportunity to unsubscribe.</p>
+</form>
+</div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>								<div class="region region-footer-bottom"><div class="region-inner clearfix"><div id="block-boxes-1629916116" class="block block-boxes block-boxes-os_boxes_html footer_nav no-title"  module="boxes" delta="1629916116"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1629916116' class='boxes-box'><div class="boxes-box-content"><div>
+	<a href="https://cities.harvard.edu/" title=""><img height="161" width="561" class="media-element file-default file-os-files-large" src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_large/public/datasmart/files/ds_webiste_hu_cfc_with_shield_logo_white47.png?m=1727522172&amp;itok=LpHkkrT9" alt="" title="" /></a>
+</div>
+
+<h2>
+	Themes
+</h2>
+
+<ul>
+	<li>
+		<a href="/datasmart/civic-data" title="">Civic Data</a>
+	</li>
+	<li>
+		<a href="/datasmart/civic-engagement" title="">Civic Engagement</a>
+	</li>
+	<li>
+		<a href="/datasmart/mobility" title="">Mobility</a>
+	</li>
+	<li>
+		<a href="/datasmart/public-safety" title="">Public Safety</a>
+	</li>
+</ul>
+
+<h2>
+	About
+</h2>
+
+<ul>
+	<li>
+		<a href="/datasmart/data-smart-city-solutions" title="">About Data-Smart City Solutions</a>
+	</li>
+	<li>
+		<a href="https://datasmart.ash.harvard.edu/about/stephen-goldsmith" rel="">Stephen Goldsmith</a>
+	</li>
+	<li>
+		<a href="https://datasmart.hks.harvard.edu/staff" title="">Contact Us</a>
+	</li>
+</ul>
+
+<p>
+	79 John F. Kennedy Street | Cambridge, MA 02138
+</p>
+</div></div></div>
+  </div></div><div id="block-boxes-1623091699" class="block block-boxes block-boxes-os_boxes_media invisible no-title"  module="boxes" delta="1623091699"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1623091699' class='boxes-box'><div class="boxes-box-content"><div id="file-1100613" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">HWP_CSS_Styles</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><style>@import url('https://fonts.googleapis.com/css?family=Lato:300,400,500,600,700,800,900'); @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900');
+
+div#boxes-box-1683124184 p {
+    font-size: .8em;
+    line-height: normal;
+}
+#footer .boxes-box-content img {
+    max-width: 400px;
+    display: block;
+    float: right;
+}
+.articlepage div#block-os-pages-main-content {
+    margin-top: 60px;
+}
+.mc-field-group input {
+    border: 0;
+}
+.indicates-required {
+    text-align: right;
+    font-size: .9em;
+}
+form#mc-embedded-subscribe-form {
+    padding-top: 20px;
+    padding-bottom: 45px;
+}
+#mc-embedded-subscribe-form .button {
+    background-color: #a51c30;
+border:0;
+padding:8px 22px;
+color:#fff;
+text-transform:uppercase;
+}
+ .mc-field-group input {
+    display: block;
+    width: 100%;
+    padding: 5px 0;
+    text-indent: 2%;
+}
+.mc-field-group {
+    clear: left;
+    margin-right: 25px;
+    position: relative;
+    width: 280px;
+    padding-bottom: 3%;
+    min-height: 50px;
+    display: inline-block;
+}
+.signup_form #mc_embed_signup  .mc-field-group input {
+    display: block;
+    width: 100%;
+    padding: 5px 0;
+    text-indent: 2%;
+}
+.signup_form #mc_embed_signup input {
+    border: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 0;
+}
+.signup_form #mc_embed_signup .button {
+    background-color: #a51c30;
+}
+.signup_form #mc_embed_signup .mc-field-group {
+    clear: left;
+    margin-right:25px;
+    position: relative;
+    width: 280px;
+    padding-bottom: 3%;
+    min-height: 50px;
+    display: inline-block;
+}
+.signup_form, #mc_embed_signup form {
+    background-color: #EDEFEF!important;
+}
+.not-front div#boxes-box-1629916116 ul li {
+    color: #fff;
+}
+.not-front .region.region-footer-bottom {
+    background-color: #343434;
+}
+.simple.articlepage #content-panels .region-content-top, .simple.vizpage #content-panels .region-content-top {
+    min-height: 5px!important;
+}
+.articlepage #content-panels .region-content-top, .vizpage #content-panels .region-content-top {
+    width: 100% !important;
+    display: block;
+    min-height: 500px;
+}
+.articlepage .region .solutions_search_col .list_lop .field-name-body {
+    width: 100%;
+}
+#branding_footer a, #branding_header a, #branding_footer a:visited, #branding_header a:visited {
+    color: #FFF;
+    text-decoration: underline!important;
+}
+.block-boxes-os_boxes_twitterfeed span.tweet-text a, .block-boxes-os_boxes_twitterfeed .tweet-time a {
+    text-decoration: underline!important;
+}
+.articlepage.node-type-page h1#page-title {
+    font-weight: 700!important;
+}
+.articlepage .banner_overlay .boxes-box-content {
+    min-height: 62px;
+}
+p.os-button a:hover {
+    font-size: .8em;
+    border: 2px solid #a51c30;
+    background-color: #fff!important;
+    color: #a51c30!important;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 15px;
+}
+p.os-button a, p.os-button a:visited {
+    font-size: .8em;
+    border: 2px solid;
+    background-color: #a51c30;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 15px;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box .field-type-text-with-summary h2, .vizpage .list_lop.block-boxes-os_sv_list_box .field-type-text-with-summary h2, .list_lop.block-boxes-os_boxes_manual_list .field-type-text-with-summary h2 {
+    display: none;
+}
+.nicetopicpage.articlepage .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div.article-main {
+    display: none;
+}
+.os_pages-section-1403721 #content-panels .block-inner {
+    margin-top: 0;
+}
+.solutions_search .banner {
+    max-height: 300px;
+    overflow: hidden;
+}
+.nicetopicpage.articlepage .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    margin-bottom: 32px!important;
+}
+.page-search #content-column form#search-form {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid #ccc;
+}
+.page-search #main-content input.form-text {
+    width: 250px;
+    margin-left: 10px;
+}
+.page-search .form-item-retain-filters {
+    margin: 0 0 0 20px;
+}
+.articlepage .solutions_search_col .list_lop.block-boxes-os_sv_list_box .os-sv-list {
+    display: flex;
+    grid-gap: 0 25px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+.solutions_search_col ul.pager.mini-pager li a {
+    color: #000!important;
+}
+.vertical ul.pager li.pager-current, .vertical ul.pager li a {
+    font-weight: bold;
+    color: #444!important;
+}
+.filters .boxes-box-content ul {
+margin:0;
+   padding-top: 10px;
+}
+.filters .boxes-box-content ul li {
+    border-bottom: 1px solid #cccccc90;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+list-style:none!important;
+}
+.list_lop .field-type-text-with-summary a, .list_lop .field-type-text-with-summary a:visited {
+    border-bottom: 0;
+}
+.block-boxes-os_sv_list_box .os-sv-list .item-list ul li {
+    list-style: none;
+    padding: 25px 15px 25px 15px;
+    display: flex;
+    flex-direction: column;
+    min-height: 50px;
+    flex-basis: 190px;
+    flex-flow: column;
+    align-items: center;
+    vertical-align: middle !important;
+    background-color: #f3f3f4;
+    border-radius: 0;
+    font-size: 1.4em;
+    font-weight: 600;
+    text-align: center;
+    line-height: normal;
+}
+.block-boxes-os_sv_list_box .os-sv-list .item-list ul {
+    display: flex;
+    grid-gap: 0 20px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+#menu-bar ul.nice-menu ul {
+    background: #950c24;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    min-width: 420px;
+}
+#menu-bar ul.nice-menu .menuparent a {
+    padding-right: 25px;
+}
+#menu-bar ul.nice-menu .menuparent.over>a, #menu-bar ul.nice-menu .menuparent a:hover, #menu-bar ul.nice-menu .menuparent a.active {
+    padding-right: 25px!important;
+}
+#menu-bar ul.nice-menu .menuparent>a.active:before {
+    background-image: url(https://deanofstudents.extension.harvard.edu/files/extensionstudentactivities/files/arrow_down.png)!important;
+}
+#menu-bar ul.nice-menu .menuparent>a:before {
+    position: absolute;
+    background-image: url(https://deanofstudents.extension.harvard.edu/files/extensionstudentactivities/files/arrow_down.png)!important;
+    background-position: center !important;
+    background-color: transparent;
+    margin: auto;
+    content: '';
+    width: 20px;
+    height: 8px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-size: 20px;
+}
+.node-type-page .breadcrumb, .breadcrumb, .breadcrumb a {
+    color: #444!important;
+}
+.page-search article.node .node-content img.media-element.file-default[style], .page-search article.node .node-content ul li:nth-of-type(2) img.media-element.file-default[style] {
+    display: none!important;
+}
+.spelling-suggestions {
+    margin-bottom: 25px;
+    border-bottom: 2px solid #ccc;
+}
+.page-search article.node h1 a:hover {
+    color: #a51c30!important;
+}
+.page-search article.node h1 a{
+color:#000!important;
+}
+.page-search article.node h1 {
+    font-size: 2em;
+    line-height: normal;
+    font-weight: 600;
+}
+.simple article {
+    margin-top: 45px;
+}
+.two-50 .list_lop img.media-element.file-default[style] {
+    max-width: 238px;
+}
+#columns .two-50 .list_lop.vertical article {
+    border-bottom: 1px solid #efefef!important;
+    padding-bottom: 0px!important;
+    margin-bottom: 40px;
+    min-height: 295px;
+}
+.two-50 .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 250px;
+    float: left!important;
+margin-bottom:90px;
+}
+.two-50 .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 308px!important;
+    float: right!important;
+    position: static!important;
+    min-height: 25px!important;
+    margin-bottom: 2px;
+}
+.two-50 .block-boxes-os_sv_list_box.vertical h1.node-title {
+    font-size: 1.6em;
+    line-height: 1.25em;
+    font-weight: 600;
+}
+.band_author .boxes-box-content a {
+    border-bottom: 1px solid #a51c3020;
+}
+.field-type-text-with-summary a, .field-type-text-with-summary a:visited {
+    color: #a51c30;
+    text-decoration: none!important;
+    border-bottom: 1px solid #a51c3020;
+}
+.nicetopicpage .block-boxes-os_boxes_twitterfeed {
+    height: 700px;
+    overflow-y: auto;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box, .vizpage .list_lop.block-boxes-os_sv_list_box, .list_lop.block-boxes-os_boxes_manual_list {
+    padding: 20px 0 60px 0!important;
+}
+.articlepage .region.region-footer-bottom p, .vizpage .region.region-footer-bottom p, .region.region-footer-bottom p {
+    color: #fff!important;
+}
+.card.ruled p a {
+    text-decoration: underline!important;
+}
+.articlepage .block-boxes-os_boxes_manual_list.horizontal.feature ul.featured-links {
+    justify-content: center;
+}
+#header-container .block-boxes-os_boxes_site_info .block-inner {
+    display: block!important;
+    vertical-align: middle;
+    padding-top: 20px;
+}
+#header-container .block-boxes-os_boxes_site_info {
+    min-height: 15px;
+    display: block!important;
+}
+div#boxes-box-site_info h1 a {
+    font-weight: 500;
+    background-image: url(https://hwpi.harvard.edu/files/styles/os_files_xxlarge/public/datasmart/files/site-name.png?m=1623093245&itok=8UAeJ2E2);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    display: block!important;
+    height: 0;
+    color: #fff;
+    overflow: hidden!important;
+    padding-top: 60px;
+    width: 250px;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul li:last-of-type {
+    border: 0!important;
+    padding: 0!important;
+    margin: 0!important;
+}
+.vizpage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full .field-item ul:first-of-type li {
+    display: inline;
+    margin-right: 10px;
+    border-right: 1px solid #000;
+    padding-right: 10px;
+    text-transform: uppercase;
+    color: #666;
+    font-size: 1.1em;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser div:first-of-type ul li {
+    color: #666;
+}
+
+.page-browse-pages ol.search-results.apachesolr_search-results article .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser div:first-of-type {
+    color: #fff;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul {
+    width: 455px;
+    float: right;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul li {
+    display: inline;
+    font-size: .825em;
+    border-right: 1px solid #ccc!important;
+    margin-right: 5px;
+    padding-right: 5px;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser div:nth-of-type(2) img {
+    width: 100%;
+    display: none;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box, .vizpage .list_lop.block-boxes-os_sv_list_box ul.pager.mini-pager, .list_lop.block-boxes-os_boxes_manual_list ul.pager.mini-pager {
+    color: #fff;
+}
+.region-sidebar-second div#block-boxes-1625169734 {
+    margin-top: 58px;
+}
+h1#page-title {
+    font-size: 54px;
+    margin: 0 0 2%;
+    line-height: 62px;
+    font-weight: 600!important;
+}
+
+.page-browse-pages #columns ol.search-results.apachesolr_search-results article p {
+    display: none;
+}
+.page-browse-pages #columns ol.search-results.apachesolr_search-results article a.node-readmore {
+    display: none;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul li::before{
+display:none;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul li:nth-of-type(2) a {
+    display: inline-block;
+    text-decoration: none!important;
+    color: #000;
+    padding: 5px;
+    background-color: #efefef;
+}
+
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul li {
+    text-transform: uppercase;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul {
+    padding-left: 10px;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article img.media-element.file-default[style] {
+    max-width: 268px;
+height:auto;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .node-content .field-item div:first-of-type {
+    max-width: 280px;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser div:first-of-type {
+width:100%;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article header.node-header h1.node-title a {
+    color: #3d3d3d;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article header.node-header h1.node-title {
+    font-size: 32px;
+    line-height: 37px;
+    font-weight: 600;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article header.node-header {
+    width: 455px!important;
+    float: right!important;
+    position: static!important;
+    min-height: 25px!important;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article {
+    border-bottom: 1px solid #efefef!important;
+    padding-bottom: 35px!important;
+    margin-bottom: 40px;
+    max-width: 747px;
+width:100%;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results{
+border-top: 10px solid #efefef;
+    padding-top: 23px;
+}
+#content-column .block ul.facetapi-facetapi-links {
+    margin-left: 0;
+    padding-top: 10px;
+}
+ul.facetapi-facetapi-links li.leaf {
+    border-bottom: 1px solid #cccccc90;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+#content-column .block ul.facetapi-facetapi-links {
+    margin-left: 0;
+}
+a:hover {
+    color: #343434;
+}
+
+
+#content-column .field-name-body h4 {
+    line-height: 1.2em;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+.region.region-sidebar-first.sidebar {
+    padding-top: 12px;
+}
+.breadcrumb {
+    margin-bottom: 35px!important;
+}
+.articlepage .breadcrumb,
+.vizpage .breadcrumb {
+    margin-bottom: 0!important;
+}
+.page-node #content-column .content-inner {
+    padding: 0 10px 10px 10px;
+}
+.front .block-boxes-os_boxes_twitterfeed {
+    height: 700px;
+    overflow-y: auto;
+}
+#menu-bar {
+    background: linear-gradient(#9b0c24,#830c24);
+    background-attachment: fixed;
+    border-bottom: 1px solid #9a3e46;
+}
+.vizpage section.list_lop.block-boxes-os_sv_list_box .boxes-box
+ {
+    margin-bottom: -130px;
+}
+
+.vizpage .list_lop.block-boxes-os_sv_list_box header.node-header {
+    bottom: 120px!important;
+}
+.vizpage.thinpage .list_lop.block-boxes-os_sv_list_box header.node-header {
+    bottom: 107px!important;
+}
+.vizpage.thinpage .block-boxes-os_sv_list_box h1.node-title {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.page-search-site #columns a.node-readmore {
+    display: none;
+}
+.page-search-site .search-results .article p {
+    display: none;
+}
+.block-facetapi h3 {
+    font-weight: 600;
+    padding-top: 10px;
+}
+.page-search article.node .node-content ul li:before {
+    display: none!important;
+}
+.page-search article.node .node-content img, .page-search article.node .node-content ul li:nth-of-type(2) {
+    display: none;
+}
+.field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full h2 {
+    font-size: 2em;
+    font-weight: 600;
+}
+.field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full h3 {
+    font-size: 1.2em;
+font-weight:700;
+}
+.articlepage .ruled.block.card h2.block-title {
+    text-align: left;
+    padding-left: 25px;
+    font-weight: 500;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.articlepage .ruled .boxes-box-content {
+    padding: 6px 25px 15px 25px;
+}
+.vizpage.one-sidebar div#columns .sidebar {
+    margin-top: 15px;
+}
+.nicetopicpage .feature.horizontal {
+    max-width: 100%!important;
+    padding-top: 15px!important;
+}
+.nicetopicpage.articlepage .horizontal.list_lop.block-boxes-os_boxes_manual_list.feature.no-title article header.node-header {
+    width: 300px;
+    float: none;
+    position: absolute;
+    bottom: 26px;
+    background-color: #00000099;
+    min-height: 90px;
+}
+.nicetopicpage.articlepage .horizontal.list_lop.block-boxes-os_boxes_manual_list.feature.no-title article {
+    min-height: 200px;
+}
+.nicetopicpage.articlepage .region .field-name-body {
+    width: 100%;
+}
+.vizpage.thinpage #columns .list_lop article {
+    padding-bottom: 0!important;
+    margin-bottom: 0;
+}
+
+
+.articlepage .horizontal.list_lop.block-boxes-os_boxes_manual_list.feature.no-title article header.node-header {
+    width: 300px;
+    float: none;
+    position: absolute;
+    bottom: 83px;
+    background-color: #00000099;
+    min-height: 90px;
+}
+.articlepage .horizontal.list_lop.block-boxes-os_boxes_manual_list.feature.no-title img.media-element.file-default[style] {
+    max-width: 300px!important;
+}
+.articlepage .horizontal.list_lop.block-boxes-os_boxes_manual_list.feature.no-title article {
+    position: relative;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 240px;
+    flex-basis: 220px;
+    flex-flow: column;
+    align-items: flex-start;
+    vertical-align: top;
+}
+.articlepage .horizontal.list_lop.block-boxes-os_boxes_manual_list.feature.no-title {
+    width: 100%;
+    margin: 0;
+    max-width: 980px;
+    border-top: 0;
+    padding-top: 0;
+}
+.articlepage .boxes-box-content.os-sv-list-pager-processed.horizontal, .articlepage .horizontal.list_lop.block-boxes-os_boxes_manual_list .item-list {
+    padding: 0 0;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box.horizontal, .vizpage .list_lop.block-boxes-os_sv_list_box.horizontal, .list_lop.block-boxes-os_boxes_manual_list.horizontal {
+    background-color: transparent;
+    padding: 0;
+}
+.footer_nav p {
+    display: block;
+    width: 80%;
+    transform: translateY(75px);
+    font-size: 12px;
+}
+.footer_nav {
+    padding-top: 25px;
+}
+.signup_form{
+padding:25px 0;
+}
+.footer_nav .boxes-box h2 {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    text-transform: uppercase;
+    margin: 0 0 5px;
+    font-size: 15px;
+    color: #c6c6c6;
+}
+.footer_nav .boxes-box ul li:last-of-type::after{
+display:none;
+}
+.footer_nav .boxes-box ul {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: 0 0 16px;
+    padding: 0;
+}
+.footer_nav .boxes-box a {
+    color: #fff!important;
+}
+.footer_nav .boxes-box li {
+    display: inline-block;
+}
+.footer_nav .boxes-box ul  li::after {
+    content: "•";
+    margin: 0px 2px;
+}
+.signup_form .fieldrow input:not(.button) {
+    display: block;
+    padding: 5px 10px;
+    width: 100%;
+    margin: 0;
+    border: 1px solid #efefef;
+}
+.signup_form .formassembly-submission-form .fieldrow {
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+    width: 280px;
+    max-width: 100%;
+    padding-right: 35px;
+}
+.signup_form .formassembly-submission-form .g-recaptcha {
+    margin: 10px 0;
+}
+.signup_form .formassembly-submission-form .g-recaptcha>div {
+    margin: 0 auto 0 0;
+}
+.signup_form input.button {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    text-shadow: 0 -1px 2px #333;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 8px 12px;
+    -webkit-border-radius: 2px!important;
+    -moz-border-radius: 2px!important;
+    border-radius: 2px;
+    background: #9b0c24;
+    cursor: pointer;
+    border: 1px solid transparent;
+}
+p.privacy-msg {
+    font-size: 11px;
+    line-height: normal;
+margin-top:15px;
+}
+#footer {
+    padding: 0px 0 50px;
+}
+#footer .gpanel .region .block-inner.clearfix {
+    max-width: 980px;
+    margin: 0 auto;
+padding:0 25px;
+}
+#footer .gpanel .region-footer {
+    background: #EEEFEF;
+    color: #000;
+}
+.region.region-footer {
+    width: 100%;
+    max-width: 100%;
+}
+#footer .at-panel .region, .panel-row {
+    float: none;
+}
+#footer .gpanel {
+    max-width: 100%!important;
+    width: 100%;
+    margin: 0 auto;
+}
+.articlepage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full .field-item .article-sidebar div:first-of-type img {
+    display: block!important;
+}
+.vizpage.thinpage section.list_lop .os_sv_list_box {
+    width: 94%!important;
+    margin: 0 auto;
+}
+.vizpage.thinpage section.list_lop.block-boxes-os_sv_list_box article {
+    padding: 0;
+
+}
+.vizpage.thinpage .region-content-first section.list_lop img.media-element.file-default[style] {
+    max-width: 230px;
+}
+.topics .topics {
+    padding: 0;
+    background: none;
+    margin: 0;
+}
+
+.vizpage .region-content-first section .list_lop .field-type-text-with-summary .field-item > div:first-of-type img, .vizpage .region-content-first section .list_lop .field-type-text-with-summary {
+    display: block;
+}
+ .list_lop img.media-element.file-default[style] {
+    padding: 0;
+}
+.vizpage .list_lop .field-type-text-with-summary .field-item > div:first-of-type img,
+.vizpage .list_lop .field-type-text-with-summary {
+    display: block;
+}
+.vizpage .list_lop .field-type-text-with-summary ul{
+display:none;
+}
+.vizpage .node-type-page .breadcrumb, .vizpage .breadcrumb {
+margin: 15px 0 0 0;
+}
+.vizpage.thinpage .list_lop.block-boxes-os_sv_list_box header.node-header {
+    width: 230px;
+}
+.vizpage .field-type-text-with-summary h2 {
+    font-weight: 600;
+    font-size: 1.5em;
+}
+.vizpage .field-type-text-with-summary h3 {
+    font-weight: 600;
+    font-size: 1em;
+}
+.block-boxes-os_boxes_columns .search-block-form .container-inline .form-item .form-text, .block-boxes-os_boxes_columns #search-block-form .container-inline .form-item .form-text {
+    background: #f3f3f1;
+}
+.nicetopicpage .banner {
+    max-height: 300px;
+    overflow: hidden!important;
+}
+.vertical .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser h2 {
+    color: #fff;
+    display: none;
+}
+.topicpage header#main-content-header {
+    margin-top: 45px;
+}
+
+.page-search article.node {
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 25px;
+}
+
+.articlepage.solutions_search .list_lop.block-boxes-os_sv_list_box .item-list {
+    color: #000;
+}
+.articlepage .region.region-content-first, .vizpage .region.region-content-first {
+    width: 98%!important;
+    margin: 45px auto 0 auto!important;
+    float: none!important;
+}
+.list_lop.horizontal img.media-element.file-default[style] {
+    max-width: 268px!important;
+}
+#columns .os-custom-menu, #columns #block-os-primary-menu, #columns #block-os-secondary-menu {
+    border: 0;
+    border-bottom: none;
+}
+.nicetopicpage #columns .os-custom-menu {
+    transform: translate(5px, 15px);
+    max-width: 980px;
+    width: 98%;
+}
+.topicpage #columns .os-custom-menu ul.menu li a.active {
+    background-color: #fff;
+}
+.nicetopicpage.topicpage.articlepage.node-type-page h1#page-title {
+    background-color: #002D3D99;
+    color: #fff;
+    font-size: 54px;
+    line-height: 62px;
+    padding: 1px 20px 20px 20px;
+    margin: -10px auto -256px auto;
+    font-family: "Raleway",Georgia,"Times New Roman"!important;
+    max-width: 100%;
+    font-weight: 700;
+    position: relative;
+    z-index: 1;
+    min-height: 200px;
+    text-shadow: 2px 2px 2px #000;
+}
+.articlepage .horizontal.block-boxes-os_sv_list_box h1.node-title, .articlepage .horizontal.block-boxes-os_boxes_manual_list h1.node-title {
+    padding: 10px;
+}
+#content-column .block.block-boxes-os_boxes_manual_list.styled h1.node-title a {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+.list_lop h3, .list_lop p {
+    display: none;
+}
+.solutions_search.articlepage .block-boxes-os_boxes_columns .list_lop img {
+border:1px solid #ccc;
+}
+.solutions_search.articlepage .block-boxes-os_boxes_columns .list_lop p {
+    display: none;
+}
+.vizpage .sidebar .field-type-text-with-summary .field-item > div:first-of-type img {
+    display: block;
+}
+.vizpage .sidebar .field-type-text-with-summary .field-item > div:nth-of-type(2) img {
+    display: none!important;
+}
+.articlepage.icon_at_bottom .region #block-os-pages-main-content .field-item {
+    background-image: none;
+    padding-bottom: 0;
+}
+.bottom_icon .boxes-box-content {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/article-footer.png?m=1623694258);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-bottom: 45px;
+}
+.articlepage .field-type-text-with-summary .field-items .sidebar-padding ul li a{
+color:#000!important;
+}
+.articlepage .field-type-text-with-summary .field-items .sidebar-padding ul li {
+    font-size: 12px;
+    line-height: 1.25;
+    margin-bottom: 10px;
+}
+.articlepage .field-type-text-with-summary .field-items .sidebar-padding ul li::before {
+    display: none;
+}
+.articlepage .field-type-text-with-summary .field-items .sidebar-padding ul li {
+    list-style: none!important;
+    display: list-item;
+}
+.articlepage .field-type-text-with-summary .field-items .sidebar-padding ul:first-of-type {
+    display: block;
+}
+.articlepage.node-type-page h1#page-title {
+    background-color: #002D3D99;
+    color: #fff;
+    font-size: 54px;
+    line-height: 62px;
+    padding: 20px;
+    margin: 0px auto -256px auto;
+    font-family: "Raleway",Georgia,"Times New Roman"!important;
+    max-width: 1170px;
+    font-weight: 700;
+    position: relative;
+    z-index: 1;
+    min-height: 200px;
+    text-shadow: 2px 2px 2px #000;
+}
+img ~ figcaption {
+    color: #444;
+    font-style: italic;
+    clear: both;
+    max-width: 100%;
+    background-color: #f3f3f1;
+    font-size: .7em;
+    line-height: 1.6em;
+    padding: 10px;
+    margin: 10px 0;
+}
+.articlepage.page-node #content-column .content-inner, .vizpage.page-node #content-column .content-inner {
+    padding: 0;
+}
+.articlepage.simple #main-content-header {
+    background-color: #343434;
+}
+.articlepage.simple.node-type-page h1#page-title {
+    background-color: #343434;
+    margin: 0px auto 0px auto;
+    max-width: 1170px;
+    min-height: unset;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box ul.pager.mini-pager a, .vizpage .list_lop.block-boxes-os_sv_list_box ul.pager.mini-pager a, .list_lop.block-boxes-os_boxes_manual_list ul.pager.mini-pager a {
+    color: #fff;
+}
+.horizontal {
+    width: 1030px;
+    margin: 0 auto;
+}
+.list_lop.horizontal p {
+    color: #fff!important;
+}
+.nicetopicpage.articlepage .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 310px;
+    float: left!important;
+margin-bottom:32px!important;
+}
+.topicpage .page-node #content-column .content-inner {
+    padding: 0;
+}
+.nicetopicpage .banner img {
+    margin-top: -25px!important;
+}
+.nicetopicpage #columns .os-custom-menu, .nicetopicpage #columns #block-os-primary-menu, .nicetopicpage #columns #block-os-secondary-menu {
+    border: 0;
+    border-bottom: none;
+}
+.topicpage.nicetopicpage header#main-content-header {
+    transform: unset;
+}
+.front .list_lop.vertical.block-boxes-os_sv_list_box .node .field-name-body ul {
+    padding-left: 10px;
+}
+.front div#columns {
+    max-width: 100%;
+    width: 100%;
+}
+
+.topicpage.nicetopicpage .os-custom-menu ul.menu {
+    margin: 0;
+    transform: translate(130px, -32px);
+}
+.nicetopicpage.topicpage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 384px!important;
+}
+
+.topicpage #columns .os-custom-menu ul.menu li a:after {
+    content: "/";
+    color: #000;
+    position: relative;
+    right: -5px;
+}
+.topicpage #columns .os-custom-menu ul.menu li {
+    background-color: transparent!important;
+}
+.topicpage #columns .os-custom-menu ul.menu li a {
+    border-bottom: 0!important;
+}
+.topicpage .os-custom-menu ul.menu {
+    margin: 0;
+    transform: translate(80px, -152px);
+}
+.topicpage .os-custom-menu ul.menu {
+    margin: 0;
+}
+.topicpage .os-custom-menu ul.menu li {
+    float: left!important;
+}
+.front .list_lop.feature.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 280px;
+    float: left!important;
+}
+.articlepage div#columns,
+.vizpage div#columns {
+    max-width: 100%;
+    width: 100%;
+}
+div#columns {
+    max-width: 1200px;
+    width: 98%;
+}
+
+.articlepage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full .field-item div.sidebar-content:first-of-type img {
+    display: block!important;
+}
+.articlepage .vertical.list_lop.block-boxes-os_boxes_manual_list .node .node-content .field-item div:first-of-type,
+.vizpage .vertical.list_lop.block-boxes-os_boxes_manual_list .node .node-content .field-item div:first-of-type {
+    float: left!important;
+}
+.vertical.list_lop.block-boxes-os_boxes_manual_list .node .node-content .field-item div:first-of-type {
+    float: left!important;
+}
+.list_lop.vertical.block-boxes-os_boxes_manual_list .node .node-content .field-item div:first-of-type {
+    max-width: 300px;
+    float: left!important;
+}
+.vertical .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser div:first-of-type {
+    float: left;
+    width: 100%;
+}
+.list_lop.vertical .node .field-name-body ul li:nth-of-type(2) a {
+    display: inline-block;
+    text-decoration: none!important;
+    color: #000;
+    padding: 5px;
+    background-color: #efefef;
+}
+.list_lop.vertical .node .field-name-body ul li:nth-of-type(2) {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    float: left;
+    line-height: 1.5;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+.list_lop.vertical.block-boxes-os_boxes_manual_list .node .field-name-body ul li {
+    text-transform: uppercase;
+    color: #444;
+}
+.list_lop.vertical .field-name-body ul li:before,
+.list_lop.vertical.block-boxes-os_boxes_manual_list .node .field-name-body ul li:before{
+display:none;
+}
+.list_lop.vertical.block-boxes-os_boxes_manual_list .node .field-name-body ul li {
+    text-transform: uppercase;
+}
+.articlepage .list_lop.vertical.block-boxes-os_boxes_manual_list h2.block-title {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #444;
+    padding: 0 10px;
+    margin-bottom: 25px;
+}
+.vertical ul.pager li.pager-current {
+    font-weight: bold;
+    color: #444;
+}
+.vertical .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser div:first-of-type {
+    float: none!important;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box .node .field-name-body ul {
+    padding-left: 10px;
+}
+
+.articlepage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header, .vizpage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header,.list_lop.vertical.block-boxes-os_boxes_manual_list header.node-header {
+    width: 455px;
+    float: right!important;
+    position: static;
+    bottom: 0;
+    background-color: transparent;
+    min-height: 25px;
+}
+
+.articlepage .block-boxes-os_boxes_manual_list.vertical ul.featured-links {
+    display: block;
+    grid-gap: 0;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+.articlepage .block-boxes-os_boxes_manual_list.vertical ul.featured-links li {
+    display: block;
+    grid-gap: 0;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box.vertical h1.node-title a, .vizpage .list_lop.vertical.block-boxes-os_sv_list_box.vertical h1.node-title a, .list_lop.block-boxes-os_boxes_manual_list h1.node-title a {
+    color: #444!important;
+    display: block!important;
+    padding: 0!important;
+}
+.vertical .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser p {
+    color: #fff;
+    display: none;
+}
+.articlepage .vertical .field-type-text-with-summary .field-items ul:first-of-type {
+
+    padding: 0 0 0 20px!important;
+    width: 100%;
+    margin: 0;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 280px;
+    float: left!important;
+}
+
+.articlepage .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type,
+.vizpage .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 300px;
+    float: left!important;
+}
+.articlepage .vertical .field-type-text-with-summary .field-items ul:first-of-type {
+    display: block;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+}
+.vertical {
+    max-width: 815px;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box.vertical article, .vizpage .list_lop.vertical.block-boxes-os_sv_list_box article, .articlepage .list_lop.vertical.block-boxes-os_boxes_manual_list article {
+    list-style: none;
+    padding: 0;
+    display: block;
+    flex-direction: unset;
+    min-height: unset;
+    flex-basis: unset;
+    flex-flow: unset;
+    align-items: unset;
+    vertical-align: unset;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 455px!important;
+    float: right!important;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box.vertical .os-sv-list {
+    display: block;
+    grid-gap: 0;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+
+.list_lop.block-boxes-os_sv_list_box.vertical h1.node-title a {
+    color: #3d3d3d;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box.vertical header.node-header, .vizpage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header, .list_lop.vertical.block-boxes-os_boxes_manual_list header.node-header {
+bottom: 0;
+    background-color: transparent;
+}
+.articlepage .block-boxes-os_sv_list_box.vertical h1.node-title, .articlepage .block-boxes-os_boxes_manual_list.vertical h1.node-title {
+    font-size: 31px;
+    line-height: 37px;
+    font-weight: 600;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 455px!important;
+    float: right!important;
+    position: static!important;
+    min-height: 25px!important;
+}
+
+.articlepage .list_lop.vertical.block-boxes-os_sv_list_box h2.block-title {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #444;
+    padding: 0 10px;
+    margin-bottom: 25px;
+}
+.block-boxes-os_sv_list_box.vertical h1.node-title {
+    font-size: 32px;
+    line-height: 37px;
+    font-weight: 600;
+}
+.articlepage #columns .list_lop.vertical article {
+    border-bottom: 1px solid #efefef!important;
+    padding-bottom: 35px!important;
+    margin-bottom: 40px;
+max-width: 100%;
+}
+#columns .list_lop.vertical article {
+    border-bottom: 1px solid #efefef!important;
+    padding-bottom: 35px!important;
+    margin-bottom: 40px;
+    max-width: 747px;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box.vertical, 
+.vizpage .vertical.list_lop.block-boxes-os_sv_list_box, 
+.list_lop.vertical.block-boxes-os_boxes_manual_list {
+    background-color: transparent;
+    color: #fff;
+    padding: 20px 0;
+}
+.vertical.list_lop.block-boxes-os_sv_list_box {
+    border-top: 10px solid #efefef;
+    padding-top: 23px;
+}
+
+.articlepage.node-type-page h1#page-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list_lop.feature.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 300px;
+    float: left!important;
+}
+.articlepage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full h3 {
+    margin-bottom: 12px;
+font-weight:bold;
+}
+.articlepage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full h4 {
+    margin-bottom: 8px;
+font-weight:bold;
+}
+.articlepage #columns .list_lop article {
+    border-bottom: 0;
+    padding-bottom: 0!important;
+    margin-bottom: 0;
+}
+.list_lop blockquote {
+    display: none;
+}
+.articlepage .boxes-box-content.os-sv-list-pager-processed,
+.articlepage .list_lop.block-boxes-os_boxes_manual_list .item-list {
+    padding: 0 30px;
+}
+.articlepage .block-boxes-os_boxes_manual_list ul.featured-links {
+    display: flex;
+    grid-gap: 0 35px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+justify-content: flex-start;
+}
+.articlepage .block-boxes-os_boxes_manual_list ul.featured-links li {
+    display: flex;
+    grid-gap: 0 35px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+.articlepage .list_lop.block-boxes-os_boxes_manual_list h2.block-title {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 0 10px;
+    margin-bottom: 25px;
+}
+.list_lop.block-boxes-os_boxes_manual_list {
+    border-top: 10px solid #efefef;
+    padding-top: 23px;
+}
+
+.list_lop .article-sidebar {
+    display: none;
+}
+.articlepage .field-type-text-with-summary p:nth-of-type(2) {
+    margin-top: 20px;
+}
+.articlepage .region #block-os-pages-main-content .field-item {
+    font-size: 18px;
+    line-height: 32px;
+}
+table.os-datatable th p {
+    font-weight: bold!important;
+}
+table.os-datatable th {
+    border: 1px solid #999;
+}
+table.os-datatable td {
+    border: 1px solid #999;
+}
+.articlepage .field-type-text-with-summary .field-items ul ul {
+    display: block!important;
+}
+.field-name-body ol li,
+.field-name-body ul li {
+    font-size: 18px;
+    line-height: 32px;
+}
+.accordion .ui-widget-content {
+    background: #f3f3f1;
+    border: none;
+    color: #333;
+    margin-top: -8px;
+    padding-top: 0;
+}
+.ui-accordion .ui-accordion-header {
+    padding: .9em .5em .9em .7em;
+    border-radius: 2px!important;
+    font-size: 1.25em;
+    color: #a51c30!important;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+    left: 0.5em;
+}
+.ui-accordion .ui-accordion-icons {
+    padding-left: 2.5em;
+}
+.ui-state-default .ui-icon-triangle-1-e.ui-icon {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/icon_plus.png?m=1627565222);
+    background-position: center;
+    background-size: 11px;
+}
+.ui-state-default .ui-icon-triangle-1-s.ui-icon {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/icon_minus.png?m=1627565221);
+    background-position: center;
+    background-size: 11px;
+}
+.articlepage .region #block-os-pages-main-content .media .field-item {
+    background: none;
+    padding-bottom: 0;
+}
+.band_author {
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/texture.png?m=1623092543);
+    margin-top: 41px;
+margin-bottom:45px!important;
+}
+.no_subtitle .band_author {
+    margin-top: 37px;
+}
+.articlepage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full .field-item div:first-of-type figure img {
+    display: block!important;
+}
+
+.articlepage .region #block-os-pages-main-content .field-name-og-vocabulary .field-item {
+    background: none;
+}
+.articlepage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full .field-item div:first-of-type img {
+    display: none!important;
+}
+
+.articlepage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full .field-item div img {
+    display: block!important;
+}
+.hp_main .article-sidebar {
+    display: none;
+}
+.hp_main .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser p {
+    color: #fff;
+    display: none;
+}
+.articlepage .banner_overlay .boxes-box-content h2 {
+    background-color: #002D3D99;
+    text-shadow: 0 -1px 2px #333;
+    color: #fff;
+    max-width: 768px;
+    font-size: 24px;
+    line-height: 1.3em;
+    font-family: "Lato",sans-serif;
+    font-weight: 300;
+}
+
+.vizpage .block-boxes-os_sv_list_box h1.node-title {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 600;
+}
+.vizpage .list_lop.block-boxes-os_sv_list_box .os-sv-list {
+    display: flex;
+    grid-gap: 0 35px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+.vizpage .list_lop.block-boxes-os_sv_list_box h2.block-title {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 0 25px;
+    margin-bottom: 25px;
+}
+.vizpage .sidebar h1.node-title a {
+    color: #fff;
+    display: block;
+    padding: 10px;
+}
+.vizpage article {
+    border-bottom: 0!important;
+}
+.one-sidebar.sidebar-second div#block-boxes-os-addthis {
+    width: 25px;
+    z-index: 3;
+    position: relative;
+    display: block;
+    left: 100%;
+    margin-top: -150px;
+    transform: translate(-30px, 175px);
+}
+.vizpage .region.region-sidebar-second.sidebar {
+    margin-top: 85px;
+}
+.vizpage .sidebar  article {
+    color: transparent;
+}
+.vizpage #columns .sidebar  article a.node-readmore {
+    display: none;
+}
+.vizpage .sidebar  article img {
+    height: 180px!important;
+}
+.vizpage .sidebar article img.media-element.file-default[style] {
+    max-width: 270px;
+    border: 1px solid #ccc;
+    padding-right: 0;
+}
+.vizpage .sidebar  article {
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 35px!important;
+    margin-bottom: 40px;
+}
+.vizpage .sidebar  article .field-type-text-with-summary .field-items ul:first-of-type {
+    display: none;
+}
+.vizpage .sidebar  article {
+    list-style: none;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    min-height: 90px;
+    flex-basis: 220px;
+    flex-flow: column;
+    align-items: flex-start;
+    vertical-align: top;
+}
+
+.vizpage .sidebar  h1.node-title {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 600;
+}
+.vizpage .sidebar  header.node-header {
+    width: 270px;
+    float: none;
+    position: absolute;
+    bottom: 70px;
+    background-color: #00000099;
+}
+.vizpage #menu-bar nav:nth-of-type(2) {
+    max-width: 100%;
+    margin-bottom: -10px;
+}
+.vizpage #menu-bar.fixed {
+    position: static;
+}
+.vizpage #page-wrapper[style] {
+    margin-top: 0!important;
+}
+.vizpage div#columns {
+    width: 100%;
+    max-width: 1170px;
+}
+.articlepage .region .article-sidebar p {
+    font-size: 12px;
+    margin-left: 0;
+    margin-bottom: 10px;
+    line-height: 18px;
+}
+.articlepage .region .article-sidebar h2 {
+    text-transform: uppercase!important;
+    color: #9b0c24;
+    font-size: 18px!important;
+    margin-bottom: 0!important;
+}
+.article-sidebar {
+    top: 8px;
+    float: right;
+    margin: 0 0 20px 20px!important;
+    width: 264px;
+    max-width: 50%;
+    display: block;
+    position: relative;
+    padding-top: 8px;
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/blockquote.png) repeat-x top left;
+}
+.sidebar-padding {
+    padding: 32px 20px;
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/blockquote.png) repeat-x bottom left;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box h1.node-title a::after,
+.vizpage .list_lop.block-boxes-os_sv_list_box h1.node-title a::after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+/*.breadcrumb a:first-of-type {
+    width: 14px;
+    height: 52px;
+    padding-left: 15px;
+    text-indent: -9999px;
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/breadcrumb-home.png?m=1624972594) 0px 0px no-repeat;
+    float: left;
+    transform: translateY(-16px);
+}*/
+
+
+.vizpage h1#page-title {
+    margin-top: 35px;
+}
+.vizpage div#block-os-pages-main-content {
+    width: 85%;
+}
+.vizpage #main-content-header, .vizpage #content-panels {
+    margin: 0 auto;
+    max-width: 1170px;
+}
+.vizpage div#columns {
+    width: 100%;
+}
+.node-type-page h1#page-title {
+    margin: 1% 0 2%;
+    font-family: "Raleway",sans-serif!important;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: normal;
+}
+
+#columns {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.breadcrumb {
+    background-color: #efefef90;
+    padding-top: 15px;
+    padding-bottom: 20px!important;
+    padding-left: 25px;
+}
+.solutions_search .list_lop article .field-item div:nth-of-type(2) {
+    display: none;
+}
+.vizpage .field-type-text-with-summary .field-item > div:first-of-type img {
+    display: none;
+}
+body {
+    font-family: 'Lato', Arial, sans-serif !important;
+}
+p {
+    font-size: 18px;
+    line-height: 32px;
+}
+.vizpage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full .field-item ul:first-of-type li:last-of-type{
+margin-right:0;
+border-right:0;
+padding-right:0;
+}
+
+.vizpage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full .field-item ul:first-of-type li:before{
+display:none;
+}
+.articlepage.solutions_search .list_lop.block-boxes-os_sv_list_box header.node-header {
+    width: 270px;
+    float: none;
+    position: absolute;
+    bottom: 70px;
+    background-color: #00000099;
+}
+.articlepage.solutions_search .list_lop.block-boxes-os_sv_list_box article img {
+    height: 180px!important;
+}
+.solutions_search_col {
+    max-width: 1007px;
+}
+.articlepage.solutions_search .boxes-box-content.os-sv-list-pager-processed {
+    padding: 0;
+}
+.articlepage.solutions_search .region #block-os-pages-main-content .field-item {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-bottom: 0;
+}
+.articlepage.solutions_search .list_lop.block-boxes-os_sv_list_box {
+    background-color: transparent;
+    color: #fff;
+    padding: 0;
+    border-top: 0;
+}
+.articlepage  .list_lop.block-boxes-os_sv_list_box .os-sv-list {
+    display: flex;
+    grid-gap: 0 35px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+
+.articlepage .list_lop.block-boxes-os_sv_list_box article,
+.vizpage .list_lop.block-boxes-os_sv_list_box article,
+.articlepage .list_lop.block-boxes-os_boxes_manual_list article{
+position:relative;
+    list-style: none;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    min-height: 240px;
+    flex-basis: 220px;
+    flex-flow: column;
+    align-items: flex-start;
+    vertical-align: top;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box header.node-header,
+.vizpage .list_lop.block-boxes-os_sv_list_box header.node-header,
+.list_lop.block-boxes-os_boxes_manual_list header.node-header {
+    width: 270px;
+    float: none;
+    position: absolute;
+    bottom: 83px;
+    background-color: #00000099;
+min-height:90px;
+}
+div#block-boxes-os-addthis {
+    width: 25px!important;
+z-index:3;
+    position: relative;
+    display: block;
+    left: 100%;
+    margin-top: -150px;
+    transform: translate(-140px, 140px);
+}
+.addthis_toolbox.addthis_default_style.addthis_32x32_style {
+    width: 20px;
+}
+a.addthis_button_linkedin.at300b {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/sharing.png?m=1624539613)!important;
+    width: 24px;
+    background-repeat: no-repeat!important;
+    height: 24px;
+    background-position: -48px 0;
+}
+a.addthis_button_email.at300b {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/sharing.png?m=1624539613)!important;
+    width: 24px;
+    background-repeat: no-repeat!important;
+    height: 24px;
+    background-position: -116px 0;
+}
+a.addthis_button_twitter.at300b {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/sharing.png?m=1624539613)!important;
+    width: 24px;
+    background-repeat: no-repeat!important;
+    height: 24px;
+    background-position: -24px 0;
+}
+a.addthis_button_facebook.at300b {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/sharing.png?m=1624539613)!important;
+    width: 24px;
+    background-repeat: no-repeat!important;
+    height: 24px;
+    background-position: 0 0;
+}
+a.addthis_button_facebook.at300b span,
+a.addthis_button_linkedin.at300b span,
+a.addthis_button_twitter.at300b span,
+a.addthis_button_email.at300b span {
+    display: none;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box .node .field-name-body ul,
+.vizpage .list_lop.block-boxes-os_sv_list_box .node .field-name-body ul {
+    color: #fff!important;
+}
+.block-boxes-os_boxes_twitterfeed {
+    height: 600px;
+    overflow-y: auto;
+}
+.block-boxes-os_boxes_twitterfeed h2.block-title {
+    padding: 5px;
+    background-color: #efefef;
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    text-align: center;
+    line-height: 1.5;
+    font-weight: 300;
+    text-transform: uppercase;
+    width: 123px;
+    display: inline-block;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li,
+.vizpage .list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li {
+    color: #000;
+}
+.articlepage  .list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li:last-of-type {
+    color: #fff!important;
+}
+.articlepage .block-boxes-os_sv_list_box h1.node-title,
+.articlepage .block-boxes-os_boxes_manual_list h1.node-title {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.articlepage .list_lop.block-boxes-os_sv_list_box article,
+.vizpage .list_lop.block-boxes-os_sv_list_box article,
+.articlepage .list_lop.block-boxes-os_boxes_manual_list article {
+    border-bottom: 0!important;
+
+}
+.articlepage  .list_lop.block-boxes-os_sv_list_box h2.block-title {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-weight: 300;
+        font-size: 28px;
+    line-height: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 0 25px;
+margin-bottom:25px;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box h1.node-title a, .vizpage .list_lop.block-boxes-os_sv_list_box h1.node-title a, .list_lop.block-boxes-os_boxes_manual_list h1.node-title a {
+    color: #fff!important;
+display:block;
+padding:10px;
+}
+.list_lop.vertical.block-boxes-os_boxes_manual_list h1.node-title a{
+    color: #444!important;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box,
+.vizpage .list_lop.block-boxes-os_sv_list_box,
+.list_lop.block-boxes-os_boxes_manual_list {
+    background-color: #3b3b3b;
+    padding: 20px 0;
+}
+.authorcard h3 {
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.authorcard h3 a {
+    color:#a51c30!important;
+}
+.authorcard.card.ruled p {
+    font-size: 1em;
+    font-weight: 600;
+    color: #444;
+    line-height: 1.5em;
+}
+.authorcard img.media-element.file-default.file-os-files-small {
+    width: 90px!important;
+}
+.authorcard.ruled {
+    padding: 0;
+    border-top: 0;
+}
+.topics .boxes-box-content ul {
+    display: inline;
+}
+.topics .boxes-box-content {
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/blockquote.png?m=1623696566) left top repeat-x;
+    padding: 22px 0 0 10px!important;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: normal;
+}
+.topics .boxes-box-content h3 {
+    display: inline!important;
+    font-weight: 700;
+}
+.topics .boxes-box-content ul li{
+display:inline!important;
+margin-right:20px;
+}
+.topics {
+    padding: 0 0 16px;
+    margin: 0 0 20px;
+ background: url(https://hwpi.harvard.edu/files/datasmart/files/blockquote.png?m=1623696566) left bottom repeat-x;
+}
+.topics .boxes-box-content {
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/blockquote.png?m=1623696566) left top repeat-x;
+    padding: 22px 0 0 10px!important;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.articlepage .region #block-os-pages-main-content .field-item {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/article-footer.png?m=1623694258);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-bottom: 45px;
+}
+.articlepage .region .field-name-body {
+    width:85%;
+}
+.articlepage .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-full h2 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 20px;
+    margin-bottom: 22px;
+}
+.band_author p {
+    text-transform: uppercase!important;
+}
+a, a:visited {
+    color: #a51c30;
+text-decoration:none!important;
+}
+.band_author .boxes-box-content {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    margin-top: -41.45312px!important;
+}
+.band_author p {
+    font-size: 1.2em;
+    line-height: normal;
+    text-align: left;
+    padding: 25px 10px 26px 10px;
+}
+.band_author img {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 25px;
+}
+
+.banner img.media-element.file-default[style] {
+    height: 400px!important;
+    object-fit: cover!important;
+width:100%;
+}
+
+
+.articlepage .banner_overlay {
+    margin-bottom: 105px!important;
+    margin-top: -180px!important;
+}
+.articlepage .banner_overlay .boxes-box-content {
+    text-shadow: 0 -1px 2px #333;
+    color: #fff;
+    max-width: 768px;
+    font-size: 24px;
+    line-height: 1.3em;
+    font-family: "Lato",sans-serif;
+    font-weight: 300;
+}
+.articlepage .field-type-text-with-summary .field-items ul:first-of-type {
+    display: none;
+}
+
+.front .content-left.content-bottom #content-panels .region-content-first, .front .content-left.content-bottom #content-panels .region-content-bottom, .content-left.content-right #content-panels .region-content-first, .content-left.content-right #content-panels .region-content-second, .front .content-right.content-bottom #content-panels .region-content-second, .front .content-right.content-bottom #content-panels .region-content-bottom {
+    width: 100%;
+}
+.articlepage .region p {
+    font-size: 1em;
+    line-height: 1.5em;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    color: #414141;
+}
+
+.articlepage .region.region-content-first .region-inner,
+.articlepage .region.region-content-second .region-inner,
+.articlepage .region.region-content-bottom .region-inner {
+    max-width: 1200px;
+    margin: 0 auto!important;
+}
+.articlepage img.media-element.file-default {
+    padding-right: 0;
+}
+.articlepage .page-node #content-column .content-inner {
+    padding: 0;
+}
+.articlepage #columns {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+#footer {
+    background-color: #343434;
+}
+.banner_overlay h2.block-title {
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: uppercase;
+    color: #444;
+    padding: 7px 10px 6px;
+    margin: 0;
+    background-color: rgba(198,198,198,0.9);
+    text-align: left!important;
+    font-weight: 500;
+    display: inline;
+}
+.banner_overlay .boxes-box-content h2 a {
+   text-decoration:none!important;
+color:#fff!important;
+}
+.banner_overlay .boxes-box-content h2 {
+    font-size: 54px;
+    font-weight:600;
+    line-height: 62px;
+    margin: 0;
+}
+.banner_overlay .boxes-box-content {
+    background-color: #002D3D;
+    margin: 0 auto;
+    padding: 20px!important;
+}
+.banner_overlay {
+    margin: 0 auto!important;
+    left: 0;
+    justify-content: center;
+    margin-top: -350px!important;
+    margin-bottom: 185px!important;
+}
+.banner_overlay .boxes-box-content {
+    background-color: #002D3D;
+}
+#menu-bar ul.nice-menu a.active, #menu-bar ul.nice-menu a:hover, #menu-bar ul.nice-menu .menuparent.over > a, #menu-bar ul.nice-menu .menuparent a:hover, #menu-bar ul.nice-menu .menuparent a.active {
+    background-color: transparent;
+    border-top: 4px solid transparent;
+    color: #ccc!important;
+    padding: 12px 15px 16px 15px;
+}
+#menu-bar ul.nice-menu .menuparent ul li a, #menu-bar ul.nice-menu .menuparent ul li a.active, #menu-bar ul.nice-menu a.active, #menu-bar ul.nice-menu a:hover, #menu-bar ul.nice-menu a {
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+.banner .boxes-box-content:after {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/texture.png?m=1623092543);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    content: "";
+}
+.search-block-form input.form-submit, .search-block-form #edit-submit, #search-block-form input.form-submit, #search-block-form #edit-submit, #search-form #edit-submit {
+    background: url(/profiles/openscholar/themes/hwpi_basetheme/images/hwpi_basesprite.png) no-repeat 2px -441px #a51c30;
+    height: 34px;
+color:#fff;
+}
+.search-block-form .container-inline .form-item .form-text, #search-block-form .container-inline .form-item .form-text {
+    background: #c6c6c6;
+}
+.ash_logo {
+    margin-bottom: 15px!important;
+}
+.ash_logo .boxes-box-content div {
+    float: left;
+    transform: translateX(55px);
+}
+.menu--social-media ul.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+}
+.menu--social-media li a.youtube {
+    background-position: -72px 0;
+}
+.menu--social-media li a.twitter {
+    background-position: -24px 0;
+}
+.menu--social-media li {
+    display: inline;
+    float: left;
+    margin: 0 5px 0 0;
+    padding: 0;
+}
+.menu--social-media li a {
+    display: block;
+    width: 24px;
+    height: 24px;
+    text-indent: -9999px;
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/social-media.png?m=1623160204) no-repeat;
+}
+.ash_logo img.media-element.file-default.file-os-files-large {
+    padding-right: 0;
+    max-width: 130px;
+}
+.site-logo p:nth-of-type(2) {
+    margin-right: 0px!important;
+}
+.front .region.region-content-top .banner .block-inner.clearfix {
+    margin-top: 0!important;
+}
+.front #columns .block-boxes-os_boxes_html.banner {
+    width: 100%;
+    margin: 0!important;
+    padding: 0!important;
+}
+.banner img.media-element.file-default {
+    padding-right: 0;
+}
+.card.ruled p {
+    font-size: 11px;
+    font-weight: 600;
+    color: #444;
+    line-height: 17px;
+}
+.card.ruled .boxes-box-content h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 17px;
+    margin-bottom: 0;
+}
+#content-panels .block-inner .card .block-inner.clearfix {
+    margin-top: 0;
+}
+.card.ruled .boxes-box-content h2 a{
+font-size: 17px;
+text-decoration:none!important;
+    color: #9b0c24;
+    margin: -9px 0 0px;
+}
+
+.front .block.card h2.block-title,
+.block.card h2.block-title {
+    text-align: left;
+    padding-left: 10px;
+    font-weight: 500;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li:first-of-type,
+.vizpage .list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li:first-of-type {
+    font-weight: 500;
+    padding: 10px 0!important;
+    display: block;
+}
+#columns .list_lop article {
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 35px!important;
+    margin-bottom: 40px;
+}
+#columns .list_lop a.node-readmore {
+    display: none;
+}
+.list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li:nth-of-type(3) a { 
+    color: #9b0c24;
+text-decoration:none!important;
+}
+.list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li:nth-of-type(3) {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    line-height: 1;
+    text-transform: uppercase;
+    display: inline;
+    padding-left: 15px;
+}
+.ruled .boxes-box-content {
+    padding: 6px 10px 10px;
+}
+.list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li {
+
+    text-transform: uppercase;
+}
+.list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li:nth-of-type(2) {
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    font-size: 10px;
+float:left;
+    line-height: 1.5;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+.list_lop.block-boxes-os_sv_list_box .node .field-name-body ul li:nth-of-type(2) a {
+    display: inline-block;
+text-decoration:none!important;
+    color: #000;
+    padding: 5px;
+    background-color: #efefef;
+}
+.list_lop.block-boxes-os_sv_list_box .node .field-name-body ul {
+    padding-left: 8px;
+}
+.list_lop.block-boxes-os_sv_list_box .node .field-name-body ul{
+margin-left:10px;
+}
+
+.list_lop.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 300px;
+
+}
+.ruled h2.block-title {
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+.list_lop.block-boxes-os_sv_list_box h1.node-title a {
+color:#3d3d3d;
+}
+.list_lop.block-boxes-os_sv_list_box  header.node-header {
+
+    width: 465px;
+    float: right;
+}
+.block-boxes-os_sv_list_box h1.node-title {
+    font-size: 32px;
+    line-height: 37px;
+    font-weight: 600;
+}
+.branding-container, #header-container,  #menu-bar nav, #menu-bar #block-os-primary-menu, .message-inner, #powerby-login {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 1010px;
+}
+
+.site-logo p:nth-of-type(2) img {
+    max-width: 160px;
+}
+.site-logo p {
+    display: inline;
+    margin-right: 205px;
+}
+.site-logo p:nth-of-type(3) {
+    margin-right: 0;
+}
+
+body, #content-column .block.block-boxes-os_boxes_manual_list .links.inline a, .more-link, .links a, .section-nav a,  .block-boxes-os_taxonomy_fbt.navigation, .block-boxes-os_boxes_facetapi_vocabulary.navigation, #footer ul.menu li ul li a,  .region-header-third ul.nice-menu a, #menu-bar ul.nice-menu a, #boxes-box-site_info, #boxes-box-site_info a, #layout_16_9_overlay .slide-copy p, #layout_16_9_side .slide-copy p,  .slide-copy p, .cke_editable * {
+    font-family: 'Lato', Arial, sans-serif !important;
+}
+#page-title, .node-title, .page-search .title a, .boxes-box-content h2, #content-column h2, #content-column h3, #content-column h4, #layout_16_9_side .slide-copy h2, #layout_3_1_overlay .slide-copy h2, #layout_16_9_below .slide-copy h2, #layout_16_9_overlay .slide-copy h2, h2.block-title,  #layout_16_9_overlay .slide-copy h2, #layout_16_9_side .slide-copy h2, .block-boxes-os_sv_list_box .os_sv_list_box.sv-list-link.sv-list-view-links h1 a, .date-nav h3 {
+    font-family: 'Lato', Arial, sans-serif !important;
+}
+.site-logo img.media-element.file-default.file-os-files-xxlarge {
+    max-width: 250px;
+}
+div#branding_header {
+    display: none;
+}
+#header{
+    background: linear-gradient(#9b0c24,#830c24);
+    background-attachment: fixed;
+}
+
+.list_lop.block-boxes-os_sv_list_box {
+    border-top: 10px solid #efefef;
+padding-top:23px;
+}
+.ruled {
+    background-image: url(https://hwpi.harvard.edu/files/datasmart/files/texture.png?m=1623092543);
+    padding: 6px 1px 1px;
+    border-top: 10px solid #efefef;
+}
+.hp_main {
+    width: 98%!important;
+    max-width: 1200px;
+}
+.list_lop img.media-element.file-default[style]{
+    max-width: 268px;
+}
+img.media-element.file-default[style] {
+    height: auto!important;
+}
+@media (min-width:1009px) and (max-width:1216px){
+.list_lop.vertical.block-boxes-os_sv_list_box .node .field-name-body ul {
+    padding-left: 14px;
+}
+.two-50 .block-boxes-os_sv_list_box.vertical h1.node-title {
+    font-size: 1.2em;
+    line-height: 1.25em;
+    font-weight: 600;
+}
+.two-50 .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 160px;
+    float: left!important;
+    margin-bottom: 90px;
+}
+.two-50 .list_lop img.media-element.file-default[style] {
+    max-width: 150px;
+}
+.two-50 .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 65%!important;
+    float: right!important;
+    position: static!important;
+    min-height: 25px!important;
+    margin-bottom: 2px;
+}
+#columns .two-50 .list_lop.vertical article {
+    border-bottom: 1px solid #efefef!important;
+    padding-bottom: 0px!important;
+    margin-bottom: 40px;
+    min-height: 65px;
+}
+}
+@media (min-width:1055px) and (max-width:1210px){
+
+.nicetopicpage.topicpage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 60%!important;
+}
+.nicetopicpage.articlepage .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 265px;
+    float: left!important;
+    margin-bottom: 0px;
+}
+
+.nicetopicpage .list_lop.vertical img.media-element.file-default[style] {
+    max-width: 218px;
+    margin-bottom: 35px;
+}
+}
+@media (max-width:1159px){
+.nicetopicpage.topicpage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 100%!important;
+padding-bottom: 25px;
+}
+}
+@media (max-width:1008px){
+.two-50 .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    margin-bottom: 0;
+}
+.two-50 .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 100%!important;
+    margin-bottom: 10px;
+}
+div#block-boxes-1625169734 {
+    margin-top: -80px;
+}
+.solutions_search .three-3x33 > .region, .solutions_search .two-33-66 > .region, .solutions_search .two-66-33 > .region {
+    width: 100%!important;
+}
+iframe {
+    width: 100% !important;
+    max-width: 768px;
+    margin: 0 auto!important;
+}
+.articlepage .region .field-name-body {
+    width: 95%;
+}
+.article-sidebar {
+    top: 8px;
+    float: none;
+    margin: 0 0 20px 20px!important;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    position: relative;
+    padding-top: 8px;
+    background: url(https://hwpi.harvard.edu/files/datasmart/files/blockquote.png) repeat-x top left;
+}
+iframe {
+    width: 100% !important;
+}
+.vizpage.thinpage .list_lop.block-boxes-os_sv_list_box header.node-header,
+.vizpage .list_lop.block-boxes-os_sv_list_box header.node-header,
+.articlepage .list_lop.block-boxes-os_sv_list_box header.node-header {
+    width: 270px;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul {
+    float: none;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article img.media-element.file-default[style] {
+        max-width: 268px!important;
+height:auto;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .node-content .field-item div:first-of-type {
+    display: none;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article header.node-header {
+    width: 100%!important;
+    float: none!important;
+}
+.page-browse-pages ol.search-results.apachesolr_search-results article.node .field-name-body ul {
+    padding-left: 0;
+}
+#menu-bar #block-os-primary-menu a:hover{
+color:#fff!important;
+}
+section#block-boxes-1624287206 {
+    width: 95%!important;
+    margin: 0 auto;
+}
+.vertical.list_lop.block-boxes-os_sv_list_box {
+    border-top: 10px solid #efefef;
+    padding-top: 23px;
+    width: 95%!important;
+    margin: 0 auto;
+}
+.articlepage .hg-container, .vizpage .hg-container,  .front .hg-container {
+    -moz-box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0 0!important;
+}
+.vizpage .sidebar div:first-of-type header.node-header {
+    width: 80.7%;
+}
+.vizpage.one-sidebar.sidebar-second .region-sidebar-second {
+    margin-left: 0 !important;
+    padding-left: 0;
+    width: 100% !important;
+}
+.vizpage.one-sidebar.sidebar-second .content-inner {
+    margin-right: 0!important;
+}
+.vizpage .list_lop .field-type-text-with-summary .field-item > div:first-of-type img.media-element[style] {
+    display: block !important;
+    float: none !important;
+    max-width: 100% !important;
+}
+.vizpage .field-type-text-with-summary .field-item > div:first-of-type img.media-element[style] {
+    display: none !important;
+    float: none !important;
+    max-width: 100% !important;
+}
+.nicetopicpage.articlepage .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    margin-right: 25px;
+}
+.nicetopicpage.topicpage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 100%!important;
+    padding-bottom: 25px;
+}
+
+.vizpage .sidebar .field-type-text-with-summary .field-item > div:first-of-type img.media-element[style] {
+    display: block !important;
+}
+
+.articlepage .list_lop.block-boxes-os_sv_list_box header.node-header, .vizpage .list_lop.block-boxes-os_sv_list_box header.node-header, .list_lop.block-boxes-os_boxes_manual_list header.node-header {
+    width: 230px;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box .node .field-name-body ul {
+    padding-left: 33px!important;
+}
+.solutions_search .two-66-33 > .region-two-66-33-first, .two-33-66 > .region-two-33-66-second {
+    width: 65.1%;
+}
+.solutions_search .three-3x33 > .region, 
+.solutions_search .two-33-66 > .region, 
+.solutions_search .two-66-33 > .region {
+    width: 31.333333%;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box article, .vizpage .list_lop.block-boxes-os_sv_list_box article, .articlepage .list_lop.block-boxes-os_boxes_manual_list article {
+    position: relative;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 240px;
+    flex-basis: 270px;
+    flex-flow: column;
+    align-items: flex-start;
+    vertical-align: top;
+}
+.articlepage.solutions_search .list_lop.block-boxes-os_sv_list_box article img {
+    height: 160px!important;
+}
+
+.solutions_search .list_lop img.media-element.file-default[style] {
+    max-width: 268px!important;
+}
+.block-boxes-os_boxes_columns .at-panel {
+    padding: 0;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 58%!important;
+    float: right!important;
+    position: static!important;
+    min-height: 25px!important;
+}
+.articlepage .list_lop.block-boxes-os_boxes_manual_list.feature.horizontal .item-list {
+    padding: 0;
+}
+.nicetopicpage #columns .os-custom-menu {
+    max-width: 980px;
+    width: 98%;
+}
+.link-count-mobi-search a{
+    background-color: #9A0C25;
+}
+.link-count-mobi-main a {
+    background-color: #9A0C25;
+    background-position: 0 -493px;
+}
+.horizontal {
+    max-width: 980px;
+    margin: 0 auto;
+    width: 98%;
+}
+div#block-boxes-os-addthis {
+    width: 25px;
+
+    transform: translate(-40px, 140px);
+}
+.articlepage.node-type-page h1#page-title {
+    background-color: #002D3D99;
+    color: #fff;
+    font-size: 2em;
+    line-height: 1.5em;
+    padding: 20px 40px;
+    margin: 0px auto -156px auto;
+    font-family: "Raleway",Georgia,"Times New Roman"!important;
+    max-width: 1170px;
+    font-weight: 700;
+    position: relative;
+    z-index: 1;
+    min-height: 100px;
+    text-shadow: 2px 2px 2px #000;
+    text-align: center;
+}
+.site-logo .media-element[style] {
+    max-width: 250px!important;
+}
+
+}
+@media(max-width:768px){
+
+.two-50 .list_lop.vertical.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 250px;
+    float: left!important;
+    margin-bottom: 0;
+}
+p.os-button a, p.os-button a:visited {
+display:block!important;
+}
+.banner_overlay {
+    margin-bottom: 80px!important;
+}
+.banner_overlay {
+    margin-bottom: 155px!important;
+}
+.vertical.list_lop.block-boxes-os_sv_list_box {
+    border-top: 0;
+    padding-top: 0;
+    width: 95%!important;
+    margin: 0 auto;
+}
+div#block-boxes-1625169734 {
+    margin-top: -30px;
+}
+.filters {
+    width: 95%!important;
+    margin: 0 auto!important;
+}
+div#block-boxes-1624389505 {
+    margin-bottom: -85px!important;
+}
+
+.articlepage .region .field-name-body {
+    width: 100%;
+}
+.front .vertical .field-type-text-with-summary .field-items ul li {
+    padding-left: 20px!important;
+    display: block;
+}
+.front .vertical .field-type-text-with-summary .field-items ul:first-of-type {
+    padding: 0!important;
+    width: 56%;
+    margin: 0;
+    clear: right;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    margin-bottom: 20px;
+}
+.front .block-boxes-os_boxes_twitterfeed {
+    height: 430px;
+    overflow-y: auto;
+}
+.articlepage.node-type-page h1#page-title {
+    background-color: #002D3D99;
+    color: #fff;
+    font-size: 2em;
+    line-height: 1.5em;
+    padding: 20px 40px;
+    margin: 0px auto -223px auto;
+
+}
+.vizpage .sidebar div:first-of-type header.node-header {
+    width: 96%;
+}
+.vizpage .banner {
+    display: none;
+}
+.vizpage.thinpage .list_lop.block-boxes-os_sv_list_box header.node-header,
+.articlepage .list_lop.block-boxes-os_sv_list_box header.node-header,
+.vizpage .list_lop.block-boxes-os_sv_list_box header.node-header {
+    width: 100%;
+}
+.vizpage .list_lop.block-boxes-os_sv_list_box .os-sv-list,
+.articlepage .list_lop.block-boxes-os_sv_list_box .os-sv-list {
+    justify-content: center;
+}
+
+.footer_nav p {
+    width: 100%;
+}
+div#powerby-login {
+    transform: translateY(40px);
+}
+div#powerby-login a.footer-login {
+    position: relative;
+    top: 20px;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box .node .field-name-body ul {
+    padding-left: 0!important;
+}
+div#boxes-box-site_info h1 a {
+    background-size: 180px;
+}
+.site-logo .media-element[style] {
+    max-width: 180px!important;
+    padding: 15px;
+}
+.nicetopicpage.topicpage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 100%!important;
+    padding-bottom: 0;
+}
+.articlepage .boxes-box-content.os-sv-list-pager-processed, .articlepage .list_lop.block-boxes-os_boxes_manual_list .item-list {
+    padding: 0;
+}
+.articlepage .vertical .field-type-text-with-summary .field-items ul:first-of-type {
+    padding: 0 0 0 0!important;
+    width: 100%;
+    margin: 0;
+}
+.nicetopicpage.topicpage .list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 100%!important;
+    float: none!important;
+}
+.vertical .field-type-text-with-summary .field-items ul:first-of-type {
+    padding: 0!important;
+    width: 100%;
+    margin: 0;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 100%!important;
+    float: none!important;
+}
+
+}
+
+@media (max-width:520px){
+
+
+div#block-boxes-1623092127 {
+    margin-top: 165px!important;
+}
+.banner_overlay {
+    margin-bottom: 100px!important;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box, .vizpage .list_lop.block-boxes-os_sv_list_box, .list_lop.block-boxes-os_boxes_manual_list {
+    padding: 20px 0 130px 0!important;
+}
+.list_lop.block-boxes-os_sv_list_box .node .node-content .field-item div:first-of-type {
+    max-width: 350px;
+}
+.articlepage .list_lop.block-boxes-os_sv_list_box article, .vizpage .list_lop.block-boxes-os_sv_list_box article, .articlepage .list_lop.block-boxes-os_boxes_manual_list article {
+    min-height: 250px;
+    flex-basis: 350px;
+}
+}
+@media (max-width: 479px){
+.banner_overlay .boxes-box-content h2 {
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 46px;
+    margin: 0;
+}
+div#block-boxes-1625169734 {
+    margin-top: -60px;
+}
+iframe {
+    width: 100% !important;
+}
+}
+@media screen and (max-width: 1089px) and (min-width: 1008px){
+
+
+.list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 53%!important;
+    float: right!important;
+    position: static!important;
+}
+.list_lop img.media-element.file-default[style] {
+    max-width: 268px;
+    margin-bottom: 35px;
+}
+}
+@media screen and (max-width: 1204px) and (min-width: 1089px){
+.list_lop.vertical.block-boxes-os_sv_list_box .node .field-name-body ul {
+    padding-left: 40px;
+}
+.list_lop.vertical.block-boxes-os_sv_list_box header.node-header {
+    width: 57%!important;
+    float: right!important;
+    position: static!important;
+}
+}
+
+</style></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>			</div>
+
+		<!--footer region end-->
+    <div id="powerby-login">
+  	<a href="/user?destination=addressing-native-homelessness-culturally-appropriate-housing%3Fadmin_panel%3D1%26login%3D1"  class="footer-login">Admin Login</a>    </div>
+  </footer>
+  </div>
+</div><!--page area ends-->
+
+<div id="extradiv"></div>
+
+  <!--FLEXIBLE ADMIN FOOTER FOR USE BY SELECT GROUPS USING OS-->
+  <div id="branding_footer">
+		<div class="branding-container">
+	    <div class="copyright"><span class="harvard-copyright">Copyright &copy; 2024 The President and Fellows of Harvard College</span>  | <a href="https://accessibility.harvard.edu/" >Accessibility</a> | <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" >Digital Accessibility</a> | <a href="https://www.harvard.edu/copyright-issue/" >Report Copyright Infringement</a></div>		</div>
+  </div>
+
+</div><!-- /page_wrap -->
+
+  <script src="https://datasmart.hks.harvard.edu/profiles/openscholar/libraries/respondjs/respond.min.js?shsffw"></script>
+<script src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/js/js_s7yA-hwRxnKty__ED6DuqmTMKG39xvpRyrtyCrbWH4M.js?m=1722241266"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"hwpi_onepage","theme_token":"KInom1G07NT1iT8yEnz3lJToQBmFK6yjFXXPp1rO4Dk","jquery_version":"1.8"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/hwpi.harvard.edu\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"jcarousel":{"ajaxPath":"https:\/\/datasmart.hks.harvard.edu\/jcarousel\/ajax\/views"},"urlIsAjaxTrusted":{"\/addressing-native-homelessness-culturally-appropriate-housing":true,"https:\/\/datasmart.hks.harvard.edu\/search\/site":true},"spaces":{"id":"1402236","path":"Data-Smart City Solutions"},"os_ga":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|docx?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xlsx?|xml|z|zip","trackNavigation":1},"nice_menus_options":{"delay":800,"speed":"slow"},"ogContext":{"groupType":"node","gid":"1402236"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});</script>
+<script src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/js/js_jF6uxbohhL4_Fcv1HF_x4nOLPXOHbpe4-Ay_GR-XpHk.js?m=1722241266"></script>
+<script src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/js/js_otaDgI6X9qs_TZpSfGeRC805JCdKpSrl2gwWLs_jt9E.js?m=1722241266"></script>
+<script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e9eeefa6983da55"></script>
+<script src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/js/js_ZwtHh_UtMhEyIZ7P23uU_tO_tZHXgPG1rk11b_m8s9Y.js?m=1722241312"></script>
+<script>window.CKEDITOR_BASEPATH = '/profiles/openscholar/libraries/ckeditor/'</script>
+<script src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/js/js_rklvtk_0I642SyuTeoiK1RFOGN9_3zc8AxXFMyhA7-E.js?m=1722241267"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/js/js_Gn6CPUOXDTurT1_dttEf_0ILEDturfDpbAqZFd3d6g4.js?m=1722241266"></script>
+<script src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/js/js_-kTpqHN97mqO-XWl0FI9xTBL2ydac9GGZb9MOdN47HA.js?m=1722241266"></script>
+<script src="https://datasmart.hks.harvard.edu/sites/hwpi.harvard.edu/files/js/js_qluyoBMkmyevXrrhnKB_2ie6cLJ7DL5g_0nHm6hyXwA.js?m=1722241266"></script>
+<script src="https://datasmart.hks.harvard.edu/profiles/openscholar/themes/hwpi_onepage/flavors/winthrop/winthrop.js?shsffw"></script>
+</body>
+</html>

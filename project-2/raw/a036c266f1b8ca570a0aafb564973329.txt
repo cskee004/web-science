@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+
+    
+
+    
+    <html lang="en">
+      <head>
+        <meta name="pageKey" content="d_lithograph_content">
+<!----><!---->        <meta name="locale" content="en_US">
+        <meta id="config" data-app-id="lithograph" data-app-version="0.0.994" data-call-tree-id="AAYjLPqQYlen6f3yNArPqQ==" data-multiproduct-name="lithograph-publish-frontend" data-service-name="lithograph-publish-frontend" data-browser-id="f641f8a8-cb33-4dfa-8ef4-c05761aaab7d" data-page-instance="urn:li:page:d_lithograph_content;kPqb67UwTveKGpcisOCh4w==" data-disable-jsbeacon-pagekey-suffix="false">
+
+        <link rel="canonical" href="https://www.linkedin.com/accessibility">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
+
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+
+    <title>Accessibility</title>
+    <meta name="description" content="At LinkedIn, we believe in inclusion, and we want you to know that whatever your goals, ideas, and abilities are, we’re here to help you succeed.">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Accessibility">
+    <meta property="og:description" content="At LinkedIn, we believe in inclusion, and we want you to know that whatever your goals, ideas, and abilities are, we’re here to help you succeed.">
+    <meta property="og:url" content="https://www.linkedin.com/accessibility">
+    <meta property="og:image" content="https://media.licdn.com/dms/image/v2/C5608AQHtHOx13KD3DQ/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1523055583050?e=2147483647&amp;v=beta&amp;t=l_9a_w5YujSRloGKINiwoU0dl90ZeMuyr7ATMSucpGo">
+    <meta name="twitter:title" content="Accessibility">
+    <meta name="twitter:site" content="@linkedin">
+    <!---->
+    <meta name="twitter:description" content="At LinkedIn, we believe in inclusion, and we want you to know that whatever your goals, ideas, and abilities are, we’re here to help you succeed.">
+    <meta name="robots" content="noarchive">
+
+    <meta name="linkedin:pageTag" content="/accessibility">
+    <meta name="litmsProfileName" content="lithograph">
+  
+
+        
+<!---->        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="asset-url" id="artdeco/static/images/icons.svg" content="https://static.licdn.com/aero-v1/sc/h/6sz1e821vgereyxaakx87tt4z ">
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/crjcj3vgj0tgpae2eu4u9y7eb">
+          <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/4qme278efskoai3hwa0y5jb2h">
+<!---->      
+      
+<!---->      </head>
+      <body dir="ltr">
+<!---->          
+          
+    
+
+    <a href="#lithograph-app" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
+      Skip to main content
+    </a>
+  
+<!---->
+        
+
+          <div class="ssr-ui-lib__header">
+            
+
+    
+    
+    
+    
+
+
+    
+      <header class="navbar global-alert-offset
+          !bg-color-background-container
+          
+          " style="height: 64px">
+        <div class="navbar__wrapper ">
+          
+      <a aria-label="LinkedIn" class="nav-header__logo-link false" data-tracking-control-name="nav_header_logo" data-tracking-will-navigate href="https://www.linkedin.com?trk=nav_header_logo">
+        <icon class="nav-header__logo-icon
+            
+            " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb"></icon>
+        
+      </a>
+      <nav aria-label="Primary" class="nav-header__guest-nav ">
+        <ul class="nav-header__link-list ">
+          <li class="nav-header__link-item ">
+            <a class="nav-header__link " data-tracking-client-ingraph data-tracking-control-name="nav_header_join" data-tracking-will-navigate href="https://www.linkedin.com/signup/cold-join?trk=nav_header_join" rel="nofollow">Join now</a>
+          </li>
+          <li class="nav-header__link-item ">
+            <a class="nav-header__link-button " data-tracking-client-ingraph data-tracking-control-name="nav_header_signin" data-tracking-will-navigate href="https://www.linkedin.com/uas/login?session_redirect=&amp;amp;trk=hb_signin&amp;trk=nav_header_signin">
+              Sign in
+            </a>
+          </li>
+        </ul>
+      </nav>
+    
+        </div>
+      </header>
+  
+  
+          </div>
+
+        <main role="main">
+          
+        <div id="lithograph-app">
+          
+
+    <section id="component-container" data-attach-collapse-behavior="true">
+      
+
+      <div id="theme-banner-card" class="component component-banner" data-component-type="banner">
+        
+
+        
+
+    <div class="banner banner--v3 banner--article-width banner--light-background banner--left banner-height-desktop--default banner-height-tablet--default banner-height-mobile--default" data-banner>
+      <div class="banner__image-container " aria-hidden="true">
+          <img class="banner__image image-pin--middle-center" alt srcset="https://media.licdn.com/dms/image/v2/C4D08AQHk_6rU0Q14Fw/croft-frontend-shrinkToFit480/croft-frontend-shrinkToFit480/0/1603481593730?e=2147483647&amp;v=beta&amp;t=u6nBxK7ugCVzRMjGyzOZqfosmH1OR4AA3WUEMkB3pPU 256w,https://media.licdn.com/dms/image/v2/C4D08AQHk_6rU0Q14Fw/croft-frontend-shrinkToFit767/croft-frontend-shrinkToFit767/0/1603481593730?e=2147483647&amp;v=beta&amp;t=wdjMfOLhUMNlamQiMzTweNOitYAd54OaRYx_f2Vpk1U 256w,https://media.licdn.com/dms/image/v2/C4D08AQHk_6rU0Q14Fw/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1603481593730?e=2147483647&amp;v=beta&amp;t=y3q_u7Y3E7guKotbYX0UtByamayDTZI1HaNTfydCe3A 256w,https://media.licdn.com/dms/image/v2/C4D08AQHk_6rU0Q14Fw/croft-frontend-shrinkToFit600/croft-frontend-shrinkToFit600/0/1603481593730?e=2147483647&amp;v=beta&amp;t=cxqeQpjjP3JlR2Vty3HMlJk6JfVC20tBTm6375_Zhxg 256w,https://media.licdn.com/dms/image/v2/C4D08AQHk_6rU0Q14Fw/croft-frontend-shrinkToFit1200/croft-frontend-shrinkToFit1200/0/1603481593730?e=2147483647&amp;v=beta&amp;t=OnLxfWLtz2G5QCdtbSKUeY92Yg4RgT5UBM6iNgDC5eM 256w,https://media.licdn.com/dms/image/v2/C4D08AQHk_6rU0Q14Fw/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1603481593730?e=2147483647&amp;v=beta&amp;t=CqB5YIb88fFIkO6RCQHsI-gULK_fi-0EOjrQL4I2la8 256w," sizes="(max-width: 480px) 480px, (max-width: 767px) 767px, (max-width: 1024px) 1024px, 1920px" src="https://media.licdn.com/dms/image/v2/C4D08AQHk_6rU0Q14Fw/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1603481593730?e=2147483647&amp;v=beta&amp;t=CqB5YIb88fFIkO6RCQHsI-gULK_fi-0EOjrQL4I2la8">
+
+<!---->      </div>
+
+      <div class="banner__headline-container">
+        <div class="banner__position">
+<!---->              <h1 class="banner__headline t-32">
+                LinkedIn is a place where every member of the global workforce can find opportunity
+              </h1>
+<!----><!---->
+<!----><!---->              <h2 class="banner__subheadline t-18">
+                Whatever your goals, ideas, and abilities are, we’re here to help you succeed.
+              </h2>
+<!---->
+          <div class="banner__button-container">
+<!----><!---->          </div>
+        </div>
+      </div>
+    </div>  
+  
+      </div>
+      <div id="intro" class="component component-richText" data-component-type="richText">
+        
+
+        
+    <div class="rich-text global-paragraph-style--p3">
+      <p>No two LinkedIn members are the same—and it’s that diversity which makes our community so great.</p> <p>We’re on a journey to make accessibility and inclusive design part of our core principles, building accessibility from the ground up and testing our products with assistive technology to make sure that everyone can use LinkedIn to advance their professional goals.</p>
+    </div>  
+  
+      </div>
+      <div id="theme-list-callouts" class="component component-standaloneList" data-component-type="standaloneList">
+        
+
+        
+
+      <ul class="standalone-list standalone-list--article-width standalone-list--none">
+          <li id="dad" class="standalone-list__item   t-16dp">
+            
+
+      <div id class="component component-standaloneImage" data-component-type="standaloneImage">
+        
+
+        
+
+    <div class="standalone-image-component standalone-image-component--original-width">
+        <figure>
+          <img class="standalone-image-component__image" sizes="(max-width: 480px) 480px, (max-width: 767px) 767px, (max-width: 1024px) 1024px, 1920px" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D08AQFJqNWRM8CV5g/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1600383533421?e=2147483647&amp;v=beta&amp;t=Wc6dgiG8I2wHqSiuCacRNxuDXq_2mLVy84KWO_69Db8" alt="Messages icon">
+<!---->        </figure>
+    </div>
+  
+      </div>
+      <div id class="component component-richText" data-component-type="richText">
+        
+
+        
+    <div class="rich-text global-paragraph-style--p2">
+      <h2>Our Disability Answer Desk&nbsp;</h2> <p>Our teams are constantly working to improve the experience for&nbsp;all of&nbsp;LinkedIn’s&nbsp;products&nbsp;by adding new features and making changes to better serve all our members&nbsp;and customers.&nbsp;We’re&nbsp;always open to feedback and would love to hear from you as to how we can make&nbsp;our&nbsp;products&nbsp;even better.&nbsp;&nbsp;</p> <p>If you&nbsp;find&nbsp;an accessibility bug&nbsp;or have trouble using&nbsp;LinkedIn's products&nbsp;with assistive technology,&nbsp;<a rel="" href="https://www.linkedin.com/help/linkedin/ask/DAD" target="_self">contact us</a>&nbsp;and we’ll reach out&nbsp;to help you through it. We also offer support through <a rel="" href="https://www.bemyeyes.com/" target="_blank"><strong>Be My Eyes</strong></a>, a free app that connects blind and low-vision people with volunteers for visual assistance through a live video call.</p> <p>If you’re a screen reader user, please visit the articles on the&nbsp;<a rel="" href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fhelp%2Flinkedin%2Fanswer%2Fa1431878&data=05%7C01%7Cdgabai%40linkedin.com%7C829da215df0f40a54b4c08db2fb4ff2c%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C638156226655790479%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KGBCAXLX9vlioIp4MxGrCV%2Fi1EctWyyggiQFsWtsdQc%3D&reserved=0" target="_blank">Screen Reader Support</a> page in the Help Center.</p>
+    </div>  
+  
+      </div>
+  
+          </li>
+          <li id="accessibility-at-linkedin" class="standalone-list__item   t-16dp">
+            
+
+      <div id class="component component-standaloneImage" data-component-type="standaloneImage">
+        
+
+        
+
+    <div class="standalone-image-component standalone-image-component--original-width">
+        <figure>
+          <img class="standalone-image-component__image" sizes="(max-width: 480px) 480px, (max-width: 767px) 767px, (max-width: 1024px) 1024px, 1920px" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D08AQHxNC95bXCesg/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1603481610997?e=2147483647&amp;v=beta&amp;t=TwRv9Ha2ZdRj5lQtxEtAc5rW2Xh1dM3R3-M8KxxSUZw" alt="Dartboard icon">
+<!---->        </figure>
+    </div>
+  
+      </div>
+      <div id class="component component-richText" data-component-type="richText">
+        
+
+        
+    <div class="rich-text global-paragraph-style--p2">
+      <h2>Accessibility&nbsp;@&nbsp;LinkedIn</h2><p>As a Microsoft company, we've embraced digital inclusion, adopting the W3C (World Wide Web Consortium) WCAG (Web Content Accessibility Guidelines) V2.1 Level AA in the design and&nbsp;development of our products.&nbsp;&nbsp;</p><p>As part of our commitment&nbsp;to accessibility&nbsp;we&nbsp;continuously audit our products—internally and through a third party—using assistive technology such as screen reading software (e.g., JAWS, NVDA, VoiceOver and TalkBack).</p><h3><strong>Read more about our Accessibility journey</strong></h3><p><a rel="" href="https://www.linkedin.com/pulse/linkedins-latest-accessibility-integration-helps-all-members-berger-uvyrc/" target="_blank">LinkedIn's Latest Accessibility Integration Helps All Members Access Content More Easily</a> by Erran Berger, VP of Product Engineering&nbsp;</p><p><a rel="" href="https://www.linkedin.com/pulse/making-learning-more-accessible-dan-brodnitz/" target="_blank">Making Learning More Accessible</a> by Dan Brodnitz, Global Head of Content Strategy</p><p><a rel="" href="https://www.linkedin.com/pulse/disparities-employment-outcomes-us-individuals-avcoc%3FtrackingId=eTc1QIfqZ7%252FGmwP8HsrI9g%253D%253D/?trackingId=eTc1QIfqZ7%2FGmwP8HsrI9g%3D%3D" target="_blank">Disparities in Employment Outcomes in the US for Individuals with Disabilities</a> by&nbsp;Matthew Baird, Senior Staff Economist</p><p><a rel="" href="https://www.linkedin.com/pulse/unlock-potential-dyslexic-thinking-linkedin-p80yc/?trackingId=ACsErU0nSbifaE9AepuIXA%3D%3D" target="_blank">Unlock the potential of Dyslexic Thinking</a> by In the Loop</p><p><a rel="" href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdriving-more-equitable-workforce-enhanced-tools-resources-berger%2F%3FtrackingId%3DzC1UdF%252BjRRe2me1FO%252BY1UA%253D%253D&data=05%7C01%7Cashinton%40linkedin.com%7C54b016b79b254814efc308db0fd5c9e3%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C638121183112175237%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=TH%2BglO%2BDz1Sqdw8h45TldlBGFzKrXDicBlnr%2F6DOtYY%3D&reserved=0" target="_self">Driving a More Equitable Workforce with Enhanced A11Y Tools and Resources</a> by Erran Berger, VP of Product Engineering&nbsp;</p><p><a rel="" href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcelebrating-national-disability-employment-awareness-month-thawer%2F&data=05%7C01%7Cashinton%40linkedin.com%7C54b016b79b254814efc308db0fd5c9e3%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C638121183112175237%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0Lg6HMGAd1cOIyfibXzRiAmxVIJkN9xTNrwCCmcbtCw%3D&reserved=0" target="_self">Celebrating National Disability Employment Awareness Month at LinkedIn with New Features and Important Conversations</a> by Amyn Thawer, VP of Global Compliance &amp; Integrity&nbsp;</p><p><a rel="" href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Four-journey-make-linkedin-more-inclusive-accessible-melissa-selcher%2F&data=05%7C01%7Cashinton%40linkedin.com%7C54b016b79b254814efc308db0fd5c9e3%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C638121183112175237%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Zfi3pyqSRP8rufkRt9YdhXSte6khOW92jN4vqaUu1Oo%3D&reserved=0" target="_self">Our Journey to Make LinkedIn More Inclusive and Accessible</a> by Melissa Selcher, Chief Marketing and Communications Officer<br>
+ </p>
+    </div>  
+  
+      </div>
+  
+          </li>
+          <li id="more-info" class="standalone-list__item   t-16dp">
+            
+
+      <div id class="component component-standaloneImage" data-component-type="standaloneImage">
+        
+
+        
+
+    <div class="standalone-image-component standalone-image-component--original-width">
+        <figure>
+          <img class="standalone-image-component__image" sizes="(max-width: 480px) 480px, (max-width: 767px) 767px, (max-width: 1024px) 1024px, 1920px" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D08AQHDPESgCTS_0g/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1606258489568?e=2147483647&amp;v=beta&amp;t=IlPI-erckcHr6gvicO_JHhxaEhsCjlTBIkzx-kZjMWk" alt="Document report icon">
+<!---->        </figure>
+    </div>
+  
+      </div>
+      <div id class="component component-richText" data-component-type="richText">
+        
+
+        
+    <div class="rich-text global-paragraph-style--p2">
+      <h2>Want even more info?</h2> <p>We&nbsp;have policies and conformance documentation to&nbsp;help explain our commitment and the current state of our products.</p> <p><strong>Policies:</strong>&nbsp;<a rel="" href="https://legal.linkedin.com/content/dam/legal/en-us/accessibility/aoda-policy-2018.pdf" target="_self">Accessibility Policy for Employees in Ontario</a></p> <p><strong>Conformance reports:</strong>&nbsp;Need a Section 508, WCAG, or EN 301 549 conformance report about one of our products? All of them are available through LinkedIn's <a rel="" href="https://www.linkedin.com/accessibility/reports" target="_blank">Accessibility Report Center</a>.</p>
+    </div>  
+  
+      </div>
+  
+          </li>
+      </ul>
+  
+  
+      </div>
+  
+
+<!---->    </section>  
+        </div>
+
+        <script src="https://static.licdn.com/aero-v1/sc/h/8hfbuq1ftcvnnx4dd5067pi0t" async></script>
+        <script src="https://static.licdn.com/aero-v1/sc/h/dev5px9xu71l67oqmrrbimi6b" async></script>
+        <script src="https://static.licdn.com/aero-v1/sc/h/84bdifmgoufs2u81mbnr8fnfo" async></script>
+      
+        </main>
+
+        
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer bg-transparent w-full ">
+      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:w-[1128px] papabear:p-0">
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/e12h2cd8ac580qen9qdd0qks8"></icon>
+          <span class="li-footer__copy-text flex items-center">&copy; 2024</span>
+        
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=content_footer-about" data-tracking-control-name="content_footer-about" data-tracking-will-navigate>
+          
+          About
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=content_footer-accessibility" data-tracking-control-name="content_footer-accessibility" data-tracking-will-navigate>
+          
+          Accessibility
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=content_footer-user-agreement" data-tracking-control-name="content_footer-user-agreement" data-tracking-will-navigate>
+          
+          User Agreement
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=content_footer-privacy-policy" data-tracking-control-name="content_footer-privacy-policy" data-tracking-will-navigate>
+          
+          Privacy Policy
+        
+        </a>
+  </li>
+
+<!---->        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=content_footer-cookie-policy" data-tracking-control-name="content_footer-cookie-policy" data-tracking-will-navigate>
+          
+          Cookie Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=content_footer-copyright-policy" data-tracking-control-name="content_footer-copyright-policy" data-tracking-will-navigate>
+          
+          Copyright Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=content_footer-brand-policy" data-tracking-control-name="content_footer-brand-policy" data-tracking-will-navigate>
+          
+          Brand Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=content_footer-guest-controls" data-tracking-control-name="content_footer-guest-controls" data-tracking-will-navigate>
+          
+            Guest Controls
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/help/linkedin/answer/34593?trk=content_footer-community-guide" data-tracking-control-name="content_footer-community-guide" data-tracking-will-navigate>
+          
+          Community Guidelines
+        
+        </a>
+  </li>
+
+        
+<!---->
+          
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
+<!---->
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-[100%] top-auto" role="menu" tabindex="-1">
+          
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="العربية (Arabic)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ar_AE" data-locale="ar_AE" role="menuitem" lang="ar_AE">
+                العربية (Arabic)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="বাংলা (Bangla)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-bn_IN" data-locale="bn_IN" role="menuitem" lang="bn_IN">
+                বাংলা (Bangla)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Čeština (Czech)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-cs_CZ" data-locale="cs_CZ" role="menuitem" lang="cs_CZ">
+                Čeština (Czech)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Dansk (Danish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-da_DK" data-locale="da_DK" role="menuitem" lang="da_DK">
+                Dansk (Danish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Deutsch (German)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-de_DE" data-locale="de_DE" role="menuitem" lang="de_DE">
+                Deutsch (German)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Ελληνικά (Greek)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-el_GR" data-locale="el_GR" role="menuitem" lang="el_GR">
+                Ελληνικά (Greek)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English (English) selected" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link--selected" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                <strong>English (English)</strong>
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Español (Spanish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-es_ES" data-locale="es_ES" role="menuitem" lang="es_ES">
+                Español (Spanish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="فارسی (Persian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fa_IR" data-locale="fa_IR" role="menuitem" lang="fa_IR">
+                فارسی (Persian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Suomi (Finnish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fi_FI" data-locale="fi_FI" role="menuitem" lang="fi_FI">
+                Suomi (Finnish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Français (French)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fr_FR" data-locale="fr_FR" role="menuitem" lang="fr_FR">
+                Français (French)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="हिंदी (Hindi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hi_IN" data-locale="hi_IN" role="menuitem" lang="hi_IN">
+                हिंदी (Hindi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Magyar (Hungarian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hu_HU" data-locale="hu_HU" role="menuitem" lang="hu_HU">
+                Magyar (Hungarian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Indonesia (Indonesian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-in_ID" data-locale="in_ID" role="menuitem" lang="in_ID">
+                Bahasa Indonesia (Indonesian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Italiano (Italian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-it_IT" data-locale="it_IT" role="menuitem" lang="it_IT">
+                Italiano (Italian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="עברית (Hebrew)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-iw_IL" data-locale="iw_IL" role="menuitem" lang="iw_IL">
+                עברית (Hebrew)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="日本語 (Japanese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ja_JP" data-locale="ja_JP" role="menuitem" lang="ja_JP">
+                日本語 (Japanese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="한국어 (Korean)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ko_KR" data-locale="ko_KR" role="menuitem" lang="ko_KR">
+                한국어 (Korean)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="मराठी (Marathi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-mr_IN" data-locale="mr_IN" role="menuitem" lang="mr_IN">
+                मराठी (Marathi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Malaysia (Malay)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ms_MY" data-locale="ms_MY" role="menuitem" lang="ms_MY">
+                Bahasa Malaysia (Malay)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Nederlands (Dutch)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-nl_NL" data-locale="nl_NL" role="menuitem" lang="nl_NL">
+                Nederlands (Dutch)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Norsk (Norwegian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-no_NO" data-locale="no_NO" role="menuitem" lang="no_NO">
+                Norsk (Norwegian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ਪੰਜਾਬੀ (Punjabi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pa_IN" data-locale="pa_IN" role="menuitem" lang="pa_IN">
+                ਪੰਜਾਬੀ (Punjabi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Polski (Polish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pl_PL" data-locale="pl_PL" role="menuitem" lang="pl_PL">
+                Polski (Polish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Português (Portuguese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pt_BR" data-locale="pt_BR" role="menuitem" lang="pt_BR">
+                Português (Portuguese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Română (Romanian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ro_RO" data-locale="ro_RO" role="menuitem" lang="ro_RO">
+                Română (Romanian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Русский (Russian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ru_RU" data-locale="ru_RU" role="menuitem" lang="ru_RU">
+                Русский (Russian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Svenska (Swedish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-sv_SE" data-locale="sv_SE" role="menuitem" lang="sv_SE">
+                Svenska (Swedish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="తెలుగు (Telugu)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-te_IN" data-locale="te_IN" role="menuitem" lang="te_IN">
+                తెలుగు (Telugu)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ภาษาไทย (Thai)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-th_TH" data-locale="th_TH" role="menuitem" lang="th_TH">
+                ภาษาไทย (Thai)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tagalog (Tagalog)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tl_PH" data-locale="tl_PH" role="menuitem" lang="tl_PH">
+                Tagalog (Tagalog)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Türkçe (Turkish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tr_TR" data-locale="tr_TR" role="menuitem" lang="tr_TR">
+                Türkçe (Turkish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Українська (Ukrainian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-uk_UA" data-locale="uk_UA" role="menuitem" lang="uk_UA">
+                Українська (Ukrainian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tiếng Việt (Vietnamese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-vi_VN" data-locale="vi_VN" role="menuitem" lang="vi_VN">
+                Tiếng Việt (Vietnamese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="简体中文 (Chinese (Simplified))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_CN" data-locale="zh_CN" role="menuitem" lang="zh_CN">
+                简体中文 (Chinese (Simplified))
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="正體中文 (Chinese (Traditional))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_TW" data-locale="zh_TW" role="menuitem" lang="zh_TW">
+                正體中文 (Chinese (Traditional))
+            </button>
+          </li>
+<!---->      
+        </ul>
+
+          
+        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+          <span class="language-selector__label-text mr-0.5 break-words">
+            Language
+          </span>
+          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+        </button>
+      
+    </div>
+  
+  
+          
+  </li>
+
+      </ul>
+
+<!---->    </footer>
+  
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/eh08muqvrde4h3hc6koyij5ti" async></script>
+<!---->          
+      </body>
+    </html>
+  
+  
+  

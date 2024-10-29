@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+
+    
+    <html lang="en">
+      <head>
+        <meta name="pageKey" content="d_products_marketplace_guest_product_categories_serp_page">
+<!---->        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="0.0.958" data-call-tree-id="AAYjLPh47h0o9Ele+wOc2w==" data-multiproduct-name="marketplaces-guest-frontend" data-service-name="marketplaces-guest-frontend" data-browser-id="3aa646ab-3afd-40c7-8e3c-db7525d71b4e" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_products_marketplace_guest_product_categories_serp_page;kwu1dHFiRw+lkxx6PZUe6w==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-logout-url="/uas/logout">
+
+        <link rel="canonical" href="https://www.linkedin.com/products/categories/human-resources-management-systems">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
+
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        <title>Best Human Resources Management Systems (HRMS) | Products | LinkedIn</title>
+        <meta name="description" content="Discover top products in Human Resources Management Systems (HRMS), trusted by LinkedIn, the world’s largest professional network">
+
+        <meta property="og:title" content="Best Human Resources Management Systems (HRMS) | Products | LinkedIn">
+        <meta property="og:description" content="Discover top products in Human Resources Management Systems (HRMS), trusted by LinkedIn, the world’s largest professional network">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.linkedin.com/products/categories/human-resources-management-systems">
+        <meta property="og:image" content="https://static.licdn.com/aero-v1/sc/h/2tlbmif5mv1o8m84bkv29l34h">
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@linkedin">
+        <meta name="twitter:title" content="Best Human Resources Management Systems (HRMS) | Products | LinkedIn">
+        <meta name="twitter:description" content="Discover top products in Human Resources Management Systems (HRMS), trusted by LinkedIn, the world’s largest professional network">
+        <meta name="twitter:image" content="https://static.licdn.com/aero-v1/sc/h/2tlbmif5mv1o8m84bkv29l34h">
+
+        <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/services/api/ingraphs/gauge" data-counter-metric-endpoint="/services/api/ingraphs/counter">
+          <meta name="robots" content="noarchive">
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/2iqj6svatd0g270dube6nkbfv">
+      
+<!---->      </head>
+      <body dir="ltr">
+<!----><!----><!---->
+        
+        <div class="products-serp-layout">
+          
+    
+    
+    
+    
+    
+    
+    
+
+
+<!---->
+    
+    
+    <div class="base-serp-page">
+        
+    
+
+    <a href="#main-content" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
+      Skip to main content
+    </a>
+  
+      <header class="base-serp-page__header global-alert-offset">
+          
+
+    
+    
+    
+
+    <nav class="nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap babybear:flex-wrap babybear:py-1.5
+        " aria-label="Primary">
+
+<!---->
+      <a href="/?trk=products_seo_search_nav-header-logo" class="nav__logo-link link-no-visited-state z-1 mr-auto babybear:z-0 babybear:mr-0 babybear:flex-1 hover:no-underline focus:no-underline active:no-underline
+          " data-tracking-control-name="products_seo_search_nav-header-logo" data-tracking-will-navigate>
+          
+                
+          
+    
+    <span class="sr-only">LinkedIn</span>
+<!---->      <icon class="block text-color-brand w-[84px] h-[21px] papabear:w-[135px] papabear:h-[34px]
+          " data-test-id="nav-logo" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb"></icon>
+  
+      
+            
+      </a>
+
+        
+
+    
+    
+    
+    
+
+    <section class="search-bar relative flex flex-grow h-[40px] bg-cool-gray-20 min-w-0 max-w-full mx-4 rounded-sm babybear:mx-0 babybear:mb-1.5 babybear:bg-color-transparent babybear:w-full babybear:flex babybear:flex-wrap
+        " data-current-search-type="JOBS">
+      <button class="search-bar__placeholder papabear:hidden mamabear:hidden text-input w-full mt-1.5 !pl-[14px] border-1 border-solid border-color-border-faint rounded-[2px] h-[40px] max-h-[40px] flex items-center overflow-hidden cursor-text" data-tracking-control-name="products_seo_search_search-switcher-opener">
+        <icon class="text-color-icon w-3 h-3 mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/397vrsk6op88l4981ji1xe1qt"></icon>
+        <div class="search-bar__full-placeholder font-sans text-md text-color-text max-w-[calc(100%-40px)] text-left whitespace-nowrap overflow-hidden text-ellipsis">
+<!----><!----><!---->        </div>
+        <span class="sr-only">Expand search</span>
+      </button>
+      
+      
+        
+
+    
+    
+    
+    
+
+    <div class="switcher-tabs__trigger-and-tabs babybear:flex">
+        <button aria-expanded="false" class="switcher-tabs__placeholder flex !h-full !py-0 !pl-2 !pr-1.5 border-r-1 border-solid border-r-color-border-faint babybear:hidden
+            tab-md papabear:tab-vertical mamabear:tab-vertical papabear:justify-start mamabear:justify-start cursor-pointer" data-tracking-control-name="products_seo_search_switcher-tabs-placeholder">
+          <span class="switcher-tabs__placeholder-text m-auto"></span>
+          <icon class="switcher-tabs__caret-down-filled onload pointer-events-none block my-auto min-h-[24px] min-w-[24px] h-[24px] babybear:hidden" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv"></icon>
+        </button>
+
+        <div class="switcher-tabs hidden z-[1] w-auto min-w-[160px] mb-1.5 py-1 absolute top-[48px] left-0 border-solid border-1 border-color-border-faint papabear:container-raised mamabear:container-raised babybear:static babybear:w-[100vw] babybear:h-[48px] babybear:p-0">
+          <ul class="switcher-tabs__list flex flex-1 items-stretch papabear:flex-col mamabear:flex-col" role="tablist">
+              <li class="switcher-tabs__tab h-[44px] babybear:basis-1/2" aria-selected="true" role="tab">
+                <button class="switcher-tabs__button w-full h-full
+                    tab-md papabear:tab-vertical mamabear:tab-vertical papabear:justify-start mamabear:justify-start cursor-pointer
+                    tab-selected" data-switcher-type="JOBS" data-tracking-control-name="products_seo_search_switcher-tabs-jobs-search-switcher" type="button">
+                  Jobs
+                </button>
+              </li>
+              <li class="switcher-tabs__tab h-[44px] babybear:basis-1/2" aria-selected="false" role="tab">
+                <button class="switcher-tabs__button w-full h-full
+                    tab-md papabear:tab-vertical mamabear:tab-vertical papabear:justify-start mamabear:justify-start cursor-pointer
+                    " data-switcher-type="PEOPLE" data-tracking-control-name="products_seo_search_switcher-tabs-people-search-switcher" type="button">
+                  People
+                </button>
+              </li>
+              <li class="switcher-tabs__tab h-[44px] babybear:basis-1/2" aria-selected="false" role="tab">
+                <button class="switcher-tabs__button w-full h-full
+                    tab-md papabear:tab-vertical mamabear:tab-vertical papabear:justify-start mamabear:justify-start cursor-pointer
+                    " data-switcher-type="LEARNING" data-tracking-control-name="products_seo_search_switcher-tabs-learning-search-switcher" type="button">
+                  Learning
+                </button>
+              </li>
+          </ul>
+
+          <button aria-label="Close" class="switcher-tabs__cancel-btn papabear:hidden mamabear:hidden block w-6 h-6 m-auto text-color-text-low-emphasis" data-tracking-control-name="products_seo_search_switcher-tabs-cancel-search-switcher" type="button">
+            <icon class="switcher-tabs__cancel-icon block w-3 h-3 m-auto onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+          </button>
+        </div>
+    </div>
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="PEOPLE">
+      <form class="base-search-bar__form w-full flex babybear:mx-mobile-container-padding babybear:flex-col" role="search" action="/pub/dir" data-tracking-control-name="products_seo_search_people-search-bar_base-search-bar-form">
+        
+          
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="First Name" name="firstName" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="First Name" autocomplete="on" data-tracking-control-name="products_seo_search_people-search-bar_first-name_dismissable-input" maxlength="500" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_people-search-bar_first-name_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+          
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="Last Name" name="lastName" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Last Name" autocomplete="on" data-tracking-control-name="products_seo_search_people-search-bar_last-name_dismissable-input" maxlength="500" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_people-search-bar_last-name_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+      
+        <input name="trk" value="products_seo_search_people-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babybear:invisible babybear:ml-[-9999px] babybear:w-[1px] babybear:h-[1px]" aria-label="Search" data-tracking-control-name="products_seo_search_people-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="JOBS">
+      <form class="base-search-bar__form w-full flex babybear:mx-mobile-container-padding babybear:flex-col" role="search" action="/jobs/search" data-tracking-control-name="products_seo_search_jobs-search-bar_base-search-bar-form">
+        
+        
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input keywords-typeahead-input text-input">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-keywords-typeahead-list" aria-haspopup="listbox" aria-label="Search job titles or companies" name="keywords" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Search job titles or companies" autocomplete="off" data-tracking-control-name="products_seo_search_dismissable-input" maxlength="500" role="combobox" type="search">
+      
+<!---->      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-tint" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="job-search-bar-keywords-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+<!---->        
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input location-typeahead-input">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-location-typeahead-list" aria-haspopup="listbox" aria-label="Location" name="location" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Location" autocomplete="off" data-tracking-control-name="products_seo_search_dismissable-input" maxlength="500" role="combobox" type="search">
+      
+<!---->      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-tint" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="job-search-bar-location-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        <input name="geoId" type="hidden">
+      
+        <input name="trk" value="products_seo_search_jobs-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babybear:invisible babybear:ml-[-9999px] babybear:w-[1px] babybear:h-[1px]" aria-label="Search" data-tracking-control-name="products_seo_search_jobs-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="LEARNING">
+      <form class="base-search-bar__form w-full flex babybear:mx-mobile-container-padding babybear:flex-col" role="search" action="/learning/search" data-tracking-control-name="products_seo_search_learning-search-bar_base-search-bar-form">
+        
+        
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="Search skills, subjects, or software" name="keywords" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Search skills, subjects, or software" autocomplete="on" data-tracking-control-name="products_seo_search_learning-search-bar_keywords_dismissable-input" maxlength="500" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_learning-search-bar_keywords_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        <input class="nav__search-uoo" name="upsellOrderOrigin" type="hidden">
+        
+      
+        <input name="trk" value="products_seo_search_learning-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babybear:invisible babybear:ml-[-9999px] babybear:w-[1px] babybear:h-[1px]" aria-label="Search" data-tracking-control-name="products_seo_search_learning-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+        <div aria-live="polite" class="search-bar__live-text sr-only" role="status"></div>
+      
+  
+    </section>
+  
+
+<!---->
+      <div class="nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2
+          ">
+          
+    
+    <a class="nav__button-tertiary btn-md btn-tertiary" href="https://www.linkedin.com/signup/cold-join?session_redirect=%2Fservices%2Fproducts%2Fcategories%2Fhuman-resources-management-systems&amp;trk=products_seo_search_nav-header-join" data-tracking-control-name="products_seo_search_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate>
+      Join now
+    </a>
+
+
+            
+      
+      <a class="nav__button-secondary btn-md btn-secondary-emphasis" href="https://www.linkedin.com/uas/login?session_redirect=%2Fservices%2Fproducts%2Fcategories%2Fhuman-resources-management-systems&amp;fromSignIn=true&amp;trk=products_seo_search_nav-header-signin" data-tracking-control-name="products_seo_search_nav-header-signin" data-tracking-will-navigate>
+        Sign in
+      </a>
+
+
+<!---->      </div>
+
+<!---->
+<!---->    </nav>
+  
+      </header>
+
+<!---->
+      
+        
+        <div class="products-serp-layout__top-section">
+          <div class="products-serp-layout__top-filters">
+            
+    
+    
+    
+
+    
+    <div class="single-search-bar products-serp-layout__search-bar product-search-bar" data-current-search-type="PRODUCTS" data-products-search-bar>
+      
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="PRODUCTS">
+      <form class="base-search-bar__form w-full flex babybear:mx-mobile-container-padding babybear:flex-col" role="search" action="#" data-tracking-control-name="products_seo_search_products_base-search-bar-form">
+        
+<!---->
+          
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input keywords-typeahead-input">
+      <input aria-autocomplete="list" aria-controls="PRODUCTS-search-bar-typeahead-list" aria-haspopup="listbox" aria-label="Search products by name or category" name="PRODUCTS" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Search products by name or category" autocomplete="off" data-tracking-control-name="products_seo_search_products_dismissable-input" maxlength="500" role="combobox" type="search">
+      
+        <div aria-live="polite" class="typeahead-live-text sr-only" role="status"></div>
+      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-tint" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="PRODUCTS-search-bar-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_products_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        
+        <input name="trk" value="products_seo_search_products_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babybear:invisible babybear:ml-[-9999px] babybear:w-[1px] babybear:h-[1px]" aria-label="Search" data-tracking-control-name="products_seo_search_products_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+    </div>
+  
+
+    <code id="productSearchCategoryTitle" style="display: none"><!--{"str":"Categories"}--></code>
+
+    <code id="productSearchProductTitle" style="display: none"><!--{"str":"Products"}--></code>
+  
+            
+    
+    
+    
+    
+    
+
+    <form class="top-filters">
+      <ul class="top-filters__list">
+<!---->            <li class="top-filters__item">
+              
+    
+    
+
+    <div class="filter-dropdown" data-facet-name="role">
+      
+    <button id="roleFacets_dropdown-btn" class="filter-button__button  filter-dropdown__button" aria-expanded="false" aria-controls="roleFacets_dropdown" data-tracking-control-name="products_seo_search_dropdown_btn" type="button">
+      Used by
+<!---->
+      <icon class="filter-button__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv"></icon>
+    </button>
+  
+
+      <div id="roleFacets_dropdown" class="filter-dropdown__dropdown">
+        <fieldset>
+          <legend class="sr-only">Used by</legend>
+          
+    
+
+    <div class="filter-list">
+      
+<!---->            
+      <template class="filter-list__item-template">
+        <li class="filter-list__list-item">
+          <input name="_R" type="checkbox">
+          <label></label>
+        </li>
+      </template>
+      <ul class="filter-list__list filter-dropdown__list hidden" tabindex="-1">
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:45" name="_R" value="urn:li:title:45" type="checkbox">
+            <label for="urn:li:title:45">
+              Human Resources Manager (480)
+            </label>
+          </li>
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:79" name="_R" value="urn:li:title:79" type="checkbox">
+            <label for="urn:li:title:79">
+              Human Resources Specialist (357)
+            </label>
+          </li>
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:767" name="_R" value="urn:li:title:767" type="checkbox">
+            <label for="urn:li:title:767">
+              Head of Human Resources (236)
+            </label>
+          </li>
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:105" name="_R" value="urn:li:title:105" type="checkbox">
+            <label for="urn:li:title:105">
+              Human Resources Director (225)
+            </label>
+          </li>
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:8" name="_R" value="urn:li:title:8" type="checkbox">
+            <label for="urn:li:title:8">
+              Chief Executive Officer (130)
+            </label>
+          </li>
+        <li class="filter-list__list-item">
+          <input class="filter-list__action filter-list__action--apply" value="Done" data-tracking-control-name="products_seo_search_filter_dropdown_apply_btn" type="button">
+        </li>
+      </ul>
+    </div>
+  
+        </fieldset>
+      </div>
+    </div>
+  
+            </li>
+<!---->        <li class="top-filters__item">
+          <a class="top-filters__item--clear top-filters__link-button" href="/products/search/?q&amp;trk=products_seo_search" aria-label="See all products" data-tracking-control-name="products_seo_search_see_all_products_link" data-tracking-will-navigate>
+            See all products
+          </a>
+        </li>
+      </ul>
+    </form>
+  
+          </div>
+          <section class="products-serp-layout__hero" data-impression-id="products-guest-search-hero">
+              
+    <div class="serp-hero">
+      <div class="serp-hero__text-container">
+        <h1 class="serp-hero__title">
+          Find top products in Human Resources Management Systems (HRMS) category
+        </h1>
+          <p class="serp-hero__subtitle t-16 t-black--light">
+            Software used to integrate employee information and logistics in a suite of human resource functionalities.
+- Provide time tracking and scheduling, process payroll and expenses, and manage benefits
+- Record and evaluate goals, performance, and compensation
+- Use recruitment, onboarding, and training tools
+- Enforce compliance regulations, such as risk and safety and employee relations
+          </p>
+          <p class="serp-hero__results-title t-16 t-bold t-black--light">
+            1129 results
+          </p>
+<!---->      </div>
+      <div class="serp-hero__image-container">
+        <img class="serp-hero__image onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/di2kzk7mfpka0hbydu9s1y7ft" alt="Person working in front of a computer">
+      </div>
+    </div>
+  
+          </section>
+        </div>
+      
+      
+
+      <div class="base-serp-page__content">
+        
+        <main id="main-content" class="serp-page__results" role="main">
+<!---->
+            <section class="serp-page__results-list">
+<!---->              
+          <ul data-product-cards-list class>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/tata-consultancy-services-tcs-chroma™/?trk=products_seo_search" aria-label="View TCS Chroma™" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D33AQEUO2SH3pHx1g/productpage-logo-image_100_100/productpage-logo-image_100_100/0/1676889452454/tata_consultancy_services_tcs_chroma_logo?e=2147483647&amp;v=beta&amp;t=dVxbQUNpHiuE46aJSyE0V21US55SU2rPHb4uE-GIT4E" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="TCS Chroma™’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/tata-consultancy-services-tcs-chroma™/?trk=products_seo_search" aria-label="View TCS Chroma™" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">TCS Chroma™</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/tata-consultancy-services?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Tata Consultancy Services</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/tata-consultancy-services-tcs-chroma™/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                TCS CHROMA™ is a cloud-based end-to-end talent management solution enabling organizations to focus on nurturing talent, and actively builds a progressive organizational culture while intelligently empowering employees ensuring human resources to be invisibly embedded into the enterprise. The solution is AI-driven and addresses the core and strategic talent needs of organizations from talent hire to separation. It offers comprehensive functionalities through simple-to-use intuitive user interface, self-service enablement, collaboration and social features, mobile enablement, and a comprehensive portfolio of embedded reports and dashboards.
+
+TCS CHROMA™ brings in next-generation employee experience by enabling enterprises to rapidly adopt HR best practices, foster collaboration, effectively manage talent through intelligent forecasting for future staffing needs, intelligent hiring, seamless onboarding, continuous feedback driven performance, anytime anywhere learning. 
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/tata-consultancy-services-tcs-chroma™/?trk=products_seo_search" aria-label="View TCS Chroma™" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/zohocorp-zoho-people/?trk=products_seo_search" aria-label="View Zoho People" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5633AQHvF-YL9WLZKA/productpage-logo-image_100_100/productpage-logo-image_100_100/0/1630999572854/null_logo?e=2147483647&amp;v=beta&amp;t=onBBVGywDLupwMne4DWM4bjc-kWB_hgaJNrZTJCIvsE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Zoho People’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/zohocorp-zoho-people/?trk=products_seo_search" aria-label="View Zoho People" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Zoho People</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/zoho?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Zoho</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/zohocorp-zoho-people/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Zoho People is comprehensive, cloud-based HR software that helps businesses of all types streamline their HR processes and improve their efficiency. Built with a user-friendly interface, Zoho People offers customization and automation capabilities, as well as integrations with native Zoho apps and third-party applications to simplify your HR tasks and save time. It is also available as a mobile app and supports over 22 languages.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/zohocorp-zoho-people/?trk=products_seo_search" aria-label="View Zoho People" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/revolut-people/?trk=products_seo_search" aria-label="View Revolut People" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4D33AQFewyhfq1JyEw/productpage-logo-image_100_100/productpage-logo-image_100_100/0/1721148106472/revolut_people_logo?e=2147483647&amp;v=beta&amp;t=ltncr4Nom0APLY6lTeLM3vwywTyNa9t7jo_EiUSzuJY" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Revolut People’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/revolut-people/?trk=products_seo_search" aria-label="View Revolut People" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Revolut People</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/revolut?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Revolut</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/revolut-people/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Revolut People helps you handle your talent with its HR, recruitment and performance management solutions. It has been key to Revolut’s growth over the last five years and is now available to companies of all sizes.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/revolut-people/?trk=products_seo_search" aria-label="View Revolut People" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/workday-human-capital-management/?trk=products_seo_search" aria-label="View Workday Human Capital Management" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQFpt1PjH2h4pA/company-logo_100_100/company-logo_100_100/0/1656686709493/workday_logo?e=2147483647&amp;v=beta&amp;t=EaqX9d_XVXFcA37BDYRIR9HW81sC-QriIVjRlsiqGo4" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Workday Human Capital Management’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/workday-human-capital-management/?trk=products_seo_search" aria-label="View Workday Human Capital Management" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Workday Human Capital Management</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/workday?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Workday</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/workday-human-capital-management/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Innovations for the changing world of HR.
+
+Your workforce, how and where your people work, and the skills you need to thrive continue to shift. So how do you adapt to the future? Meet Workday Human Capital Management (HCM).
+
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/workday-human-capital-management/?trk=products_seo_search" aria-label="View Workday Human Capital Management" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/deel/?trk=products_seo_search" aria-label="View Deel" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQES3O6oszqhug/company-logo_100_100/company-logo_100_100/0/1708945543116/deel_logo?e=2147483647&amp;v=beta&amp;t=Fau0xMWDcBZBc0da0npl7URSdl6Qqf_OVNbBMz6DMsU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Deel’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/deel/?trk=products_seo_search" aria-label="View Deel" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Deel</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/deel?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Deel</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/deel/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                The way we work is going global, with businesses hiring people scattered all over the world. But until now, no HR platform has been able to handle everything, for everyone. From different payroll software for every region to multiple HR platforms for their mix of workers, some teams have to use 16 different tools to make it work.
+
+Deel's the future of global HR, but it's a platform you can use today. It’s the only platform that works for your team wherever they are, whatever their status. Consolidate international hiring, payroll, and HRIS for contractors, EOR employees and team members hired through your own entities, into one easy-to-use platform.
+
+Building a global team is simpler than ever. Hire employees, sponsor visas and run payroll through our Deel-owned entities worldwide. Handle all things global HR in one place with built-in compliant contracts, background checks, equipment, app provisioning and more. 
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/deel/?trk=products_seo_search" aria-label="View Deel" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+                <li class="products-serp-layout__insight">
+                  
+    <div class="insights-card">
+      <icon class="insights-card__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1iwnqbpcmxhny1818u5cjmign">
+      </icon>
+      <div class="insights-card__text-content">
+        <h3 class="insights-card__title">Find products trusted by professionals in your network</h3>
+        <p class="insights-card__body">
+          See which products are used by connections in your network and those that share similar job titles
+          <a class="insights-card__link" href="https://www.linkedin.com/signup/cold-join?session_redirect=%2Fservices%2Fproducts%2Fcategories%2Fhuman-resources-management-systems&amp;trk=products_seo_search_insights_sign_in" data-tracking-control-name="products_seo_search_insights_sign_in" data-tracking-will-navigate>
+            Sign in to view full insights
+          </a>
+        </p>
+      </div>
+    </div>
+  
+                </li>
+              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/personio/?trk=products_seo_search" aria-label="View Personio" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQHqZToSLhjV9Q/company-logo_100_100/company-logo_100_100/0/1666252443857/personio_logo?e=2147483647&amp;v=beta&amp;t=f-Pn7KDAS2zQ9InhZ06wCIpqZJYmsj5KBwkP6y7l3M0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Personio’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/personio/?trk=products_seo_search" aria-label="View Personio" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Personio</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/personio?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Personio</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/personio/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Every people process. In one place.
+
+Simplify and automate your HR processes with Personio’s all-in-one HR software, tailored to the needs of small and medium-sized businesses. 
+
+Recruit, manage, pay, and develop your employees — all from one software. The result is more time for what matters: people.
+
+Get to know Personio! 
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/personio/?trk=products_seo_search" aria-label="View Personio" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/ceridian-dayforce/?trk=products_seo_search" aria-label="View Dayforce" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEKNcYvZDH_VA/company-logo_100_100/company-logo_100_100/0/1630620711860/ceridian_logo?e=2147483647&amp;v=beta&amp;t=QQiPbtxf3yDEwsZJQlmOY3nZxwnbpsp0vun2l6oXpTk" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Dayforce’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/ceridian-dayforce/?trk=products_seo_search" aria-label="View Dayforce" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Dayforce</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/ceridian?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Ceridian</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/ceridian-dayforce/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Dayforce is a modern HCM cloud software platform built to meet your human capital management needs in payroll, benefits, tax, compliance, workforce and talent management.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/ceridian-dayforce/?trk=products_seo_search" aria-label="View Dayforce" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/nice-systems-workforce-management/?trk=products_seo_search" aria-label="View Workforce Management" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFeuyPE9VmC-g/company-logo_100_100/company-logo_100_100/0/1630647189189/nice_systems_logo?e=2147483647&amp;v=beta&amp;t=uE5WLPBlEYKAnEAyZQtQOgYG3i65Z24wE-UQk80-Wco" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Workforce Management’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/nice-systems-workforce-management/?trk=products_seo_search" aria-label="View Workforce Management" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Workforce Management</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/nice-systems?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">NICE</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/nice-systems-workforce-management/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                What is NICE Workforce Management?
+Workforce managers are constantly bombarded by new challenges and organizational demands: Near-constant changes to the forecast and schedule, increased needs from customers, and evolving employee hiring and retention requirements create an environment where it’s difficult to respond quickly enough or understand the best possible action to take.   To meet these demands, contact centers around the world are rushing to adopt artificial intelligence (AI)-based workforce management (WFM) tools from NICE.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/nice-systems-workforce-management/?trk=products_seo_search" aria-label="View Workforce Management" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/thedarwinbox-darwinbox/?trk=products_seo_search" aria-label="View Darwinbox" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQFI58eozfLpkw/company-logo_100_100/company-logo_100_100/0/1630486173635/thedarwinbox_logo?e=2147483647&amp;v=beta&amp;t=gk6QsWuoaA7iWTawb0_wYYq4sKvH05mRXy4z0kZaBLc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Darwinbox’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/thedarwinbox-darwinbox/?trk=products_seo_search" aria-label="View Darwinbox" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Darwinbox</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/thedarwinbox?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Darwinbox</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/thedarwinbox-darwinbox/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Darwinbox is a new-age end-to-end HR Technology solution that empowers enterprises with AI-powered HCM for the evolving world of work!
+850+ Enterprises and 2.2 million+ employees trust the Darwinbox experience.
+We enable large enterprises
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/thedarwinbox-darwinbox/?trk=products_seo_search" aria-label="View Darwinbox" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/peoplestrong/?trk=products_seo_search" aria-label="View PeopleStrong" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQGO4H_RF_ahWQ/company-logo_100_100/company-logo_100_100/0/1704792843465?e=2147483647&amp;v=beta&amp;t=lpR9_XV_WiivwUw7yn6a_uNUGgpa2osWJpO1TycQG4w" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="PeopleStrong’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/peoplestrong/?trk=products_seo_search" aria-label="View PeopleStrong" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">PeopleStrong</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Human Resources Management Systems (HRMS) by <a href="/company/peoplestrong?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">PeopleStrong</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/peoplestrong/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Our comprehensive HR Tech 4.0 platform encompasses the employee lifecycle from hire to exit, including Human Capital Management, Payroll, Talent Acquisition &amp; Management, and Collaboration.  Simplifying work life for over 2 Million employees at 500+ large enterprises across AsiaPac.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/peoplestrong/?trk=products_seo_search" aria-label="View PeopleStrong" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+          </ul>
+            <section class="products-serp-layout__see-more-container ">
+              
+    <div class="loader hidden">
+      <div class="loader__container mb-2 overflow-hidden">
+        <icon class="loader__icon inline-block loader__icon--default text-color-progress-loading" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1" data-svg-class-name="loader__icon-svg--small fill-currentColor h-[30px] min-h-[30px] w-[30px] min-w-[30px]"></icon>
+      </div>
+    </div>
+  
+              <button class="products-serp-layout__see-more t-16" data-tracking-control-name="products_seo_search_see_more" data-tracking-will-navigate type="button">
+                See more
+              </button>
+            </section>
+      
+            </section>
+        </main>
+          <aside class="serp-page__aside">
+            
+        <div class="products-serp-layout__aside">
+          
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="how-it-works">
+      <h3 class="t-24">How it works</h3>
+      <ul class="how-it-works__items-list">
+        <li class="how-it-works__item">
+          <div class="how-it-works__icon-wrapper">
+            <icon class="how-it-works__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/6l9w5f9bvl4sb46z759ytgh3p"></icon>
+          </div>
+          <div>
+            <h4 class="t-16">Explore</h4>
+            <p class="t-14 t-black--light">Discover the best product for your need from a growing catalog of 25,000 products and categories trusted by LinkedIn professionals</p>
+          </div>
+        </li>
+        <li class="how-it-works__item">
+          <div class="how-it-works__icon-wrapper">
+            <icon class="how-it-works__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/d4pdkz7ay1y8u5fq9oqh43abj"></icon>
+          </div>
+          <div>
+            <h4 class="t-16">Learn</h4>
+            <p class="t-14 t-black--light">Evaluate new tools, explore trending products in your industry and see who in your network is skilled in the product</p>
+          </div>
+        </li>
+        <li class="how-it-works__item">
+          <div class="how-it-works__icon-wrapper">
+            <icon class="how-it-works__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/shy1lg9d921zoz7bz6ui73i2"></icon>
+          </div>
+          <div>
+            <h4 class="t-16">Grow</h4>
+            <p class="t-14 t-black--light">Join communities of product users to learn best practices, celebrate your progress and accelerate your career</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  
+        </div>
+      
+          </aside>
+      
+      </div>
+
+      
+        
+      
+
+      
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer bg-transparent w-full ">
+      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:w-[1128px] papabear:p-0">
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/e12h2cd8ac580qen9qdd0qks8"></icon>
+          <span class="li-footer__copy-text flex items-center">&copy; 2024</span>
+        
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=products_seo_search_footer-about" data-tracking-control-name="products_seo_search_footer-about" data-tracking-will-navigate>
+          
+          About
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=products_seo_search_footer-accessibility" data-tracking-control-name="products_seo_search_footer-accessibility" data-tracking-will-navigate>
+          
+          Accessibility
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=products_seo_search_footer-user-agreement" data-tracking-control-name="products_seo_search_footer-user-agreement" data-tracking-will-navigate>
+          
+          User Agreement
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=products_seo_search_footer-privacy-policy" data-tracking-control-name="products_seo_search_footer-privacy-policy" data-tracking-will-navigate>
+          
+          Privacy Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/california-privacy-disclosure?trk=products_seo_search_footer-california-privacy-rights-act" data-tracking-control-name="products_seo_search_footer-california-privacy-rights-act" data-tracking-will-navigate>
+          
+            Your California Privacy Choices
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=products_seo_search_footer-cookie-policy" data-tracking-control-name="products_seo_search_footer-cookie-policy" data-tracking-will-navigate>
+          
+          Cookie Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=products_seo_search_footer-copyright-policy" data-tracking-control-name="products_seo_search_footer-copyright-policy" data-tracking-will-navigate>
+          
+          Copyright Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=products_seo_search_footer-brand-policy" data-tracking-control-name="products_seo_search_footer-brand-policy" data-tracking-will-navigate>
+          
+          Brand Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=products_seo_search_footer-guest-controls" data-tracking-control-name="products_seo_search_footer-guest-controls" data-tracking-will-navigate>
+          
+            Guest Controls
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/professional-community-policies?trk=products_seo_search_footer-community-guide" data-tracking-control-name="products_seo_search_footer-community-guide" data-tracking-will-navigate>
+          
+          Community Guidelines
+        
+        </a>
+  </li>
+
+        
+<!---->
+          
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
+<!---->
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-[100%] top-auto" role="menu" tabindex="-1">
+          
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English selected" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link--selected" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                <strong>English</strong>
+            </button>
+          </li>
+      
+        </ul>
+
+          
+        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+          <span class="language-selector__label-text mr-0.5 break-words">
+            Language
+          </span>
+          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+        </button>
+      
+    </div>
+  
+  
+          
+  </li>
+
+      </ul>
+
+<!---->    </footer>
+  
+    </div>
+  
+  
+  
+        </div>
+        <code id="filterValues" style="display: none"><!--{"startIndex":10,"keyword":"","productCategoryUrns":["urn:li:standardizedProductCategory:1016"],"titleUrns":[],"currentCategoryUrn":"urn:li:standardizedProductCategory:1016"}--></code>
+        <code id="resultsTotal" style="display: none"><!--1129--></code>
+        <code id="isLoggedIn" style="display: none"><!--false--></code>
+        <code id="trackingPrefix" style="display: none"><!--"products_seo_search"--></code>
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/b3bkcytad1iwoflflnaq71col" async></script>
+          
+        <script src="https://static.licdn.com/aero-v1/sc/h/46szc6gaahr64r13frechi941" async defer></script>
+      
+      </body>
+    </html>
+  
+  

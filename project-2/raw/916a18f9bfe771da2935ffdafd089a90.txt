@@ -1,0 +1,2207 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script src="/sites/default/files/hotjar/hotjar.script.js?skfm92"></script>
+<meta name="description" content="The most comprehensive East Asian collection of any American university. We hold Chinese, Japanese, Korean, Vietnamese, Mongolian, &amp; Western materials" />
+<link rel="canonical" href="https://library.harvard.edu/libraries/yenching" />
+<meta property="og:site_name" content="Harvard Library" />
+<meta property="og:type" content="library" />
+<meta property="og:url" content="https://library.harvard.edu/libraries/yenching" />
+<meta property="og:title" content="Harvard-Yenching Library" />
+<meta property="og:description" content="The most comprehensive East Asian collection of any American university. We hold Chinese, Japanese, Korean, Vietnamese, Mongolian, &amp; Western materials" />
+<meta property="og:image" content="https://library.harvard.edu/sites/default/files/2018-05/hyl-exterior.jpg" />
+<meta property="og:image:alt" content="Exterior of the Harvard-Yenching Library" />
+<meta itemprop="name" content="Harvard-Yenching Library" />
+<meta itemprop="description" content="The most comprehensive East Asian collection of any American university. We hold Chinese, Japanese, Korean, Vietnamese, Mongolian, &amp; Western materials" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Harvard Library - Harvard-Yenching Library" />
+<meta name="twitter:site" content="@harvardlibrary" />
+<meta name="twitter:url" content="https://library.harvard.edu/libraries/yenching" />
+<meta name="twitter:image:alt" content="Exterior of the Harvard-Yenching Library" />
+<meta name="twitter:image" content="https://library.harvard.edu/sites/default/files/2018-05/hyl-exterior.jpg" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/harvard/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/default/files/google_tag/ga4/google_tag.script.js?skfm92" defer></script>
+
+    <title>Harvard-Yenching Library | Harvard Library</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_-3CVcbhcjrD8hpPmJzPL_9K_4PEBIq4p7YF1BaPJIA4.css?delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Lora:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_B_vRC4kly_77UEmaji62uAL5P1OVymz5fNeMSXfBArg.css?delta=2&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+
+    
+  </head>
+  <body class="path-node page-node-type-library">
+        <a href="#hl__main-id" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSHSDQ5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <section class="region">
+      
+  </section>
+
+
+  
+  <section class="hl__header region js-header">
+    <nav class="hl__header__container" aria-label="main">
+      <div class="hl__header__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library Homepage">
+            <img class="hl__image " alt="Harvard Library Homepage" height="82" width="110" src="/themes/custom/harvard/assets/images/logo-final.svg">
+          </a>
+        </section>
+      </div>
+
+      <div class="hl__header__menu">
+        <section class="hl__main-nav js-main-nav">
+          <button class="hl__hamburger-button js-hamburger-button" type="button" aria-label="open or close the Main Navigation">
+            <span class="hl__hamburger-button__icon"></span>
+          </button>
+          <div class="hl__main-nav__wrapper">
+            <div class="hl__main-nav__container">
+                
+
+<div class="hl__main-nav__menu">
+          <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-1">
+        Help with...
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-1">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/services-tools" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1326"><span>All Services, Tools & Catalogs</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-library-alum" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1416"><span>Alumni Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/borrow-renew-and-return-library-materials" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1306"><span>Borrowing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/get-support-research-publishing" class="hl__link-tag" title="Get Remote Support for Research &amp; Publishing" data-ga-link="Header Nav" data-drupal-link-system-path="node/9426"><span>Research & Publishing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://library.harvard.edu/services-tools/scan-deliver" class="hl__link-tag" data-ga-link="Header Nav"><span>Scan & Deliver</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/teach-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1356"><span>Teaching</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-2">
+        Collections
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-2">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/explore-collections" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/341"><span>Explore Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://curiosity.lib.harvard.edu/" class="hl__link-tag" data-ga-link="Header Nav"><span>Curated Digital Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-librarys-special-collections-and-archives" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1311"><span>How to Use Special Collections & Archives</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/how-choose-search-tool" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/11134"><span>How to Choose a Search Tool</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/exhibits" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1441"><span>What's on Exhibit</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-3">
+        Events &amp; News
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-3">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://libcal.library.harvard.edu/calendar/main" title="Upcoming Events" class="hl__link-tag" data-ga-link="Header Nav"><span>Events</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/about/news" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/116"><span>News</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-4">
+        Visit &amp; About
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-4">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/libraries" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/171"><span>Locations & Hours</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visitor-access" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/3186"><span>Visitor Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/spaces" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="spaces"><span>Find a Space</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/confronting-anti-black-racism" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10946"><span>Confronting Anti-Black Racism</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/grants-fellowships" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1586"><span>Grants & Fellowships</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/staff" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1466"><span>Staff Profiles</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/about-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10241"><span>About Harvard Library</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+  
+</div>
+
+
+
+  
+
+<div class="hl__main-nav__utility-nav">
+  <section class="hl__utility-nav js-utility-nav">
+                                                                                    <div class="js-utility-nav-item hl__utility-nav__link js-utility-nav-item--hollis">
+                                                  <a href="https://hollis.harvard.edu/primo-explore/account?vid=HVD2&amp;section=overview&amp;lang=en_US" data-icon="user" data-show-title="yes" data-item-type="link" data-item-label="hollis" class="hl__utility-nav__item" title="Sign in to HOLLIS">              <span class="hl__utility-nav__icon hl__utility-nav__item--hollis" aria-hidden="true">
+                <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="user-icon" style="pointer-events:none">
+      <title id="user-icon">Sign in to HOLLIS</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-1156.000000, -35.000000)">
+      <g transform="translate(1065.000000, 1.000000)">
+        <g transform="translate(91.000000, 34.000000)" fill="#1E1E1E" fill-rule="nonzero">
+          <path d="M17.5774327,20 C18.8046827,20 19.8251827,18.9925 19.5558077,17.795125 C18.5516827,13.333125 14.5650577,11.875 9.79980771,11.875 C5.03454521,11.875 1.04763271,13.333125 0.0435327056,17.795125 C-0.225904794,18.9925 0.794582706,20 2.02188271,20 L17.5774327,20 Z"></path>
+          <path d="M14.7996827,5 C14.7996827,7.761375 12.5610577,10 9.79968271,10 C7.03823271,10 4.79965771,7.761375 4.79965771,5 C4.79965771,2.238575 7.03823271,0 9.79968271,0 C12.5610577,0 14.7996827,2.238575 14.7996827,5 Z"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+
+              </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hollis ">MyHOLLIS</span>
+                          </a>
+              </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--ask">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--ask" id="hl__utility-nav__button-2" title="Ask a Librarian, contact us with your question" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--ask" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" role="img" aria-labelledby="ask-icon" style="pointer-events:none">
+      <title id="ask-icon">Ask a Librarian, contact us with your question</title>
+    <g>
+    <g transform="translate(-34 -74)"><path d="M41 81h-2v2h2zm4 0h-2v2h2zm4 0h-2v2h2zm3-7a2 2 0 0 1 2 2v18l-4-4H36a2 2 0 0 1-2-2V76c0-1.1.9-2 2-2z"></path>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--ask ">Ask</span>
+                                    </button>
+                      <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__dropdown-tray">
+      <div class="hl__dropdown-tray__container">
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--searchbox">
+          <h2 class="hl__comp-heading">Ask <span class="hl__dropdown-tray__heading--lora">a Librarian</span></h2>
+          <section class="hl__single-input-form  ">
+            <form class="hl__single-input-form__form" action="https://ask.library.harvard.edu/search" method="GET" autocomplete="off">
+              <label class="hl__label hl__label--inline" for="text-input">Ask a librarian</label>
+              <div class="hl__single-input-form__input-group">
+                                  <input class="hl__input hl__input--inline js-is-required" name="q" id="text-input" type="text" placeholder="Try &quot;printer help&quot; or &quot;Zotero&quot;" data-type="text" required="" autocomplete="off">
+                                <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label="">
+                  Go
+                </button>
+              </div>
+            </form>
+          </section>
+        </div>
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--links">
+          <div class="hl__linked-list hl__linked-list--no-bullets ">
+            <h2 class="hl__comp-heading  ">More help options</h2>
+            <ul class="hl__linked-list__items">
+                              <li class="hl__linked-list__item">
+                  <a href="/services-tools/library-liaisons" class="hl__link-tag">Find my subject liaison</a>
+                </li>
+                              <li class="hl__linked-list__item">
+                  <a href="https://harvard.az1.qualtrics.com/jfe/form/SV_09DXHPBmaMSnqdL" class="hl__link-tag">Request a research appointment</a>
+                </li>
+                          </ul>
+          </div>
+          <!-- "Library.Harvard Chat Widget" embedded from ask.library.harvard.edu -->
+          <!-- update styles in sprinshare interface -->
+          <div id="hl__chat-button">
+            <div id="libchat_90b85bdd1489a074045c2519ad2fc1a5" class="hl__chat-button">
+              <p class="hl__chat-button__placeholder">Let's chat!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+                                            </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--hours">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--hours" id="hl__utility-nav__button-3" title="Library locations and hours" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--hours" aria-hidden="true">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="clock-icon" style="pointer-events:none">
+      <title id="clock-icon">Library locations and hours</title>
+    <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hours ">Hours</span>
+                                    </button>
+                                <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+                  <section class="hl__featured-libraries">
+      <div class="hl__featured-libraries__container">
+        <div class="hl__featured-libraries__today">
+          <h2>
+            <span class="hl__highlighted-text">Saturday, Sep 28, 2024</span>
+          </h2>
+        </div>
+                  <ul class="hl__featured-libraries__items">
+              <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/widener" class="hl__link-tag"><span>Widener Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">9am - 5pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/lamont" class="hl__link-tag"><span>Lamont Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">11am - 10pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/cabot" class="hl__link-tag"><span>Cabot Science Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">12pm - 10pm</span>
+</div>
+
+  </li>
+
+                          <li class="hl__featured-libraries__item hl__featured-libraries__item--more">
+                <h3 class="hl__featured-libraries__all"><span>see all locations</span></h3>
+                <div class="hl__featured-libraries__see-more">
+              <span class="hl__featured-libraries__more-icon">
+                <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+              </span>
+                  <span class="hl__featured-libraries__more-link">
+                      <a href="/libraries?active_filter=1" class="hl__link-tag hl__link-tag--with-arrow" #title="See more library hours"><span>Hours for all 25&plus; locations</span></a>
+
+                  </span>
+                </div>
+              </li>
+                      </ul>
+              </div>
+    </section>
+  
+
+      </div>
+</div>
+                                  </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--search">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--search" id="hl__utility-nav__button-4" title="Search" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--search" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17" role="img" aria-labelledby="search-icon" style="pointer-events:none">
+      <title id="search-icon">Search</title>
+    <g>
+    <g transform="translate(-158 -656)"><path d="M170.15 666.7l4.85 4.85-1.45 1.45-4.86-4.85v-.77l-.26-.27a6.32 6.32 0 1 1 .68-.68l.27.26zm-5.83 0a4.37 4.37 0 1 0 .01-8.74 4.37 4.37 0 0 0-.01 8.73z"></path></g>
+  </g>
+</svg>
+
+            </span>
+                                    </button>
+                                          <div class="hl__utility-nav__dropdown js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small js-utility-nav-back-button" aria-label="close dropdown menu" tabindex="-1"><span class="hl__button__text">back</span></button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__single-input-form hl__single-input-form--clear js-search-dropdown">
+      <form class="hl__single-input-form__form" action="/search" method="GET" autocomplete="off">
+        <label class="hl__label hl__label--hidden" for="utility-nav-search-input">Search website or HOLLIS catalog</label>
+        <div class="hl__single-input-form__input-group">
+          <input class="hl__input hl__input--inline js-is-required" name="keywords" id="utility-nav-search-input" type="text" placeholder="" data-type="text" required="" autocomplete="off" />
+          <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label=""><span class="hl__button__text">Search</span></button>
+        </div>
+        <div class="hl__single-input-form__dropdown">
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in website" id="search-website-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>website (library.harvard)</span>
+            </a>
+          </div>
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in library catalog" id="search-hollis-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>library catalog &amp; articles (HOLLIS)</span>
+            </a>
+          </div>
+        </div>
+      </form>
+    </section>
+    <div class="hl__utility-nav__helper-text">
+      <section class="hl__rich-text">
+        <p>Search website or HOLLIS catalog</p>
+      </section>
+    </div>
+  </div>
+</div>
+                        </div>
+      
+  </section>
+</div>
+
+
+
+            </div>
+          </div>
+        </section>
+      </div>
+    </nav>
+  </section>
+  <div class="hl__header__sticky-gap"></div>
+
+
+<main id="hl__main-id" class="hl__full-template hl__library-details" tabindex="-1">
+
+  
+        <section class="hl__full-template__pre-content hl__library-details__pre-content region">
+      <div id="block-breadcrumbs" data-block-plugin-id="system_breadcrumb_block">
+            <nav role="navigation" aria-labelledby="system-breadcrumb"  class="hl__breadcrumb hl__breadcrumb--light">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+
+    <ul class="hl__breadcrumb__items">
+                        <li class="hl__breadcrumb__item">
+            <a href="/"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Home">Home</a>
+          </li>
+                                <li class="hl__breadcrumb__item">
+            <a href="/libraries"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Locations &amp; Hours">Locations &amp; Hours</a>
+          </li>
+                  </ul>
+  </nav>
+
+      </div>
+
+  
+    
+
+<section  class="hl__page-header hl__page-header--light">
+  <div class="hl__page-header__container">
+    <div class="hl__page-header__page-title">
+        <h1 class="hl__page-title"><span>Harvard-Yenching Library</span>
+</h1>
+    </div>
+    <div class="hl__page-header__sub-text">
+        <div class="hl__sub-text">  哈佛燕京圖書館 | ハーバード燕京図書館 | 하버드 옌칭 도서관 | Sưu tập tài liệu tiếng Việt
+</div>
+    </div>
+  </div>
+</section>
+
+  <div class="hl__library-details__bg-overlay hl__library-details__bg-overlay--dark"></div>
+
+<style>
+  .hl__library-details__pre-content {
+    background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_narrow/public/2018-05/hyl-exterior.jpg?h=4a8e4867&itok=PEIIBe17');
+  }
+
+  @media (min-width: 800px) {
+    .hl__library-details__pre-content {
+      background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_wide/public/2018-05/hyl-exterior.jpg?h=4a8e4867&itok=NoHvapWN');
+    }
+  }
+</style>
+
+
+
+
+
+
+    
+  <div class="hl__library-details__jump-links">
+    <div class="hl__jump-links js-jump-links hl__jump-links--primary">
+                                                                                                        <div class="hl__jump-links__navigation">
+        <nav class="hl__jump-links__items" aria-label="in-page">
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#collections" class="hl__link-tag"><span>Collections</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#special-collections" class="hl__link-tag"><span>Special Collections</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#guides" class="hl__link-tag"><span>Research Guides</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#using-the-library" class="hl__link-tag"><span>Using the Library</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#events" class="hl__link-tag"><span>What&#039;s Happening</span></a>
+            </div>
+                  </nav>
+      </div>
+    </div>
+  </div>
+
+
+
+  </section>
+
+  
+    <section class="hl__full-template__main-content region">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-harvard-content" data-block-plugin-id="system_main_block">
+  
+    
+      
+<article>
+  
+
+  <div class="hl__library-details__info">
+    <a name="library-info" id="library-info"></a>
+     <section class="hl__library-info">
+      <div class="hl__library-info__container ">
+        <div class="hl__library-info__hours">
+          <section class="hl__library-hours">
+            <div class="hl__library-hours__icon">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+                <g>
+                  <g transform="translate(-188 -510)">
+                    <g>
+                      <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+                    </g>
+                    <g>
+                      <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+                    </g>
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <div class="hl__library-hours__today">
+              Today: 12pm - 5pm
+            </div>
+                        <div class="hl__library-hours__see-all">
+                <a href="/libraries?active_filter=1&amp;library=yenching&amp;weeks=1" class="hl__link-tag hl__link-tag--with-arrow" title="See all hours for Harvard-Yenching Library" data-ga-link="Text Link: In-Line Arrow"><span>See All Hours</span></a>
+
+            </div>
+                      </section>
+        </div>
+                <div class="hl__library-info__summary">
+          <h2 class="hl__comp-heading  ">Highlights</h2>
+          <div class="hl__library-info__highlights">
+            <section class="hl__rich-text  ">
+              <p>  The most comprehensive East Asian collection of any American university. We hold Chinese, Japanese, Korean, Vietnamese, Mongolian, &amp; Western materials 
+</p>
+              <ul>
+      <li>Rare and ancient books </li>
+      <li>Digital photos and maps</li>
+      <li>Local Chinese gazetteers</li>
+      <li>Minority language materials</li>
+  </ul>
+
+            </section>
+          </div>
+                    <div class="hl__library-info__access">
+            <section class="hl__rich-text  ">
+                                Open to Harvard ID holders. Visiting researchers can request access by contacting us.
+
+                                            <div class="hl__rich-text__see-all-link">
+                    <a href="/visitor-access" class="hl__link-tag hl__link-tag--with-arrow" data-ga-link="Text Link: In-Line Arrow"><span>Full access policy</span></a>
+
+                </div>
+                          </section>
+          </div>
+        </div>
+                  <div class="hl__library-info__cta hl__library-info__cta--spaces">
+            <section class="hl__pattern-cta hl__pattern-cta--small">
+              <div class="hl__pattern-cta__container">
+                <div class="hl__pattern-cta__text">
+                  <div class="hl__pattern-cta__title">Discover our spaces</div>
+                  <div class="hl__pattern-cta__description">Study. Focus. Relax.</div>
+                </div>
+                <div class="hl__pattern-cta__links">
+                  <div class="hl__pattern-cta-icon"><a class="hl__icon-link" href="/spaces?library=211" title="discover our spaces"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="20" viewBox="0 0 17 20"><g><g transform="translate(-1233 -33)"><path d="M1241.5 50.59v-.27c0-.25-.1-.49-.27-.66l-5.23-5.23 6.03-6.03.32.32c-.41 1.58.23 3.61 1.79 5.17l5.65-5.65c-1.56-1.56-3.59-2.2-5.17-1.8l-3.45-3.44-2.27 2.27 1.55 1.55.25.26-6.69 6.69a.94.94 0 0 0 0 1.32l5.5 5.5c-2.27.22-3.98 1.22-3.98 2.41h9.93c0-1.19-1.7-2.18-3.95-2.41"></path></g></g></svg></a></div>                </div>
+              </div>
+            </section>
+          </div>
+
+                <div class="hl__library-info__sidebar js-accordion">
+          <div class="hl__library-info__contact">
+            <section class="hl__contact-info">
+              <h2 class="hl__comp-heading  ">Contact</h2>
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                  <div class="hl__contact-info__address">    <span class="address-line1">2 Divinity Avenue</span>
+ <br />
+
+      Cambridge,
+    <span class="administrative-area">MA</span>
+ <span class="postal-code">02138</span>
+
+</div>
+                  <div class="hl__contact-info__directions">
+                    <span class="hl__contact-info__icon" aria-hidden="true"> <svg height="17" viewbox="0 0 12 17" width="12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M994 1676c3.32 0 6 2.66 6 5.95 0 4.46-6 11.05-6 11.05s-6-6.59-6-11.05a5.97 5.97 0 0 1 6-5.95zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4z" id="jpn3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-988 -1676)">
+            <use fill="silver" xlink:href="#jpn3a">
+            </use>
+        </g>
+    </g>
+</svg>
+</span>
+                    <a class="hl__link-tag" href="https://www.google.com/maps/place/The+Harvard-Yenching+Institute+library/@42.3776268,-71.1138615,15z/data=!4m2!3m1!1s0x0:0xe57b543436ab4a36?sa=X&amp;ved=0ahUKEwjknIyKvuzZAhWo44MKHQr-BC4Q_BIIoQEwDQ" title="Get directions to Harvard-Yenching Library">
+                      <span>Directions</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="hl__contact-info">
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                                      <ul class="hl__contact-info__items hl__contact-info__items--email">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="12px" viewBox="0 0 15 12"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-845.000000, -677.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M57.5,165 L45.5,165 C44.675,165 44.0075,165.675 44.0075,166.5 L44,175.5 C44,176.325 44.675,177 45.5,177 L57.5,177 C58.325,177 59,176.325 59,175.5 L59,166.5 C59,165.675 58.325,165 57.5,165 L57.5,165 Z M58,168.428571 L52,172 L46,168.428571 L46,167 L52,170.571429 L58,167 L58,168.428571 L58,168.428571 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <span class="hl__contact-info__email"><a href="mailto:hylpub@fas.harvard.edu" class="hl__link-tag">  <span class="hl__visually-hidden">email:</span>
+  <span>hylpub@fas.harvard.edu</span>
+</a></span>
+                      </li>
+                    </ul>
+                                                        <ul class="hl__contact-info__items hl__contact-info__items--phone">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="15px" viewBox="0 0 15 15"
+     version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-846.000000, -702.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M48.0166667,196.491667 C49.2166667,198.85 51.15,200.775 53.5083333,201.983333 L55.3416667,200.15 C55.5666667,199.925 55.9,199.85 56.1916667,199.95 C57.125,200.258333 58.1333333,200.425 59.1666667,200.425 C59.625,200.425 60,200.8 60,201.258333 L60,204.166667 C60,204.625 59.625,205 59.1666667,205 C51.3416667,205 45,198.658333 45,190.833333 C45,190.375 45.375,190 45.8333333,190 L48.75,190 C49.2083333,190 49.5833333,190.375 49.5833333,190.833333 C49.5833333,191.875 49.75,192.875 50.0583333,193.808333 C50.15,194.1 50.0833333,194.425 49.85,194.658333 L48.0166667,196.491667 L48.0166667,196.491667 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <a href="tel:617-495-2756" class="hl__contact-info__phone">  <span class="hl__contact-info__label hl__visually-hidden">Phone number</span>
+  617-495-2756
+</a>
+                      </li>
+                    </ul>
+                                  </div>
+              </div>
+            </section>
+          </div>
+          <div class="js-accordion-content">
+            <div class="hl__library-info__links">
+              <section class="hl__contact-info">
+                <div class="hl__contact-info__list">
+                  <div class="hl__contact-info__section">
+                                            <div class="hl__contact-info__website">
+    <span class="hl__contact-info__icon" aria-hidden="true">
+      <svg height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z" id="fwuua">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-986 -1703)">
+            <use fill="silver" xlink:href="#fwuua">
+            </use>
+        </g>
+    </g>
+</svg>
+    </span>
+    <a href="https://libcal.library.harvard.edu/appointments/yenching" class="hl__link-tag" title="Visit website for Book an Appointment "><span>Book an Appointment </span></a>
+  </div>
+
+                                      </div>
+                </div>
+              </section>
+              <div class="hl__library-info__links-buttons">
+                                    <a href="https://library.harvard.edu/staff?library=211" class="hl__library-info__contact-buttons hl__button hl__button--small" title="HYL Staff Directory">HYL Staff Directory</a>
+
+                              </div>
+            </div>
+                          <div class="hl__library-info__connect">
+              <section class="hl__icon-list">
+                                  <div class="hl__icon-list__label">Connect with Harvard-Yenching Library</div>
+                                <ul class="hl__icon-list__items">
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="http://www.facebook.com/pages/Harvard-Yenching-Library/108446085974450" title="Facebook">
+                        <span role="presentation">
+                          <svg height="15" viewbox="0 0 9 15" width="9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1324.72 1538l-.02-6.56h-2.7v-2.82h2.7v-1.87c0-2.53 1.5-3.75 3.67-3.75 1.04 0 1.93.08 2.2.12v2.64h-1.51c-1.18 0-1.4.59-1.4 1.44v1.43h3.34l-.9 2.8h-2.45v6.57h-2.93z" id="jn7la">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1322 -1523)">
+            <use fill="silver" xlink:href="#jn7la">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                  
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="https://www.youtube.com/watch?v=Gcx8QnlMbJI" title="YouTube">
+                        <span role="presentation">
+                          <svg height="11" viewbox="0 0 15 11" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1326 1611v-5l5 2.5zm-3.26-7.89c-2.43.17-2.72 1.6-2.74 5.39.02 3.78.3 5.22 2.74 5.39 2.25.15 7.27.15 9.52 0 2.43-.17 2.72-1.6 2.74-5.39-.02-3.78-.3-5.22-2.74-5.39-2.25-.15-7.27-.15-9.52 0z" id="bqfba">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1320 -1603)">
+            <use fill="silver" xlink:href="#bqfba">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                                  </ul>
+              </section>
+            </div>
+                      </div>
+          <div class="hl__library-info__more-info">
+            <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more contact information">
+              <span class="hl__link-tag__toggle-text">Less contact information</span> <span>More contact information</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+        <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="collections" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Collections
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-896" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                          <div class="hl__overlay-promo-grid__description">
+            <section  class="hl__rich-text">
+                <p>As of 2018, the Harvard-Yenching Library's collections exceed 1.5 million volumes, including over 900,000 Chinese, 400,000 Japanese, over 200,000 Korean, 30,000 Vietnamese, 55,000 Western languages, 4,000 Tibetan, 3,500 Manchu, and 500 Mongolian.</p>
+
+            </section>
+          </div>
+                      <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="/collections/chinese-collection" title="Read more about Chinese Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/From-the-Hedda-Morrison-Collection.jpg?h=3e3a029a&amp;itok=R0pwjIh_')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library collects Chinese-language research materials in all formats, with a focus on the humanities and social sciences. 
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/japanese-collection" title="Read more about Japanese Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Hinagata_dogs_HYLJ.jpg?h=75c93e54&amp;itok=-Vek_dNq')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Japanese Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Japanese Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library&#039;s Japanese Collection focuses on humanities and social sciences in the field of Japanese studies in the Japanese language.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/korean-collection" title="Read more about Korean Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Korean-1.jpg?h=75af2f5d&amp;itok=5m7maztc')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Korean Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Korean Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library&#039;s Korean Collection covers everything from archaeology to contemporary economic development.
+</div>
+      </div>
+</a>
+
+                                                                                                                                                                      </div>
+
+                      <div class="hl__overlay-promo-grid__grid hl__overlay-promo-grid__grid--accordion-content js-accordion-content" style="display: none;" id="paragraph-accordion-896">
+                
+    
+
+<a
+   href="/collections/chinese-collection" title="Read more about Chinese Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/From-the-Hedda-Morrison-Collection.jpg?h=3e3a029a&amp;itok=R0pwjIh_')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library collects Chinese-language research materials in all formats, with a focus on the humanities and social sciences. 
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/japanese-collection" title="Read more about Japanese Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Hinagata_dogs_HYLJ.jpg?h=75c93e54&amp;itok=-Vek_dNq')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Japanese Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Japanese Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library&#039;s Japanese Collection focuses on humanities and social sciences in the field of Japanese studies in the Japanese language.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/korean-collection" title="Read more about Korean Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Korean-1.jpg?h=75af2f5d&amp;itok=5m7maztc')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Korean Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Korean Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library&#039;s Korean Collection covers everything from archaeology to contemporary economic development.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/vietnamese-collection" title="Read more about Vietnamese Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/A-Scene-from-the-Countryside.jpg?h=e78354c0&amp;itok=DYAHilwv')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Vietnamese Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Vietnamese Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library&#039;s Vietnamese Collection features materials focusing on humanities and social sciences, particularly history and literature. 
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/tibetan-collection" title="Read more about Tibetan Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Tibetan-Scroll.jpg?h=81c4facd&amp;itok=49m-eBhN')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Tibetan Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Tibetan Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library materials on Buddhism, history, and literature.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/mongolian-and-manchu-collection" title="Read more about Mongolian and Manchu Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Manchu.jpg?h=dd1e4d4b&amp;itok=NNADxbg9')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Mongolian and Manchu Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Mongolian and Manchu Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library&#039;s Manchu-language and Mongolian-language holdings
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/western-languages-collection" title="Read more about Western Languages Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Western-2_1.jpg?h=a3fba656&amp;itok=QmeSuvk7')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Western Languages Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Western Languages Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard-Yenching Library&#039;s Western Languages Collection complements its East Asian language collections.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/japanese-video-games" title="Read more about Japanese Video Games" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Harvard%20Yenching%20Vidoe%20game.png?h=8a0c145c&amp;itok=n2cmtVYh')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Japanese Video Games</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Japanese Video Games</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Japanese video games made for consoles from the 1980s through present-day. 
+</div>
+      </div>
+</a>
+
+
+            </div>
+          
+                      <div class="hl__overlay-promo-grid__see-all">
+              <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more items" aria-expanded="false"  aria-controls="paragraph-accordion-896">
+                <span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span>
+              </a>
+            </div>
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-18255" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="special-collections" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Special Collections
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-1316" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                  <h3  class="hl__comp-heading">  Featured Collections
+</h3>
+                          <div class="hl__overlay-promo-grid__description">
+            <section  class="hl__rich-text">
+                <p>Harvard-Yenching Library's Special Collections include rare books, archival materials, manuscripts, photos, scrolls, rubbings, and maps —&nbsp; in many languages, including Chinese, Japanese, Korean, Vietnamese, Manchu, Mongolian, Tibetan, and Naxi.&nbsp; Our rare and special collections can be viewed in our <a href="https://libcal.library.harvard.edu/space/116424">reading room</a>.</p>
+
+            </section>
+          </div>
+                      <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="/collections/ming-qing-womens-writings" title="Read more about Ming-Qing Women&#039;s Writings" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/48915525_ps.jpg?h=24ddd4e7&amp;itok=6rnA2xqc')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Ming-Qing Women&#039;s Writings</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Ming-Qing Women&#039;s Writings</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  A valuable resource for scholars studying women&#039;s roles in China from the 14th through the 20th centuries.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/manchukuo-collection" title="Read more about Manchukuo Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/manchukuo_05.jpg?h=2e80255c&amp;itok=PkkLqbeP')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Manchukuo Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Manchukuo Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  View material related to the Pan-Asian state once located in northeastern China and controlled by imperial Japan.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/harvard-yenching-library-digital-maps" title="Read more about Harvard-Yenching Library Digital Maps " class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/475302972_1_0.jpg?h=a6abce24&amp;itok=_8YnRDk5')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Harvard-Yenching Library Digital Maps </span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Harvard-Yenching Library Digital Maps </span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  View hundreds of maps of China, Japan, Korea, and other regions in East Asia.
+</div>
+      </div>
+</a>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                          </div>
+
+                      <div class="hl__overlay-promo-grid__grid hl__overlay-promo-grid__grid--accordion-content js-accordion-content" style="display: none;" id="paragraph-accordion-1316">
+                
+    
+
+<a
+   href="/collections/ming-qing-womens-writings" title="Read more about Ming-Qing Women&#039;s Writings" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/48915525_ps.jpg?h=24ddd4e7&amp;itok=6rnA2xqc')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Ming-Qing Women&#039;s Writings</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Ming-Qing Women&#039;s Writings</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  A valuable resource for scholars studying women&#039;s roles in China from the 14th through the 20th centuries.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/manchukuo-collection" title="Read more about Manchukuo Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/manchukuo_05.jpg?h=2e80255c&amp;itok=PkkLqbeP')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Manchukuo Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Manchukuo Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  View material related to the Pan-Asian state once located in northeastern China and controlled by imperial Japan.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/harvard-yenching-library-digital-maps" title="Read more about Harvard-Yenching Library Digital Maps " class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/475302972_1_0.jpg?h=a6abce24&amp;itok=_8YnRDk5')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Harvard-Yenching Library Digital Maps </span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Harvard-Yenching Library Digital Maps </span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  View hundreds of maps of China, Japan, Korea, and other regions in East Asia.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/chinese-republican-period-collection-0" title="Read more about Chinese Republican Period Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/46531224_0_0.jpg?h=c8a745b3&amp;itok=OAYYrm5v')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Republican Period Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Republican Period Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  More than 1,000 publications from China&#039;s republican period 民國時期文獻.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/chinese-maritime-customs" title="Read more about Chinese Maritime Customs" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/44432881_1.jpg?h=94addcb8&amp;itok=SWykGTgZ')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Maritime Customs</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Maritime Customs</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Chinese Maritime Customs 中國舊海關資料<br />
+
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/naxi-manuscripts" title="Read more about Naxi Manuscripts" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Naxi_M9_seq15_ps_0.jpg?h=8b80064e&amp;itok=xymVRbiP')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Naxi Manuscripts</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Naxi Manuscripts</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Hundreds of manuscripts in one of the last widely used pictographic languages in the world. 
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/rev-claude-l-pickens-jr-collection-muslims-china" title="Read more about The Rev. Claude L. Pickens, Jr. Collection on Muslims in China" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/urn-3_FHCL_81329.jpg?h=efab3789&amp;itok=EdANfLH_')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>The Rev. Claude L. Pickens, Jr. Collection on Muslims in China</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>The Rev. Claude L. Pickens, Jr. Collection on Muslims in China</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Images of Muslims and Christian missionaries working among them in Western China in the 1920s and 1930s form the core of this collection. 
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="http://nrs.harvard.edu/urn-3:hul.eresource:chineserarebooks?utm_source=library.harvard" title="Read more about Chinese Rare Books" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/crb1-cropped.jpg?h=c806e286&amp;itok=62UHD4b5')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Rare Books</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Rare Books</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  With over 9,600 items, Harvard-Yenching&#039;s rare book collection is one of the largest of its kind in the Western world.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/japanese-art-and-design-collection" title="Read more about The Japanese Art and Design Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/52410372_1.jpeg?h=5c94ac69&amp;itok=KcS-LEOe')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>The Japanese Art and Design Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>The Japanese Art and Design Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  A trove of photographs, prints and design samples from the collection of Ernest Goodrich Stillman.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="https://curiosity.lib.harvard.edu/chinese-rubbings-collection" title="Read more about Chinese Rubbings Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/rubbings-01.jpg?h=f7ad0182&amp;itok=iuXNyUd1')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Rubbings Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Chinese Rubbings Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Fine Arts Library and Harvard-Yenching Library holds rubbings of objects that date from the Qin Dynasty to the Ming Dynasty.<br />
+
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/joseph-f-rock-collection" title="Read more about Joseph F. Rock Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/246174_0.jpg?h=0429cc9e&amp;itok=_RZDyYmN')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Joseph F. Rock Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Joseph F. Rock Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  View historic photographs of China taken by explorer Joseph Francis Charles Rock.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/bruno-petzold-scrolls-collection" title="Read more about Bruno Petzold Scrolls Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/24624730_1.jpg?h=f388c836&amp;itok=evz4iHxB')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Bruno Petzold Scrolls Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Bruno Petzold Scrolls Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Edo manuscripts and scrolls on Buddhism from Bruno Petzold<br />
+
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/fairbank-and-reischauer-lantern-slide-collection" title="Read more about Fairbank and Reischauer Lantern Slide Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/443299681_0.jpg?h=dcf17b60&amp;itok=G_AHsi_X')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Fairbank and Reischauer Lantern Slide Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Fairbank and Reischauer Lantern Slide Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Take a closer look at historic teaching materials developed for a class on East Asian culture in the early mid-twentieth century.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="http://nrs.harvard.edu/URN-3:HUL.ERESOURCE:EPJ?utm_source=library.harvard" title="Read more about Early Photography of Japan" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Early_Japan_olvwork553610_ps.jpg?h=85decefc&amp;itok=GNWGvS_b')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Early Photography of Japan</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Early Photography of Japan</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  An online collection of more than 40 souvenir photograph albums and illustrated publications from across three Harvard libraries.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/hedda-morrison-photographs-china" title="Read more about Hedda Morrison Photographs of China" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/urn-3_FHCL_14538_crop.jpg?h=95dbe161&amp;itok=VK21DDJy')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Hedda Morrison Photographs of China</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Hedda Morrison Photographs of China</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Photos taken by Hedda Morrison in China, 1933–1946.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/souvenir-de-chine" title="Read more about Souvenir de Chine" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/481726892_1.jpg?h=58db34ba&amp;itok=3wwnrcfv')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Souvenir de Chine</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Souvenir de Chine</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  A collection of photographs taken during the Second Sino-Japanese War 中日战争照片集, featuring the occupation of Shanghai and Nanking.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/edwards-bangs-drew-chinese-maritime-customs-service-photographs" title="Read more about Edwards Bangs Drew Chinese Maritime Customs Service Photographs" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Drew_olvwork373507_ps.jpg?h=e6f0e96c&amp;itok=AIJ8ziQT')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Edwards Bangs Drew Chinese Maritime Customs Service Photographs</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Edwards Bangs Drew Chinese Maritime Customs Service Photographs</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Documenting clothing, customs, and daily life in 19th-century China — as well as Drew&#039;s life and career.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/carter-d-holton-collection" title="Read more about Carter D. Holton Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/35281363_0.jpg?h=c7ad779f&amp;itok=GH6SwPwy')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Carter D. Holton Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Carter D. Holton Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  See more than 5,000 historical photos taken in Northwestern China
+</div>
+      </div>
+</a>
+
+
+            </div>
+          
+                      <div class="hl__overlay-promo-grid__see-all">
+              <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more items" aria-expanded="false"  aria-controls="paragraph-accordion-1316">
+                <span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span>
+              </a>
+            </div>
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_services-17695" tabindex="-1">
+        <section class="hl__category-teaser-grid"><div class="hl__category-teaser-grid__description"><section  class="hl__rich-text"><p>Many of our special collections have been digitized, and can be viewed in CURIOSity and HOLLIS Images.</p></section></div><div class="hl__category-teaser-grid__grid"><a class="hl__category-teaser" href="http://nrs.harvard.edu/urn-3:hul.eresource:curiosity?utm_source=library.harvard&amp;utm_medium=link&amp;utm_campaign=tools_page" title="CURIOSity, digital collections gallery"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="59" height="74" viewBox="0 0 59 74"><path fill-rule="evenodd" d="M15.0029446,39.0583559 C12.6597224,31.3633515 14.518336,22.6567971 20.6052471,16.5752284 C27.3364897,9.84405918 37.2687363,8.28910797 45.5016425,11.873021 L35.074658,22.2998918 C33.6741505,23.700384 33.6741505,25.9743263 35.074658,27.3749548 L41.6248557,33.9250811 C43.0253632,35.3255733 45.2993303,35.3255733 46.6999741,33.9250811 L57.1269585,23.4982103 C60.7109107,31.731163 59.1559425,41.6624834 52.4246999,48.3943342 C46.3378843,54.4810834 37.6357339,56.3449527 29.9413272,53.9965755 L1.55763687,82.3799563 C-1.93579284,85.8733479 -7.60203357,85.8733479 -11.0900101,82.3799563 L-13.3799277,80.0900637 C-16.8733574,76.6019888 -16.8733574,70.9359462 -13.3799277,67.4425546 L15.0029446,39.0583559 Z" transform="translate(0 -10)"></path></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Tool
+</div><h3 class="hl__category-teaser__title"><span>CURIOSity, digital collections gallery</span><span class="hl__link-tag__external-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20"><g><g transform="translate(-906 -1005)"><path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path></g></g></svg></span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Curated views and specialized search options for Harvard&#039;s digital collections.
+
+      </section></div></div></a><a class="hl__category-teaser" href="https://nrs.harvard.edu/urn-3:hul.ois:images" title="HOLLIS Images"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="59" height="74" viewBox="0 0 59 74"><path fill-rule="evenodd" d="M15.0029446,39.0583559 C12.6597224,31.3633515 14.518336,22.6567971 20.6052471,16.5752284 C27.3364897,9.84405918 37.2687363,8.28910797 45.5016425,11.873021 L35.074658,22.2998918 C33.6741505,23.700384 33.6741505,25.9743263 35.074658,27.3749548 L41.6248557,33.9250811 C43.0253632,35.3255733 45.2993303,35.3255733 46.6999741,33.9250811 L57.1269585,23.4982103 C60.7109107,31.731163 59.1559425,41.6624834 52.4246999,48.3943342 C46.3378843,54.4810834 37.6357339,56.3449527 29.9413272,53.9965755 L1.55763687,82.3799563 C-1.93579284,85.8733479 -7.60203357,85.8733479 -11.0900101,82.3799563 L-13.3799277,80.0900637 C-16.8733574,76.6019888 -16.8733574,70.9359462 -13.3799277,67.4425546 L15.0029446,39.0583559 Z" transform="translate(0 -10)"></path></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Tool
+</div><h3 class="hl__category-teaser__title"><span>HOLLIS Images</span><span class="hl__link-tag__external-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20"><g><g transform="translate(-906 -1005)"><path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path></g></g></svg></span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          A catalog and search tool for finding images from Harvard Library collections.
+
+      </section></div></div></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_how_tos-3071" tabindex="-1">
+        <section class="hl__staggered-type-list">
+      <header class="hl__staggered-type-list__header">
+                  <h3  class="hl__comp-heading">  Using Special Collections
+</h3>
+                          <div class="hl__staggered-type-list__description">
+            <section  class="hl__rich-text">
+                <p>Request special collections items using the “Request to Scan or Visit” link in the HOLLIS record or through <a href="https://library.harvard.edu/services-tools/hollis-special-request">HOLLIS Special Request</a>. Before your visit, <a href="https://libcal.library.harvard.edu/space/116424">schedule a Reading Room appointment</a>. Please schedule your visit at least 24 hours in advance, as no walk-in or same-day appointments are available. Feel free to&nbsp;<a href="mailto:axwang@fas.harvard.edu">contact us</a> to confirm availability ahead of your visit.&nbsp;</p>
+
+<p>We encourage instructors to <a href="https://classrequest.library.harvard.edu/repositories/36">schedule class or section visit</a> to the Special Collections Reading Room for hands-on engagement with our materials. To learn more, <a href="mailto:axwang@fas.harvard.edu">contact us</a> directly.</p>
+
+            </section>
+          </div>
+              </header>
+      <div class="hl__staggered-type-list__list-wrapper">
+        <div class="hl__staggered-type-list__list">
+            <a class="hl__type-promo" href="/how-to/use-harvard-librarys-special-collections-and-archives" title="Use Harvard Library&#039;s Special Collections and Archives" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/colonial_houghton_004_922_0.jpg?h=2e80255c&itok=VRxDTCTN')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Use Harvard Library&#039;s Special Collections and Archives</h3>
+          <div class="hl__type-promo__description">
+          Open to all, these unique materials can take you to places you never expected.
+
+      </div>
+      </div>
+</a>
+
+
+        </div>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-17698" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="guides" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Research Guides
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="fancy_links-2996" tabindex="-1">
+      <section class="hl__fancy-link-list  hl__fancy-link-list--accordion js-accordion "><div class="hl__fancy-link-list__description"><section class="hl__rich-text"></section></div><div class="hl__fancy-link-list__grid"><a href="https://guides.library.harvard.edu/Chinese" class="hl__fancy-link hl__fancy-link--external" title="Research Guide for Chinese Studies"><span class="hl__fancy-link__text">Research Guide for Chinese Studies</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/c.php?g=310291" class="hl__fancy-link hl__fancy-link--external" title="Research Guide for Japanese Studies "><span class="hl__fancy-link__text">Research Guide for Japanese Studies </span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/c.php?g=310159" class="hl__fancy-link hl__fancy-link--external" title="Research Guide for Korean Studies"><span class="hl__fancy-link__text">Research Guide for Korean Studies</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a></div><div class="hl__fancy-link-list__grid hl__fancy-link-list__grid--accordion-content js-accordion-content" style="display:none"><a href="https://guides.library.harvard.edu/Chinese" class="hl__fancy-link hl__fancy-link--external" title="Research Guide for Chinese Studies"><span class="hl__fancy-link__text">Research Guide for Chinese Studies</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/c.php?g=310291" class="hl__fancy-link hl__fancy-link--external" title="Research Guide for Japanese Studies "><span class="hl__fancy-link__text">Research Guide for Japanese Studies </span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/c.php?g=310159" class="hl__fancy-link hl__fancy-link--external" title="Research Guide for Korean Studies"><span class="hl__fancy-link__text">Research Guide for Korean Studies</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/harvardyenchingarchives" class="hl__fancy-link hl__fancy-link--external" title="Harvard-Yenching Library Archival Materials"><span class="hl__fancy-link__text">Harvard-Yenching Library Archival Materials</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/c.php?g=310534&amp;p=3767236" class="hl__fancy-link hl__fancy-link--external" title="Research Guide for East Asian Studies"><span class="hl__fancy-link__text">Research Guide for East Asian Studies</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="/publications/harvard-yenching-library-publications" class="hl__fancy-link" title="Harvard-Yenching Library Publications"><span class="hl__fancy-link__text">Harvard-Yenching Library Publications</span><span class="hl__fancy-link__icon"></span></a><a href="https://guides.library.harvard.edu/hylorientation" class="hl__fancy-link hl__fancy-link--external" title="Harvard-Yenching Library Orientation Guide"><span class="hl__fancy-link__text">Harvard-Yenching Library Orientation Guide</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a></div><div class="hl__fancy-link-list__see-all"><a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more items"><span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-17091" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="using-the-library" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Using the Library
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-5636" tabindex="-1">
+        <section class="hl__show-more-text js-show-more-text"><div  class="hl__show-more-text__content js-show-more-text-content" id="showMoreText5636"><section class="hl__rich-text"><p class="hl__rte-large">Each semester, we host specialized <a href="https://library.harvard.edu/services-tools/east-asian-languages-support">research orientation sessions</a> providing&nbsp;in-depth guidance on how to best access and utilize our wide variety of Chinese, Japanese, and Korean e-resources and databases. If you missed the group sessions, we invite you to <a href="https://libcal.library.harvard.edu/appointments/yenching">schedule a research consultation</a>.&nbsp;</p><p>Harvard-Yenching Library welcomes all researchers regardless of academic affiliation to view our rare books, historical photographs, manuscripts, archival collections, and other treasured materials. Researchers not affiliated with Harvard must register with the <a href="https://library.harvard.edu/visitor-access">Harvard Library Access &amp; Borrowing Office</a> prior to accessing the library.</p></section></div><div class="hl__show-more-text__controls" aria-hidden="true"><a class="hl__link-tag hl__link-tag--with-arrow js-show-more-text-link" href="#" title="" aria-expanded="false" aria-controls="showMoreText5636"><span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_services-17859" tabindex="-1">
+        <section class="hl__category-teaser-grid"><div class="hl__category-teaser-grid__description"><section  class="hl__rich-text"></section></div><div class="hl__category-teaser-grid__grid"><a class="hl__category-teaser" href="/services-tools/research-services-east-asian-languages" title="Research Services for East Asian Languages"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Research Services for East Asian Languages</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Harvard-Yenching Library offers both virtual and in-person research orientation sessions for Chinese-, Japanese-, and Korean-language materials.
+
+      </section></div></div></a><a class="hl__category-teaser" href="https://ask.library.harvard.edu/index.php" title="Ask a Librarian "><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Ask a Librarian </span><span class="hl__link-tag__external-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20"><g><g transform="translate(-906 -1005)"><path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path></g></g></svg></span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Get immediate help during our live chat hours, or submit a question.
+
+      </section></div></div></a><a class="hl__category-teaser" href="/services-tools/research-consultations" title="Research Consultations"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Research Consultations</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Get personalized guidance from one of our library specialists online or in-person—no question is too small.
+
+      </section></div></div></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-901" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="events" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  What&#039;s Happening
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_events-17167" tabindex="-1">
+                  <section class="hl__event-grid hl__event-grid--triple">
+                    <div class="hl__event-grid__container">
+            <h3 class="hl__comp-heading">  Upcoming Events
+</h3>
+            <div class="hl__event-grid__events">
+                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/13092844" title="See details about &quot;Korean Language Resources Orientation&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">Korean Language Resources Orientation</h3>
+                    <div class="hl__event-teaser__type">Bibliographic Orientations</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Thursday, Oct 3, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        11:00 AM
+                                                  - 12:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Harvard-Yenching Library
+                      </div>
+                                      </div>
+                </a>
+                                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/13092812" title="See details about &quot;Japanese Language Resources Orientation&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">Japanese Language Resources Orientation</h3>
+                    <div class="hl__event-teaser__type">Bibliographic Orientations</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Tuesday, Oct 8, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        3:00 PM
+                                                  - 4:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Harvard-Yenching Library
+                      </div>
+                                      </div>
+                </a>
+                                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/13092681" title="See details about &quot;Chinese Language Resources Orientation&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">Chinese Language Resources Orientation</h3>
+                    <div class="hl__event-teaser__type">Bibliographic Orientations</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Wednesday, Oct 9, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        3:00 PM
+                                                  - 4:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Harvard-Yenching Library
+                      </div>
+                                      </div>
+                </a>
+                                          </div>
+                          <div class="hl__event-grid__see-all">
+                  <a href="https://libcal.library.harvard.edu/calendar/main?cid=15049&amp;t=d&amp;d=0000-00-00&amp;cal=15049&amp;cm=6731&amp;inc=0" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See all events</span></a>
+
+              </div>
+                      </div>
+        </section>
+        </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_exhibitions-17896" tabindex="-1">
+        <section class="hl__featured-events">
+              <header class="hl__featured-events__header hl__featured-events__header--left">
+                      <h3 class="hl__comp-heading hl__comp-heading--left ">  Exhibitions
+</h3>
+                  </header>
+      
+      <div class="hl__featured-events__content hl__featured-events__content--3">
+          
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/righteous-learning-muslims-china" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/exhibit_page_image_0.jpg?itok=UXQT7-gY)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Righteous Learning: Muslims in China</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  A Harvard-Yenching Library exhibit on Muslims in China
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Jun 4, 2024 through Aug 20, 2024
+              </span>
+    </div>
+  </div>
+</a>
+
+  
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/virtual-footsteps-past" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/667904_0.jpg?itok=vA8MHjbN)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Virtual: Footsteps of the Past</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  A Ramadan Exhibit on Muslims in China, Spring 2024
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Mar 14, 2024 through May 14, 2024
+              </span>
+    </div>
+  </div>
+</a>
+
+  
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/dragons-and-door-gods" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/dragons_and_door_gods_0.jpg?itok=OOGYy9Ef)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Dragons and Door Gods</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  Harvard-Yenching Library Lunar New Year Exhibit
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Feb 6, 2024 through May 15, 2024
+              </span>
+    </div>
+  </div>
+</a>
+
+
+      </div>
+
+            <footer class="hl__featured-events__see-all">
+        <a class="hl__link-tag hl__link-tag--with-arrow" href="https://library.harvard.edu/collections/exhibits" title="See all exhibits"><span>See all exhibits</span></a>
+      </footer>
+      
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="recent_news-17706" tabindex="-1">
+        <section class="hl__teaser-grid">
+      <div class="hl__teaser-grid__container">
+        <h3 class="hl__comp-heading">Recent News</h3>
+
+                <div>
+  
+  
+  
+
+  
+  
+  
+
+  <section class="hl__teaser-grid ">
+  <div class="hl__teaser-grid__container">
+    <div class="hl__teaser-grid__grid">
+              
+<a  data-ga-link="Featured Stories" class="hl__teaser-link" href="/about/news/2024-08-21/ancient-chinese-texts-salvaged-across-95-countries-future-research" title="Ancient Chinese texts salvaged from across 95 countries for future research">
+  
+  <div class="hl__teaser-link__container">
+          <div class="hl__teaser-link__image">
+        <img class="hl__image" alt="close up of hands repairing a book" src="https://library.harvard.edu/sites/default/files/styles/extra_large_600_x_600/public/screen_shot_2024-08-21_at_16.39.14_0.png?itok=nOhCrp4e" width="107" height="190" />
+      </div>
+        <div class="hl__teaser-link__details">
+      <div class="hl__teaser-link__subject hl__teaser-link__subject--with-date"></div>
+      <div class="hl__teaser-link__date">  <time datetime="2024-07-16T12:00:00Z">July 16, 2024</time>
+
+</div>
+      <h4 class="hl__teaser-link__title"><span>Ancient Chinese texts salvaged from across 95 countries for future research</span>
+</h4>
+      <div class="hl__teaser-link__description">
+        <section class="hl__rich-text">
+          <p>  The project includes a book with only two known copies, one of which is at the Harvard-Yenching Library.
+</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</a>
+
+              
+<a  data-ga-link="Featured Stories" class="hl__teaser-link" href="/about/news/2023-08-01/meet-harvards-first-chinese-teacher" title="Meet Harvard’s First Chinese Teacher">
+  
+  <div class="hl__teaser-link__container">
+          <div class="hl__teaser-link__image">
+        <img class="hl__image" alt="Card from the collections of Harvard-Yenching Library" src="https://library.harvard.edu/sites/default/files/styles/extra_large_600_x_600/public/yenching-yahoo_0.jpg?itok=MZlaaT7s" width="107" height="190" />
+      </div>
+        <div class="hl__teaser-link__details">
+      <div class="hl__teaser-link__subject hl__teaser-link__subject--with-date"></div>
+      <div class="hl__teaser-link__date">  <time datetime="2023-07-25T12:00:00Z">July 25, 2023</time>
+
+</div>
+      <h4 class="hl__teaser-link__title"><span>Meet Harvard’s First Chinese Teacher</span>
+</h4>
+      <div class="hl__teaser-link__description">
+        <section class="hl__rich-text">
+          <p>  Meet Ko K&#039;un-hua (Ge Kunhua), a Chinese scholar whose documents became the core of Harvard-Yenching Library.
+</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</a>
+
+          </div>
+  </div>
+</section>
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+       
+                  <div class="hl__teaser-grid__see-all">
+              <a href="/about/news?library_id=211" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See More</span></a>
+
+          </div>
+              </div>
+    </section>
+  </div>
+
+
+</article>
+
+  </div>
+
+  </section>
+
+
+        <section class="hl__full-template__post-content region">
+    <div id="block-newslettersignupblock" data-block-plugin-id="newsletter_signup_block">
+  
+    
+      <section class="hl__single-input-form"><form class="newsletter-signup hl__single-input-form__form" data-drupal-selector="newsletter-signup" action="/libraries/yenching" method="post" id="newsletter-signup" accept-charset="UTF-8">
+  <label class="hl__label hl__label--inline" data-drupal-selector="edit-title" for="edit-email-address" id="edit-title">Stay in the know</label><div class="hl__single-input-form__input-group">
+<input placeholder="Email Address" class="hl__input hl__input--inline js-is-required form-email required" data-twig-suggestion="newsletter_signup_email" data-drupal-selector="edit-email-address" type="email" id="edit-email-address" name="email_address" value="" maxlength="254" required="required" aria-required="true" />
+
+<button class="hl__button hl__button--small hl__button--inline button js-form-submit form-submit" data-twig-suggestion="newsletter_signup_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Sign up" data-ga-link="Form: Email Full-Width">
+  Sign up  
+</button></div><input autocomplete="off" data-drupal-selector="form-pglgdk10cn1x-fxtqbat8chbrezpzyikni1qr5gldw8" type="hidden" name="form_build_id" value="form-PgLGdK10CN1X_fxtQBAt8cHBRezpZyIkNi1qR5gLdW8" />
+<input data-drupal-selector="edit-newsletter-signup" type="hidden" name="form_id" value="newsletter_signup" />
+
+</form>
+</section>
+  </div>
+
+  </section>
+
+  </main>
+
+  <footer role="contentinfo">
+    <section>  <section class="region hl__footer">
+    <div class="hl__footer__container">
+      <div class="hl__footer__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library">
+            <img class="hl__image" alt="Harvard Library Logo" height="24" width="270" src="/themes/custom/harvard/assets/images/logo-large.svg">
+          </a>
+        </section>
+      </div>
+
+        
+<div class="hl__footer__links">
+                <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 1 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/support-library" class="hl__link-tag" data-drupal-link-system-path="node/5341"><span>Giving to the Library</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://provost.harvard.edu/" class="hl__link-tag"><span>Office of the Provost</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollis.harvard.edu/" class="hl__link-tag"><span>HOLLIS</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollisarchives.lib.harvard.edu/" class="hl__link-tag"><span>HOLLIS for Archival Discovery</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="http://nrs.harvard.edu/urn-3:hul.ois:databases" class="hl__link-tag"><span>Databases</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+          <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 2 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/library-newsletters-social-media" class="hl__link-tag" data-drupal-link-system-path="node/10856"><span>Newsletters/Social</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://staff.library.harvard.edu" class="hl__link-tag"><span>Staff Portal</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://library.harvard.edu/accessibility" class="hl__link-tag"><span>Library Accessibility</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://nrs.harvard.edu/urn-3:hul.ois:reportaproblem" class="hl__link-tag"><span>Report a Problem</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+      
+</div>
+
+
+
+
+      <div class="hl__footer__content">
+        <div class="hl__footer__top-links">
+          <div class="hl__footer__quick-links">
+
+            <div class="hl__linked-list hl__linked-list--no-bullets ">
+              <ul class="hl__linked-list__items">
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="https://accessibility.harvard.edu/" title="Read our accessibility"><span>Accessibility</span></a>
+                </li>
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="/privacy-terms-use-copyright-information/" title="Read our Privacy Policy"><span>Privacy</span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="hl__footer__license">
+          <div class="hl__footer__cc-icon">
+            <img class="hl__image " alt="Creative Commons license" height="31" width="88" src="/themes/custom/harvard/assets/images/cc-88x31.png">
+          </div>
+          <div class="hl__footer__cc-text">Creative Commons Attribution 4.0 International License</div>
+        </div>
+        <div class="hl__footer__message">
+          <section class="hl__rich-text hl__rich-text--small ">
+            <p>Except where otherwise noted, this work is subject to a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, which allows anyone to share and adapt our material as long as proper attribution is given. For details and exceptions, see the <a href="https://osc.hul.harvard.edu/programs/copyright/ccby">Harvard Library Copyright Policy</a> &copy;2024 Presidents and Fellows of Harvard College.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+  </footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_LwjaQiGzOrCwzVrRBti8K86MznwJk7GyLWx7kaTRtmo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=90b85bdd1489a074045c2519ad2fc1a5"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=055503cc8dd52ad22b42fb2afdf10da9"></script>
+
+  </body>
+</html>

@@ -1,0 +1,727 @@
+<!DOCTYPE html><!--  Last Published: Thu Sep 12 2024 12:44:14 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="66d16f7b45d3d7b54d96ba20" data-wf-site="66d16f7b45d3d7b54d96ba21" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Israel’s crackdown on the West Bank is killing Palestinian teenagers</title>
+  <meta content="As the world’s attention focuses on Gaza, more than 150 teenagers and children have been killed, shot and arrested in the West Bank." name="description">
+  <meta content="Israel’s crackdown on the West Bank is killing Palestinian teenagers" property="og:title">
+  <meta content="As the world’s attention focuses on Gaza, more than 150 teenagers and children have been killed, shot and arrested in the West Bank." property="og:description">
+  <meta content="https://cdn.prod.website-files.com/66d16f7b45d3d7b54d96ba21/66db3f70a801858bbc76983d_meta-image.jpg" property="og:image">
+  <meta content="Israel’s crackdown on the West Bank is killing Palestinian teenagers" property="twitter:title">
+  <meta content="As the world’s attention focuses on Gaza, more than 150 teenagers and children have been killed, shot and arrested in the West Bank." property="twitter:description">
+  <meta content="https://cdn.prod.website-files.com/66d16f7b45d3d7b54d96ba21/66db3f70a801858bbc76983d_meta-image.jpg" property="twitter:image">
+  <meta property="og:type" content="article">
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/components.css" rel="stylesheet" type="text/css">
+  <link href="css/west-bank-v2.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="images/favicon.jpg" rel="shortcut icon" type="image/x-icon">
+  <link href="images/webclip.png" rel="apple-touch-icon">
+  <link href="https://apnews.com/projects/west-bank-palestinian-teenagers-israel/" rel="canonical">
+  <link href="css/Header-Footer.css" rel="stylesheet" type="text/css">
+  <meta property="article:published_time" content="2024-09-12T11:00:00Z">
+  <meta property="article:modified_time" content="2024-09-12T12:46:00Z">
+  <meta property="og:url" content="https://apnews.com/projects/west-bank-palestinian-teenagers-israel/">
+  <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="mono-icon-facebook" viewbox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+      <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewbox="0 0 17 17">
+      <g>
+        <path fillrule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+      </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" data-name="mono-icon-twitter" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 500.21 511.42">
+      <path d="m484.21,0c-3.86,4.52-7.72,9.05-11.59,13.56-7.8,9.09-15.62,18.17-23.43,27.26-7.76,9.02-15.53,18.03-23.28,27.04-8.86,10.3-17.71,20.61-26.58,30.91-9.35,10.86-18.71,21.71-28.05,32.57-7.76,9.02-15.5,18.05-23.25,27.07-8.3,9.64-16.61,19.27-24.91,28.91-8.13,9.44-16.25,18.89-24.4,28.31-.71.82-.35,1.37.12,2.05,4.97,7.23,9.93,14.46,14.9,21.69,13.75,20,27.51,40,41.26,60,9.47,13.78,18.92,27.57,28.39,41.34,9.98,14.53,19.98,29.05,29.97,43.58,9.44,13.74,18.87,27.49,28.32,41.24,14.61,21.26,29.23,42.51,43.84,63.76,4.72,6.87,9.44,13.75,14.15,20.63.24.35.69.7.5,1.14-.24.55-.84.3-1.29.3-48.77.01-97.54,0-146.31.03-.92,0-1.52-.29-2.04-1.06-10.78-15.72-21.57-31.44-32.37-47.14-9.64-14.03-19.3-28.04-28.94-42.07-12.69-18.47-25.35-36.95-38.04-55.42-11.8-17.18-23.63-34.34-35.42-51.53-.7-1.03-1.05-.85-1.74-.05-6.07,7.09-12.18,14.15-18.26,21.23-7.33,8.52-14.66,17.05-22,25.57-10.02,11.65-20.04,23.31-30.06,34.95-9.88,11.48-19.78,22.96-29.66,34.44-9.31,10.83-18.61,21.68-27.92,32.5-9.97,11.58-19.95,23.15-29.93,34.73-3.48,4.05-6.99,8.07-10.41,12.18-1.01,1.21-2.06,1.69-3.66,1.68-13.38-.06-26.75-.04-40.13-.04-.65,0-1.3-.05-1.95-.08,0-.17,0-.35,0-.52,1.14-.89,1.96-2.08,2.89-3.16,8.76-10.16,17.48-20.35,26.23-30.51,10-11.62,20.01-23.21,30.01-34.83,11.44-13.29,22.86-26.6,34.3-39.9,11.04-12.83,22.1-25.65,33.15-38.48,11.47-13.33,22.92-26.67,34.38-40,11.01-12.8,22.03-25.59,33.08-38.37.79-.91.95-1.55.19-2.65-8.31-11.99-16.54-24.03-24.81-36.06-15.59-22.69-31.2-45.37-46.79-68.05-12.47-18.14-24.92-36.3-37.39-54.44-13.41-19.5-26.83-38.99-40.23-58.49C31.75,46.51,18.49,27.17,5.2,7.86,3.5,5.4,1.94,2.84.02.53.13.36-.23-.03.29,0c.3.02.61,0,.91,0C50.58,0,99.96,0,149.34,0c1.03,1.56,2.03,3.13,3.09,4.67,12.79,18.61,25.58,37.21,38.37,55.81,13.55,19.71,27.1,39.43,40.65,59.14,15.07,21.94,30.14,43.87,45.2,65.81,1.5,2.19,1.53,2.22,3.24.24,8.54-9.89,17.06-19.79,25.59-29.69,7.05-8.19,14.09-16.4,21.14-24.59,7.82-9.08,15.64-18.15,23.46-27.23,7.28-8.45,14.55-16.92,21.82-25.37,7.81-9.08,15.63-18.16,23.44-27.24,7.08-8.23,14.15-16.46,21.22-24.69,7.7-8.95,15.39-17.91,23.09-26.86,14.85,0,29.71,0,44.56,0ZM94.31,33.41c-10.64,0-21.28,0-31.92,0-.35,0-.69,0-1.04,0-.57,0-.7.27-.39.74.28.44.58.87.88,1.29,8.94,12.77,17.88,25.54,26.81,38.31,19.39,27.72,38.77,55.44,58.15,83.17,19.78,28.29,39.57,56.58,59.35,84.87,19.81,28.33,39.62,56.65,59.42,84.98,18.79,26.87,37.57,53.74,56.35,80.61,16.44,23.52,32.89,47.05,49.31,70.59.64.91,1.34,1.31,2.47,1.31,21.37-.03,42.73-.02,64.1-.03.42,0,.99.18,1.23-.21.31-.5-.25-.86-.5-1.22-12.34-17.65-24.69-35.29-37.04-52.95-13.04-18.65-26.06-37.31-39.09-55.96-16.85-24.09-33.71-48.17-50.56-72.26-13.71-19.61-27.41-39.23-41.12-58.83-11.74-16.8-23.51-33.58-35.25-50.38-15.48-22.13-30.96-44.27-46.43-66.4-20.13-28.79-40.26-57.58-60.36-86.39-.65-.93-1.33-1.28-2.45-1.28-10.64.04-21.28.02-31.92.02Z"></path>
+    </symbol>
+    <symbol id="externalLink" width="12px" height="12px" viewbox="0 0 12 12">
+      <g id="Symbols2" strokewidth="1" fill="none" fillrule="evenodd">
+        <g id="footer/black/1440-2" transform="translate(-569.000000, -101.000000)">
+          <g id="Group-3" transform="translate(520.000000, 60.000000)">
+            <g id="Group-29" transform="translate(0.000000, 38.000000)">
+              <g id="ArrowSquareOut" transform="translate(47.000000, 1.000000)">
+                <rect id="Rectangle3" x="0" y="0" width="16" height="16"></rect>
+                <polyline id="Path1" strokelinecap="round" strokelinejoin="round" points="13.5 6.25 13.4995 2.5005 9.75 2.5"></polyline>
+                <line x1="8.9982125" y1="7.0017875" x2="13.4982125" y2="2.5017875" id="Path2" strokelinecap="round" strokelinejoin="round"></line>
+                <path d="M11.5,9 L11.5,13 C11.5,13.2761424 11.2761424,13.5 11,13.5 L3,13.5 C2.72385763,13.5 2.5,13.2761424 2.5,13 L2.5,5 C2.5,4.72385763 2.72385763,4.5 3,4.5 L7,4.5" id="Path3" strokelinecap="round" strokelinejoin="round"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </symbol>
+  </svg>
+  <!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({c1: "2", c2: "3005041"});
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = "https://sb.scorecardresearch.com/cs/3005041/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+
+<!-- End comScore Tag --><script type="text/javascript" id="sovrn-head-data">
+    (function (properSpecialOps) {
+        window.properSpecialOps = properSpecialOps;
+        properSpecialOps.page_meta ={
+  "category" : "",
+  "dfp_kv" : {
+    "environment" : "PRODUCTION",
+    "page_type" : "Immersive",
+    "vnd_prx_segments" : [ "300003", "230104", "230134", "230164", "230106", "230136", "230166", "230108", "230138", "230168", "230103", "230133", "230163", "230101", "230131", "230161", "230162", "230175", "pa_lp1248", "pa_plk0124", "pa_iri3400", "pa_p1077", "pa_eye221", "pa_lp1245", "pa_p1101", "pa_p1102", "pa_iri5404", "pa_eye249", "pa_g18", "pa_eye261", "pa_lp1030", "pa_eye283", "pa_p1128", "pa_ott3037", "pa_ott3004", "pa_sym0030", "pa_iri3028", "pa_eye149", "pa_iri0717", "pa_ott3001", "pa_sym0172", "pa_eye255", "pa_p1074", "pa_eye118", "pa_eye153", "pa_p1161", "pa_eye195", "pa_iri0913", "pa_eye254", "pa_ott3013", "pa_lp1038", "pa_p1098", "pa_n357", "pa_plk0015", "pa_eye107", "pa_eye330", "pa_iri2192", "pa_iri5597", "pa_sym0080", "pa_eye159", "pa_eye174", "pa_p1001", "pa_eye194", "pa_iri0102", "pa_eye125", "pa_eye295", "pa_lp1303", "pa_iri0351", "pa_lp1385", "pa_eye169", "pa_eye131", "pa_iri5072", "pa_eye147", "pa_sym0060", "pa_iri0711", "pa_lp1262", "pa_ott3016", "pa_eye173", "pa_eye132", "pa_p1117", "pa_ott3029", "pa_iri1673", "pa_lp1359", "pa_p1009", "pa_p1106", "pa_eye113", "pa_lp1163", "pa_lp1376", "pa_lp1009", "pa_p1116", "pa_eye105", "pa_sym0041", "pa_p1140", "pa_iri5892", "pa_eye200", "pa_iri2210", "pa_lp1027", "pa_sym0047", "pa_lp1194", "pa_p1078", "pa_eye97", "pa_plk0069", "pa_iri4266", "pa_sig00033", "pa_ott3007", "pa_eye222", "pa_iri5595", "pa_p1162", "pa_iri4225", "pa_sig00100", "pa_eye115", "pa_eye179", "pa_tuMA1575", "pa_lp1154", "pa_iri0665", "pa_p1123", "pa_plk0127", "pa_plk0126", "pa_eye112", "pa_iri5635", "pa_p1114", "pa_m10", "pa_lp1188", "pa_p1118", "pa_iri3075", "pa_sym0002", "pa_iri5580", "pa_lp1109", "pa_eye136", "pa_ott3041", "pa_p1143", "pa_sym0077", "pa_iri3795", "pa_eye247", "pa_iri6319", "pa_eye154", "pa_eye327", "pa_eye156", "pa_eye138", "pa_eye273", "pa_eye321", "pa_p1160", "pa_eye265", "pa_eye205", "pa_iri0378", "pa_plk0032", "pa_iri0363", "pa_ott3040", "pa_eye144", "pa_p1016", "pa_eye334", "pa_p1065", "pa_eye116", "pa_ott3031", "pa_lp1192", "pa_iri3886", "pa_lp1222", "pa_lp1317", "pa_p1037", "pa_iri3380", "pa_p1137", "pa_tuMA1568", "pa_lp1178", "pa_plk0077", "pa_p1139", "pa_eye323", "pa_eye178", "pa_lp1306", "pa_p1119", "pa_iri5129", "pa_eye133", "pa_eye244", "pa_plk0052", "pa_eye141", "pa_lp1296", "pa_eye109", "pa_eye304", "pa_lp1103", "pa_p1107", "pa_p1104", "pa_sym0103", "pa_eye309", "pa_eye202", "pa_eye226", "pa_eye312", "pa_p1020", "pa_eye315", "pa_sym0001", "pa_p1109", "pa_eye325", "pa_eye243", "pa_lp1181", "pa_eye145", "pa_iri6258", "pa_eye251", "pa_lp1020", "pa_eye329", "pa_iri6025", "pa_tuMA1680", "pa_eye142", "pa_iri4265", "pa_eye280", "pa_eye111", "pa_iri0498", "pa_iri3037", "pa_tuMA2340", "pa_p1100", "pa_iri3638", "pa_p1007", "pa_iri1749", "pa_eye227", "pa_eye294", "pa_eye164", "pa_iri6566", "pa_lp1018", "pa_eye130", "pa_lp1341", "pa_iri5055", "pa_sym0084", "pa_iri3076", "pa_lp1366", "pa_lp1112", "pa_iri2897", "pa_p1072", "pa_eye320", "pa_eye314", "pa_iri4779", "pa_lp1219", "pa_iri3615", "pa_plk0016", "pa_sym0129", "pa_piq0022", "pa_iri3614", "pa_eye129", "pa_eye99", "pa_eye175", "pa_p1073", "pa_eye317", "pa_lp1360", "pa_eye274", "pa_n5", "pa_eye257", "pa_eye328", "pa_p1120", "pa_eye137", "pa_iri1729", "pa_eye106", "pa_eye260", "pa_lp1149", "pa_eye224", "pa_eye270", "pa_plk0057", "pa_eye203", "pa_tuMA1679", "pa_eye219", "pa_eye163", "pa_iri0607", "pa_lp1164", "pa_sym0011", "pa_eye103", "pa_eye160", "pa_lp1136", "pa_sym0178", "pa_iri4897", "pa_iri0630", "pa_iri4284", "pa_eye206", "pa_eye307", "pa_iri5592", "pa_iri2341", "pa_iri5717", "pa_sym0104", "pa_d23", "pa_iri5732", "pa_lp1344", "pa_sym0101", "pa_sym0123", "pa_p1142", "pa_sym0012", "pa_lp1130", "pa_eye275", "pa_sym0094", "pa_lp1311", "pa_g15", "pa_iri2199", "pa_iri3099", "pa_iri2365", "pa_p1113", "pa_eye146", "pa_eye100", "pa_eye248", "pa_lp1230", "pa_ott3026", "pa_eye199", "pa_eye269", "pa_ott3025", "pa_lp1139", "pa_iri5689", "pa_tuMA1572", "pa_eye170", "pa_eye253", "pa_eye114", "pa_plk0130", "pa_ott3005", "pa_eye172", "pa_eye302", "pa_plk0033", "pa_eye165", "pa_lp1329", "pa_p1141", "pa_plk0001", "pa_sym0090", "pa_p1066", "pa_iri1753", "pa_iri4336", "pa_lp1379", "pa_sig00049", "pa_iri6502", "pa_eye198", "pa_eye324", "pa_lp1226", "pa_iri1726", "pa_lp1125", "pa_sym0168", "pa_plk0064", "pa_sym0146", "pa_eye126", "pa_eye151", "pa_sym0130", "pa_plk0076", "pa_iri3770", "pa_plk0002", "pa_eye303", "pa_eye335", "pa_lp1202", "pa_iri4281", "pa_lp1382", "pa_sym0093", "pa_eye101", "pa_iri0115", "pa_eye284", "pa_eye287", "pa_plk0129", "pa_eye162", "pa_lp1014", "pa_eye176", "pa_iri3051", "pa_lp1234", "pa_lp1315", "pa_eye271", "pa_tuMA1577", "pa_sig00020", "pa_eye128", "pa_iri3027", "pa_eye223", "pa_n3", "pa_eye332", "pa_iri1752", "pa_eye134", "pa_iri6274", "pa_sym0082", "pa_sym0143", "pa_eye339", "pa_lp1325", "pa_eye326", "pa_iri5142", "pa_p1115", "pa_eye83", "pa_eye232", "pa_eye333", "pa_eye282", "pa_iri6269", "pa_iri3763", "pa_iri0488", "pa_eye139", "pa_lp1243", "pa_lp1167", "pa_eye331", "pa_eye313", "pa_eye250", "pa_eye228", "pa_n28", "pa_eye157", "pa_p1027", "pa_eye308", "pa_lp1249", "pa_sym0004", "pa_lp1352", "pa_tv_heavy", "pa_lp1212", "pa_plk0025", "pa_p1015", "pa_eye152", "pa_eye230", "pa_iri5943", "pa_sig00013", "pa_lp1239", "pa_lp1158", "pa_tuMA1675", "pa_ott3010", "pa_p1103", "pa_plk0070", "pa_sig00040", "pa_eye337", "pa_p1026", "pa_eye90", "pa_lp1185", "pa_lp1106", "pa_eye177", "pa_iri6429", "pa_eye148", "pa_eye201", "pa_ott3043", "pa_iri2387", "pa_tuMA1571", "pa_eye158", "pa_lp1200", "pa_ott3028", "pa_eye296", "pa_d33", "pa_lp1169", "pa_ott3019", "pa_lp1197", "pa_lp1090", "pa_eye104", "pa_plk0060", "pa_lp1370", "pa_d24", "pa_sym0184", "pa_ott3034", "pa_eye279", "pa_tuMA1674", "pa_iri3502", "pa_iri1978", "pa_p1099", "pa_sym0134", "pa_eye319", "pa_iri2058", "pa_iri6273", "pa_lp1198", "pa_sym0037", "pa_iri6312", "pa_n4", "pa_sym0091", "pa_lp1173", "pa_sym0003", "pa_eye285", "pa_iri0068", "pa_iri2364", "pa_p1158", "pa_eye209", "pa_sym0106", "pa_lp1258", "pa_iri4256", "pa_eye286", "pa_eye161", "pa_iri3311", "pa_p1125", "pa_plk0055", "pa_eye168", "pa_eye108", "pa_iri5977", "pa_eye110", "pa_eye127", "pa_sym0150", "pa_sym0132", "pa_lp1117", "pa_eye264", "pa_plk0128", "pa_eye155", "pa_eye167", "pa_ott3038", "pa_iri1716", "pa_iri6033", "pa_plk0059", "pa_eye252", "pa_iri0208", "pa_ott3002", "pa_d34", "pa_eye140", "pa_p1159", "pa_eye322", "pa_p1097", "pa_eye166", "pa_iri6549", "pa_lp1275", "pa_tuMA1681", "pa_plk0125", "pa_tuMA1666", "pa_eye135", "dem2005", "dem2021", "dem3005", "dem3021", "iab2_00123", "iab2_00052", "iab2_00090", "iab2_00122", "iab2_00379", "iab2_00380", "iab2_00186", "iab2_00192", "iab2_00198", "iab2_00389", "iab2_00053" ]
+  },
+  "tags" : [ ],
+  "page_type" : "Immersive",
+  "publication_date" : "2024-09-12 07:01:47",
+  "item_id" : null,
+  "headline" : null,
+  "authors" : [ ]
+};properSpecialOps.post_id = "00000191-ccc5-d3fa-a79d-dccfac610000";})(window.properSpecialOps || {})
+</script>
+
+<script type="text/javascript" id="sovrn-head-init"> 
+    var propertag = propertag || {};
+    propertag.cmd = propertag.cmd || [];
+</script>
+
+<link rel='preconnect' href='//global.proper.io'>
+<link rel='preload' href='//global.proper.io/apnews.min.js' as='script'>
+<link rel='preload' href='//global.proper.io/payloads/latest.js' as='script'>
+<link rel='preload' href='//securepubads.g.doubleclick.net/tag/js/gpt.js' as='script'>
+<script async type='text/javascript' src='//global.proper.io/apnews.min.js'></script><script>
+    window['BSP-app'] = false;
+    window['BSP-view-mode'] = false;
+</script><link rel="preconnect" href="https://connect.facebook.net">
+<script>
+  window.fbAsyncInit = function() {
+      FB.init({
+          
+              appId : '870613919693099',
+          
+          xfbml : true,
+          version : 'v2.9'
+      });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<meta name="permutive-dataLayer" content="{
+  &quot;category&quot; : &quot;&quot;,
+  &quot;dfp_kv&quot; : {
+    &quot;page_type&quot; : &quot;Immersive&quot;
+  },
+  &quot;tags&quot; : [ ],
+  &quot;page_type&quot; : &quot;Immersive&quot;,
+  &quot;publication_date&quot; : &quot;2024-09-12T07:01:47.000Z&quot;,
+  &quot;item_id&quot; : null,
+  &quot;headline&quot; : null,
+  &quot;authors&quot; : [ ]
+}"><script>
+    let dataValue = undefined;
+    (function () {
+        dataValue = document.head.querySelector('meta[name="permutive-dataLayer"]')?.content;
+        if (dataValue) {
+            dataValue = JSON.parse(dataValue);
+        }
+    })();
+    if (!dataValue) {
+        dataValue = {}
+    }
+
+    !function (e, o, n, i) { if (!e) { e = e || {}, window.permutive = e, e.q = []; var t = function () { return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) { return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16) }) }; e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t()); for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) { var w = g[r]; e[w] = function (o) { return function () { var n = Array.prototype.slice.call(arguments, 0); e.q.push({ functionName: o, arguments: n }) } }(w) } } }(window.permutive, "8dce728a-278c-4ac4-9b6b-884b0190015b", "507b28fb-2ef1-4c34-8bda-ba32030bb199", { "consentRequired": true });
+    window.googletag = window.googletag || {}, window.googletag.cmd = window.googletag.cmd || [], window.googletag.cmd.push(function () {
+        if (0 === window.googletag.pubads().getTargeting("permutive").length) {
+            var e = window.localStorage.getItem("_pdfps");
+            window.googletag.pubads().setTargeting("permutive", e ? JSON.parse(e) : []);
+            var o = window.localStorage.getItem("permutive-id");
+            o && (window.googletag.pubads().setTargeting("puid", o), window.googletag.pubads().setTargeting("ptime", Date.now().toString())), window.permutive.config.viewId && window.googletag.pubads().setTargeting("prmtvvid", window.permutive.config.viewId), window.permutive.config.workspaceId && window.googletag.pubads().setTargeting("prmtvwid", window.permutive.config.workspaceId)
+        }
+    });
+    permutive.addon('web', {
+        "page": {
+            "classifications_watson": {
+                "categories": "$alchemy_taxonomy",
+                "concepts": "$alchemy_concepts",
+                "emotion": "$alchemy_document_emotion",
+                "entities": "$alchemy_entities",
+                "keywords": "$alchemy_keywords",
+                "sentiment": "$alchemy_document_sentiment"
+            },
+            "publishedAt": dataValue.publication_date, // "2021-11-09T16:20:05.063Z"
+            "title": dataValue.headline, // "text"
+            "page_type": dataValue.page_type, // "text"
+            "category": dataValue.category, // "text"
+            "authors": dataValue.authors, // ["list", "of", "strings"]
+            "tags": dataValue.tags // ["list", "of", "strings"]
+        }
+    });
+</script><script type="text/javascript" src="https://s.ntv.io/serve/load.js" async id="nativo-head"></script>
+
+<script>
+    window.ntvConfig = window.ntvConfig || {};
+    window.ntvConfig.keyValues = window.ntvConfig.keyValues || {};
+    var segs = localStorage.getItem('_pnativo');
+    if (segs) {
+        window.ntvConfig.keyValues.permutive = JSON.parse(segs).join(",");
+    }
+</script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        (function () {
+            // Get the content of the meta tag named "gtm-dataLayer" from the document's head, if it exists
+            var dataValue = document.head.querySelector('meta[name="gtm-dataLayer"]')?.content;
+            // Get the value of the attribute "data-named-page-type" from an element in the document, if it exists
+            const pageType = document.querySelector('[data-named-page-type]')?.getAttribute('data-named-page-type')
+            // If dataValue exists, parse it as JSON
+            if (dataValue) {
+                dataValue = JSON.parse(dataValue);
+                dataValue["lead_style"] = "medium";
+            }
+            // If pageType exists, update the event and pageType properties in dataValue
+            if (pageType) {
+                dataValue.event = "AP Configuration"; // Set the event property to "AP Configuration"
+                dataValue.pageType = pageType; // Set the pageType property to the value obtained earlier
+                window.dataLayer.push(dataValue);
+            }
+
+        })();
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KT7RHVG');</script>
+    <!-- End Google Tag Manager -->
+    
+</head>
+<body class="body">
+  <div class="custom-code html-embed w-embed">
+    <style>
+/*For the Circle Mask Reveal*/
+.mask2 {
+   -webkit-mask-image: url(https://uploads-ssl.webflow.com/62592e43fcc89072cd807fdc/6259e881d029f42df5ae3be6_circle-mask-white.svg);
+   -webkit-mask-size: contain;
+   -webkit-mask-repeat: no-repeat;
+   -webkit-mask-position: 50% 50%;	
+ }
+</style>
+  </div>
+  <div class="leaderboard-container">
+    <div data-module data-class="sovrn-leaderboard" class="sovrnad advertisement sovrn-leaderboard"></div>
+  </div>
+  <div class="header_markup_single_nav w-embed">
+    <nav>
+      <div class="_wrapper_6jw9h_1">
+        <div class="_container_6jw9h_7">
+          <a href="https://apnews.com/"><img src=".//images/images_AP_LOGO_86x100.png" alt="AP Logo" class="_logo_6jw9h_21" height="55"></a><button class="_menuButton_6jw9h_25" aria-label="Toggle menu" aria-expanded="false">
+            <svg viewbox="0 0 14 10" height="18" width="20" fill="#fff">
+              <path fill-rule="evenodd" d="M0 5.5v-1h14v1H0zM0 1V0h14v1H0zm0 9V9h14v1H0z"></path>
+            </svg>
+          </button>
+          <ul class="_topNav_6jw9h_36 _closedNav_6jw9h_140">
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//world-news" class="_link_6jw9h_58">World</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//us-news" class="_link_6jw9h_58">U.S.</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//hub/election-2024" class="_link_6jw9h_58">Election 2024</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//politics" class="_link_6jw9h_58">Politics</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//sports" class="_link_6jw9h_58">Sports</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//entertainment" class="_link_6jw9h_58">Entertainment</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//business" class="_link_6jw9h_58">Business</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//science" class="_link_6jw9h_58">Science</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//ap-fact-check" class="_link_6jw9h_58">Fact Check</a>
+            </li>
+            <li class="_navItem_6jw9h_53">
+              <a href="https://apnews.com//health" class="_link_6jw9h_58">Health</a>
+            </li>
+          </ul>
+          <a class="_donate_6jw9h_80" href="https://apnews.com/donate">Donate</a>
+        </div>
+      </div>
+    </nav>
+  </div>
+  <article class="section-header">
+    <div data-poster-url="videos/1-poster-00001.jpg" data-video-urls="videos/1-transcode.mp4,videos/1-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="background-video-2 desktop w-background-video w-background-video-atom"><video id="4bd683d2-8f2c-06c7-4341-92132e39a80f-video" autoplay="" loop="" style="background-image:url(&quot;videos/1-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+        <source src="videos/1-transcode.mp4" data-wf-ignore="true">
+        <source src="videos/1-transcode.webm" data-wf-ignore="true">
+      </video>
+      <div class="w-layout-blockcontainer w-container">
+        <div class="header-text-container">
+          <p class="story black_back">When 15-year-old Mahmoud’s school let out during a raid by Israeli forces, he tried to reach home down an alley.</p>
+        </div>
+      </div>
+    </div>
+    <div data-poster-url="videos/Mahmoud-poster-00001.jpg" data-video-urls="videos/Mahmoud-transcode.mp4,videos/Mahmoud-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="background-video-2 mobile w-background-video w-background-video-atom"><video id="a1bff6cf-e36c-a236-f228-a22bd0e368b5-video" autoplay="" loop="" style="background-image:url(&quot;videos/Mahmoud-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+        <source src="videos/Mahmoud-transcode.mp4" data-wf-ignore="true">
+        <source src="videos/Mahmoud-transcode.webm" data-wf-ignore="true">
+      </video>
+      <div class="w-layout-blockcontainer w-container">
+        <div class="header-text-container">
+          <p class="story black_back">When 15-year-old Mahmoud’s school let out during a raid by Israeli forces, he tried to reach home down an alley.</p>
+        </div>
+      </div>
+    </div>
+    <div class="sniper-container">
+      <div class="w-layout-blockcontainer container-3 w-container">
+        <div class="graphic_content_container">
+          <div class="photo_and_caption">
+            <p id="w-node-_2bc9675b-30b7-3c39-1727-aefe7e72d376-4d96ba20" class="story no-margin back">A sniper’s bullet found him first. </p><img src="images/2-v3_1.avif" loading="lazy" id="w-node-aa0a1366-733c-8b65-b5a8-7f266ec98bec-4d96ba20" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940.0000610351562px" alt="The body of a dead child in an alley" srcset="images/2-v3_12-v3.avif 500w, images/2-v3_12-v3.avif 800w, images/2-v3_1.avif 1920w" class="image-6">
+            <div id="w-node-_3c019a10-39ef-8f42-25c8-a634ef7511a4-4d96ba20" class="div-block-13"></div>
+            <div class="caption_text_graphic">A photo by a resident shows Mahmoud Hamadneh on the ground after he was shot.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+  <article class="main_story top">
+    <article class="w-layout-blockcontainer w-container">
+      <div class="headline-wrapper">
+        <h1 class="heading">Underage, Under Fire</h1>
+        <h2 class="subheading">As war rages in Gaza, Israel’s crackdown on West Bank insurgency is killing Palestinian youths</h2>
+      </div>
+      <div class="byline-wrapper">
+        <div class="byline">By ADAM GELLER and JALAL BWAITEL<br>Photos and video by BRAM JANSSEN</div>
+        <div id="w-node-f66d0f47-8f51-5eb2-ed3b-e61fad1cfd6b-4d96ba20" class="publish-text">Published September 12, 2024</div>
+      </div>
+      <p class="story">JENIN, West Bank (AP) –</p>
+      <p class="story">In the web of battered, sun-baked streets winding up the hillside, bloodshed is as unrelenting as the heat. So it is not hard to see why, when raid sirens and gunfire erupted yet again on a morning in late May, 15-year-old Mahmoud Hamadneh turned his bike down an alley that held out the promise of refuge.</p>
+      <p class="story">The narrow lane, a few hundred yards from his school, looks like an urban oasis, shaded by olive branches that reach across walls on either side. On a recent afternoon the cooing of doves and whine of cicadas amplified its stillness. Only the faded stain of Mahmoud’s blood in the pavement and a stone, hand-lettered with his name, betrayed the illusion.</p>
+      <p class="story">“He didn’t do anything. He didn’t make a single mistake,” says Amjad Hamadneh, whose son, a buzz-cut devotee of computer games, was one of two teens killed that morning in the opening minutes of a raid by Israeli forces.</p>
+      <p class="story">“If he’d been a freedom fighter or was carrying a weapon, I would not be so emotional,” says his father, an unemployed construction worker. “But he was taken just as easily as water going down your throat. He only had his books and a pencil case.”</p>
+    </article>
+  </article>
+  <section class="section_full_video">
+    <div class="full_video w-embed"><video width="100%" muted="" autoplay="" loop="" playsinline="">
+        <source src="videos/PRESENTATION_drone2-V3.mp4" type="video/mp4">
+      </video></div>
+    <div class="caption_text_graphic full_screen">An aerial view of the Jenin refugee camp.</div>
+  </section>
+  <article class="main_story inner">
+    <article class="w-layout-blockcontainer w-container">
+      <p class="story">Jenin’s refugee camp has long been notorious as a hotbed of Palestinian militancy, raided repeatedly by Israeli forces who have occupied the West Bank since seizing control in their 1967 war with neighboring Arab states. During the two-day raid that began the morning of May 21, Israeli troops traded fire with Palestinian gunmen. Militant groups said eight of the 12 Palestinians killed were their fighters.</p>
+      <p class="story">But the casualties that day, and many others in recent months, went beyond armed men engaged in the region&#x27;s seemingly endless conflict. As the world’s attention focuses on the far more deadly war in Gaza less than 80 miles away, scores of Palestinian teens have been killed, shot and arrested in the West Bank, where the Israeli military has waged a months-long crackdown.</p>
+      <p class="story">More than 150 teens and children 17 or younger have been killed in the embattled territory since Hamas’ brutal attack on communities in southern Israel set off the war last October. Most died in nearly daily raids by the Israeli army that Amnesty International says have used disproportionate and unlawful force.</p>
+      <div class="full_video botttom_margin w-embed"><video width="100%" muted="" autoplay="" loop="" playsinline="">
+          <source src="videos/Gallery_V2.mp4" type="video/mp4">
+        </video></div>
+      <p class="story">Youths represent almost a quarter of the nearly 700 Palestinians slain in the West Bank since the war began, the most since the violent uprising known as the Second Intifada in the early 2000s. More than 20 Israeli civilians and soldiers have been killed in the territory since October.</p>
+      <p class="story">At the same time, Israel, which has long jailed Palestinians from the West Bank without charge, has extended that practice to many more teens. After October, food deprivation, overcrowding of cells and other mistreatment escalated sharply, the recently released and advocates say.</p>
+      <p class="story">It is clear from statements by the Israeli military, insurgents and families in the West Bank that a number of the Palestinian teens killed in recent months were members of militant groups.</p>
+      <div class="inline_image_container"><img src="images/5-v2.jpg" loading="lazy" sizes="100vw" srcset="images/5-v2-p-500.jpg 500w, images/5-v2-p-800.jpg 800w, images/5-v2-p-1080.jpg 1080w, images/5-v2-p-1600.jpg 1600w, images/5-v2.jpg 2000w" alt="3 young children ">
+        <div class="caption_text_graphic">Youssef, 3, cries for his uncle, who was killed by Israeli military forces in Jenin.</div>
+      </div>
+      <p class="story">Many others were killed during protests or when they or someone nearby threw rocks or home-made explosives at military vehicles. Still others appear to have been random targets. Taken together, the killings raise troubling questions about the devaluation of young lives in pursuit of security and autonomy.</p>
+      <p class="story">Grief over those deaths has been shadowed by trepidation. Israeli raids won’t eliminate militant groups, survivors say. Instead, some fear, the pain of losing so many youths risks the opposite – pulling siblings, friends and classmates left behind into the region’s vortex of vengeance.</p>
+    </article>
+  </article>
+  <article class="main_story inner">
+    <article class="w-layout-blockcontainer w-container">
+      <div class="reveal-text">
+        <div class="section-30vh">
+          <div class="text-mask">
+            <div data-w-id="579acf9a-1ac8-68cb-ba59-9f61c378814b" class="mask2">
+              <div class="text-parent">
+                <div class="quote white">An intensified crackdown</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </article>
+  <section class="section_full_image"><img src="images/6-v2.jpg" loading="lazy" sizes="100vw" srcset="images/6-v2-p-500.jpg 500w, images/6-v2-p-800.jpg 800w, images/6-v2-p-1080.jpg 1080w, images/6-v2-p-1600.jpg 1600w, images/6-v2.jpg 2000w" alt="A group of people pushing a bed through a hospital">
+    <div class="caption_text_graphic full_screen">The body of a Palestinian militant is carried into a morgue after a raid by the Israeli military. <br></div>
+  </section>
+  <article class="main_story inner">
+    <article class="w-layout-blockcontainer w-container">
+      <p class="story">After Hamas killed 1,200 people in Israel last October and took 250 others <a href="https://www.google.com/url?q=https://apnews.com/article/israel-hamas-war-news-hostages-0c14750240138853a70e38b0c09ef157&amp;sa=D&amp;source=docs&amp;ust=1726042645891819&amp;usg=AOvVaw2hvRX4V5eev-dKlsuu9Bil" class="hyperlinks">hostage,</a> long-smoldering tensions exploded.</p>
+      <p class="story">Israel responded with a sweeping military campaign in Gaza that Palestinian authorities say has killed more than 40,000 people. That has fueled anger and insurgency in the West Bank, where Israeli forces police about 3 million Palestinians while assigned to protect 500,000 Jewish settlers.</p>
+      <p class="story">The embattled territory was already seeing deadly clashes before the war began. But Israel&#x27;s military has significantly <a href="https://www.google.com/url?q=https://apnews.com/article/palestinians-israel-west-bank-war-gaza-hamas-settlers-army-raid-militants-c1386ab6a633971cc18b2497169210d3&amp;sa=D&amp;source=docs&amp;ust=1726042645892239&amp;usg=AOvVaw1eyPU3nrgdK7ugSAfo89MP" class="hyperlinks">stepped up raids</a> in the months since, characterized by Prime Minister Benjamin Netanyahu as part of the larger battle in Gaza and along the border with Lebanon to permanently disable militant groups that have long threatened his country’s security.</p>
+      <p class="story">“I can assure you one thing: What has been is not what will be,” he told commanders during a June meeting in the West Bank. “We will change this reality.”</p>
+      <div id="w-node-_971ef5ad-d441-9a82-4575-83fdd92a2b78-4d96ba20" class="w-layout-layout triple_photo_layout wf-layout-layout">
+        <div id="w-node-_971ef5ad-d441-9a82-4575-83fdd92a2b79-4d96ba20" class="w-layout-cell top_image"><img src="images/7-v2.jpg" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 991px) 95vw, 940.0000610351562px" srcset="images/7-v2-p-500.jpg 500w, images/7-v2-p-800.jpg 800w, images/7-v2-p-1080.jpg 1080w, images/7-v2-p-1600.jpg 1600w, images/7-v2.jpg 2000w" alt="People carrying the body of a Palestinian militant" class="image-2">
+          <div class="caption_text">People carry the body of a Palestinian militant to a nearby mosque after his death in a June raid in Jenin.</div>
+        </div>
+        <div id="w-node-_971ef5ad-d441-9a82-4575-83fdd92a2b7d-4d96ba20" class="w-layout-cell lower_images"><img src="images/8-v2.jpg" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 991px) 95vw, 940.0000610351562px" srcset="images/8-v2-p-500.jpg 500w, images/8-v2-p-800.jpg 800w, images/8-v2-p-1080.jpg 1080w, images/8-v2-p-1600.jpg 1600w, images/8-v2.jpg 2000w" alt="A group of men and boys" class="image-3">
+          <div class="caption_text">Young men and children gather around the body of a Palestinian militant in a mosque.</div>
+        </div>
+        <div id="w-node-_971ef5ad-d441-9a82-4575-83fdd92a2b81-4d96ba20" class="w-layout-cell lower_images"><img src="images/9-v2.jpg" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 991px) 95vw, 940.0000610351562px" srcset="images/9-v2-p-500.jpg 500w, images/9-v2-p-800.jpg 800w, images/9-v2-p-1080.jpg 1080w, images/9-v2-p-1600.jpg 1600w, images/9-v2.jpg 2000w" alt="A man kissing the head of a dead relative" class="image-4">
+          <div class="caption_text">A family member kisses his dead uncle’s forehead.</div>
+        </div>
+      </div>
+      <p class="story">A military spokesman said the Israeli army makes great efforts to avoid harming civilians during raids and “does not target civilians, period.” He said human rights group focus on a few outlier cases.</p>
+      <p class="story">Military operations in the West Bank are fraught because forces are pursuing militants, many in their teens, who often hide among the civilian population, said the spokesman, Lt. Col. Nadav Shoshani.</p>
+      <p class="story">“In many cases many of them are 15, 16 years old who are not wearing uniforms and might surprise you with a gun, with a knife,” he said.</p>
+      <p class="story">But critics say the crackdown is shaped by retribution, not only military strategy.</p>
+      <p class="story">“The pressure is similar to post-Second Intifada, but there’s something different. And that something different is Oct. 7th,” says Nadav Weiman, a former Israeli army sniper who leads Breaking the Silence, an anti-occupation veterans’ group that gathers testimony from soldiers assigned to the West Bank and Gaza.</p>
+      <p class="story">Throughout the military ranks “there is a feeling of revenge,” he says. Many soldiers view Palestinians “as an entity. They are not individuals. So you unleash your anger everywhere.”</p>
+      <p class="story">The crackdown extends to the military’s treatment of jailed teens, says Ayed Abu Eqtaish of Defense for Children International-Palestine, an advocacy group. Israeli authorities have declared it a terrorist organization, alleging ties to a Palestinian nationalist faction.</p>
+      <p class="story">With the military holding more teens without charge in grim conditions, while restricting communication, families are increasingly uncertain of their wellbeing, Eqtaish says.</p>
+      <p class="story">“After Oct. 7,” he says, “everything deteriorated.”</p>
+      <div class="reveal-text">
+        <div class="section-30vh">
+          <div class="text-mask">
+            <div data-w-id="971ef5ad-d441-9a82-4575-83fdd92a2b94" class="mask2">
+              <div class="text-parent">
+                <div class="quote white">War in an instant</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </article>
+  <section class="section_full_image"><img src="images/10-v2.jpg" loading="lazy" sizes="100vw" srcset="images/10-v2-p-500.jpg 500w, images/10-v2-p-800.jpg 800w, images/10-v2-p-1080.jpg 1080w, images/10-v2-p-1600.jpg 1600w, images/10-v2.jpg 2000w" alt="Jenin refugee camp at night">
+    <div class="caption_text_graphic full_screen">Jenin refugee camp by night. <br></div>
+  </section>
+  <article class="main_story inner">
+    <article class="w-layout-blockcontainer w-clearfix w-container">
+      <p class="story">Even before Israel <a href="https://www.google.com/url?q=https://apnews.com/article/israel-palestinians-west-bank-jenin-hamas-militants-c1618cc024d8a5269486e266593b5434&amp;sa=D&amp;source=docs&amp;ust=1726042645892582&amp;usg=AOvVaw1d7XaCJeTnaznsBFH2Z6DO" class="hyperlinks">launched a major military operation</a> in the West Bank in late August, its troops had raided Jenin dozens of times since the war began.</p>
+      <p class="story">Yet throughout the city’s urbanized refugee camp, where concrete homes wedge against one another on streets ripped up by military bulldozers, there are many indicators that militants remain entrenched.</p>
+      <p class="story">Signs at the perimeter of the camp, opened in 1953 to house Palestinians who fled or were driven from what is now Israel in the war following its establishment, mark the territory of the Jenin Brigades, an umbrella organization of militant groups.</p>
+      <p class="story">Guards stop cars they don’t recognize, especially those with Israeli plates. Posters of smiling young men armed with assault rifles – tributes to militants killed in clashes – decorate walls and utility poles.</p>
+      <p class="story">For years, Amjad Hamadneh and wife Kholoud planned for the day they would take their children away from all this. In the meantime, their home in the uppermost reaches of the camp – with a grandfather clock presiding over the living room and bedrooms filled with children’s toys and son Mahmoud’s beloved computer –  kept them on the fringes of conflict.</p>
+      <div class="dual_photo_container">
+        <div class="w-layout-grid grid">
+          <div><img src="images/11-v2.jpg" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 991px) 95vw, 940.0000610351562px" srcset="images/11-v2-p-500.jpg 500w, images/11-v2-p-800.jpg 800w, images/11-v2-p-1080.jpg 1080w, images/11-v2-p-1600.jpg 1600w, images/11-v2.jpg 2000w" alt="A man sitting on a sofa looking out of a window." class="dual_photos">
+            <div id="w-node-_61540df4-0b5d-56de-84ec-8f105b72a60f-4d96ba20" class="caption_text">Amjad Hamadneh stares out the window of his home.</div>
+          </div>
+          <div><img src="images/12-v2.jpg" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 991px) 95vw, 940.0000610351562px" srcset="images/12-v2-p-500.jpg 500w, images/12-v2-p-800.jpg 800w, images/12-v2-p-1080.jpg 1080w, images/12-v2-p-1600.jpg 1600w, images/12-v2.jpg 2000w" alt="A photo of  a boy holding a guitar" class="dual_photos">
+            <div id="w-node-_33344824-12bf-472e-3e1c-a1d96959e943-4d96ba20" class="caption_text">A snapshot of Mahmoud Hamadneh at his family’s home.</div>
+          </div>
+        </div>
+      </div>
+      <p class="story">Most days Amjad, 46, left home around 3:30 a.m. to reach a construction job in northern Israel. That income was lost when Israel <a href="https://www.google.com/url?q=https://apnews.com/article/west-bank-gaza-war-economy-israel-hamas-aaf0139b533ec6f100b2b339c1365b0f&amp;sa=D&amp;source=docs&amp;ust=1726042645892965&amp;usg=AOvVaw1J8RFcDZU4eOObGEh3wuWZ">suspended work permits</a> for Palestinians last October. By then, though, he’d begun building a home on a plot near the city of Nablus.</p>
+      <p class="story">The couple envisioned a place that would last for decades, with apartments for their twin sons and daughter when they eventually married. To help pay for it, they moved the boys from a private academy to the public Al Karamah school at the base of the hill.</p>
+      <p class="story">“All of my work, all of my life was for them,” Amjad says.</p>
+      <p class="story">On the morning of May 21, a Tuesday, the Hamadneh brothers rushed off to make a scheduled final exam. Down the hillside, Osama Hajir, a former classmate who had dropped out of school to work, left home on his motorcycle to begin a day of deliveries. It was just after 7:30 a.m.</p>
+      <p class="story">In Jenin, though, any hour can see the camp morph into a war zone.</p>
+      <div class="right-inset"><img src="images/13-v2.jpg" loading="lazy" sizes="100vw" srcset="images/13-v2-p-500.jpg 500w, images/13-v2-p-800.jpg 800w, images/13-v2-p-1080.jpg 1080w, images/13-v2-p-1600.jpg 1600w, images/13-v2.jpg 2000w" alt="A military vehicle driving through a town">
+        <div id="w-node-a74333d5-d18e-2165-3a91-23ea9691c6a0-4d96ba20" class="caption_text">An Israeli military vehicle drives through Jenin.</div>
+      </div>
+      <p class="story">It might start like it did one recent afternoon, when a guard outside the camp’s Ottoman Era train depot mentioned that unmarked military vehicles had been spotted on the outskirts.</p>
+      <p class="story">A minute or two later sirens began screaming, warning that special forces were already in the camp. Shopkeepers yanked down their gates. Fleeing residents drove against one-way traffic. Many were still seeking shelter when the sound of gunfire sliced through the summer air.</p>
+      <p class="story">When the sirens erupted that morning in May, Amjad Hamadneh says, he called Mahmoud on his cell phone and was relieved to hear that the brothers had reached their school, behind walls painted with student murals.</p>
+      <p class="story">Then son Ahmed called back to say that the principal had dismissed classes. As students poured into the street, the brothers were separated in the chaos.</p>
+      <p class="story">Rushing for their electric bikes, classmate Karam Miazneh saw Mahmoud ahead of him. Both were still within a few hundred yards of the school when witnesses say a sniper in an upper floor window of a recently completed apartment building began firing at people and cars below.</p>
+      <p class="story">Karam veered into an alley, raising a textbook overhead to show he was a student, as four bullets ripped past him. Then a fifth exploded into his shoulder and he dropped to the ground.</p>
+      <p class="story">At the mouth of the next block, four bullets hit Mahmoud as he raced toward the alley walls, before another pierced his skull. He was the third student from his school killed in a raid since the war began.</p>
+      <div class="full_video botttom_margin w-embed"><video width="100%" muted="" autoplay="" loop="" playsinline="">
+          <source src="videos/Family_grave_2-v4.mp4" type="video/mp4">
+        </video></div>
+      <p class="story">A few blocks away, his former classmate, Osama, lay fatally wounded on the pavement. The dead that morning also included a teacher from the primary school next to Mahmoud’s and a doctor from the hospital down the street.</p>
+      <p class="story">“Now when I hear the sound of sirens I go to my room and stay there,” says Karam, showing the shrapnel and bone fragments doctors removed from his shoulder. “I’m still in fear that they will come to shoot me and kill me.”</p>
+      <p class="story">The Israeli army said in a statement to the AP that it has stepped up raids since Oct. 7 to apprehend militants suspected of carrying out attacks in the West Bank and that “the absolute majority of those killed during this period were armed or involved in terrorist activities at the time of the incident.”</p>
+      <p class="story">Immediately after the May raid, a spokesman for the army said it had carried out the operation together with Israeli border police and the country&#x27;s internal security agency, destroying an explosive device laboratory and other structures used by militants. But police recently declined to comment, and three weeks after the AP asked the military to answer questions about the May raid, an army spokesman said he couldn’t comment until he could confer with police.</p>
+      <p class="story">When Amjad Hamadneh heard his son had been wounded, he sped through Jenin’s twisting streets, drawing gunfire as he neared the hospital. But Mahmoud was already gone. The grief was so intense, his father says, that he couldn’t bear to remain in the building.</p>
+      <p class="story">“God has given and God has taken away,” he told his wife as he ushered her away.</p>
+      <p class="story">Nearby, Osama’s father, Muhamad, broke down as he leaned over his son’s body. Months earlier he’d snapped a photo of the smiling teen beside graffiti touting Jenin as “the factory of men,” tirelessly cranking out fighters in the resistance against Israel. Now, he pressed that same, still-smooth face between his hands.</p>
+      <p class="story">“Oh, my son. Oh, my son,” he sobbed. “My beautiful son.”</p>
+      <div class="video-play w-embed w-script">
+        <script src="https://cdn.jwplayer.com/players/GmpCDwef-z20Lgbcs.js"></script>
+      </div>
+      <div class="reveal-text">
+        <div class="section-30vh">
+          <div class="text-mask">
+            <div data-w-id="44d42994-8f78-8fe3-d40c-62e499959391" class="mask2">
+              <div class="text-parent">
+                <div class="quote white">Punishing conditions</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </article>
+  <section class="section_full_image"><img src="images/16-v2.jpg" loading="lazy" sizes="100vw" srcset="images/16-v2-p-500.jpg 500w, images/16-v2-p-800.jpg 800w, images/16-v2-p-1080.jpg 1080w, images/16-v2-p-1600.jpg 1600w, images/16-v2.jpg 2000w" alt="Children looking through a shutter." class="image-7">
+    <div class="caption_text_graphic full_screen">A Palestinian youth peers through a locked fence during a military raid in Jenin. </div>
+  </section>
+  <article class="main_story inner">
+    <article class="w-layout-blockcontainer w-container">
+      <p class="story">In a village a half-hour’s drive from Jenin, Qasam Masarweh recounts an odyssey that began months before the war. On that night, he lost his right hand to an Israeli stun grenade. But in the weeks after Oct. 7, the soft-spoken teen says, his encounter with the military turned even more punishing.</p>
+      <p class="story">“Before Oct. 7 there were six of us in the cell. Afterwards, there were 12,” says Masarweh, who was held for months without charge in Israel’s Megiddo Prison. “There were beatings. There was no food. Our clothes were taken from us. There were so many ways of humiliation.”</p>
+      <p class="story">Since its war with Hamas began, Israel has more than doubled the number of Palestinians jailed without charge, known as administrative detention. The vast majority are men.</p>
+      <p class="story">But the number of teens in administrative detention has also increased sharply. Of more than 200 Palestinian youths 17 or younger in military prisons in June, 75 were in administrative detention, the most since watchdog groups began collecting figures. Last year at the same time, 18 youths were being held without charge.</p>
+      <p class="story">Like their adult counterparts, teens released recently report severe mistreatment following the October attack.</p>
+      <p class="story">“The big change is definitely in detention conditions. The gloves have really come off,” said Gerard Horton, co-founder of Military Court Watch, which gathers testimony from Palestinian prisoners.</p>
+      <p class="story">“We never used to document that much violence in relation to children. There was some, but it wasn’t commonplace,” he says.</p>
+      <p class="story">Israeli officials have <a href="https://www.google.com/url?q=https://apnews.com/article/israel-palestinians-gaza-war-hamas-prisons-ba6b5b7ba9f8955ebe5fb23c77145326&amp;sa=D&amp;source=docs&amp;ust=1726042645893312&amp;usg=AOvVaw3Gk6CdOtPqwyQbXJ1AKava" class="hyperlinks">acknowledged toughening treatment</a> of Palestinian prisoners since October, while still abiding by international law. A spokesperson for far-right National Security Minister Itamar Ben-Gvir, whose ministry oversees prisons, said that policy, intended to deter terrorism, does not provide any special conditions for prisoners 17 and under.</p>
+      <p class="story">“They are terrorists just like any other terrorists, there’s no difference,” said the spokesman, Yedidya Grossman.</p>
+      <p class="story">Masarweh, who turned 18 late last year, says his odyssey began in June 2023, the night before his last high school exam. As he walked home from meeting friends, military vehicles entered his village of Rumannah, firing an object that landed at his feet. Assuming it contained tear gas, he reached down to throw it away.</p>
+      <p class="story">When the grenade exploded, it blew off most of his right hand. Discharged after nine days in a Jenin hospital, he stopped to visit an aunt in the refugee camp. When a raid began, soldiers stormed the house, beating the teen before taking him into custody.</p>
+      <div class="inline_image_container"><img src="images/17-v2.jpg" loading="lazy" sizes="100vw" srcset="images/17-v2-p-500.jpg 500w, images/17-v2-p-800.jpg 800w, images/17-v2-p-1080.jpg 1080w, images/17-v2-p-1600.jpg 1600w, images/17-v2.jpg 2000w" alt="A man sitting on a couch.">
+        <div class="caption_text_graphic">Qasam Masarweh poses for a portrait inside his home in the West Bank.</div>
+      </div>
+      <p class="story">Masarweh, who says he hoped to become a veterinarian before losing his hand, was ordered held for four months without charge. After Oct. 7, treatment turned even harsher. Authorities immediately reduced food and took away blankets and soap. They packed his cell with prisoners, all 17 or younger, requiring half to sleep on the floor.</p>
+      <p class="story">A 17-year-old arrested in a raid on the Qalquilya refugee camp told Horton’s group that after Oct. 7 guards confiscated all personal belongings from prisoners, denying them time outside or showers.</p>
+      <p class="story">Another said guards removed window panels, making cells uncomfortably chilly for prisoners left only with what they’d been wearing at the time of their arrest.</p>
+      <p class="story">The mistreatment, Masarweh says, continued until late November when guards cuffed his remaining hand and took him from the cell for questioning. After telling an investigator he did not know why he had been arrested, he was transferred to another prison without explanation.</p>
+      <p class="story">Finally, after midnight, Red Cross officials entered to tell him he would be released in a deal trading Palestinian prisoners for Israeli hostages.</p>
+      <p class="story">Back at home, Masarweh says he still worries about the new arrivals that more seasoned prisoners called “cubs,” who he left behind. With the stump at the base of his arm wrapped in gauze, he is uncertain about how he will earn a living.</p>
+      <p class="story">“It’s already hard enough to take care of yourself with two hands,” he says. “Imagine doing it with one.”</p>
+      <div class="reveal-text">
+        <div class="section-30vh">
+          <div class="text-mask">
+            <div data-w-id="8f3c07fe-8e26-6a5a-15ce-6ce8b2bae4ac" class="mask2">
+              <div class="text-parent">
+                <div class="quote white">Boys of war</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </article>
+  <section class="section_full_video">
+    <div class="full_video w-embed w-script">
+      <script src="https://cdn.jwplayer.com/players/6iu2m7dc-z20Lgbcs.js"></script>
+    </div>
+  </section>
+  <article class="main_story inner">
+    <article class="w-layout-blockcontainer w-clearfix w-container">
+      <p class="story">On the June afternoon that 17-year-old Issa Jallad was killed, video from a neighbor’s security camera shows, he was on a friend’s motorbike with an Israeli armored vehicle in close pursuit.</p>
+      <p class="story">Was the teen – declared a holy warrior on a poster outside his family’s Jenin home showing him cradling an assault rifle – armed that day? Exactly what happened in the moments before he was shot?</p>
+      <p class="story">The grainy tape, reviewed by the Associated Press days after the June 6 raid, and others from nearby cameras, raise but do not fully answer difficult questions about where he fit in a conflict with no clear boundaries.</p>
+      <p class="story">“We were going to have one celebration and now we will have two,” says his sister, Rania, 24, whose marriage had long been planned for three days after the raid. “My wedding and the martyrdom of my brother.”</p>
+      <div class="div-block-11"><img src="images/19-v2.jpg" loading="lazy" sizes="100vw" srcset="images/19-v2-p-500.jpg 500w, images/19-v2-p-800.jpg 800w, images/19-v2-p-1080.jpg 1080w, images/19-v2-p-1600.jpg 1600w, images/19-v2.jpg 2000w" alt="A woman holding a child walking past a banner on a building" class="image_text">
+        <div id="w-node-_9df974de-2c3e-e8c9-3734-8265868caaf5-4d96ba20" class="caption_text">A woman carrying her son passes a banner with a photo of Issa Jallad, killed by Israeli forces.</div>
+      </div>
+      <div class="right-inset"><img src="images/21-v2_1.avif" loading="lazy" sizes="100vw" srcset="images/21-v2_121-v2.avif 500w, images/21-v2_121-v2.avif 800w, images/21-v2_121-v2.avif 1080w, images/21-v2_1.avif 2000w" alt="A woman sitting on a couch holding a portrait of her son.">
+        <div id="w-node-_9df974de-2c3e-e8c9-3734-8265868caafb-4d96ba20" class="caption_text">Mawaheb Morei holds a photograph of her son, killed in a drone attack.</div>
+      </div>
+      <p class="story">It’s clear that a number of Palestinian youths killed in recent months belonged to militant groups. Many others died in countless scenarios where lines between civilian and combatant are blurred. Some threw rocks or home-made explosives at military vehicles. Others served as lookouts. Some hung near militants, aspiring to one day join their ranks.</p>
+      <p class="story">“All of this generation, not only my son, if you ask them what they want to be, they will say &#x27;I want to be a militant and defend my country&#x27;,” says Mawaheb Morei, the mother of a 15-year-old killed in an October drone attack. The family says he was hanging out in a cemetery where several militants were present.</p>
+      <p class="story">Two years before her son was killed, Morei says, she confiscated and dismantled a plastic rifle he used to play fighter. But that did nothing to dissuade him.</p>
+      <p class="story">The Israeli army, responding to questions from the AP about the killing of Jallad in the June raid, said that its soldiers had spotted two militants handling a powerful explosive device. When the pair tried to flee, troops opened fire and “neutralized them.” It said the circumstances of the incident are under review.</p>
+      <p class="story">But an Israeli human rights group, B’Tselem, says its review of multiple security camera videos showed Jallad and his friend were well-removed from where troops and militants clashed, and that the pair posed no threat.</p>
+      <p class="story">Jallad’s brother, Mousa, says the teen had gone out to move a car so it wouldn’t be hit by a military vehicle. His sister said the family is proud of him and that when she has children they will carry on the resistance.</p>
+      <p class="story">“We all expected to be in this situation,” Mousa Jallad said as neighbors came to pay condolences. “I knew this could happen. It could happen to any of us.”</p>
+      <div class="reveal-text">
+        <div class="section-30vh">
+          <div class="text-mask">
+            <div data-w-id="9df974de-2c3e-e8c9-3734-8265868cab14" class="mask2">
+              <div class="text-parent">
+                <div class="quote white">Burying the young</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </article>
+  <section class="section_full_image"><img src="images/21-v2.jpg" loading="lazy" sizes="100vw" srcset="images/21-v2-p-500.jpg 500w, images/21-v2-p-800.jpg 800w, images/21-v2-p-1080.jpg 1080w, images/21-v2-p-1600.jpg 1600w, images/21-v2.jpg 2000w" alt="A group of women and a young boy sitting next to a grave." class="image-7">
+    <div class="caption_text_graphic full_screen">A boy joins family members visiting his brother’s grave in Jenin, West Bank.</div>
+  </section>
+  <article class="main_story inner">
+    <article class="w-layout-blockcontainer w-container">
+      <p class="story">The old cemetery, with a water dispenser under shade trees for weary mourners, had run out of space. So last year residents cleared a lot across the road from an elementary school, turning it into a graveyard for Jenin’s most recent casualties.</p>
+      <p class="story">It is filling fast.</p>
+      <p class="story">A row back from where the Hamadnehs buried their son in May rests a 14-year-old classmate who died in a November raid. Two graves over, a stone plastered with the photo of a smiling boy in a bowtie memorializes an 8-year-old killed days later while accompanying youths who threw rocks at military vehicles.</p>
+      <p class="story">Just beyond, banners picturing dead men and boys, many holding assault rifles, line a wall. One honors a 17-year-old militant. Another mourns 15-year-old Eid Morei, who told his mother he wanted to become one.</p>
+      <p class="story">Since Mahmoud Hamadneh was killed, his siblings ask frequently to visit his grave. His younger sister now sleeps in his bed so her surviving brother, Ahmed, will not be in the room alone. But there is no filling the emptiness of Mahmoud’s absence.</p>
+      <div class="video-play w-embed w-script">
+        <script src="https://cdn.jwplayer.com/players/WMC3y7nf-z20Lgbcs.js"></script>
+      </div>
+      <p class="story">“I feel like I cannot breathe. We used to do everything together,” Ahmed says. His father listens closely, despairing later that such grief could drive the teen into militancy. If the risk is so clear to a Palestinian father, he says, why don’t Israeli soldiers see it?</p>
+      <p class="story">“They think that if they kill us that people will be afraid and not do anything,” he says. “But when the Israelis kill someone, 10 fighters will be created in his place.&quot;</p>
+      <div class="line"></div>
+      <p class="story">Associated Press reporters Josef Federman and Melanie Lidman in Jerusalem and Thalia Beaty in New York contributed to this story.</p>
+      <div class="line"></div>
+      <p class="story bold">CREDITS</p>
+      <p class="story end">Design and development: Panagiotis Mouzakis, Darrell Allen, Howie Rumberg</p>
+    </article>
+  </article>
+  <div id="footer" class="footer_markup w-embed">
+    <footer class="_footer_1d91h_1">
+      <div class="_wrapper_1d91h_7">
+        <div class="_row1_1d91h_15">
+          <div class="_col1_1d91h_22">
+            <a href="https://apnews.com/"><img src=".//images/footer_logo.png" alt="The Associated Press: Advancing the Power of Facts"></a>
+            <div class="_description_1d91h_74">
+              The Associated Press is an independent global news organization
+              dedicated to factual reporting. Founded in 1846, AP today remains
+              the most trusted source of fast, accurate, unbiased news in all
+              formats and the essential provider of the technology and services
+              vital to the news business. More than half the world's population
+              sees AP journalism every day.
+            </div>
+          </div>
+          <nav class="_col2_1d91h_27">
+            <ul class="_list_1d91h_34">
+              <li class="_item_1d91h_41">
+                <span class="_colTitle_1d91h_55">The Associated Press</span>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://www.ap.org/" class="_link_1d91h_59">ap.org<svg class="_externalIcon_1d91h_69" height="12" width="12">
+                    <use xlink:href="#externalLink"></use>
+                  </svg></a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://careers.ap.org/" class="_link_1d91h_59">careers<svg class="_externalIcon_1d91h_69" height="12" width="12">
+                    <use xlink:href="#externalLink"></use>
+                  </svg></a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://contentservices.ap.org/" class="_link_1d91h_59">advertise with us<svg class="_externalIcon_1d91h_69" height="12" width="12">
+                    <use xlink:href="#externalLink"></use>
+                  </svg></a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://apnews.com/contact-us" class="_link_1d91h_59">contact us</a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://apnews.com/accessibility-statementg" class="_link_1d91h_59">accessibility statement</a>
+              </li>
+              <li class="_item_1d91h_41">
+                <button id="ot-sdk-btn" class="_link_1d91h_59 ot-sdk-show-settings" data-title="Your Privacy Choices / Do Not Sell or Share My Personal Information">
+                  Your Privacy Choices / Do Not Sell or Share My Personal
+                  Information
+                </button>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://apnews.com/termsofservice" class="_link_1d91h_59">terms of use</a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://apnews.com/privacystatement" class="_link_1d91h_59">privacy policy</a>
+              </li>
+            </ul>
+            <ul class="_list_1d91h_34">
+              <li class="_item_1d91h_41">
+                <span class="_colTitle_1d91h_55">more from ap news</span>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://www.ap.org/about" class="_link_1d91h_59">about<svg class="_externalIcon_1d91h_69" height="12" width="12">
+                    <use xlink:href="#externalLink"></use>
+                  </svg></a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://www.ap.org/about/news-values-and-principles" class="_link_1d91h_59">ap news values and priorities<svg class="_externalIcon_1d91h_69" height="12" width="12">
+                    <use xlink:href="#externalLink"></use>
+                  </svg></a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://www.ap.org/about/our-role-in-elections" class="_link_1d91h_59">ap&#x27;s role in elections<svg class="_externalIcon_1d91h_69" height="12" width="12">
+                    <use xlink:href="#externalLink"></use>
+                  </svg></a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://leads.ap.org/" class="_link_1d91h_59">ap leads<svg class="_externalIcon_1d91h_69" height="12" width="12">
+                    <use xlink:href="#externalLink"></use>
+                  </svg></a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://blog.ap.org/" class="_link_1d91h_59">ap definitive source blog<svg class="_externalIcon_1d91h_69" height="12" width="12">
+                    <use xlink:href="#externalLink"></use>
+                  </svg></a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://apimagesblog.com/" class="_link_1d91h_59">ap images spotlight blog</a>
+              </li>
+              <li class="_item_1d91h_41">
+                <a href="https://www.apstylebook.com/" class="_link_1d91h_59">ap stylebook</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div class="_row2_1d91h_80">
+          <div class="_disclaimer_1d91h_87">
+            Copyright 2024 The Associated Press. All Rights Reserved.
+          </div>
+          <ul class="_social_1d91h_92">
+            <li>
+              <a rel="noreferrer" href="https://twitter.com/AP" target="_blank"><svg class="_icon_1d91h_97" height="17" width="17" role="img">
+                  <title>twitter</title>
+                  <use xlink:href="#mono-icon-twitter"></use>
+                </svg></a>
+            </li>
+            <li>
+              <a rel="noreferrer" href="https://instagram.com/apnews/" target="_blank"><svg class="_icon_1d91h_97" height="17" width="17" role="img">
+                  <title>instagram</title>
+                  <use xlink:href="#mono-icon-instagram"></use>
+                </svg></a>
+            </li>
+            <li>
+              <a rel="noreferrer" href="https://facebook.com/APNews" target="_blank"><svg class="_icon_1d91h_97" height="17" width="17" role="img">
+                  <title>facebook</title>
+                  <use xlink:href="#mono-icon-facebook"></use>
+                </svg></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66d16f7b45d3d7b54d96ba21" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="js/west-bank-v2.js" type="text/javascript"></script>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+  const topNav = document.querySelector('._topNav_6jw9h_36');
+  const menuButton = document.querySelector('._menuButton_6jw9h_25');
+  menuButton.addEventListener('click', function() {
+    topNav.classList.toggle('_closedNav_6jw9h_140');
+  });
+});
+</script>
+  <script>
+function playPauseVideo() {
+    let videos = document.querySelectorAll("video1");
+    videos.forEach((video) => {
+        // We can only control playback without insteraction if video is mute
+        video.muted = true;
+        // Play is a promise so we need to check we have it
+        let playPromise = video.play();
+        if (playPromise !== undefined) {
+            playPromise.then((_) => {
+                let observer = new IntersectionObserver(
+                    (entries) => {
+                        entries.forEach((entry) => {
+                            if (
+                                entry.intersectionRatio !== 1 &&
+                                !video.paused
+                            ) {
+                                video.pause();
+                            } else if (video.paused) {
+                                video.play();
+                            }
+                        });
+                    },
+                    { threshold: 0.2 }
+                );
+                observer.observe(video);
+            });
+        }
+    });
+}
+// And you would kick this off where appropriate with:
+playPauseVideo();
+</script>
+</body>
+</html>

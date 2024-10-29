@@ -1,0 +1,1993 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script src="/sites/default/files/hotjar/hotjar.script.js?skfm92"></script>
+<meta name="description" content="Harvard’s home for musical materials. We embrace performance and research in and about the world&#039;s musics." />
+<link rel="canonical" href="https://library.harvard.edu/libraries/loeb-music" />
+<meta property="og:site_name" content="Harvard Library" />
+<meta property="og:type" content="library" />
+<meta property="og:url" content="https://library.harvard.edu/libraries/loeb-music" />
+<meta property="og:title" content="Loeb Music Library" />
+<meta property="og:description" content="Harvard’s home for musical materials. We embrace performance and research in and about the world&#039;s musics." />
+<meta property="og:image" content="https://library.harvard.edu/sites/default/files/2020-04/Spaulding_Reading_Room_2.jpg" />
+<meta property="og:image" content="https://library.harvard.eduwooden tables" />
+<meta property="og:image" content="https://library.harvard.eduand a stained glass window&quot; /&gt;" />
+<meta property="og:image:alt" content="a reading room with green walls, wooden tables, and a stained glass window" />
+<meta itemprop="name" content="Loeb Music Library" />
+<meta itemprop="description" content="Harvard’s home for musical materials. We embrace performance and research in and about the world&#039;s musics." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Harvard Library - Loeb Music Library" />
+<meta name="twitter:site" content="@harvardlibrary" />
+<meta name="twitter:url" content="https://library.harvard.edu/libraries/loeb-music" />
+<meta name="twitter:image:alt" content="a reading room with green walls, wooden tables, and a stained glass window" />
+<meta name="twitter:image" content="https://library.harvard.edu/sites/default/files/2020-04/Spaulding_Reading_Room_2.jpg" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/harvard/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/default/files/google_tag/ga4/google_tag.script.js?skfm92" defer></script>
+
+    <title>Loeb Music Library | Harvard Library</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_-3CVcbhcjrD8hpPmJzPL_9K_4PEBIq4p7YF1BaPJIA4.css?delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Lora:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_B_vRC4kly_77UEmaji62uAL5P1OVymz5fNeMSXfBArg.css?delta=2&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+
+    
+  </head>
+  <body class="path-node page-node-type-library">
+        <a href="#hl__main-id" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSHSDQ5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <section class="region">
+      
+  </section>
+
+
+  
+  <section class="hl__header region js-header">
+    <nav class="hl__header__container" aria-label="main">
+      <div class="hl__header__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library Homepage">
+            <img class="hl__image " alt="Harvard Library Homepage" height="82" width="110" src="/themes/custom/harvard/assets/images/logo-final.svg">
+          </a>
+        </section>
+      </div>
+
+      <div class="hl__header__menu">
+        <section class="hl__main-nav js-main-nav">
+          <button class="hl__hamburger-button js-hamburger-button" type="button" aria-label="open or close the Main Navigation">
+            <span class="hl__hamburger-button__icon"></span>
+          </button>
+          <div class="hl__main-nav__wrapper">
+            <div class="hl__main-nav__container">
+                
+
+<div class="hl__main-nav__menu">
+          <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-1">
+        Help with...
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-1">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/services-tools" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1326"><span>All Services, Tools & Catalogs</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-library-alum" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1416"><span>Alumni Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/borrow-renew-and-return-library-materials" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1306"><span>Borrowing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/get-support-research-publishing" class="hl__link-tag" title="Get Remote Support for Research &amp; Publishing" data-ga-link="Header Nav" data-drupal-link-system-path="node/9426"><span>Research & Publishing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://library.harvard.edu/services-tools/scan-deliver" class="hl__link-tag" data-ga-link="Header Nav"><span>Scan & Deliver</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/teach-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1356"><span>Teaching</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-2">
+        Collections
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-2">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/explore-collections" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/341"><span>Explore Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://curiosity.lib.harvard.edu/" class="hl__link-tag" data-ga-link="Header Nav"><span>Curated Digital Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-librarys-special-collections-and-archives" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1311"><span>How to Use Special Collections & Archives</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/how-choose-search-tool" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/11134"><span>How to Choose a Search Tool</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/exhibits" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1441"><span>What's on Exhibit</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-3">
+        Events &amp; News
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-3">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://libcal.library.harvard.edu/calendar/main" title="Upcoming Events" class="hl__link-tag" data-ga-link="Header Nav"><span>Events</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/about/news" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/116"><span>News</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-4">
+        Visit &amp; About
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-4">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/libraries" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/171"><span>Locations & Hours</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visitor-access" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/3186"><span>Visitor Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/spaces" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="spaces"><span>Find a Space</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/confronting-anti-black-racism" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10946"><span>Confronting Anti-Black Racism</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/grants-fellowships" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1586"><span>Grants & Fellowships</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/staff" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1466"><span>Staff Profiles</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/about-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10241"><span>About Harvard Library</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+  
+</div>
+
+
+
+  
+
+<div class="hl__main-nav__utility-nav">
+  <section class="hl__utility-nav js-utility-nav">
+                                                                                    <div class="js-utility-nav-item hl__utility-nav__link js-utility-nav-item--hollis">
+                                                  <a href="https://hollis.harvard.edu/primo-explore/account?vid=HVD2&amp;section=overview&amp;lang=en_US" data-icon="user" data-show-title="yes" data-item-type="link" data-item-label="hollis" class="hl__utility-nav__item" title="Sign in to HOLLIS">              <span class="hl__utility-nav__icon hl__utility-nav__item--hollis" aria-hidden="true">
+                <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="user-icon" style="pointer-events:none">
+      <title id="user-icon">Sign in to HOLLIS</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-1156.000000, -35.000000)">
+      <g transform="translate(1065.000000, 1.000000)">
+        <g transform="translate(91.000000, 34.000000)" fill="#1E1E1E" fill-rule="nonzero">
+          <path d="M17.5774327,20 C18.8046827,20 19.8251827,18.9925 19.5558077,17.795125 C18.5516827,13.333125 14.5650577,11.875 9.79980771,11.875 C5.03454521,11.875 1.04763271,13.333125 0.0435327056,17.795125 C-0.225904794,18.9925 0.794582706,20 2.02188271,20 L17.5774327,20 Z"></path>
+          <path d="M14.7996827,5 C14.7996827,7.761375 12.5610577,10 9.79968271,10 C7.03823271,10 4.79965771,7.761375 4.79965771,5 C4.79965771,2.238575 7.03823271,0 9.79968271,0 C12.5610577,0 14.7996827,2.238575 14.7996827,5 Z"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+
+              </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hollis ">MyHOLLIS</span>
+                          </a>
+              </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--ask">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--ask" id="hl__utility-nav__button-2" title="Ask a Librarian, contact us with your question" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--ask" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" role="img" aria-labelledby="ask-icon" style="pointer-events:none">
+      <title id="ask-icon">Ask a Librarian, contact us with your question</title>
+    <g>
+    <g transform="translate(-34 -74)"><path d="M41 81h-2v2h2zm4 0h-2v2h2zm4 0h-2v2h2zm3-7a2 2 0 0 1 2 2v18l-4-4H36a2 2 0 0 1-2-2V76c0-1.1.9-2 2-2z"></path>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--ask ">Ask</span>
+                                    </button>
+                      <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__dropdown-tray">
+      <div class="hl__dropdown-tray__container">
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--searchbox">
+          <h2 class="hl__comp-heading">Ask <span class="hl__dropdown-tray__heading--lora">a Librarian</span></h2>
+          <section class="hl__single-input-form  ">
+            <form class="hl__single-input-form__form" action="https://ask.library.harvard.edu/search" method="GET" autocomplete="off">
+              <label class="hl__label hl__label--inline" for="text-input">Ask a librarian</label>
+              <div class="hl__single-input-form__input-group">
+                                  <input class="hl__input hl__input--inline js-is-required" name="q" id="text-input" type="text" placeholder="Try &quot;printer help&quot; or &quot;Zotero&quot;" data-type="text" required="" autocomplete="off">
+                                <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label="">
+                  Go
+                </button>
+              </div>
+            </form>
+          </section>
+        </div>
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--links">
+          <div class="hl__linked-list hl__linked-list--no-bullets ">
+            <h2 class="hl__comp-heading  ">More help options</h2>
+            <ul class="hl__linked-list__items">
+                              <li class="hl__linked-list__item">
+                  <a href="/services-tools/library-liaisons" class="hl__link-tag">Find my subject liaison</a>
+                </li>
+                              <li class="hl__linked-list__item">
+                  <a href="https://harvard.az1.qualtrics.com/jfe/form/SV_09DXHPBmaMSnqdL" class="hl__link-tag">Request a research appointment</a>
+                </li>
+                          </ul>
+          </div>
+          <!-- "Library.Harvard Chat Widget" embedded from ask.library.harvard.edu -->
+          <!-- update styles in sprinshare interface -->
+          <div id="hl__chat-button">
+            <div id="libchat_90b85bdd1489a074045c2519ad2fc1a5" class="hl__chat-button">
+              <p class="hl__chat-button__placeholder">Let's chat!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+                                            </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--hours">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--hours" id="hl__utility-nav__button-3" title="Library locations and hours" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--hours" aria-hidden="true">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="clock-icon" style="pointer-events:none">
+      <title id="clock-icon">Library locations and hours</title>
+    <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hours ">Hours</span>
+                                    </button>
+                                <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+                  <section class="hl__featured-libraries">
+      <div class="hl__featured-libraries__container">
+        <div class="hl__featured-libraries__today">
+          <h2>
+            <span class="hl__highlighted-text">Saturday, Sep 28, 2024</span>
+          </h2>
+        </div>
+                  <ul class="hl__featured-libraries__items">
+              <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/widener" class="hl__link-tag"><span>Widener Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">9am - 5pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/lamont" class="hl__link-tag"><span>Lamont Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">11am - 10pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/cabot" class="hl__link-tag"><span>Cabot Science Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">12pm - 10pm</span>
+</div>
+
+  </li>
+
+                          <li class="hl__featured-libraries__item hl__featured-libraries__item--more">
+                <h3 class="hl__featured-libraries__all"><span>see all locations</span></h3>
+                <div class="hl__featured-libraries__see-more">
+              <span class="hl__featured-libraries__more-icon">
+                <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+              </span>
+                  <span class="hl__featured-libraries__more-link">
+                      <a href="/libraries?active_filter=1" class="hl__link-tag hl__link-tag--with-arrow" #title="See more library hours"><span>Hours for all 25&plus; locations</span></a>
+
+                  </span>
+                </div>
+              </li>
+                      </ul>
+              </div>
+    </section>
+  
+
+      </div>
+</div>
+                                  </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--search">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--search" id="hl__utility-nav__button-4" title="Search" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--search" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17" role="img" aria-labelledby="search-icon" style="pointer-events:none">
+      <title id="search-icon">Search</title>
+    <g>
+    <g transform="translate(-158 -656)"><path d="M170.15 666.7l4.85 4.85-1.45 1.45-4.86-4.85v-.77l-.26-.27a6.32 6.32 0 1 1 .68-.68l.27.26zm-5.83 0a4.37 4.37 0 1 0 .01-8.74 4.37 4.37 0 0 0-.01 8.73z"></path></g>
+  </g>
+</svg>
+
+            </span>
+                                    </button>
+                                          <div class="hl__utility-nav__dropdown js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small js-utility-nav-back-button" aria-label="close dropdown menu" tabindex="-1"><span class="hl__button__text">back</span></button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__single-input-form hl__single-input-form--clear js-search-dropdown">
+      <form class="hl__single-input-form__form" action="/search" method="GET" autocomplete="off">
+        <label class="hl__label hl__label--hidden" for="utility-nav-search-input">Search website or HOLLIS catalog</label>
+        <div class="hl__single-input-form__input-group">
+          <input class="hl__input hl__input--inline js-is-required" name="keywords" id="utility-nav-search-input" type="text" placeholder="" data-type="text" required="" autocomplete="off" />
+          <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label=""><span class="hl__button__text">Search</span></button>
+        </div>
+        <div class="hl__single-input-form__dropdown">
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in website" id="search-website-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>website (library.harvard)</span>
+            </a>
+          </div>
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in library catalog" id="search-hollis-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>library catalog &amp; articles (HOLLIS)</span>
+            </a>
+          </div>
+        </div>
+      </form>
+    </section>
+    <div class="hl__utility-nav__helper-text">
+      <section class="hl__rich-text">
+        <p>Search website or HOLLIS catalog</p>
+      </section>
+    </div>
+  </div>
+</div>
+                        </div>
+      
+  </section>
+</div>
+
+
+
+            </div>
+          </div>
+        </section>
+      </div>
+    </nav>
+  </section>
+  <div class="hl__header__sticky-gap"></div>
+
+
+<main id="hl__main-id" class="hl__full-template hl__library-details" tabindex="-1">
+
+  
+        <section class="hl__full-template__pre-content hl__library-details__pre-content region">
+      <div id="block-breadcrumbs" data-block-plugin-id="system_breadcrumb_block">
+            <nav role="navigation" aria-labelledby="system-breadcrumb"  class="hl__breadcrumb hl__breadcrumb--light">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+
+    <ul class="hl__breadcrumb__items">
+                        <li class="hl__breadcrumb__item">
+            <a href="/"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Home">Home</a>
+          </li>
+                                <li class="hl__breadcrumb__item">
+            <a href="/libraries"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Locations &amp; Hours">Locations &amp; Hours</a>
+          </li>
+                  </ul>
+  </nav>
+
+      </div>
+
+  
+    
+
+<section  class="hl__page-header hl__page-header--light">
+  <div class="hl__page-header__container">
+    <div class="hl__page-header__page-title">
+        <h1 class="hl__page-title"><span>Loeb Music Library</span>
+</h1>
+    </div>
+    <div class="hl__page-header__sub-text">
+        <div class="hl__sub-text"></div>
+    </div>
+  </div>
+</section>
+
+  <div class="hl__library-details__bg-overlay hl__library-details__bg-overlay--dark"></div>
+
+<style>
+  .hl__library-details__pre-content {
+    background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_narrow/public/2020-04/Spaulding_Reading_Room_2.jpg?h=44b59b51&itok=a6lxSBqJ');
+  }
+
+  @media (min-width: 800px) {
+    .hl__library-details__pre-content {
+      background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_wide/public/2020-04/Spaulding_Reading_Room_2.jpg?h=44b59b51&itok=dNl3-fpa');
+    }
+  }
+</style>
+
+
+
+
+
+
+    
+  <div class="hl__library-details__jump-links">
+    <div class="hl__jump-links js-jump-links hl__jump-links--primary">
+                                                                                                        <div class="hl__jump-links__navigation">
+        <nav class="hl__jump-links__items" aria-label="in-page">
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#collections" class="hl__link-tag"><span>Explore Collections</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#using-the-library" class="hl__link-tag"><span>Using the Library</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#happening" class="hl__link-tag"><span>What&#039;s Happening</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#history" class="hl__link-tag"><span>History</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#rism" class="hl__link-tag"><span>U.S. RISM Office</span></a>
+            </div>
+                  </nav>
+      </div>
+    </div>
+  </div>
+
+
+
+  </section>
+
+  
+    <section class="hl__full-template__main-content region">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-harvard-content" data-block-plugin-id="system_main_block">
+  
+    
+      
+<article>
+  
+
+  <div class="hl__library-details__info">
+    <a name="library-info" id="library-info"></a>
+     <section class="hl__library-info">
+      <div class="hl__library-info__container ">
+        <div class="hl__library-info__hours">
+          <section class="hl__library-hours">
+            <div class="hl__library-hours__icon">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+                <g>
+                  <g transform="translate(-188 -510)">
+                    <g>
+                      <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+                    </g>
+                    <g>
+                      <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+                    </g>
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <div class="hl__library-hours__today">
+              Today: 12pm - 5pm
+            </div>
+                        <div class="hl__library-hours__see-all">
+                <a href="/libraries?active_filter=1&amp;library=loeb%20music&amp;weeks=1" class="hl__link-tag hl__link-tag--with-arrow" title="See all hours for Loeb Music Library" data-ga-link="Text Link: In-Line Arrow"><span>See All Hours</span></a>
+
+            </div>
+                      </section>
+        </div>
+                <div class="hl__library-info__summary">
+          <h2 class="hl__comp-heading  ">Highlights</h2>
+          <div class="hl__library-info__highlights">
+            <section class="hl__rich-text  ">
+              <p>  Harvard’s home for musical materials. We embrace performance and research in and about the world&#039;s musics.<br />
+<br />
+
+</p>
+              <ul>
+      <li>Musical scores</li>
+      <li>Composers’ manuscripts</li>
+      <li>Field recordings</li>
+      <li>Sound Studies Lab</li>
+  </ul>
+
+            </section>
+          </div>
+                    <div class="hl__library-info__access">
+            <section class="hl__rich-text  ">
+                                Open to the general public. Non-HUID holders must register with the Harvard Library Access and Borrowing Office prior to visiting.
+
+                                            <div class="hl__rich-text__see-all-link">
+                    <a href="/visitor-access" class="hl__link-tag hl__link-tag--with-arrow" data-ga-link="Text Link: In-Line Arrow"><span>Full access policy</span></a>
+
+                </div>
+                          </section>
+          </div>
+        </div>
+                  <div class="hl__library-info__cta hl__library-info__cta--social">
+            <section class="hl__pattern-cta hl__pattern-cta--small">
+              <div class="hl__pattern-cta__container">
+                <div class="hl__pattern-cta__text">
+                  <div class="hl__pattern-cta__title">Follow Loeb Music Library</div>
+                  <div class="hl__pattern-cta__description">You can find us on Instagram</div>
+                </div>
+                <div class="hl__pattern-cta__links">
+                  <div class="hl__pattern-cta-icon"><a class="hl__icon-link" href="http://www.instagram.com/harvardmusiclib" title="follow us on Instagram"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 15 15"><defs><path id="vqi3a2" d="M1331.5 1577.6a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8zm-4 7.4a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm0-6.35a3.85 3.85 0 1 1 0 7.7 3.85 3.85 0 0 1 0-7.7zm0-3.65c2.04 0 2.3 0 3.1.05 2.72.12 4.23 1.64 4.35 4.36.04.8.05 1.05.05 3.09s0 2.3-.05 3.1c-.12 2.72-1.64 4.23-4.36 4.36-.8.03-1.05.04-3.09.04s-2.3 0-3.1-.04c-2.72-.13-4.23-1.64-4.36-4.37-.03-.8-.04-1.05-.04-3.09s0-2.3.05-3.1c.12-2.72 1.63-4.23 4.36-4.36.8-.03 1.05-.04 3.09-.04zm0 1.35c-2 0-2.24 0-3.03.05-2.04.09-2.98 1.05-3.08 3.07-.03.8-.04 1.03-.04 3.03 0 2 0 2.24.05 3.03.09 2.01 1.03 2.98 3.07 3.08.79.03 1.03.04 3.03.04 2 0 2.24 0 3.03-.04 2.04-.1 2.98-1.06 3.08-3.08.03-.79.04-1.03.04-3.03 0-2 0-2.24-.05-3.03-.09-2.02-1.04-2.98-3.07-3.07-.79-.04-1.03-.05-3.03-.05z"></path></defs><g><g transform="translate(-1320 -1575)"><use fill="#E1306C" xlink:href="#vqi3a2"></use></g></g></svg></a></div>                </div>
+              </div>
+            </section>
+          </div>
+
+                <div class="hl__library-info__sidebar js-accordion">
+          <div class="hl__library-info__contact">
+            <section class="hl__contact-info">
+              <h2 class="hl__comp-heading  ">Contact</h2>
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                  <div class="hl__contact-info__address">      Music Building <br />
+    <span class="address-line1">3 Oxford Street</span>
+ <br />
+
+      Cambridge,
+    <span class="administrative-area">MA</span>
+ <span class="postal-code">02138</span>
+
+</div>
+                  <div class="hl__contact-info__directions">
+                    <span class="hl__contact-info__icon" aria-hidden="true"> <svg height="17" viewbox="0 0 12 17" width="12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M994 1676c3.32 0 6 2.66 6 5.95 0 4.46-6 11.05-6 11.05s-6-6.59-6-11.05a5.97 5.97 0 0 1 6-5.95zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4z" id="jpn3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-988 -1676)">
+            <use fill="silver" xlink:href="#jpn3a">
+            </use>
+        </g>
+    </g>
+</svg>
+</span>
+                    <a class="hl__link-tag" href="https://maps.app.goo.gl/7yaaNVz7uc2V3KXD9" title="Get directions to Loeb Music Library">
+                      <span>Directions</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="hl__contact-info">
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                                      <ul class="hl__contact-info__items hl__contact-info__items--email">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="12px" viewBox="0 0 15 12"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-845.000000, -677.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M57.5,165 L45.5,165 C44.675,165 44.0075,165.675 44.0075,166.5 L44,175.5 C44,176.325 44.675,177 45.5,177 L57.5,177 C58.325,177 59,176.325 59,175.5 L59,166.5 C59,165.675 58.325,165 57.5,165 L57.5,165 Z M58,168.428571 L52,172 L46,168.428571 L46,167 L52,170.571429 L58,167 L58,168.428571 L58,168.428571 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <span class="hl__contact-info__email"><a href="mailto:muslib@fas.harvard.edu" class="hl__link-tag">  <span class="hl__visually-hidden">email:</span>
+  <span>muslib@fas.harvard.edu</span>
+</a></span>
+                      </li>
+                    </ul>
+                                                        <ul class="hl__contact-info__items hl__contact-info__items--phone">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="15px" viewBox="0 0 15 15"
+     version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-846.000000, -702.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M48.0166667,196.491667 C49.2166667,198.85 51.15,200.775 53.5083333,201.983333 L55.3416667,200.15 C55.5666667,199.925 55.9,199.85 56.1916667,199.95 C57.125,200.258333 58.1333333,200.425 59.1666667,200.425 C59.625,200.425 60,200.8 60,201.258333 L60,204.166667 C60,204.625 59.625,205 59.1666667,205 C51.3416667,205 45,198.658333 45,190.833333 C45,190.375 45.375,190 45.8333333,190 L48.75,190 C49.2083333,190 49.5833333,190.375 49.5833333,190.833333 C49.5833333,191.875 49.75,192.875 50.0583333,193.808333 C50.15,194.1 50.0833333,194.425 49.85,194.658333 L48.0166667,196.491667 L48.0166667,196.491667 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <a href="tel:617-495-2794" class="hl__contact-info__phone">  <span class="hl__contact-info__label hl__visually-hidden">Phone number</span>
+  617-495-2794
+</a>
+                      </li>
+                    </ul>
+                                  </div>
+              </div>
+            </section>
+          </div>
+          <div class="js-accordion-content">
+            <div class="hl__library-info__links">
+              <section class="hl__contact-info">
+                <div class="hl__contact-info__list">
+                  <div class="hl__contact-info__section">
+                                            <div class="hl__contact-info__website">
+    <span class="hl__contact-info__icon" aria-hidden="true">
+      <svg height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z" id="fwuua">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-986 -1703)">
+            <use fill="silver" xlink:href="#fwuua">
+            </use>
+        </g>
+    </g>
+</svg>
+    </span>
+    <a href="https://guides.library.harvard.edu/music" class="hl__link-tag" title="Visit website for Music Research Guide"><span>Music Research Guide</span></a>
+  </div>
+
+                                      </div>
+                </div>
+              </section>
+              <div class="hl__library-info__links-buttons">
+                                    <a href="/staff?active_filter=1&amp;library=156" class="hl__library-info__contact-buttons hl__button hl__button--small" title="View Staff Directory">View Staff Directory</a>
+
+                              </div>
+            </div>
+                          <div class="hl__library-info__connect">
+              <section class="hl__icon-list">
+                                  <div class="hl__icon-list__label">Connect with   Loeb Music Library
+</div>
+                                <ul class="hl__icon-list__items">
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="http://www.facebook.com/harvardmusiclibrary" title="Facebook">
+                        <span role="presentation">
+                          <svg height="15" viewbox="0 0 9 15" width="9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1324.72 1538l-.02-6.56h-2.7v-2.82h2.7v-1.87c0-2.53 1.5-3.75 3.67-3.75 1.04 0 1.93.08 2.2.12v2.64h-1.51c-1.18 0-1.4.59-1.4 1.44v1.43h3.34l-.9 2.8h-2.45v6.57h-2.93z" id="jn7la">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1322 -1523)">
+            <use fill="silver" xlink:href="#jn7la">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="http://twitter.com/harvardmusiclib" title="Twitter">
+                        <span role="presentation">
+                          <svg height="12" viewbox="0 0 15 12" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1333.22 1552.85a2.62 2.62 0 0 0 1.31-1.67 6.2 6.2 0 0 1-1.97.74 3.3 3.3 0 0 0-2.25-.92c-1.6 0-3 1.38-3 3.05 0 .27 0 .46.1.64a8.67 8.67 0 0 1-6.38-3.14 2.8 2.8 0 0 0-.37 1.57c0 1.02.56 1.94 1.4 2.5-.47 0-.93-.19-1.4-.37a3 3 0 0 0 2.43 2.95c-.28.1-.56.1-.84.1-.19 0-.38 0-.56-.1a3.03 3.03 0 0 0 2.9 2.12 6.02 6.02 0 0 1-3.84 1.3h-.75c1.4.83 3 1.38 4.69 1.38a8.6 8.6 0 0 0 8.72-8.58v-.37a5.4 5.4 0 0 0 1.59-1.67c-.56.28-1.13.37-1.78.47z" id="1es3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1320 -1551)">
+            <use fill="silver" xlink:href="#1es3a">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="http://www.instagram.com/harvardmusiclib" title="Instagram">
+                        <span role="presentation">
+                          <svg height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1331.5 1577.6a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8zm-4 7.4a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm0-6.35a3.85 3.85 0 1 1 0 7.7 3.85 3.85 0 0 1 0-7.7zm0-3.65c2.04 0 2.3 0 3.1.05 2.72.12 4.23 1.64 4.35 4.36.04.8.05 1.05.05 3.09s0 2.3-.05 3.1c-.12 2.72-1.64 4.23-4.36 4.36-.8.03-1.05.04-3.09.04s-2.3 0-3.1-.04c-2.72-.13-4.23-1.64-4.36-4.37-.03-.8-.04-1.05-.04-3.09s0-2.3.05-3.1c.12-2.72 1.63-4.23 4.36-4.36.8-.03 1.05-.04 3.09-.04zm0 1.35c-2 0-2.24 0-3.03.05-2.04.09-2.98 1.05-3.08 3.07-.03.8-.04 1.03-.04 3.03 0 2 0 2.24.05 3.03.09 2.01 1.03 2.98 3.07 3.08.79.03 1.03.04 3.03.04 2 0 2.24 0 3.03-.04 2.04-.1 2.98-1.06 3.08-3.08.03-.79.04-1.03.04-3.03 0-2 0-2.24-.05-3.03-.09-2.02-1.04-2.98-3.07-3.07-.79-.04-1.03-.05-3.03-.05z" id="vqi3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1320 -1575)">
+            <use fill="silver" xlink:href="#vqi3a">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                  
+                                  </ul>
+              </section>
+            </div>
+                      </div>
+          <div class="hl__library-info__more-info">
+            <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more contact information">
+              <span class="hl__link-tag__toggle-text">Less contact information</span> <span>More contact information</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+        <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="collections" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Explore Collections
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-451" tabindex="-1">
+        <section class="hl__show-more-text"><div  id="showMoreText451"><section class="hl__rich-text"><p>The library's collections of books, scores, periodicals, and sound and video recordings support research in a wide variety of musical disciplines, including historical musicology, music theory, ethnomusicology, composition, historically informed performance practice.</p></section></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-166" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                  <h3  class="hl__comp-heading">  General Collections 
+</h3>
+                              <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="/collections/books-scores-and-periodicals" title="Read more about Books, Scores, and Periodicals" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Seeger%20Room.jpg?h=6c0f80f2&amp;itok=siVi105L')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Books, Scores, and Periodicals</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Books, Scores, and Periodicals</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Loeb Music Library&#039;s general collection supports the curriculum of the Department of Music as well as scholarship in a broad range of musical disciplines.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/recordings-collection" title="Read more about Recordings Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/EKL%20054_0.jpg?h=22f3d88b&amp;itok=VWRmU-Af')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Recordings Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Recordings Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Loeb Music Library&#039;s Recordings Collection supports the broad musical interests and activities of the University community.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="http://nrs.harvard.edu/urn-3:hul.eresource:digiscor?utm_source=library.harvard" title="Read more about Digital Scores and Libretti" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/scores-big_0.jpg?h=8dfb6f16&amp;itok=8jjV07ky')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Digital Scores and Libretti</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Digital Scores and Libretti</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Loeb Music Library&#039;s digital collection of scores and libretti, selected for their rare or unique natures and their popularity as objects of research and teaching.
+</div>
+      </div>
+</a>
+
+                                    </div>
+
+          
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-171" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                  <h3  class="hl__comp-heading">  Archive of World Music
+</h3>
+                                  <div class="hl__overlay-promo-grid__description">
+            <section  class="hl__rich-text"><p>  A sound recordings collection of archival field recordings and commercial recordings of ethnomusicological interest.
+</p></section>
+          </div>
+              <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="/collections/archive-world-music" title="Read more about Archive of World Music" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/mechian_961_turkish_0.jpg?h=a156f077&amp;itok=H8XvHr0x')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Archive of World Music</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Archive of World Music</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Collections of archival field recordings of musics worldwide, as well as commercial recordings and streaming resources of ethnomusicological interest.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/stephen-blum-collection-music-iranian-khorasan" title="Read more about Stephen Blum Collection of Music from Iranian Khorāsān" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Stephen Blum Collection of Music from Iranian Khorāsān</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Stephen Blum Collection of Music from Iranian Khorāsān</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Field recordings, many digital, with an emphasis on sung poetry in Persian (Farsi), Khorasani Turkish (Torki), and Kurmanji Kurdish.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/eduard-alekseyev-fieldwork-collection-musical-culture-yakutia" title="Read more about Eduard Alekseyev Fieldwork Collection of the Musical Culture of Yakutia" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Eduard%20Alekseyev.jpg?h=cdd61c74&amp;itok=GNWctxRE')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Eduard Alekseyev Fieldwork Collection of the Musical Culture of Yakutia</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Eduard Alekseyev Fieldwork Collection of the Musical Culture of Yakutia</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Digital streaming audio, and video recordings, of traditional religious and ritual cultural expressions of the Sakha (Yakut) people from the Sakha Republic of the Russian Federation.
+</div>
+      </div>
+</a>
+
+                                                                                                                                            </div>
+
+                      <div class="hl__overlay-promo-grid__grid hl__overlay-promo-grid__grid--accordion-content js-accordion-content" style="display: none;" id="paragraph-accordion-171">
+                
+    
+
+<a
+   href="/collections/archive-world-music" title="Read more about Archive of World Music" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/mechian_961_turkish_0.jpg?h=a156f077&amp;itok=H8XvHr0x')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Archive of World Music</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Archive of World Music</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Collections of archival field recordings of musics worldwide, as well as commercial recordings and streaming resources of ethnomusicological interest.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/stephen-blum-collection-music-iranian-khorasan" title="Read more about Stephen Blum Collection of Music from Iranian Khorāsān" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Stephen Blum Collection of Music from Iranian Khorāsān</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Stephen Blum Collection of Music from Iranian Khorāsān</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Field recordings, many digital, with an emphasis on sung poetry in Persian (Farsi), Khorasani Turkish (Torki), and Kurmanji Kurdish.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/eduard-alekseyev-fieldwork-collection-musical-culture-yakutia" title="Read more about Eduard Alekseyev Fieldwork Collection of the Musical Culture of Yakutia" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Eduard%20Alekseyev.jpg?h=cdd61c74&amp;itok=GNWctxRE')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Eduard Alekseyev Fieldwork Collection of the Musical Culture of Yakutia</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Eduard Alekseyev Fieldwork Collection of the Musical Culture of Yakutia</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Digital streaming audio, and video recordings, of traditional religious and ritual cultural expressions of the Sakha (Yakut) people from the Sakha Republic of the Russian Federation.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/james-rubin-collection-south-indian-classical-music" title="Read more about James A. Rubin Collection of South Indian Classical Music" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>James A. Rubin Collection of South Indian Classical Music</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>James A. Rubin Collection of South Indian Classical Music</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  One of the most comprehensive and significant collections of Carnatic music recordings in the world today.<br />
+<br />
+
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/sema-vakf-collection-turkish-classical-music" title="Read more about Sema Vakf Collection of Turkish Classical Music" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Sema Vakf Collection of Turkish Classical Music</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Sema Vakf Collection of Turkish Classical Music</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  One of the largest collections of Turkish music in the world, devoted to the preservation and perpetuation of classical Turkish music.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/ruben-blades-archives" title="Read more about Rubén Blades Archives" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Rubén Blades Archives</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Rubén Blades Archives</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Chronicling the life and work of the internationally prominent and popular musician, actor and politician.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/laura-boulton-collection" title="Read more about Laura Boulton Collection" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Laura Boulton Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Laura Boulton Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  This collection represents Boulton&#039;s field work throughout the Eastern Orthodox world during the 1950s and 1960s. 
+</div>
+      </div>
+</a>
+
+
+            </div>
+          
+                      <div class="hl__overlay-promo-grid__see-all">
+              <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more items" aria-expanded="false"  aria-controls="paragraph-accordion-171">
+                <span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span>
+              </a>
+            </div>
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-176" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                  <h3  class="hl__comp-heading">  Isham Memorial Library
+</h3>
+                                  <div class="hl__overlay-promo-grid__description">
+            <section  class="hl__rich-text"><p>  Isham Memorial Library is a collection of rare original books and scores and facsimiles of musical sources.
+</p></section>
+          </div>
+              <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="/collections/isham-memorial-library" title="Read more about Isham Memorial Library" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Alceste.jpg?h=1017c59c&amp;itok=aICQqA6F')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Isham Memorial Library</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Isham Memorial Library</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  A quiet room on the second floor of the Loeb Music Library, the Isham Memorial Library houses rare and unique music materials. <br />
+<br />
+You are warmly invited to join us for assistance with your research, to see the collections or just to read and study. 
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/liturgical-books-reproduction" title="Read more about Liturgical Books in Reproduction" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Liturgical Books in Reproduction</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Liturgical Books in Reproduction</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Isham Memorial Library&#039;s collection of liturgical books in reproduction contains copies of important service books.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/randy-weston-collection" title="Read more about Randy Weston Collection" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Randy Weston Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Randy Weston Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Documenting Weston&#039;s prolific career as a jazz artist.
+</div>
+      </div>
+</a>
+
+                                                                                                                  </div>
+
+                      <div class="hl__overlay-promo-grid__grid hl__overlay-promo-grid__grid--accordion-content js-accordion-content" style="display: none;" id="paragraph-accordion-176">
+                
+    
+
+<a
+   href="/collections/isham-memorial-library" title="Read more about Isham Memorial Library" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Alceste.jpg?h=1017c59c&amp;itok=aICQqA6F')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Isham Memorial Library</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Isham Memorial Library</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  A quiet room on the second floor of the Loeb Music Library, the Isham Memorial Library houses rare and unique music materials. <br />
+<br />
+You are warmly invited to join us for assistance with your research, to see the collections or just to read and study. 
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/liturgical-books-reproduction" title="Read more about Liturgical Books in Reproduction" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Liturgical Books in Reproduction</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Liturgical Books in Reproduction</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Isham Memorial Library&#039;s collection of liturgical books in reproduction contains copies of important service books.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/randy-weston-collection" title="Read more about Randy Weston Collection" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Randy Weston Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Randy Weston Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Documenting Weston&#039;s prolific career as a jazz artist.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/mozart-harvard" title="Read more about Mozart at Harvard " class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Mozart.jpg?h=76e0c144&amp;itok=wr4OASlD')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Mozart at Harvard </span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Mozart at Harvard </span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard Library holds a rich collection of first and early editions and manuscript copies of the musical works of Wolfgang Amadeus Mozart.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/sir-georg-solti-archive" title="Read more about Sir Georg Solti Archive" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/Solti%20Eroica.jpg?h=d9a5db51&amp;itok=oeQ6MIVO')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Sir Georg Solti Archive</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Sir Georg Solti Archive</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Conducting scores marked and annotated by Solti, one of the foremost conductors and most influential musicians of the post-war era.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/antiquarian-music-publishers-and-composer-catalogs" title="Read more about Antiquarian, Music Publishers&#039; and Composer Catalogs" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Antiquarian, Music Publishers&#039; and Composer Catalogs</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Antiquarian, Music Publishers&#039; and Composer Catalogs</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Catalogs from antiquarian book dealers and auction houses offering musical items for sale.
+</div>
+      </div>
+</a>
+
+
+            </div>
+          
+                      <div class="hl__overlay-promo-grid__see-all">
+              <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more items" aria-expanded="false"  aria-controls="paragraph-accordion-176">
+                <span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span>
+              </a>
+            </div>
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-186" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="using-the-library" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Using the Library
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-17078" tabindex="-1">
+        <section class="hl__show-more-text"><div  id="showMoreText17078"><section class="hl__rich-text"><h3>INFORMATION FOR RESEARCHERS &amp; VISITORS</h3><ul><li>Non-HUID holders need to register for an account with the Harvard Library Access and Borrowing Office prior to accessing the library.</li><li>Masks optional: although it is not required, please consider wearing a face covering while inside the&nbsp;library.</li><li>Visitors are&nbsp;responsible for following all additional guidelines listed on the Harvard Library <a href="https://library.harvard.edu/visitor-access">Visitor Access page</a>.</li></ul><h3>Accessibility of Loeb Music Library&nbsp;</h3><ul><li>The entrances to the Music Building are accessible by automatic door and ramp. The entrance to the Loeb Music Library is accessible by automatic door.</li><li>Single-stall, all-gender restrooms are located on the second floor of the library.&nbsp;</li></ul><p>Contact Loeb Music Library Administrative Coordinator Patricia O’Brien, <a href="mailto:obrien2@fas.harvard.edu">obrien2@fas.harvard.edu</a>, 617-998-5314, with questions about accessibility of events, elevators, study spaces, and restrooms.</p></section></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="fancy_links-14211" tabindex="-1">
+      <section class="hl__fancy-link-list "><h3 class="hl__comp-heading">  Research
+</h3><div class="hl__fancy-link-list__description"><section class="hl__rich-text"></section></div><div class="hl__fancy-link-list__grid"><a href="https://guides.library.harvard.edu/music" class="hl__fancy-link hl__fancy-link--external" title="Music Research Guide"><span class="hl__fancy-link__text">Music Research Guide</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/c.php?g=310120&amp;p=2077344" class="hl__fancy-link hl__fancy-link--external" title="Online Scores Research Guide"><span class="hl__fancy-link__text">Online Scores Research Guide</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/music/recordings" class="hl__fancy-link hl__fancy-link--external" title="Online Audio and Video Research Guide"><span class="hl__fancy-link__text">Online Audio and Video Research Guide</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_how_tos-3096" tabindex="-1">
+        <section class="hl__staggered-type-list">
+      <header class="hl__staggered-type-list__header">
+                  <h3  class="hl__comp-heading">  How To... 
+</h3>
+                          <div class="hl__staggered-type-list__description">
+            <section  class="hl__rich-text">
+              
+            </section>
+          </div>
+              </header>
+      <div class="hl__staggered-type-list__list-wrapper">
+        <div class="hl__staggered-type-list__list">
+            <a class="hl__type-promo" href="/how-to/borrow-renew-and-return-library-materials" title="Borrow, Renew, and Return Library Materials" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/usp-askus-complete01.jpg?h=59a16682&itok=A5mzCY2c')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Borrow, Renew, and Return Library Materials</h3>
+          <div class="hl__type-promo__description">
+          Connect with the library materials you need to get your work done.
+
+      </div>
+      </div>
+</a>
+
+  <a class="hl__type-promo" href="/how-to/use-harvard-librarys-special-collections-and-archives" title="Use Harvard Library&#039;s Special Collections and Archives" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/colonial_houghton_004_922_0.jpg?h=2e80255c&itok=VRxDTCTN')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Use Harvard Library&#039;s Special Collections and Archives</h3>
+          <div class="hl__type-promo__description">
+          Open to all, these unique materials can take you to places you never expected.
+
+      </div>
+      </div>
+</a>
+
+  <a class="hl__type-promo" href="/how-to/teach-harvard-library" title="Teach with Harvard Library" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/_DSC8156%20%282%29.jpg?h=d27c9fe6&itok=3IXlsS-t')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Teach with Harvard Library</h3>
+          <div class="hl__type-promo__description">
+          Get support to help your students navigate the library and find the materials they need. 
+
+      </div>
+      </div>
+</a>
+
+  <a class="hl__type-promo" href="/how-to/get-support-research-publishing" title="Get Support for Research &amp; Publishing " style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/cabot_library-petervanderwarker-12.jpg?h=6f845eb0&itok=tAGKqKCL')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Get Support for Research &amp; Publishing </h3>
+          <div class="hl__type-promo__description">
+          Looking for resources for your scholarship? Harvard Library can help.<br />
+
+
+      </div>
+      </div>
+</a>
+
+
+        </div>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_services-3101" tabindex="-1">
+        <section class="hl__category-teaser-grid"><h3  class="hl__comp-heading">  Services &amp; Tools
+</h3><div class="hl__category-teaser-grid__description"><section  class="hl__rich-text"></section></div><div class="hl__category-teaser-grid__grid"><a class="hl__category-teaser" href="/services-tools/cabot-media-studios" title="Cabot Media Studios "><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Cabot Media Studios </span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Everything you need to produce high-quality audio and video recordings.
+
+      </section></div></div></a><a class="hl__category-teaser" href="/services-tools/lamont-multimedia-lab" title="Lamont Multimedia Lab"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Lamont Multimedia Lab</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Your one-stop shop for media creation and data visualization, including editing and production for audio and video.
+
+      </section></div></div></a><a class="hl__category-teaser" href="/services-tools/tech-loan" title="Tech Loan"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Tech Loan</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Access to laptops, chargers, 360 degree cameras, VR equipment and more for members of the Harvard community.
+
+      </section></div></div></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-3106" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="happening" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  What&#039;s Happening
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_exhibitions-16808" tabindex="-1">
+        <section class="hl__featured-events">
+              <header class="hl__featured-events__header hl__featured-events__header--left">
+                      <h3 class="hl__comp-heading hl__comp-heading--left ">  Exhibits
+</h3>
+                  </header>
+      
+      <div class="hl__featured-events__content hl__featured-events__content--3">
+          
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/musicians-inc" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/harvard_library_website_0.jpg?itok=jqJRP7Zd)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Musicians, Inc.</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  How have musicians wrestled with capitalism through history?
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Apr 1, 2024 through Sep 5, 2024
+              </span>
+    </div>
+  </div>
+</a>
+
+  
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/virtual-treasures-loeb-music-library" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/eisler_0.jpg?itok=PB6UsrDe)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Virtual: Treasures of the Loeb Music Library</span>
+</h4>
+        <div class="hl__event-teaser__sub-text"></div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Through Wednesday, Jun 30, 2027
+              </span>
+    </div>
+  </div>
+</a>
+
+  
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/virtual-singing-story-dhrangadhra" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/a_zenana_screenshot_0.png?itok=atDjxANC)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Virtual: Singing the Story of Dhrangadhra</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  Women&#039;s Voices in a Rajput Court
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Through Wednesday, Jun 30, 2027
+              </span>
+    </div>
+  </div>
+</a>
+
+
+      </div>
+
+      
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-17113" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                              <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="https://eileensouthern.omeka.fas.harvard.edu/" title="Read more about Eileen Southern and the Music of Black Americans" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/eileensouthern_0.jpeg?h=22930e28&amp;itok=xICjvrWM')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Website
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Eileen Southern and the Music of Black Americans</span>
+</span>
+              <span class="hl__link-tag__external-icon hl__link-tag__external-icon--white">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <g>
+    <g transform="translate(-906 -1005)">
+      <path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path>
+    </g>
+  </g>
+</svg>
+        </span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Website
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Eileen Southern and the Music of Black Americans</span>
+</span>
+              <span class="hl__link-tag__external-icon hl__link-tag__external-icon--white">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <g>
+    <g transform="translate(-906 -1005)">
+      <path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path>
+    </g>
+  </g>
+</svg>
+        </span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Dive into the life and work of Eileen Southern, a pioneering scholar who inspired the academic subfield of Black music studies and who was the first African American woman tenured in Harvard’s Faculty of Arts and Sciences.
+</div>
+      </div>
+</a>
+
+                                    </div>
+
+          
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-17186" tabindex="-1">
+        <section class="hl__show-more-text js-show-more-text"><div  class="hl__show-more-text__content js-show-more-text-content" id="showMoreText17186"><section class="hl__rich-text"><h4>PAST EXHIBITS</h4><p><a href="https://library.harvard.edu/exhibits/praise-learning">In Praise of Learning: A Celebration of Collections</a>: October 26, 2023 - March 19, 2024</p><p><a href="https://library.harvard.edu/exhibits/harvard-haggadot">Harvard Haggadot: A Student-Curated Exhibition</a>: January 20 - May 30, 2023</p><p><a href="https://library.harvard.edu/exhibits/fangyinrulan-sweet-sounds-rulan-chao-pian">芳音如蘭 Sweet Sounds from Rulan Chao Pian</a>: April 20 - December 18, 2022</p><p><a href="https://library.harvard.edu/exhibits/eileen-southerns-story">Eileen Southern's Story</a>: February 7 - April 11, 2022</p><p><a href="https://library.harvard.edu/onlineexhibits/solti/index.html">Music, First and Last: Scores from the Sir Georg Solti Archive</a>: Virtual, Ongoing</p><p>&nbsp;</p><p><a href="https://library.harvard.edu/exhibits/i-am-proud-play-pipe">I am Proud to Play a Pipe: Bagpipe in the World</a>: January 22 - March 13, 2020</p><p><a href="https://library.harvard.edu/exhibits/tree-life">Tree of Life:&nbsp;Cosmography and Environment in Yakutian Epic</a>: October 22, 2019 - January 20, 2020</p><p><a href="https://library.harvard.edu/exhibits/toward-source-joyce-mekeel">Toward the Source: Joyce Mekeel</a>: March 8 - June 10, 2019</p></section></div><div class="hl__show-more-text__controls" aria-hidden="true"><a class="hl__link-tag hl__link-tag--with-arrow js-show-more-text-link" href="#" title="" aria-expanded="false" aria-controls="showMoreText17186"><span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-5706" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="history" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  History
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-161" tabindex="-1">
+        <section class="hl__show-more-text js-show-more-text"><div  class="hl__show-more-text__content js-show-more-text-content" id="showMoreText161"><section class="hl__rich-text"><p>The Eda Kuhn Loeb Music Library, named by benefactor Gerald Warburg in memory of his aunt, opened in 1956 as the library of the Harvard Music Department.</p><p>Three days of festivities marked its opening, including concerts with the Harvard Glee Club, Radcliffe Choral Society, the Bach Society Orchestra, the Harvard Radcliffe Orchestra, and a performance of Monteverdi’s&nbsp;<em>L’Incoronazione di Poppea</em>&nbsp;by the American Opera Company.<br>
+&nbsp;</p><p>Housed in the new Music Library wing of the Music Building, the library brought together:</p><ul><li>27,725 books and scores from Widener Library, which had initiated its music collection in 1870;</li><li>more than 8,000 scores and books from the Music Department collection, which began in 1898;</li><li>and the books and scores from the estate of Richard C. Aldrich, Class of 1885.</li></ul><p>Aldrich was a well-known music critic and music editor of the&nbsp;<em>New York Times.</em>&nbsp;An avid music collector, Aldrich amassed a significant library of music books and scores, as well as autograph manuscripts now in the Houghton Library.</p><p>The new library provided students and scholars with more study space. Its two reading rooms were named for Aldrich and Walter R. Spalding, the successor to John Knowles Paine as Chair of the Music Department.</p><p>Loeb Music Library’s early decades saw rapid growth. By 1968, the collection of books and scores had reached 65,000, and LP records surpassed 6,000. Earlier estimates that the library would be able to accommodate 40 years of collection growth proved to be optimistic. A second addition to the Music Building was necessary. In 1972, the library space was expanded with the construction of the adjacent Fanny Peabody Mason Music Building.</p><p>That same year, the Isham Memorial Library became part of the Loeb Music Library and took responsibility for rare book collections and research with primary source material. Established in 1939 as part of the Memorial Church, the Isham Memorial Library was named for Ralph Isham, Class of 1889. Isham donated an Aeolian Skinner organ to the church in 1932 and provided funds to buy organ music.</p><p>With the continuing growth and complexity of library collections and services, the Loeb Music Library became a unit of the Harvard College Library in 1978.</p><p>The Loeb Music Library added another special collection, the Archive of World Music, in 1992 -- the same year Harvard appointed Kay Kaufman Shelemay its first senior professor of ethnomusicology. The archive was established in 1976 as the private collection of Professor John Ward. It's devoted to the acquisition of archival field recordings of musics worldwide, as well as commercial sound recordings, videos, DVDs, and streaming resources of ethnomusicological interest.</p><p>A first for Harvard as well as the country occurred in 1989 when Richard French, Class of 1937, endowed a music library chair, the Richard F. French Librarianship in the Eda Kuhn Loeb Music Library, most recently occupied by Dr. Sarah Adams.</p><p>1998 marked the opening of the library’s state-of-the-art Audio Preservation Studio, launched with generous gifts from John M. Ward and Altan Ender Güzey.</p><p>The studio's audio engineers, experienced with audio formats ranging from wax cylinder recordings to surround sound electronic compositions, preserve, reformat and reproduce audio materials from the collections. Now part of Harvard Library's Media Preservation Services, the studio accepts projects from Harvard as well as from outside the university.</p><p>The library celebrated its 50th anniversary in 2006 as one of the world’s preeminent libraries supporting music research. Its collections have broadened from Western music and historical musicology to reflect the expansion of the Music Department’s programs in music theory, popular music and jazz, and musics of the worlds’ cultures.</p><p>Amidst all the change, Loeb Music Library’s mission remains the same: to provide its users state-of-the-art resources along with fine historic holdings in a comfortable and inviting research environment.</p><h4>Literature About the Library</h4><ul><li>Adams, Sarah, Virginia Danielson, and Robert J. Dennis, eds. Golden Muse: The Loeb Music Library at 50. Harvard Library Bulletin 18 (2008).</li><li>Howard, John B. "The Eda Kuhn Loeb Music Library." The Library Quarterly 64 (1994): 163-176.</li><li>Forbes, Elliott. A Report of Music at Harvard from 1972 to 1990. Cambridge, Mass.: Department of Music, Harvard University , 1993.</li><li>Wolff, Barbara Mahrenholz. Music Manuscripts at Harvard: A Catalogue of Music Manuscripts from the 14th to the 20th Centuries in the Houghton Library and the Eda Kuhn Loeb Music Library. Cambridge , Mass.: Harvard University Library, 1992.</li><li>Forbes, Elliot. A History of Music at Harvard to 1972. Cambridge, Mass.: Department of Music, Harvard University, 1988.</li><li>Ochs, Michael. "Musical Americana in Harvard Libraries: An Exhibition Honoring the Sonneck Society," Harvard Library Bulletin 31 (1984): 408-426.</li><li>Wood, David A. A Catalogue of Early Printed Music and Books on Music in the Houghton Library and the Eda Kuhn Loeb Music Library. Music in Harvard Libraries. Cambridge, Mass.: Houghton Library of the Harvard College Library and Harvard University Department of Music, 1980.</li><li>Mary Lou Little. "Eda Kuhn Loeb Music Library," in Report to the Friends of Music. Elliot Forbes, editor. Cambridge, Mass.: Harvard University Department of Music, 1974, p. 16-17.</li><li>Pirotta, Nino. "The Eda Kuhn Loeb Music Library." Harvard Library Bulletin 12 (1958): 410-17.</li><li>Davison, Archibald T. "The Isham Memorial Library." Harvard Library Bulletin 6 (1952): 376-80.</li><li>Merritt, A. Tillman. Fourth Report to the Friends of Art and Music. Cambridge: Harvard University Department of Music, 1947.</li><li>Apel, Willi. "The Collection of Photographic Reproductions at the Isham Memorial Library." Journal of Renaissance and Baroque Music 1 (1946): 68-73, 144-48, and 235-38.</li><li>Aldrich, Richard. A Catalogue of Books Relating to Music in the Library of Richard Aldrich. New York: Plimton Press, 1931.</li></ul></section></div><div class="hl__show-more-text__controls" aria-hidden="true"><a class="hl__link-tag hl__link-tag--with-arrow js-show-more-text-link" href="#" title="" aria-expanded="false" aria-controls="showMoreText161"><span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-191" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="rism" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  U.S. RISM Office
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-201" tabindex="-1">
+        <section class="hl__show-more-text js-show-more-text"><div  class="hl__show-more-text__content js-show-more-text-content" id="showMoreText201"><section class="hl__rich-text"><p>The&nbsp;<a href="https://rism.info/">Répertoire International des Sources Musicales</a>, or RISM, is a worldwide effort to identify and describe sources of music and writings about music from the earliest times through approximately 1850.</p><p>RISM activities in the United States are overseen and sponsored by the Joint Committee on RISM of the&nbsp;<a href="http://www.ams-net.org/">American Musicological Society</a>&nbsp;and the&nbsp;<a href="https://www.musiclibraryassoc.org/">Music Library Association</a>.</p><p>The U.S. RISM office, currently led by&nbsp;Christina Linklater, came to the Loeb Music Library in 1985. The office collects information from U.S. libraries about music manuscripts, printed music, and libretti from approximately 1580 to 1825. It is the principal information center for queries about RISM data from the United States.</p><p><a href="http://www.rism.info/en/organisation/rism-zentralredaktion.html">RISM's Central Editorial Office</a>, in Frankfurt, Germany, coordinates contributions to RISM Series A/I and Series A/II projects. It also prepares information for both series for publication, and helps coordinate the publication of RISM Series B and C.</p><p>The Central Editorial Office can provide information on:</p><ul><li>manuscript sources in all countries participating in the RISM Series A/II music manuscript inventory,</li><li>addenda to published RISM bibliographies,</li><li>general questions about the RISM organization.</li></ul><h4><strong>U.S. RISM Office Contact:</strong></h4><p>Tel: 617-496-3359&nbsp;&nbsp;<br>Fax: 617-496-4636&nbsp;</p><p>U.S. RISM Office staff are available to create RISM records for items held at U.S. institutions. To qualify for this service, your item must be fully catalogued in your own library system, as well as digitized. Reference scans are acceptable for cataloguing purposes, however note that these will be neither retained by RISM nor linked in the database.&nbsp;&nbsp;<br><a href="https://forms.gle/T9aHk6jGsXn46Aeq9">Request RISM records</a></p><p>We are also pleased to update existing records with links to newly digitized items. If a source from your collection was previously catalogued in RISM and has subsequently been digitized, please let us know so that we may link to your digital copy in the database.&nbsp;&nbsp;<br><a href="https://forms.gle/ZBwEzbD6NwMvjrMs7">Request linking in RISM</a></p><p>For further information, please contact&nbsp;<a href="https://library.harvard.edu/staff/christina-linklater"><u>Christina Linklater</u></a>, Director, U.S. RISM Office.</p></section></div><div class="hl__show-more-text__controls" aria-hidden="true"><a class="hl__link-tag hl__link-tag--with-arrow js-show-more-text-link" href="#" title="" aria-expanded="false" aria-controls="showMoreText201"><span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_events-18017" tabindex="-1">
+            </div>
+
+
+</article>
+
+  </div>
+
+  </section>
+
+
+        <section class="hl__full-template__post-content region">
+    <div id="block-newslettersignupblock" data-block-plugin-id="newsletter_signup_block">
+  
+    
+      <section class="hl__single-input-form"><form class="newsletter-signup hl__single-input-form__form" data-drupal-selector="newsletter-signup" action="/libraries/loeb-music" method="post" id="newsletter-signup" accept-charset="UTF-8">
+  <label class="hl__label hl__label--inline" data-drupal-selector="edit-title" for="edit-email-address" id="edit-title">Stay in the know</label><div class="hl__single-input-form__input-group">
+<input placeholder="Email Address" class="hl__input hl__input--inline js-is-required form-email required" data-twig-suggestion="newsletter_signup_email" data-drupal-selector="edit-email-address" type="email" id="edit-email-address" name="email_address" value="" maxlength="254" required="required" aria-required="true" />
+
+<button class="hl__button hl__button--small hl__button--inline button js-form-submit form-submit" data-twig-suggestion="newsletter_signup_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Sign up" data-ga-link="Form: Email Full-Width">
+  Sign up  
+</button></div><input autocomplete="off" data-drupal-selector="form-pglgdk10cn1x-fxtqbat8chbrezpzyikni1qr5gldw8" type="hidden" name="form_build_id" value="form-PgLGdK10CN1X_fxtQBAt8cHBRezpZyIkNi1qR5gLdW8" />
+<input data-drupal-selector="edit-newsletter-signup" type="hidden" name="form_id" value="newsletter_signup" />
+
+</form>
+</section>
+  </div>
+
+  </section>
+
+  </main>
+
+  <footer role="contentinfo">
+    <section>  <section class="region hl__footer">
+    <div class="hl__footer__container">
+      <div class="hl__footer__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library">
+            <img class="hl__image" alt="Harvard Library Logo" height="24" width="270" src="/themes/custom/harvard/assets/images/logo-large.svg">
+          </a>
+        </section>
+      </div>
+
+        
+<div class="hl__footer__links">
+                <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 1 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/support-library" class="hl__link-tag" data-drupal-link-system-path="node/5341"><span>Giving to the Library</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://provost.harvard.edu/" class="hl__link-tag"><span>Office of the Provost</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollis.harvard.edu/" class="hl__link-tag"><span>HOLLIS</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollisarchives.lib.harvard.edu/" class="hl__link-tag"><span>HOLLIS for Archival Discovery</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="http://nrs.harvard.edu/urn-3:hul.ois:databases" class="hl__link-tag"><span>Databases</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+          <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 2 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/library-newsletters-social-media" class="hl__link-tag" data-drupal-link-system-path="node/10856"><span>Newsletters/Social</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://staff.library.harvard.edu" class="hl__link-tag"><span>Staff Portal</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://library.harvard.edu/accessibility" class="hl__link-tag"><span>Library Accessibility</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://nrs.harvard.edu/urn-3:hul.ois:reportaproblem" class="hl__link-tag"><span>Report a Problem</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+      
+</div>
+
+
+
+
+      <div class="hl__footer__content">
+        <div class="hl__footer__top-links">
+          <div class="hl__footer__quick-links">
+
+            <div class="hl__linked-list hl__linked-list--no-bullets ">
+              <ul class="hl__linked-list__items">
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="https://accessibility.harvard.edu/" title="Read our accessibility"><span>Accessibility</span></a>
+                </li>
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="/privacy-terms-use-copyright-information/" title="Read our Privacy Policy"><span>Privacy</span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="hl__footer__license">
+          <div class="hl__footer__cc-icon">
+            <img class="hl__image " alt="Creative Commons license" height="31" width="88" src="/themes/custom/harvard/assets/images/cc-88x31.png">
+          </div>
+          <div class="hl__footer__cc-text">Creative Commons Attribution 4.0 International License</div>
+        </div>
+        <div class="hl__footer__message">
+          <section class="hl__rich-text hl__rich-text--small ">
+            <p>Except where otherwise noted, this work is subject to a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, which allows anyone to share and adapt our material as long as proper attribution is given. For details and exceptions, see the <a href="https://osc.hul.harvard.edu/programs/copyright/ccby">Harvard Library Copyright Policy</a> &copy;2024 Presidents and Fellows of Harvard College.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+  </footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_LwjaQiGzOrCwzVrRBti8K86MznwJk7GyLWx7kaTRtmo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=90b85bdd1489a074045c2519ad2fc1a5"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=055503cc8dd52ad22b42fb2afdf10da9"></script>
+
+  </body>
+</html>

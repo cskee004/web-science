@@ -1,0 +1,2194 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TGPG42QV');
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-52MDQDLC');
+</script>
+<link rel="canonical" href="https://trademark.harvard.edu/pages/trademark-notice" />
+<meta property="og:type" content="News" />
+<meta property="og:url" content="https://trademark.harvard.edu/pages/trademark-notice" />
+<meta property="og:title" content="Trademark Notice | Harvard Trademark Program" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" id="font-merriweather-css" href="//fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" type="text/css" media="all" />
+<link rel="stylesheet" id="font-roboto-css" href="//fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" type="text/css" media="all" />
+<link rel="stylesheet" id="font-material-icons-css" href="//fonts.googleapis.com/icon?family=Material+Icons" type="text/css" media="all" />
+<link rel="stylesheet" id="font-material-icons-outlined-css" href="//fonts.googleapis.com/icon?family=Material+Icons+Outlined" type="text/css" media="all" />
+<link rel="stylesheet" id="font-postgrotesk-css" href="/profiles/hwp_dstan/themes/hwp_hyard/hwp-goldin/fonts/postgrotesk.css" type="text/css" media="all" />
+<link rel="stylesheet" id="font-sanomat-css" href="/profiles/hwp_dstan/themes/hwp_hyard/hwp-goldin/fonts/sanomat.css" type="text/css" media="all" />
+<link rel="stylesheet" id="font-inter-css" href="//fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap" type="text/css" media="all" />
+<link rel="icon" href="/profiles/hwp_dstan/themes/hwp_hyard/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Trademark Notice | Harvard Trademark Program</title>
+    <link rel="stylesheet" media="all" href="/sites/g/files/omnuum446/files/css/css_sswyn9fCbhbGlwXFV6IP2UA0X6cQtnPLQ5oqjhjJxeM.css?delta=0&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdz1ESgyAMBNALaTmSs8K2pIXgQLR6-2K_HD_zkkw2AYaEg9XNjNik1DbE7zKFZtDJl0rH3ZLoZ8gwVkGaxBdtbkZjd969rOc4w-nxjd012roM7WjG_N_6H4gHanCvVGakC2SIjpm6XqyJcYxEYL2r5KWWrWdgELinpB7l4bGYFL3O0p8yav_whVsTqmVVz37VxrlXrD9nbmzD" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/icon?family=Material+Icons" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/icon?family=Material+Icons+Outlined" />
+<link rel="stylesheet" media="all" href="/sites/g/files/omnuum446/files/css/css_lvYhFuS8SeWf65VqazwiYIYF11q5AYpaBh7bEpKOyps.css?delta=3&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdz1ESgyAMBNALaTmSs8K2pIXgQLR6-2K_HD_zkkw2AYaEg9XNjNik1DbE7zKFZtDJl0rH3ZLoZ8gwVkGaxBdtbkZjd969rOc4w-nxjd012roM7WjG_N_6H4gHanCvVGakC2SIjpm6XqyJcYxEYL2r5KWWrWdgELinpB7l4bGYFL3O0p8yav_whVsTqmVVz37VxrlXrD9nbmzD" />
+
+    
+  
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="GBUU5-S9S78-P7UW2-BSS9F-LR483",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"GBUU5-S9S78-P7UW2-BSS9F-LR483";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdndcoqxez7bgzxx6rpa-f-2776023f6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"1597782","ak.ai":parseInt("841065",10),"ak.ol":"0","ak.cr":19,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"13a3f8fe","ak.r":45983,"ak.a2":n,"ak.m":"b","ak.n":"ff","ak.bpcip":"72.218.49.0","ak.cport":59827,"ak.gh":"23.38.126.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727525982","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==+pDA3ycaJeLEKnunedtt3VnqMekJw3nwT0EAYLroN7RhadX5hkU1R1xw++4CPk93Cfl0KY7XNJb20UCDc1PXHX2q20JjFzgo1fpgJMSy72mFAvsTcg1ySkDpcl9iv6BqsQtcWCTwiZsB1NcZMvULFBQV5ldStqmIYX7gsqEdvHEYeWH1aQ9AWcfiSBUYWqBq61sGq6mNidrs9PjsBhgAtJwMFv/4/XImydmHh0voYiUZqeTW/XTTxRphx9iVP2JgFujY7yWmgDcW8Unoc2HTQx2Z3qxUIIJUJ5/oOYttp5detIadWq5Xxzh1u9WhE224lxSBW3ObDbd88uV2KmQ/vyVNisJEJamVGhAzJ67z6flwfRLKqmTSS08MyCC4O27k5UMcn1ecIDfLVOHrMFEi8FJQPDOWrd9r8ylHlCPbwS0=","ak.pv":"239","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+  <body class="hwp-font-group-inter hwp-icons-filled hwp-style-bold">
+        <a href="#main-content" class="hwp-skip-to-content visually-hidden">
+      <div class="hwp-relative hwp-button hwp-button--large hwp-bg-button-light-primary">
+        <span class="hwp-button__text">Skip to main content</span>
+        <span  class="material-icon material-icon--arrow-circle-down hwp-font-group-inter hwp-icons-filled hwp-style-bold" aria-hidden="true">arrow_circle_down</span>
+      </div>
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGPG42QV" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+</noscript><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52MDQDLC" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+</noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+      <div>
+    <div id="block-hwp-announcement-banners">
+  
+    
+      
+
+
+
+  </div>
+<div id="block-hwp-globalheader">
+  
+    
+      
+
+<div  class="header-global header-global--stacked hwp-bg-dark-core">
+  <div class="hwp-container hwp-container-px">
+    <a class="header-global__logo"
+       href="https://www.harvard.edu/">
+      <img alt="Harvard University" src="/profiles/hwp_dstan/themes/hwp_hyard/hwp-goldin/images/svg/header-logo-horizontal.svg" />
+
+    </a>
+      </div>
+</div>
+
+  </div>
+<div id="block-hwp-siteheader">
+  
+    
+      
+
+
+
+
+<div  class="header-site header-site--stacked hwp-bg-dark-base">
+  <div class="header-site__main hwp-container">
+    <div class="header-site__brand">
+        <a href="/">
+                  <div class="header-site__subtitle">Office of the Provost</div>
+            <div class="header-site__title">Harvard Trademark Program</div>
+            </a>
+
+    </div>
+
+    <button class="header-site__menu-trigger js-header-site__menu-trigger" aria-expanded="false">
+      <span class="material-icon material-icon--menu" aria-hidden="true">menu</span>
+      <span class="material-icon material-icon--close" aria-hidden="true">close</span>
+      <span class="header-site__menu-trigger-label">Menu</span>
+    </button>
+    <div class="header-site__utils hwp-shrink-0">
+      <search role="search" class="header-site__search hwp-mb-16">
+                  <form class="hwp-search-form-header" data-drupal-selector="hwp-search-form-header" action="/pages/trademark-notice" method="post" id="hwp-search-form-header" accept-charset="UTF-8">
+  <div class="hwp-form-type-search hwp-form-item js-form-item form-item form-type-search js-form-type-search form-item-search js-form-item-search form-no-label">
+      <label for="edit-search" class="visually-hidden">Search</label>
+        <input data-drupal-selector="edit-search" type="search" id="edit-search" name="search" value="" size="60" maxlength="128" class="form-search" />
+
+        </div>
+
+  
+
+
+<button  data-twig-suggestion="header_site_search_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="hwp-button hwp-button--small button js-form-submit form-submit" >
+      <span class="hwp-button__text">Search</span>
+        <span class="material-icon" aria-hidden="true">search</span>
+  </button>
+<input autocomplete="off" data-drupal-selector="form-niukbvaohjqpanydznqp04leosqtwb8kaab-zpo51pg" type="hidden" name="form_build_id" value="form-nIUKBVAoHjqPanYdZNqP04lEOsqTWB8kAab_zPo51pg" />
+<input data-drupal-selector="edit-hwp-search-form-header" type="hidden" name="form_id" value="hwp_search_form_header" />
+
+</form>
+
+            </search>
+      <div class="header-site__utility-menu">
+            <nav aria-label="utility">
+  
+
+
+    
+                                        
+    <ul  class="hwp-menu hwp-menu--utility">
+                
+
+<li  class="hwp-menu__item">
+        <a href="http://provost.harvard.edu" class="hwp-menu__link">Office of the Provost</a>
+    </li>
+          </ul>
+  
+</nav>
+
+        </div>
+    </div>
+  </div>
+
+  <div class="header-site__navigation">
+    <div class="header-site__brand">
+        <a href="/">
+                  <div class="header-site__subtitle">Office of the Provost</div>
+            <div class="header-site__title">Harvard Trademark Program</div>
+            </a>
+
+    </div>
+        
+
+
+  
+<nav  class="hwp-main-menu hwp-bg-dark-alternative" aria-label="Main">
+  <div class="hwp-main-menu__container">
+    
+                                  <ul class="hwp-main-menu__list">
+                        
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    About
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                                                                                  <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/pages/about" class="hwp-main-menu__link" data-drupal-link-system-path="node/74961">Overview</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/people" class="hwp-main-menu__link" data-drupal-link-system-path="node/86851">People</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    Services
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                                                                                  <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/pages/services" class="hwp-main-menu__link" data-drupal-link-system-path="node/74966">Overview</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/pages/trademark-protection" class="hwp-main-menu__link" data-drupal-link-system-path="node/74976">Trademark Protection</a>
+                                              </li>
+                  
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/pages/licensing-program" class="hwp-main-menu__link" data-drupal-link-system-path="node/76776">Licensing Program</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/pages/use-of-harvards-name" class="hwp-main-menu__link" data-drupal-link-system-path="node/87471">Use of Harvard&#039;s Name</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    Policies
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                                                                                  <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/pages/policies-forms" class="hwp-main-menu__link" data-drupal-link-system-path="node/89706">Overview</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/policy-on-use-of-harvard-names-and-insignias" class="hwp-main-menu__link" data-drupal-link-system-path="node/245141">Use of Harvard Names and Insignias</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/use-of-harvard-names-and-insignias-in-electronic-contexts" class="hwp-main-menu__link" data-drupal-link-system-path="node/1217118">Use in Electronic Contexts</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/endorsement-guidelines" class="hwp-main-menu__link" data-drupal-link-system-path="node/245151">Endorsement Guidelines</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/guidelines-creation-new-shield-design-or-logo-harvard-departments-units-and-officially" class="hwp-main-menu__link" data-drupal-link-system-path="node/1226588">New Shield or Logo Design Guidelines</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/guidelines-ordering-internal-insignia-items-swag" class="hwp-main-menu__link" data-drupal-link-system-path="node/1323008">Internal Insignia Items (“SWAG”)</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/harvards-name-and-alcoholic-beverages" class="hwp-main-menu__link" data-drupal-link-system-path="node/245156">Harvard’s Name and Alcohol</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/business-card-authorization-guidelines-harvard-affiliates" class="hwp-main-menu__link" data-drupal-link-system-path="node/734686">Business Card Authorization</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/frequently-asked-questions-use-of-harvards-name" class="hwp-main-menu__link" data-drupal-link-system-path="node/245131">Frequently Asked Questions</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/related-policies-guidelines" class="hwp-main-menu__link" data-drupal-link-system-path="node/959506">Related Policies &amp; Guidelines</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/individual-school-contacts-name-issues" class="hwp-main-menu__link" data-drupal-link-system-path="node/282306">Individual School Contacts</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    Forms
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                                                                                  <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/pages/policies-forms" class="hwp-main-menu__link" data-drupal-link-system-path="node/89706">Overview</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="http://bit.ly/1lDzFTT" class="hwp-main-menu__link">Domain Name Request Form (for harvard.edu)</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="http://bit.ly/1lDyZh7" class="hwp-main-menu__link">Email Alias Request Form (for @harvard.edu)</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="https://bit.ly/3tJrrDX" class="hwp-main-menu__link">Form for Ordering Internal Insignia Items (SWAG)</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/faq" class="hwp-main-menu__link" data-drupal-link-system-path="node/1435011">FAQ</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/pages/trademark-notice" class="hwp-main-menu__link is-active" data-drupal-link-system-path="node/91831">Trademark Notice</a>
+                                              </li>
+                  
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    Fraud Alerts
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                              <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="https://rmas.fad.harvard.edu/news/fraudulent-activity-feb-21" class="hwp-main-menu__link">Fraudulent Purchase Orders</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/sites/g/files/omnuum446/files/trademark/files/student-survey-scheme-psa-14mar22.pdf" show_in_main_navigation="1" show_in_section_navigation="1" class="hwp-main-menu__link">Fraudulent Student Research Surveys</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/pages/contact" class="hwp-main-menu__link" data-drupal-link-system-path="node/1435002">Contact</a>
+                                              </li>
+              </ul>
+            
+  </div>
+</nav>
+
+    </div>
+</div>
+
+  </div>
+<div id="block-hwp-breadcrumbs">
+  
+    
+      
+  <nav  class="hwp-breadcrumbs hwp-bg-light-core" aria-labelledby="system-breadcrumb">
+    <div class="hwp-container hwp-container-px">
+      <p id="system-breadcrumb" hidden>Breadcrumbs</p>
+      <ol>
+                  <li>
+                          <a href="/">Home</a>
+                                      <span  class="material-icon material-icon--chevron-right" aria-hidden="true">chevron_right</span>
+                      </li>
+                  <li>
+                          <span>Trademark Notice</span>
+                                  </li>
+              </ol>
+    </div>
+  </nav>
+
+  </div>
+<style>:root {
+    --hwp-font-light-text: #FFFFFF;
+    --hwp-font-light-link: #F3F4F4;
+    --hwp-font-dark-text: #1E1E1E;
+    --hwp-font-dark-link: #0A2240;
+    --hwp-bg-light-base: #F3F4F4;
+    --hwp-bg-light-alternative: #DCE2E2;
+    --hwp-bg-light-core: #FFFFFF;
+    --hwp-bg-dark-base: #0A2240;
+    --hwp-bg-dark-alternative: #656F75;
+    --hwp-bg-dark-core: #1E1E1E;
+    --hwp-button-light-primary: #FFFFFF;
+    --hwp-button-light-secondary: #DCE2E2;
+    --hwp-button-dark-primary: #0A2240;
+    --hwp-button-dark-secondary: #656F75;
+    --hwp-button-strong-primary: #A51C30;
+    --hwp-button-strong-secondary: #A51C30;
+    --hwp-accent-light-regular: #FFFFFF;
+    --hwp-accent-light-vibrant: #F3F4F4;
+    --hwp-accent-dark-regular: #A51C30;
+    --hwp-accent-dark-vibrant: #0A2240;
+  }</style>
+
+  </div>
+
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main id="main-content" role="main" aria-label="Trademark Notice" aria-labelledby="page-title" tabindex="-1">
+    <div class="layout-content">
+        <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+<article class="node node--type-hwp-page node--view-mode-full">
+  
+
+  
+<div  class="hwp-page-title hwp-bg-light-base">
+  <div class="hwp-container hwp-container-px hwp-py-32">
+    
+    <h1 class="text-x-large" id="page-title">
+      <span>Trademark Notice</span>
+
+    </h>
+    
+  </div>
+</div>
+
+        <div
+      class="hwp-container hwp-container-px hwp-w-full hwp-py-32 lg:hwp-py-64 ">
+            <div class="hwp-flex-1 hwp-overflow-hidden">
+                  
+            <div class="hwp-text-block field field--name-field-hwp-body field--type-text-long field--label-hidden"><div class="tex2jax_process"><p>&nbsp;</p>
+<p>The following is a non-exhaustive list of United States trademark applications and registrations owned by the President and Fellows of Harvard College (Harvard University).&nbsp; All of the trademarks shown as "Registered" are "Registered in U.S. Patent and Trademark Office" (15 U.S.C. § 1111) as of the date below.&nbsp; This is not a complete list of trademarks or other intellectual property owned by Harvard. It does not include Harvard's many common law trademarks in the United States.&nbsp; It also does not list Harvard's numerous common law trademarks and trademark applications and registrations throughout the world.&nbsp; The absence of a trademark (name, logo, etc.) from this list does not constitute a waiver of any intellectual property rights that Harvard has established in any of its trademarks.</p>
+<p>Current through July 1, 2024</p>
+<div class="hwp-table-wrap"><table>
+<thead>
+<tr>
+<th>Trademark</th>
+<th>U.S.&nbsp;Application or Registration&nbsp;Number(s)</th>
+<th>Status</th>
+<th>&nbsp;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HARVARD</td>
+<td>
+<p>1,608,533</p>
+<p>1,624,908</p>
+<p>1,842,914</p>
+<p>2,002,662</p>
+<p>2,042,969</p>
+<p>2,119,339</p>
+<p>3,377,384</p>
+<p>4,114,681</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD</td>
+<td>5,354,048</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD 1636</td>
+<td>3,618,371</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ALLSTON LAND COMPANY</td>
+<td>6,019,033</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ALUMNI</td>
+<td>4,391,833</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ALUMNI ASSOCIATION</td>
+<td>
+<p>3,106,854</p>
+<p>3,856,297</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ALUMNI CARD</td>
+<td>4,387,759</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ALUMNI ENTREPRENEURS</td>
+<td>5,649,313</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ALUMNI NETWORK</td>
+<td>4,433,982</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD APPARATUS</td>
+<td>3,132,433</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ART MUSEUMS</td>
+<td>5,736,784</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ART MUSEUMS</td>
+<td>3,196,857</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ATHLETICS</td>
+<td>3,621,711</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BOOK STORE</td>
+<td>3,781,147</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BRAIN TISSUE RESOURCE CENTER "FROM KNOWLEDGE WILL COME A CURE" (and&nbsp;brain design)</td>
+<td>2,147,291</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BUSINESS PUBLISHING</td>
+<td>6,817,842</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BUSINESS REVIEW</td>
+<td>2,624,200</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BUSINESS REVIEW</td>
+<td>4,190,797</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BUSINESS REVIEW PRESS</td>
+<td>4,285,191</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BUSINESS SCHOOL</td>
+<td>
+<p>2,514,956</p>
+<p>4,115,077</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD BUSINESS SCHOOL (and shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--small">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">    <picture>
+                  <source srcset="/sites/g/files/omnuum446/files/styles/hwp_1_1__360x360_scale/public/trademark/files/harvard_business_school.png?itok=PdgYsgvX 1x, /sites/g/files/omnuum446/files/styles/hwp_1_1__720x720_scale/public/trademark/files/harvard_business_school.png?itok=BgJpjCet 2x" media="all and (min-width: 0)" type="image/png" width="360" height="85">
+                  <img loading="eager" src="/sites/g/files/omnuum446/files/styles/hwp_1_1__360x360_scale/public/trademark/files/harvard_business_school.png?itok=PdgYsgvX" width="360" height="85" alt="harvard_business_school.png">
+
+  </picture>
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td>2,323,056</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>(Harvard Business School) VERITAS (plus design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_business_school_veritas.png" width="152" height="183" alt="harvard_business_school_veritas.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,142,731</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BUSINESS SCHOOL ONLINE</td>
+<td>5,922,558</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD BUSINESS SCHOOL PUBLISHING</td>
+<td>2,617,582</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD CAMPUS SERVICES</td>
+<td>4,221,098</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD CAPITAL PROJECTS</td>
+<td>5,908,012</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD CENTER FOR GREEN BUILDINGS AND CITIES</td>
+<td>7,139,079</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD CLUB</td>
+<td>5,900,701</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD COLLEGE</td>
+<td>
+<p>2,498,203</p>
+<p>3,543,613</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD COLLEGE SHIELD (Design Only)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_college.png" width="151" height="151" alt="harvard_college.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,707,872</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD COMMUNITY GARDEN</td>
+<td>4,459,311</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD CREW</td>
+<td>3,618,369</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD DANCE CENTER</td>
+<td>5,437,248</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD DATA SCIENCE INITIATIVE</td>
+<td>6,006,617</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/hdsi.jpg" width="320" height="139" alt="HDSI shield">
+
+</div>
+      
+</div>
+</td>
+<td>6,001,926</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD DATA SCIENCE REVIEW</td>
+<td>6,062,614</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD DENTAL CENTER</td>
+<td>6,653,703</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD DESIGN MAGAZINE</td>
+<td>2,113,897</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD DIVINITY SCHOOL</td>
+<td>2,498,204</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD DIVINITY SCHOOL VERITAS (shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_divinity_school.png" width="188" height="190" alt="harvard_divinity_school.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,707,497</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD DIVISION OF CONTINUING EDUCATION</td>
+<td>6,183,551</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD EDUCATIONAL REVIEW</td>
+<td>5,327,086</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD EDUCATION PRESS</td>
+<td>5,315,457</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD EDUCATION PUBLISHING GROUP</td>
+<td>5,436,284</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD ENVIRONMENTAL HEALTH &amp; SAFETY</td>
+<td>6,019,002</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD EVENTS MANAGEMENT</td>
+<td>6,019,001</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD EXTENSION SCHOOL</td>
+<td>2,498,199</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD EXTENSION SCHOOL VERITAS (shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_extension_school.png" width="280" height="269" alt="harvard_extension_school.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,559,501</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD FACULTY OF ARTS AND SCIENCES</td>
+<td>4,715,494</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD FILM ARCHIVE</td>
+<td>5,150,701</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD FOREST</td>
+<td>3,461,391</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD GLOBAL</td>
+<td>4,728,910</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>H HARVARD GLOBAL (shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--small">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">    <picture>
+                  <source srcset="/sites/g/files/omnuum446/files/styles/hwp_1_1__360x360_scale/public/trademark/files/harvard_global.png?itok=vatb5PMj 1x, /sites/g/files/omnuum446/files/styles/hwp_1_1__720x720_scale/public/trademark/files/harvard_global.png?itok=y0k_t_I0 2x" media="all and (min-width: 0)" type="image/png" width="360" height="137">
+                  <img loading="eager" src="/sites/g/files/omnuum446/files/styles/hwp_1_1__360x360_scale/public/trademark/files/harvard_global.png?itok=vatb5PMj" width="360" height="137" alt="harvard_global.png">
+
+  </picture>
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td>4,728,909</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD GLOBAL HEALTH INSTITUTE</td>
+<td>4,259,105</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD GRADUATE SCHOOL OF DESIGN VERITAS (shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_graduate_school_of_design.png" width="185" height="191" alt="harvard_graduate_school_of_design.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,707,873</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD GRADUATE SCHOOL OF EDUCATION</td>
+<td>2,498,201</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD GRADUATE SCHOOL OF EDUCATION VERITAS (shield design)</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_graduate_school_of_education.png" width="152" height="183" alt="harvard_graduate_school_of_education.png">
+
+</div>
+      
+</div>
+</td>
+<td>4,157,236</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD GRAPHICS</td>
+<td>3,126,994</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD HEALTH PUBLISHING</td>
+<td>6,646,359</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD HUMANITARIAN INITIATIVE</td>
+<td>4,220,994</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD INNOVATION LABS</td>
+<td>7,443,548</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD INTERNATIONAL</td>
+<td>3,543,622</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD INTERNATIONAL OFFICE</td>
+<td>6,188,159</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD KENNEDY SCHOOL BELFER CENTER FOR&nbsp; SCIENCE AND INTERNATIONAL AFFAIRS</td>
+<td>5,838,566</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD KENNEDY SCHOOL JOHN F. KENNEDY SCHOOL OF GOVERNMENT (and VERITAS shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_kennedy_school_of_government.png" width="561" height="83" alt="harvard_kennedy_school_of_government.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>3,546,285</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD KENNEDY SCHOOL</td>
+<td>4,708,202</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD KENNEDY SCHOOL (shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_kennedy_school.png" width="210" height="227" alt="harvard_kennedy_school.png">
+
+</div>
+      
+</div>
+</td>
+<td>4,707,847</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD LAW SCHOOL</td>
+<td>
+<p>2,498,202</p>
+<p>4,115,076</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD LAW SCHOOL ALUMNI</td>
+<td>5,930,018</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD LAW SCHOOL ASSOCIATION</td>
+<td>5,900,436</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD LAW SCHOOL ASSOCIATION (plus design)</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/shield.jpg" width="263" height="259" alt="HLS Shield Plus design">
+
+</div>
+      
+</div>
+</td>
+<td>5,941,315</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD LAW REVIEW</td>
+<td>4,288,731</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD LEGAL AID BUREAU</td>
+<td>2,244,605</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD LIBRARY</td>
+<td>3,462,163</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD MANAGEMENT COMPANY</td>
+<td>2,308,539</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD MANAGEMENTOR SPARK</td>
+<td>6,180,538</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD MEDICAL SCHOOL</td>
+<td>
+<p>2,498,200</p>
+<p>2,512,410</p>
+<p>4,115,078</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD MEDICAL STUDENT REVIEW</td>
+<td>5,649,319</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>(Harvard Medical School) VERITAS (plus design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_medical_school.png" width="154" height="184" alt="harvard_medical_school.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,142,732</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD MUSEUM OF NATURAL HISTORY</td>
+<td>5,237,274</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD MUSEUMS OF SCIENCE &amp; CULTURE</td>
+<td>6,019,000</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD NEWS</td>
+<td>4,616,871</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD PLANNER</td>
+<td>1,491,123</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD PLANNING OFFICE</td>
+<td>5,946,334&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD REAL ESTATE</td>
+<td>2,871,762</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD REVIEW</td>
+<td>5,112,523</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD REVIEW ONLINE</td>
+<td>5,112,546</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD RUGBY</td>
+<td>3,618,370</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD SCHOOL OF DENTAL MEDICINE</td>
+<td>2,498,197</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD DENTAL SERVICE</td>
+<td>4,723,898</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>(Harvard School of Dental Medicine) VERITAS (shield design)</p>
+<p>&nbsp;</p>
+</td>
+<td>4,555,558</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>(Harvard School of Engineering) VERITAS (shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_school_of_engineering.png" width="348" height="319" alt="harvard_school_of_engineering.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,559,502</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>(Harvard School of Public Health) VERITAS (shield design)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_school_of_public_health.png" width="342" height="346" alt="harvard_school_of_public_health.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,551,250</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARDSCIENCE</td>
+<td>3,453,490</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD SHUTTLE</td>
+<td>4,459,217</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD STEM CELL INSTITUTE</td>
+<td>3,184,994</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD STUDENT AGENCIES, INC. TRANSLATION SERVICES</td>
+<td>3,466,591</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD STUDENT AGENCIES TUTORING</td>
+<td>5,112,527</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD SUMMER SCHOOL</td>
+<td>3,196,879</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD TRAVEL CENTER</td>
+<td>3,888,907</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD TRAVEL SERVICES</td>
+<td>4,454,148</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY</td>
+<td>6,846,631</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY</td>
+<td>
+<p>1,578,190</p>
+<p>2,600,446</p>
+<p>2,699,321</p>
+<p>4,252,489</p>
+<p>6,846,631</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard_trademark_notice_list_current_through_february_1_2020_2465_001.jpg" width="317" height="103" alt="harvard_trademark_notice_list_current_through_february_1_2020_2465_001.jpg">
+
+</div>
+      
+</div>
+</td>
+<td>6,183,638</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY DINING SERVICES</td>
+<td>3,691,994</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY EMPLOYEES CREDIT UNION</td>
+<td>3,111,871</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD GAZETTE</td>
+<td>3,196,696</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY THE GRADUATE SCHOOL OF ARTS AND SCIENCES</td>
+<td>4,712,033</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY GRADUATE SCHOOL OF DESIGN</td>
+<td>3,466,255</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY GROUP HEALTH PLAN</td>
+<td>
+<p>2,337,815</p>
+<p>2,340,286</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY HEALTH SERVICES</td>
+<td>2,726,164</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY HEALTH SERVICES PHARMACY</td>
+<td>6,183,738</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY HOUSING</td>
+<td>5,236,142</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY INFORMATION TECHNOLOGY</td>
+<td>4,723,588</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY PRESS</td>
+<td>2,410,146</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD UNIVERSITY SUSTAINABILITY</td>
+<td>6,063,240</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD VIRTUAL TOUR</td>
+<td>3,384,639</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD WOMEN'S HEALTH WATCH</td>
+<td>2,080,445</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD WORLDWIDE</td>
+<td>3,697,974</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD YARD</td>
+<td>3,917,396</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD YARD</td>
+<td>3,543,612</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARDX</td>
+<td>4,312,430</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--large">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">    <picture>
+                  <source srcset="/sites/g/files/omnuum446/files/styles/hwp_1_1__960x960_scale/public/trademark/files/harvard_x.png?itok=wGQfP3ly 1x, /sites/g/files/omnuum446/files/styles/hwp_1_1__1920x1920_scale/public/trademark/files/harvard_x.png?itok=XcYsU4dD 2x" media="all and (min-width: 0)" type="image/png" width="251" height="148">
+                  <img loading="eager" src="/sites/g/files/omnuum446/files/styles/hwp_1_1__960x960_scale/public/trademark/files/harvard_x.png?itok=wGQfP3ly" width="251" height="148" alt="harvard_x.png">
+
+  </picture>
+
+</div>
+      
+</div>
+</td>
+<td>4,551,935</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD ACADEMY</td>
+<td>2,884,482</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD ADVOCATE</td>
+<td>2,659,207</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD BOX OFFICE</td>
+<td>3,594,093</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD CLASSICS</td>
+<td>2,600,516</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD CLUB</td>
+<td>3,359,359</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD FACULTY CLUB</td>
+<td>3,127,009</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD POPS ORCHESTRA</td>
+<td>4,708,304</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD SHOP</td>
+<td>2,612,444</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HARVARD STUDENT-LED WALKING TOUR</td>
+<td>3,237,436</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>A SELF-GUIDED WALKING TOUR OF HARVARD YARD</td>
+<td>3,251,590</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>ARNOLD ARBORETUM</td>
+<td>3,638,296</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE ARNOLD ARBORETUM OF HARVARD UNIVERSITY</td>
+<td>3,865,049</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>ASCEND HARVARD BUSINESS REVIEW</td>
+<td>6,344,885</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CAMLab</td>
+<td>6,086,300</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CELLENICS</td>
+<td>6,846,815</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CHILD CARE@HARVARD</td>
+<td>4,248,940</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CRIMSON CONNECT</td>
+<td>6,183,772</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CRIMSON SUMMER ACADEMY</td>
+<td>3,369,133</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>GOCRIMSON.COM</td>
+<td>4,229,166</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/harvard.png" width="192" height="195" alt="harvard.png">
+
+</div>
+      
+</div>
+</td>
+<td>3,984,384</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>GRADUATE SCHOOL OF ARTS AND SCIENCES&nbsp;SHIELD (Design Only)<br>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/graduate_school_of_arts_and_science.png" width="184" height="193" alt="graduate_school_of_arts_and_science.png">
+
+</div>
+      
+</div>
+<p>&nbsp;</p>
+</td>
+<td>4,707,874</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HAHVAHD</td>
+<td>3,237,235</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HBR</td>
+<td>3,947,998</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HBR ASCEND</td>
+<td>6,344,886</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/hbr_women_at_work.png" width="260" height="260" alt="HBR Women at Work">
+
+</div>
+      
+</div>
+</td>
+<td>6,565,669</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HBS</td>
+<td>
+<p>3,886,485</p>
+<p>4,053,699</p>
+<p>4,053,706</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HBS ONLINE</td>
+<td>5,922,559</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HBS PRESS</td>
+<td>2,642,128</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HBS@WORK</td>
+<td>3,454,863</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HBX</td>
+<td>4,590,398</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/hbx.png" width="144" height="144" alt="hbx.png">
+
+</div>
+      
+</div>
+</td>
+<td>4,302,002</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HKS</td>
+<td>4,572,440</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HLS</p>
+<p>HLS</p>
+</td>
+<td>
+<p>7,251,601</p>
+<p>6,936,911</p>
+</td>
+<td>
+<p>Registered</p>
+<p>Registered</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HMS</td>
+<td>
+<p>4,129,211</p>
+<p>4,388,179</p>
+<p>4,388,180</p>
+<p>4,388,278</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HMS</td>
+<td>7,368,614</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HSA</td>
+<td>3,543,468</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HSCI (and circles design)</p>
+<p>&nbsp;</p>
+</td>
+<td>3,360,624</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HSPH</td>
+<td>4,388,161</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--small">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">    <picture>
+                  <source srcset="/sites/g/files/omnuum446/files/styles/hwp_1_1__360x360_scale/public/trademark/files/hsph.png?itok=h10JQCRq 1x, /sites/g/files/omnuum446/files/styles/hwp_1_1__720x720_scale/public/trademark/files/hsph.png?itok=rwQM62Yr 2x" media="all and (min-width: 0)" type="image/png" width="359" height="247">
+                  <img loading="eager" src="/sites/g/files/omnuum446/files/styles/hwp_1_1__360x360_scale/public/trademark/files/hsph.png?itok=h10JQCRq" width="359" height="247" alt="hsph.png">
+
+  </picture>
+
+</div>
+      
+</div>
+</td>
+<td>5,246,675</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/kirkland_house_shield_design.png" width="220" height="260" alt="Kirkland House shield design">
+
+</div>
+      
+</div>
+<p>&nbsp;&nbsp; (Kirkland House shield design)</p>
+</td>
+<td>6,381,497</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>LOEB CLASSICAL LIBRARY</td>
+<td>1,996,693</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>MANAGEMENTOR</td>
+<td>
+<p>2,270,490</p>
+<p>2,492,953</p>
+<p>3,031,747</p>
+<p>3,743,083</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>MOBILE MANAGEMENTOR</td>
+<td>4,298,930</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>POCKET MENTOR</td>
+<td>3,557,440</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>RADCLIFFE INSTITUTE FOR ADVANCED STUDY</td>
+<td>3,474,604</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>RADCLIFFE INSTITUTE FOR ADVANCED&nbsp;STUDY&nbsp;&nbsp; (Design Only)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td>4,695,999</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>RADCLIFFE MAGAZINE</td>
+<td>3,474,603</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>THE HAHVAHD TOUR</td>
+<td>3,692,570</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/the_harvard_tour_1.png" width="190" height="169" alt="1">
+
+</div>
+      
+</div>
+</td>
+<td>
+<p>1,605,026</p>
+<p>1,625,940</p>
+<p>2,112,010</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/the_harvard_tour_2.png" width="190" height="169" alt="2">
+
+</div>
+      
+</div>
+</td>
+<td>
+<p>1,602,960</p>
+<p>1,619,827</p>
+<p>2,101,295</p>
+</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/veritas_shield.png" width="274" height="260" alt="veritas_shield.png">
+
+</div>
+      
+</div>
+</td>
+<td>6,961,067</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/the_harvard_tour_3.png" width="171" height="181" alt="3">
+
+</div>
+      
+</div>
+</td>
+<td>4,141,960</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/hbs_shield.jpg" width="258" height="201" alt="HBS shield">
+
+</div>
+      
+</div>
+</td>
+<td>5,922,560</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/lex_et_iustitia.png" width="236" height="260" alt="lex_et_iustitia.png">
+
+</div>
+      
+</div>
+</td>
+<td>6,892,807</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD T.H. CHAN SCHOOL OF PUBLIC HEALTH</td>
+<td>4,812,910</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>HARVARD BRAIN SCIENCE INITIATIVE (plus&nbsp;design)</p>
+<p>&nbsp;</p>
+</td>
+<td>4,822,200</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD JOHN A. PAULSON SCHOOL OF ENGINEERING AND APPLIED SCIENCES</td>
+<td>4,881,654</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HARVARD SQUARE HOTEL</td>
+<td>4,812,477</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HMX</td>
+<td>5,135,676</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>H (GRADUATE SCHOOL OF DESIGN LOGO)</p>
+<p>&nbsp;</p>
+</td>
+<td>4,812,852</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>H (Graduate School of Design Block Logo)</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/picture1_01.png" width="149" height="112" alt="HGSD logo">
+
+</div>
+      
+</div>
+</td>
+<td>97/657,790</td>
+<td>Pending</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>H G S D (Graduate School of Design GSD Logo)</p>
+<div class="hwp-media hwp-media--full-width">
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden">  <img loading="lazy" src="/sites/g/files/omnuum446/files/trademark/files/picture2.png" width="159" height="119" alt="H G S D GSD Logo">
+
+</div>
+      
+</div>
+</td>
+<td>97/657,797</td>
+<td>Pending</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>HVRD</td>
+<td>5,716,275</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CS50</td>
+<td>5,149,065</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CS50x</td>
+<td>5,140,027</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CS50</td>
+<td>5,131,256</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>TEAMBIRTH</td>
+<td>6,109,537</td>
+<td>Registered</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>DAVID RUBENSTEIN TREEHOUSE AT HARVARD UNIVERSITY</td>
+<td>98/150,199</td>
+<td>Pending</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table></div>
+</div></div>
+      
+        
+        
+        
+
+<div class="hwp-news-footer hwp-py-24 hwp-pt-0 hwp-container hwp-container-px">
+              
+          
+  <div class="page-tags">
+    
+    </div>
+
+      <div class="page-tags">
+    
+        <ul class="hwp-news-footer__tags hwp-flex hwp-flex-wrap hwp-gap-16 hwp-mb-24">
+                        </ul>
+  </div>
+  
+        
+  </div>
+      </div>
+    </div>
+  
+  </article>
+
+  </div>
+
+    </div>
+    
+      </main>
+
+      <footer role="contentinfo">
+        <div>
+    <div id="block-hwp-footer-content">
+  
+    
+      
+
+      
+<div  class="footer-site footer-site--columns hwp-bg-dark-base hwp-text-14 hwp-leading-150">
+  <div class="hwp-container hwp-container-px hwp-pt-24 hwp-pb-32 lg:hwp-pt-40">
+    <div class="hwp-mb-24 lg:hwp-mb-32 ">
+                        <a href="/" class="footer-site__logo hwp-inline-flex">
+            
+<img
+   class="image"
+      src="/sites/g/files/omnuum446/files/hwp_hyard/footer_fields/logo/Harvard_Office_of_the_Provost_Trademark_Program_Signature_Horizontal_Large_RGB_White.svg"
+      alt="Harvard University"
+            height="80"
+        style="height: 80px;"
+  />
+          </a>
+                  </div>
+    <div class="lg:hwp-gap-40 lg:hwp-flex">
+      <div class="lg:hwp-w-1/3 xl:hwp-w-1/4">
+        <div class="hwp-flex hwp-flex-col hwp-gap-24 ">
+                      <div></div>
+                                <div class="hwp-flex hwp-gap-20 ">
+              <span class="material-icon material-icon--footer-contact" aria-hidden="true">location_on</span>
+              <div class="hwp-flex-1 "><p>Richard A. and Susan F. Smith Campus Center<br>1350 Massachusetts Avenue; Suite 738<br>Cambridge, MA 02138<br><a href="http://www.provost.harvard.edu/">Office of the Provost</a></p>
+</div>
+            </div>
+                    <div class="hwp-gap-24 hwp-grid ">
+                          <div class="hwp-flex hwp-gap-20 hwp-items-center">
+                <span class="material-icon material-icon--footer-contact" aria-hidden="true">smartphone</span>
+                617-495-9513
+              </div>
+                                      <div class="hwp-flex hwp-gap-20 hwp-items-center">
+                <span class="material-icon material-icon--footer-contact" aria-hidden="true">email</span>
+                <a href="mailto:trademark_program@harvard.edu">trademark_program@harvard.edu</a>
+              </div>
+                                              </div>
+        </div>
+      </div>
+      <div class="hwp-mt-32 lg:hwp-w-2/3 xl:hwp-w-3/4 lg:hwp-mt-0 lg:hwp-flex lg:hwp-flex-col">
+            
+                    <div class="lg:hwp-text-right lg:hwp-mt-auto">
+            <a href="/login" class="hwp-py-8 hwp-mt-16 hwp-inline-flex">Admin login</a>
+          </div>
+              </div>
+    </div>
+  </div>
+      
+
+<div  class="hwp-global-footer hwp-bg-dark-core hwp-py-12 md:hwp-pb-20">
+  <div
+    class="hwp-container hwp-container-px hwp-text-14 hwp-text-white xl:hwp-flex
+     xl:hwp-gap-x-24 hwp-flex-wrap xl:hwp-items-center xl:hwp-justify-between">
+    <div class="hwp-global-footer__logo">
+      <a href="https://www.harvard.edu" class="hwp-inline-flex hwp-py-12">
+        
+<img
+   class="image"
+      src="/profiles/hwp_dstan/themes/hwp_hyard/hwp-goldin/images/svg/footer-logo.svg"
+      alt="Harvard University"
+            height="80"
+    />
+      </a>
+    </div>
+    <div class="hwp-global-footer__copyright hwp-py-20 md:hwp-py-0">
+      <p>Copyright © 2024 The President and Fellows of Harvard College</p>
+
+    </div>
+    <div class="hwp-flex hwp-flex-col md:hwp-flex-row md:hwp-gap-x-32 xl:hwp-ml-auto">
+                        <a href="https://accessibility.harvard.edu/" class="hwp-py-12">Accessibility</a>
+                  <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" class="hwp-py-12">Digital Accessibility</a>
+                  <a href="https://www.harvard.edu/copyright-issue/" class="hwp-py-12">Report Copyright Infringement</a>
+                  <a href="https://hwp.harvard.edu/harvardsites-platform-information-gathering-statement" class="hwp-py-12">Info Practices</a>
+                  </div>
+  </div>
+</div>
+  </div>
+
+  </div>
+
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"","siteName":"Harvard Trademark Program","entityCreated":"1381155269","entityType":"node","entityBundle":"hwp_page","entityId":"91831","entityTitle":"Trademark Notice","primaryCategory":"pages","subCategory1":"trademark-notice","userUid":0,"harvard_affiliation":"","harvard_affiliation_short_name":"","site_type":"","site_section":"external public facing","platform_id":"harvardsites_drupal"});</script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/91831","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"mathjax":{"config_type":1,"config":{"tex2jax":{"inlineMath":[["{$","$}"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":true,"extNofollow":true,"extNoreferrer":true,"extFollowNoOverride":true,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":true,"extIconPlacement":"append","extFaLinkClasses":"open-in-new","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"1beab00e03b01c739cc2227e8532465d53a7d62c19f25c49dd427b817016d0ef"}}</script>
+<script src="/sites/g/files/omnuum446/files/js/js_IJebFMBcuDADIYhgmPDEh1pEni8PFsxnqwahE8dEtuQ.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdz1ESgyAMBNALaTmSs8K2pIXgQLR6-2K_HD_zkkw2AYaEg9XNjNik1DbE7zKFZtDJl0rH3ZLoZ8gwVkGaxBdtbkZjd969rOc4w-nxjd012roM7WjG_N_6H4gHanCvVGakC2SIjpm6XqyJcYxEYL2r5KWWrWdgELinpB7l4bGYFL3O0p8yav_whVsTqmVVz37VxrlXrD9nbmzD"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/sites/g/files/omnuum446/files/js/js_eFcIl9VMhKr3Vg9oApuV0RSsk_M2wOv4cHaZwHdGp-0.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdz1ESgyAMBNALaTmSs8K2pIXgQLR6-2K_HD_zkkw2AYaEg9XNjNik1DbE7zKFZtDJl0rH3ZLoZ8gwVkGaxBdtbkZjd969rOc4w-nxjd012roM7WjG_N_6H4gHanCvVGakC2SIjpm6XqyJcYxEYL2r5KWWrWdgELinpB7l4bGYFL3O0p8yav_whVsTqmVVz37VxrlXrD9nbmzD"></script>
+<script src="//siteimproveanalytics.com/js/siteanalyze_2992.js"></script>
+<script src="/sites/g/files/omnuum446/files/js/js_tFDLw1Stv0ZcQFn5kAEHqUSGNvzs6awzKK_Q4TLPsLY.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdz1ESgyAMBNALaTmSs8K2pIXgQLR6-2K_HD_zkkw2AYaEg9XNjNik1DbE7zKFZtDJl0rH3ZLoZ8gwVkGaxBdtbkZjd969rOc4w-nxjd012roM7WjG_N_6H4gHanCvVGakC2SIjpm6XqyJcYxEYL2r5KWWrWdgELinpB7l4bGYFL3O0p8yav_whVsTqmVVz37VxrlXrD9nbmzD"></script>
+
+  </body>
+</html>

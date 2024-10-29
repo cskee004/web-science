@@ -1,0 +1,42 @@
+Misinformation
+How AI images of cats and ducks powered the pet-eating rumor mill in Springfield, Ohio
+The topic gained momentum early this week because high-profile accounts, including tech billionaire Elon Musk’s, shared cartoonish images made with artificial intelligence.
+Downtown Springfield, Ohio, on Aug. 27.Maddie McGarvey / Redux Pictures file
+Sept. 14, 2024, 11:22 PM UTC
+By David Ingram
+The rumor mill about immigrants attacking household pets got its start in thinly sourced anecdotes shared at government meetings and on social media. But it really got going when AI-generated images and video that memeified the stories went viral.
+Early this week, even before former President Donald Trump shocked debate viewers Tuesday night with talk of immigrants “eating the pets,” the topic gained momentum because high-profile accounts, including tech billionaire Elon Musk’s, shared the cartoonish images made with artificial intelligence.
+Using various AI apps including Musk’s Grok service and a Chinese-owned app, people made cutesy and sometimes racist images and videos in seconds in order to push the idea that Trump would protect animals while Vice President Kamala Harris would not.
+And once those images and videos were shared and reshared, some of them piled up tens of millions of views and made their way to Trump’s own social media accounts.
+Some of the images shared by social media users were openly prejudiced, showing Black people chasing after cats. In one often-shared example, an AI-generated Trump is seen running through a field with a cat under each arm while two shirtless Black men run after him.
+This year, many AI experts worried that realistic deepfakes would be a major threat to public discourse because of the ability to create believable audio or video of presidential candidates, but for the most part, the election has being shaped by obviously fake, AI-made joke images, pumped out quickly to accompany various lines of attack, real or not. These images and videos often create a more engaging and shareable post — regardless of whether  they’re based in truth.
+A.J. Bauer, an assistant professor of journalism at the University of Alabama who studies conservative media, said the images show how meme-making has been further democratized.
+“You no longer have to know a little bit of Photoshop,” he said, referring to the popular photo-editing software made by Adobe.
+“That certainly has sped up the memeification of this ‘eating cats and dogs’ trope,” he added. “Whereas it might have taken a little bit longer or it might have spread a little less far without AI, I think AI is allowing it to spread much more quickly at scale.”
+Bauer said that in this case, AI was particularly useful because Trump is famously not a fan of pets , so there are relatively few real photographs of him with animals. Unlike all other recent presidents, he didn’t have a pet in the White House.
+The claims about Haitian immigrants abducting and eating household pets are baseless , but they’ve had real-world consequences including in Springfield, Ohio, the epicenter of the rumor mill. Local schools and government offices have been targeted by bomb threats , and some Haitian immigrants have said they’re scared for their safety .
+But cat-related memes have a unique and long-standing power on the internet: from Grumpy Cat to “ I Can Has Cheezburger? ”
+“Encoding the demonization of immigrants into cute cat content causes people who aren’t necessarily open to demonizing immigrants to get in on the game,” Bauer said. “Who doesn’t like a cute cat, right?”
+The memes of AI-generated pets were notable for their variety. There were cats holding military-style rifles to defend themselves, cats holding up political signs, cats and ducks sitting side-by-side, AI-generated humans holding cat-related signs and cats and ducks being cuddled by Trump.
+And it came as a tsunami, with countless videos and images being uploaded starting last weekend on social media platforms such as Reddit, X, TikTok and Instagram.
+Some of the videos and images had captions to explain the meme: “Donald Trump saving the kittens of Springfield, Ohio,” one post on X said. Others were more subtle, with text such as “Save them!” Still others had no explanation.
+Pro-Harris AI-generated images related to pets appeared to be relatively rare, but social media users did share some such as one with Harris holding a dog and a sign saying “Dogs for Harris.”
+Imran Ahmed, CEO of the Center for Countering Digital Hate, an anti-hate nonprofit organization, said the memes revealed who likes to have fun at the expense of racial minorities.
+“The reactions from racists is delight. The reaction from most normal people is confusion or outright anger and opposition, depending on how immersed they are in arcane internet culture,” Ahmed said.
+He said the memes were also a warning sign about the state of media.
+“We can’t afford for our democracy to be reduced to fake images driving discourse,” he said.
+Late last Sunday on X, far-right activist Jack Posobiec posted an AI image of Trump running with a cat and a duck in his arms chased by a group of Black men. That post had 1.3 million views as of Friday. He also posted a six-second video of Trump carrying a cat with a group of zombies after him, which got 3.5 million views. Posobiec did not respond to a request for comment.
+On Monday morning, several accounts on X posted yet another AI image of Trump being chased by Black men, this time holding two kittens. The image made its way to the account @LibsofTikTok on Tuesday in a post that received 4.8 million views. That image also eventually made it onto late-night host Jimmy Kimmel’s show , after the presidential debate. The @LibsofTikTok account did not respond to a request for comment.
+An X account belonging to House Judiciary Committee Republicans had perhaps the most widely viewed post Monday: an image of Trump chest-deep in water hugging both a duck and a cat. It had more than 87 million views as of Friday. Committee Republicans did not respond to a request for comment.
+On Tuesday, Rep. Eric Swalwell, D-Calif., printed out that post on a large display board and showed it at a committee hearing where he asked Republicans, “My God, are you OK?”
+Trump himself ended up posting several of the AI images to his feed on his social media app Truth Social on Tuesday and Thursday. They included an image of Trump sitting in a private jet, surrounded by animals.
+The Trump campaign did not respond to a request for comment.
+“Anyone with access to generative AI can spin up dozens of these images in no time at all,” said Alice Marwick, director of research at the nonprofit research organization Data & Society.
+Marwick compared the images and videos to a kind of instant comic book, with bright colors, extreme detail and an easy-to-consume message. And for most people, AI-generated content is still a novelty, adding to its appeal.
+“They have this incredibly wide reach and huge viral potential,” she said. But, she added, “in order to read that image, you need to have this sense of immigrants as dangerous.”
+Marwick said the whole episode is in some ways a continuation of the strategy that Trump and his allies used in 2016 to catapult him into the White House initially.
+“Since 2016, we’ve been sort of working in a meme economy in politics,” she said.
+Consumers now have a wide array of AI image generators to choose from to create pictures with a simple text command, and while many of them have rules in place to guard against election misinformation — such as not allowing people to make images of Harris or Trump — some AI image generators have no such rules.
+At least two of the widely viewed AI videos of Trump and animals were made using the software of Chinese AI startup MiniMax, according to watermarks on the videos.
+One of them, posted on X on Sunday afternoon, was a video of Trump kissing and nuzzling a duck on the back of the head with the caption, “I love you. I would never let the Haitians eat you.” It had 2.4 million views as of Friday.
+MiniMax and X did not respond to requests for comment on their services allegedly being used to create such images.

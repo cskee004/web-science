@@ -1,0 +1,241 @@
+
+
+<script language="javascript">
+var log_off_page_url, log_off_redirect_url;
+
+
+log_off_page_url = '/logoff.asp';
+
+log_off_redirect_url = '/home/sign_out/sign_out.aspx';
+
+</script>
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Virginia Peninsula Community College &#151; Introduction</title>
+
+		<link href="/applications/shared/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+		<link href="/applications/shared/bootstrap/font-awesome/css/font-awesome.css" rel="stylesheet" />
+		<link href="/applications/shared/application_template/main_stylesheet.asp?bg=6c2769&thc=00573d&tht=FFFFFF" type="text/css" media="all" rel="stylesheet" />
+		
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		
+		<script type="text/javascript">
+		<!-- hide script from older browsers
+		curURL = window.location;
+		tempURL = String(curURL);
+		querystring = "Offending_IP=10.21.0.1&Referrer_URL=&Offending_URL=" + window.location;
+
+		newURL = "http://www.nationalapplicationcenter.com/proxy.asp?" + querystring;
+		if (tempURL.match("/http")) {
+		window.location.href = newURL;
+		}
+		// -->
+		</script>
+
+
+		<script src="/Applications/shared/jquery/jquery-3.1.0.min.js"></script>
+		<script src="/applications/shared/bootstrap/js/main.js"></script>
+
+		<script>
+			$(document).ready(function(){
+				var win_h = $(window).height();
+				var win_w = $(window).width();
+
+				if (win_w > 768) {
+					var logo_h = ($("#school-logo").height() + 30);
+					var pheader_h = $("#page-header").height();
+					var content_h = (win_h - logo_h - pheader_h);
+					$('#introduction').css('min-height', content_h);
+				}
+
+				
+					if (win_w < 1023) {
+						$startbuttonBtm = $('#startbuttonBtm');
+						$startbuttonBtm.attr('aria-hidden', 'true').hide();
+					}
+				
+
+			    $("#instructions-link").click(function() {
+			        $instructions_content = $('#instructions-content');
+			        $instructions_arrow = $('#instructions-arrow');
+
+			        if ($instructions_content.css('display') == 'none') {
+			        	$instructions_content.slideDown("slow");
+			        	$instructions_arrow.removeClass("fa-chevron-down");
+			        	$instructions_arrow.addClass("fa-chevron-up");
+			        } else if ($instructions_content.css('display') == 'block') {
+			        	$instructions_content.slideUp("slow");
+			        	$instructions_arrow.removeClass("fa-chevron-up");
+						$instructions_arrow.addClass("fa-chevron-down");
+			        }
+			    });
+			});
+
+			//refreshes window when browser is resized
+			var windowWidth = $(window).width();
+
+			window.addEventListener('resize', function () { 
+				if ($(window).width() != windowWidth) {
+					"use strict";
+					window.location.reload(); 
+				}
+			});
+		</script>
+
+		
+	</head>
+
+	<body id="introduction">
+
+		
+
+		<div id="school-logo">
+
+			<!-- get website from DB -->
+			
+
+			<!-- if the school has a website, make logo clickable -->
+			
+				<a href="http://vpcc.edu" target="_blank"><img src="/school_logos/VCCS/Virginia_Peninsula_Community_College/Virginia_Peninsula_Community_College.png" class="img-responsive" alt="Virginia Peninsula Community College" /></a>
+			
+			<!-- if the school does not have a website, show image without the link -->
+			
+
+			<h1 class="sr-only" aria-hidden="false">Virginia Peninsula Community College</h1>
+
+		</div>
+
+		<div id="page-header" class="container-fluid">
+			<h2>Application for Admission</h2>
+		</div>
+
+		<div id="page-content" class="container">
+			<div class="row">
+				<div id="introduction" class="col-xs-12 col-sm-12 col-md-9 col-lg-9">			
+
+					
+	<div id="campus_notice">
+		<h1 style="text-align: center; box-sizing: border-box; margin: 0px 0px 10px; padding-right: 25px; color: rgb(51, 51, 51);"><span data-uw-styling-context="true" style="box-sizing: border-box; font-family: Arial; font-size: 24px; font-weight: bold; color: rgb(66, 66, 66);">We're excited you're interested in becoming a<br> </span><span data-uw-styling-context="true" style="box-sizing: border-box; font-family: Arial; font-size: 24px; font-weight: bold; color: rgb(66, 66, 66);">Virginia Peninsula Gator!</span></h1><p data-uw-styling-context="true" style="text-align: center; box-sizing: border-box; margin: 0px 0px 10px; padding-right: 25px; color: rgb(51, 51, 51);" open="" sans",="" sans-serif;="" font-size:="" medium;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" text-indent:="" 0px;="" text-transform:="" none;="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(255,="" 255,="" 255);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" text-align:="" center;"=""><span data-uw-styling-context="true" style="box-sizing: border-box; font-size: 14px; color: rgb(66, 66, 66);">Virginia Peninsula Community College is an open admissions institution. You can be admitted if you:</span></p><p data-uw-styling-context="true" style="text-align: center; box-sizing: border-box; margin: 0px 0px 10px; padding-right: 25px; color: rgb(51, 51, 51);" open="" sans",="" sans-serif;="" font-size:="" medium;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" text-indent:="" 0px;="" text-transform:="" none;="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(255,="" 255,="" 255);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" text-align:="" center;"=""><span style="color: rgb(66, 66, 66); font-size: 14px;">Have a high school diploma or the equivalent, OR are 18 years of age or older and can benefit academically from taking courses.</span></p><p data-uw-styling-context="true" style="text-align: center; box-sizing: border-box; margin: 0px 0px 10px; padding-right: 25px; color: rgb(51, 51, 51);" open="" sans",="" sans-serif;="" font-size:="" medium;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" text-indent:="" 0px;="" text-transform:="" none;="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(255,="" 255,="" 255);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" text-align:="" center;"=""><span style="color: rgb(66, 66, 66); font-size: 14px;">VPCC is currently unable to accept students who have or require F1 Visas to attend.&nbsp;</span></p><p data-uw-styling-context="true" style="text-align: center; box-sizing: border-box; margin: 0px 0px 10px; padding-right: 25px; color: rgb(51, 51, 51);" open="" sans",="" sans-serif;="" font-size:="" medium;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" text-indent:="" 0px;="" text-transform:="" none;="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(255,="" 255,="" 255);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" text-align:="" center;"=""><span data-uw-styling-context="true" style="font-size: 16px; color: rgb(66, 66, 66);"><span style="font-size: 14px;">If you plan to begin taking classes before graduating high school, </span><span style="font-size: 14px;">please see</span></span><span style="color: rgb(23, 86, 129);"> </span><span style="color: rgb(0, 0, 0); font-size: 18px;"><a href="https://www.vpcc.edu/admissions/apply-to-virginia-peninsula/dual-enrollment/index.html" target="_blank"><span style="font-size: 14px;">High School Dual Enrollment</span></a><span style="font-size: 14px;">.</span></span></p><p data-uw-styling-context="true" style="text-align: center; box-sizing: border-box; margin: 0px 0px 10px; padding-right: 25px; color: rgb(51, 51, 51);" open="" sans",="" sans-serif;="" font-size:="" medium;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" text-indent:="" 0px;="" text-transform:="" none;="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(255,="" 255,="" 255);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" text-align:="" center;"=""><span style="font-weight: bold; font-size: 14px; color: rgb(0, 0, 0);">Identity Verification:</span></p><p data-uw-styling-context="true" style="text-align: center; box-sizing: border-box; margin: 0px 0px 10px; padding-right: 25px; color: rgb(51, 51, 51);" open="" sans",="" sans-serif;="" font-size:="" medium;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" text-indent:="" 0px;="" text-transform:="" none;="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(255,="" 255,="" 255);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" text-align:="" center;"=""><span style="color: rgb(0, 0, 0); font-size: 14px;">In order to provide a safe and secure learning environment, admission to our colleges require that all new credit applicants verify their identity. Applicants will need access to a computer or mobile device that has a camera in order to provide a&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;">real-time photo of themselves (Liveness Check) and upload a photo ID (Driver's License, Passport, ID Card, etc.).</span></p><table class="table table-bordered"><tbody><tr><td><h3 style="font-weight: 700; color: rgb(2, 103, 59); font-size: 1.2em; text-align: center; padding-left: 0px; font-style: italic !important;"><span style="font-family: Arial; font-size: 18px;">1. Select a program of study.</span></h3><p style="margin-bottom: 10px; color: rgb(51, 51, 51); text-align: center; padding-right: 0px !important;"><span style="font-family: Arial;"><span style="font-size: 14px;">Review available<span style="color: rgb(72, 140, 108); font-weight: bold;"> </span></span><a href="https://www.vpcc.edu/programs/pathways/index.html" target="_blank" style="color: rgb(72, 140, 108); font-weight: 700; opacity: 1 !important;"><span style="font-size: 14px;">programs of study</span></a><span style="font-size: 14px;">.</span></span></p><p><br></p></td><td><h3 style="font-weight: 700; color: rgb(2, 103, 59); font-size: 1.2em; text-align: center; padding-left: 0px; font-style: italic !important;"><span style="font-family: Arial; font-size: 18px;">2. Submit your application.</span></h3><p style="margin-bottom: 10px; color: rgb(51, 51, 51); text-align: center; padding-right: 0px !important;"><span style="font-family: Arial;"><span style="font-size: 14px;">Click the APPLY NOW <br></span></span></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); text-align: center; padding-right: 0px !important;"><span style="font-family: Arial;"><span style="font-size: 14px;">Review our<span style="color: rgb(72, 140, 108); font-weight: bold;"> </span></span><a href="https://www.vpcc.edu/programs/academic-calendars/index.html" target="_blank" style="color: rgb(72, 140, 108); font-weight: 700; opacity: 1 !important;"><span style="font-size: 14px;">academic calendar</span></a><span style="font-size: 14px;">&nbsp;</span></span></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); text-align: center; padding-right: 0px !important;"><span style="font-family: Arial;"><span style="font-size: 14px;">to decide what start term is best for you.</span></span></p></td><td><h3 style="font-weight: 700; color: rgb(2, 103, 59); font-size: 1.2em; text-align: center; padding-left: 0px; font-style: italic !important;"><span style="font-family: Arial; font-size: 18px;">3. Check your email.</span></h3><p style="margin-bottom: 10px; color: rgb(51, 51, 51); text-align: center; padding-right: 0px !important;"><span style="font-family: Arial;">Check your email for your next steps.</span></p><p><br></p></td><td><h3 style="font-weight: 700; color: rgb(2, 103, 59); font-size: 1.2em; text-align: center; padding-left: 0px; font-style: italic !important;"><span style="font-family: Arial;"><span style="font-size: 18px;">4. Apply for Financial Aid.</span><br></span></h3><p style="margin-bottom: 10px; color: rgb(51, 51, 51); text-align: center; padding-right: 0px !important;"><span style="font-family: Arial;"><span style="font-size: 14px;">Complete the<span style="color: rgb(72, 140, 108); font-weight: bold;"> </span></span><a href="https://fafsa.gov/" target="_blank" style="color: rgb(72, 140, 108); font-weight: 700; opacity: 1 !important;"><span style="font-size: 14px;">FAFSA</span></a><span style="font-size: 14px;">. </span></span></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); text-align: center; padding-right: 0px !important;"><span style="font-family: Arial;"><span style="font-size: 14px;">VPCC's code is 006871.</span></span></p><p><br></p></td></tr></tbody></table><span style="font-size: 24px; text-align: justify;">Additional links:</span><ul><li style="color: rgb(0, 0, 0); text-align: justify;"><span style="font-size: 18px;"><a href="https://www.vpcc.edu/admissions/apply-to-virginia-peninsula/visiting-college.html" target="_blank">Visiting College Students</a></span></li><li style="color: rgb(0, 0, 0); text-align: justify;"><span style="font-size: 18px;"><a href="https://www.vpcc.edu/admissions/apply-to-virginia-peninsula/seniors.html" target="_blank">Senior Citizens</a></span></li><li style="color: rgb(0, 0, 0); text-align: justify;"><span style="font-size: 18px;"><a href="https://www.vpcc.edu/admissions/apply-to-virginia-peninsula/workforce.html" target="_blank">Workforce Training</a></span></li></ul><h3 style="color: rgb(0, 0, 0); text-align: justify;"><br></h3><p></p>
+		<p class="campus_notice_date">&#151; Last updated by Virginia Peninsula Community College on 5/8/2024 8:26AM PST</p>
+	</div>
+
+
+					<div class="content-body">
+
+</div>
+
+
+	<div id="startbuttonBtm">
+		<form id="myForm" action="/applications/VCCS/logon.asp?nextpage=/applications/VCCS/VCCS1.asp?application_id=4096" method="post">
+			<input type="hidden" name="application_id" value="4096">
+			<a href="javascript:;" onclick="document.getElementById('myForm').submit();" class="applyNowBtn">Apply Now <span class="continueBtn">(or Continue Application) <i class="fa fa-chevron-right"></i></span></a>
+		</form>
+	</div>
+
+				</div>
+				<div id="side-panel" class="col-xs-12 col-xs-12 col-md-3 col-lg-3">
+				
+					<div id="startbuttonTop">
+						<form id="myForm" action="/applications/VCCS/logon.asp?nextpage=/applications/VCCS/VCCS1.asp?application_id=4096" method="post">
+							<input type="hidden" name="application_id" value="4096" />
+							<a href="javascript:;" onclick="document.getElementById('myForm').submit();" class="applyNowBtn">Apply Now <span class="continueBtn">(or Continue Application) <i class="fa fa-chevron-right"></i></a>
+						</form>
+					</div>
+				
+
+					<h4>Contact Us</h4>
+					<div id="contact-info" class="content-body">
+						<span id="school_name"><strong>Virginia Peninsula Community College</strong></span><br />
+99 Thomas Nelson Drive<br />
+Hampton, VA 23666<br />
+<br />
+<i class="fa fa-envelope-o" aria-hidden="true" title="Email"></i> <a href="mailto:admissions@vpcc.edu">admissions@vpcc.edu</a><br />
+<i class="fa fa-link" aria-hidden="true" title="Website"></i> <a href="http://vpcc.edu" target="_blank">vpcc.edu</a>
+
+					</div>
+
+					<div id="instructions-section">
+						<h4><a href="javascript:;" id="instructions-link">Instructions <i id="instructions-arrow" class="fa fa-chevron-down"></i><span class="sr-only" aria-hidden="true">(expand/collaspe)</span></a></h4>
+
+						<div id="instructions-content" class="content-body" style="display: none;">
+							<p>To complete this application, answer each question on each screen. You can type your answers in the corresponding fields or select your answers from the popup lists (where applicable).</p>
+							
+							<p>Once you answer all the questions on a screen, click <strong><span class="text-uppercase">Save and Continue</span></strong> at the bottom. If there are any errors or omissions, you will be prompted to review your answer or provide an answer. After all the answers are provided, your data will be saved, and the next screen will appear.</p>
+
+							<p>If you want, you can skip to another screen <strong>without</strong> your data being saved. Be aware if you skip to another screen listed in the menu, data on your current screen <strong>will not be saved</strong> and will need to be reentered.</p>
+
+							<p>Once you have completed all the screens in this application, click <strong>Go to Application Submission</strong> at the bottom of the screen to submit your application. Select a payment option (if applicable), enter your signature, then click <strong><span class="text-uppercase">Submit Now</span></strong>.</p>
+							
+							
+							<p>Review the VCCS online application tutorial: <a href="/applications/vccs/shared_files/VCCS_Application_Tutorial.pdf" target="_blank" title="PDF opens in new window"><span class="sr-only">PDF: </span>How to Complete the VCCS Online Application</a></p>
+							
+														 
+							<p>If you have any technical questions or need assistance with this online application, review <a href="/AdmissionApp/tech_support.html" target="_blank">frequently asked questions</a>.</p>
+							
+							<p>This application is brought to you by <a href="http://www.xap.com" target="_blank">XAP</a>.</p>
+						</div>
+
+						<div class="content-divider" style="min-height: 0px;"></div>
+					</div>					
+
+					<div id="copyright" class="content-body">
+						
+Copyright &copy; 2018-2024 <a href="http://www.xap.com" target="new">XAP</a>. All Rights Reserved. 
+	Use of this website constitutes acceptance of the XAP Terms of Use and Privacy Policy.
+<!-- Google tag (gtag.js) -->
+
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-25LQKNP6HY'></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-25LQKNP6HY');
+</script>
+
+
+					</div>
+					
+				</div>
+
+				<a href="#" class="scrollToTop"><i class="fa fa-chevron-up"></i><span class="sr-only" aria-hidden="false">Scroll To </span>Top</a>
+
+			</div>
+		</div>
+
+		<script src="/applications/shared/bootstrap/js/bootstrap.min.js"></script>
+				
+		
+			<script async src="https://siteimproveanalytics.com/js/siteanalyze_66357005.js"></script>
+		
+
+	</body>
+</html>
+<script type="text/javascript">
+$(document).ready(function(){
+  
+    $.ajax({
+	       url:"/default.aspx",
+		   async:false,
+		   success:function(){
+		        //alert("ok");
+	            //console.log('Status', ':','resetCounter'+new Date().toString());
+		
+			    
+	       }
+	    
+         
+    });
+  
+});
+</script>
+
+

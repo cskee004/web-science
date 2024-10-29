@@ -1,0 +1,121 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Subscriber Portal - User Log in</title>
+<!-- for IE11 -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+    <meta name="description" content="My Pages - User Login Form">
+    <meta name="author" content="Omnilert">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/lib6/vendors/font-awesome-4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="portal/base.css">     <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" media="screen" href="https://custom.omnilert.net/bfe0f1926c3d55fa4412d09165aa899c/subscriber_custom_css"> </head>
+
+<body>
+    <section class="header">
+        <div class="wrapper">
+            <header>
+                <a href="#show_menu" class="skip">Skip to menu</a>
+                <div class="omnilert-logo">
+                    <img src="/portal/img/omnilert-logo-header.png" alt="Omnilert" height="56" width="220"/>
+                </div>
+            </header>
+            <nav id="nav">
+                <input type="checkbox" name="show_menu" id="show_menu">
+<label for="show_menu" class="show-menu" id="small_menu_link" tabindex="0"><img src="/portal/img/hamburger.png" alt="Menu Icon"><span class="hidden">Show Menu</span></label>
+
+                <ul class="clearfix" id="main_menu">
+                    
+                                        <li><a href="subscriber.php" class="active">User Log in</a></li>
+                                                                                            <li><a href="subscriber.php?command=show_signup">Sign Up</a></li>
+                                                            </ul>
+            </nav>
+        </div>
+    </section>
+    <main id="subscriber-login-main">
+        <div class="main user-login">
+            <div class="custom-logo">
+                            </div>
+            <div class="account-name">
+                <h1>Virginia Peninsula Community College</h1>
+            </div>
+                                        
+                        <div class="custom-content">
+                        <aside id="custom_title" role="note" class="clearfix">
+                <h2>VPCC ALERT</h2>
+            </aside>
+                                     </div>
+                                     
+                        <div class="content">
+                <form method="post" action="subscriber.php" id="userlogin-form" class="clearfix userlogin-form">
+                    <fieldset>
+
+                        
+                        
+                        <legend class="hidden-accessibility">User log in</legend>
+                        <div>
+                            <label for="username" class="hidden-accessibility">Username</label>
+                            <input name="username" type="text" class="input-text" value="" id="username" tabindex="0" aria-label="username" placeholder="username" autocapitalize="none" required aria-required="true">
+                        </div>
+                        <div>
+                            <label for="password" class="hidden-accessibility">Password</label>
+                            <input name="password" type="password" class="input-text" value="" id="password" placeholder="password" aria-label="password" required aria-required="true">
+                        </div>
+                        <div>
+                            <input class="btn btn-submit" name="submit" type="submit" value="Login">
+                        </div>
+
+                                                <div id="sc_forgot_username" class="reset-text text-left"><a href="subscriber_forgot_username.php">Forgot username?</a></div>
+                                                                        <div id="sc_forgot_password" class="reset-text text-right"><a href="subscriber_forgot_password.php">Forgot password?</a></div>
+                                            </fieldset>
+                                        <input type="hidden" name="command" value="login">
+                                                                                                            </form>
+            </div>
+                    </div>
+    </main>
+    <footer>
+        <div class="wrapper">
+            <div class="footer-inner">
+                            <p>&copy; Omnilert, LLC</p>
+<ul class="sp_footer_list">
+    <li><a href="https://support.omnilert.com/hc/en-us/articles/115001506953-Privacy-Policy" target="_blank">Privacy Policy</a></li>
+    <li><a href="https://support.omnilert.com/hc/en-us/articles/115001506893-Acceptable-Use-Policy" target="_blank">Acceptable Use Policy</a></li>
+    <li><a href="https://support.omnilert.com/hc/en-us/articles/115001506933-Terms-of-Use" target="_blank">Terms of Use</a></li>
+</ul>
+
+
+
+<script nonce="WnZmMGFkYkJpa0FTZnRIc21Mbk93UUFBQUN3" type="text/javascript">
+
+var menuToggle = document.querySelector("#small_menu_link");
+var menu = document.querySelector("#show_menu");
+
+var enterKeyCode = 13;
+//var spaceKeyCode = 32;
+
+menuToggle.addEventListener("keyup", function(event) {
+    if(event.keyCode == enterKeyCode || event.keyCode == spaceKeyCode) {
+        var menuOpen = menu.checked;
+
+        if(menuOpen) {
+            menu.checked = false;
+        } else {
+            menu.checked = true;
+        }
+    }
+});
+
+</script>
+
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

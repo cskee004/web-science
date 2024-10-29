@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+
+    
+    
+
+    
+    
+
+    
+    <html lang="en" data-ui-framework="glimmer" data-presentation-type="FULL_PAGE" class="theme--artdeco">
+      <head>
+        <title>404: Page Not Found | LinkedIn Help</title>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content>
+        <meta name="locale" content="en_US">
+        <meta name="robots" content="noindex,nofollow">
+        <meta name="og:title" content="404: Page Not Found | LinkedIn Help">
+        <meta name="og:site_name" content="LinkedIn Help">
+        <meta name="og:description" content>
+        <meta name="og:url" content="https://www.linkedin.com/help/linkedin/answer/a1347458?trk=homepage-basic_directory_salaryHomeUrl">
+        <meta name="pageKey" content="hc_404">
+        <meta name="asset-url" id="artdeco/static/images/icons.svg" content="https://static.licdn.com/sc/h/6sz1e821vgereyxaakx87tt4z">
+        <meta name="helpcenter:bootstrap" content="{&quot;cdnUrl&quot;:&quot;https://static.licdn.com&quot;,&quot;application&quot;:{&quot;name&quot;:&quot;helpcenter-frontend&quot;,&quot;instance&quot;:&quot;i001&quot;,&quot;version&quot;:&quot;0.5.4865&quot;,&quot;multiproductName&quot;:&quot;helpcenter&quot;},&quot;availableHelpCenters&quot;:[{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:linkedin&quot;,&quot;longLabel&quot;:&quot;LinkedIn Help&quot;,&quot;shortLabel&quot;:&quot;LinkedIn&quot;},{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:billing&quot;,&quot;longLabel&quot;:&quot;Corporate Billing Help&quot;,&quot;shortLabel&quot;:&quot;Corporate Billing&quot;},{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:learning&quot;,&quot;longLabel&quot;:&quot;Learning Help&quot;,&quot;shortLabel&quot;:&quot;Learning&quot;},{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:lms&quot;,&quot;longLabel&quot;:&quot;Marketing Solutions Help&quot;,&quot;shortLabel&quot;:&quot;Marketing Solutions&quot;},{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:recruiter&quot;,&quot;longLabel&quot;:&quot;Recruiter Help&quot;,&quot;shortLabel&quot;:&quot;Recruiter&quot;},{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:sales-insights&quot;,&quot;longLabel&quot;:&quot;Sales Insights Help&quot;,&quot;shortLabel&quot;:&quot;Sales Insights&quot;},{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:sales-navigator&quot;,&quot;longLabel&quot;:&quot;Sales Navigator Help&quot;,&quot;shortLabel&quot;:&quot;Sales Navigator&quot;},{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:talent-hub&quot;,&quot;longLabel&quot;:&quot;Talent Hub Help&quot;,&quot;shortLabel&quot;:&quot;Talent Hub&quot;},{&quot;urn&quot;:&quot;urn:li:helpCenterInstance:talent-insights&quot;,&quot;longLabel&quot;:&quot;Talent Insights Help&quot;,&quot;shortLabel&quot;:&quot;Talent Insights&quot;}],&quot;globalAlerts&quot;:[],&quot;lixResults&quot;:[],&quot;locale&quot;:&quot;en_US&quot;,&quot;pageKey&quot;:&quot;hc_404&quot;,&quot;presentationType&quot;:&quot;FULL_PAGE&quot;,&quot;uiTheme&quot;:&quot;ART_DECO&quot;,&quot;uiDesignSystem&quot;:&quot;hue-infra&quot;,&quot;contactChannels&quot;:{}}">
+        <meta name="helpcenter:clientdata" content="{}">
+        <meta name="helpcenter:tracking-id" content="tbpcQzPpToa/IcdfSDAW9Q==">
+
+        <link rel="canonical" href="https://www.linkedin.com/help/linkedin/answer/a1347458?trk=homepage-basic_directory_salaryHomeUrl">
+<!---->        <link rel="icon" href="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico">
+        <script>(function(){function a(){var a,b;var c=new Promise(function(c,d){a=c,b=d});return c.resolve=a,c.reject=b,c}window.helpcenter=a()})();</script>
+        <script src="https://static.licdn.com/sc/h/8hfbuq1ftcvnnx4dd5067pi0t" async defer type="text/javascript"></script>
+        <script src="https://static.licdn.com/sc/h/450s4h0od6b6v7y81fq5vixg0" defer type="text/javascript"></script>
+
+          <script src="https://static.licdn.com/sc/h/19mcb5pewl9tkpcubx50yv3tj" defer type="text/javascript"></script>
+          <script src="https://static.licdn.com/sc/h/6tng4qs7e19ub0vhfcb68noj3" defer type="text/javascript"></script>
+
+<!---->
+<!---->
+        <script src="https://static.licdn.com/sc/h/4zu9njlgz2u83d03qd1x1lran" defer type="text/javascript"></script>
+
+            <link rel="stylesheet" href="https://static.licdn.com/sc/h/5xeufzc2c97mapmyf53p7pzb4">
+
+        <link rel="stylesheet" href="https://static.licdn.com/sc/h/bxsc3uzs75pqkfoodt5h1vv4d">
+
+        
+        
+        <script src="https://static.licdn.com/sc/h/eehl5mrjanqa54h6ttd6pnw04" defer type="text/javascript"></script>
+        <link rel="stylesheet" href="https://static.licdn.com/sc/h/7zb24o7t1uuimsrannorz251x">
+      
+      
+      </head>
+      <body dir="ltr" class="base-page hue-web-theme--classic hue-web-color-scheme--light" data-test-id="base-page-body" data-in-hueify-scope="true">
+          
+    <header class="global-header" data-test-id="global-header">
+      
+      <div class="placeholder " id="system-message-outlet" data-inert-toggle-target="me-menu-inert-toggle-target" data-test-id="system-message-outlet">
+        
+      
+      </div>
+  
+<!---->      <div class="page-width-content">
+        
+    
+    
+    
+    
+
+    <div class="accessibility-menu" data-test-selector="accessibility-menu" data-inert-toggle-target="me-menu-inert-toggle-target">
+      <div class="visually-hidden" aria-live="polite">
+        <p class="mobile-view-on-desktop">Attention screen reader users, you are in a mobile optimized view and content may not appear where you expect it to be. To return the screen to its desktop view, please maximize your browser.</p>
+      </div>
+      <div class="accessibility-menu__content">
+        
+  <a class="accessibility-menu__skip-link artdeco-button artdeco-button--2 artdeco-button--secondary artdeco-button--inverse" data-test-selector="accessibility-menu-skip-link" href="#a11y-main">
+    Skip to content
+  </a>
+
+<!---->      </div>
+      <button class="accessibility-menu__dismiss-button artdeco-button artdeco-button--inverse artdeco-button--2 artdeco-button--circle artdeco-button--tertiary" data-test-selector="accessibility-menu-dismiss-button">
+        <li-icon class="svg-icon" size="large" tabindex="-1" aria-hidden="true" type="cancel-icon"></li-icon>
+        <span class="visually-hidden">
+          Close jump menu
+        </span>
+      </button>
+    </div>
+  
+        
+    
+    
+
+    <nav class="site-navigation" aria-label="Main">
+      <div class="site-navigation__logo" data-inert-toggle-target="me-menu-inert-toggle-target">
+          <span class="brand">
+            
+  
+  
+
+  
+    <svg preserveaspectratio="xMinYMin meet" focusable="false" style="display:block;width:34px;height:34px;" tabindex="-1" aria-hidden="true">
+      <g class="scaling-icon" style="fill-opacity:1">
+        <g class="bug-34dp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g class="dp-1">
+              <path d="M2.8,34 L31.2,34 C32.746,34 34,32.746 34,31.2 L34,2.8 C34,1.254 32.746,0 31.2,0 L2.8,0 C1.254,0 0,1.254 0,2.8 L0,31.2 C0,32.746 1.254,34 2.8,34" class="bug-text-color" fill="currentColor"></path>
+            <path d="M2.8,34 L31.2,34 C32.746,34 34,32.746 34,31.2 L34,2.8 C34,1.254 32.746,0 31.2,0 L2.8,0 C1.254,0 0,1.254 0,2.8 L0,31.2 C0,32.746 1.254,34 2.8,34 Z M13,13 L17.75,13 L17.75,15.391 C18.387,14.114 20.242,12.75 22.695,12.75 C27.397,12.75 29,14.875 29,19.922 L29,29 L24,29 L24,20.984 C24,18.328 23.481,16.875 21.542,16.875 C18.921,16.875 18,18.867 18,20.984 L18,29 L13,29 L13,13 Z M5,29 L10,29 L10,13 L5,13 L5,29 Z M10.55,7.5 C10.55,9.184 9.184,10.55 7.5,10.55 C5.816,10.55 4.45,9.184 4.45,7.5 C4.45,5.815 5.816,4.45 7.5,4.45 C9.184,4.45 10.55,5.815 10.55,7.5 Z" fill="#FFFFFF"></path>
+          </g>
+          <g class="dpi-gt1" transform="scale(0.7083)">
+              <rect class="bug-text-color" fill="currentColor" x="1" y="1" width="46" height="46" rx="4"></rect>
+            <path d="M0,4.00989318 C0,1.79529033 1.79405245,0 4.00989318,0 L43.9901068,0 C46.2047097,0 48,1.79405245 48,4.00989318 L48,43.9901068 C48,46.2047097 46.2059475,48 43.9901068,48 L4.00989318,48 C1.79529033,48 0,46.2059475 0,43.9901068 L0,4.00989318 Z M19,18.3 L25.5,18.3 L25.5,21.566 C26.437,19.688 28.838,18 32.445,18 C39.359,18 41,21.738 41,28.597 L41,41.3 L34,41.3 L34,30.159 C34,26.253 33.063,24.05 30.68,24.05 C27.375,24.05 26,26.425 26,30.159 L26,41.3 L19,41.3 L19,18.3 Z M7,41 L14,41 L14,18 L7,18 L7,41 Z M15,10.5 C15,12.985 12.985,15 10.5,15 C8.015,15 6,12.985 6,10.5 C6,8.015 8.015,6 10.5,6 C12.985,6 15,8.015 15,10.5 Z" fill="#FFFFFF"></path>
+          </g>
+        </g>
+      </g>
+    </svg>
+  
+  <h1 class="brand__title t-white t-24 t-bold" data-test-id="brand-title">
+    <span class="brand__title-text--short" data-test-id="brand-title-short">Help</span>
+    <span class="brand__title-text--long">LinkedIn Help</span>
+  </h1>
+
+          </span>
+      </div>
+
+      
+      <span class="placeholder  site-navigation__search site-search__navbar-outlet" data-inert-toggle-target="me-menu-inert-toggle-target">
+        
+      </span>
+  
+
+      
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div data-responsive-handler="me-menu-inert-responsive-handler" data-test-id="me-menu-responsive-handler"></div>
+
+    
+    <div class="dropdown__container me-menu me-menu--signed-out" data-test-id="me-menu">
+      <button class="dropdown__trigger me-menu__dropdown-trigger plain-button" data-test-selector="dropdown-trigger" aria-expanded="false" aria-controls="me-menu-dropdown">
+        
+<!---->        <span class="me-menu__trigger-icon desktop-excluded tablet-excluded" data-test-id="mobile-trigger-icon">
+          <span class="visually-hidden">Dropdown menu, expand to explore help for other LinkedIn products</span>
+          <li-icon size="large" type="hamburger-icon"></li-icon>
+        </span>
+      
+      </button>
+      <div class="dropdown__menu me-menu__dropdown-menu" data-test-selector="dropdown-menu" aria-hidden="true" tabindex="-1" id="me-menu-dropdown" role="dialog" aria-label="LinkedIn products menu" aria-modal autofocus="true">
+        
+        <button id="me-menu-inert-toggle-close" class="me-menu__close dropdown__close plain-button desktop-excluded tablet-excluded" data-test-id="me-menu-close" type="button">
+          <li-icon size="large" type="cancel-icon"></li-icon>
+          <span class="visually-hidden">Close menu</span>
+        </button>
+<!---->        <section class="me-menu__action-links" data-test-id="me-menu-action-links">
+<!---->
+<!---->
+            <div class="me-menu__action-link-group desktop-excluded tablet-excluded" data-test-id="me-menu-available-help-centers">
+              <h4 id="help-center-list-title" class="t-bold t-16 me-menu__section-header">
+                Get help with:
+              </h4>
+              <ul aria-labelledby="help-center-list-title">
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/linkedin?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      LinkedIn
+                    </a>
+                  </li>
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/billing?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      Corporate Billing
+                    </a>
+                  </li>
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/learning?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      Learning
+                    </a>
+                  </li>
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/lms?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      Marketing Solutions
+                    </a>
+                  </li>
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/recruiter?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      Recruiter
+                    </a>
+                  </li>
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/sales-insights?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      Sales Insights
+                    </a>
+                  </li>
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/sales-navigator?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      Sales Navigator
+                    </a>
+                  </li>
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/talent-hub?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      Talent Hub
+                    </a>
+                  </li>
+                  <li>
+                    <a class="me-menu__action-link t-14 " href="/help/talent-insights?trk=help_me_menu" rel="noopener nofollow" data-test-selector="help-center-option">
+                      Talent Insights
+                    </a>
+                  </li>
+              </ul>
+            </div>
+
+<!---->        </section>
+
+          <a class="artdeco-button artdeco-button--primary" href="https://www.linkedin.com/checkpoint/lg/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fhelp%2Flinkedin%2Fanswer%2Fa1347458%3Ftrk%3Dhomepage-basic_directory_salaryHomeUrl&amp;trk=help_me_menu" data-test-id="me-menu-sign-in">
+            Sign in
+          </a>
+      
+      </div>
+    </div>
+  
+  
+        <a class="site-navigation__sign-in artdeco-button artdeco-button--2 artdeco-button--secondary artdeco-button--inverse mobile-excluded" href="https://www.linkedin.com/checkpoint/lg/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fhelp%2Flinkedin%2Fanswer%2Fa1347458%3Ftrk%3Dhomepage-basic_directory_salaryHomeUrl" data-test-id="sign-in-button">Sign in</a>
+
+    </nav>
+  
+      </div>
+    </header>
+  
+        
+        <main role="main" tabindex="-1" id="a11y-main" class="layout layout--one-column" aria-label="Help content" data-inert-toggle-target="me-menu-inert-toggle-target">
+          
+        <div class="page-width-content error-page">
+          <span class="error-page__icon error-page__icon--blank" aria-hidden="true"></span>
+          <div class="error-page__content--mobile desktop-excluded tablet-excluded">
+            <h2 class="error-page__header t-20 t-20--open t-light">Sorry, we can’t find that page.</h2>
+            <p class="error-page__subheader t-14 t-light">You can visit the <a href="https://www.linkedin.com" class="link link--no-visited">LinkedIn home page</a>.</p>
+          </div>
+          <div class="error-page__content--desktop mobile-excluded ">
+            <h2 class="error-page__header t-40 t-40--open t-light">Sorry, we can’t find that page.</h2>
+            <p class="error-page__subheader t-24 t-light">You can visit the <a href="https://www.linkedin.com" class="link link--no-visited">LinkedIn home page</a>.</p>
+          </div>
+        </div>
+      
+        </main>
+      
+        
+      <div class="placeholder " id="toasts__wormhole" data-inert-toggle-target="me-menu-inert-toggle-target">
+        
+      </div>
+  
+          
+    
+    
+    
+    
+    
+
+    <footer class="global-footer" data-inert-toggle-target="me-menu-inert-toggle-target" data-component-selector="global-footer" data-test-id="global-footer" role="contentinfo">
+      <div class="global-footer__upper-row-wrapper">
+        <div class="page-width-content">
+          <ul class="global-footer__upper-row-items t-12 t-black">
+            
+  <li class="global-footer__upper-row-item global-footer__logo">
+    
+              <a class="global-footer__upper-row-item-link" href="https://www.linkedin.com">
+                <li-icon size="14dp" color="brand" tabindex="-1" aria-hidden="true" type="linkedin-logo"></li-icon>
+                <span class="visually-hidden">LinkedIn</span>
+              </a>
+            
+  </li>
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->          </ul>
+        </div>
+      </div>
+
+      <div class="global-footer__lower-row-wrapper">
+        <ul class="global-footer__lower-row-items t-12 t-black">
+          
+  <li class="global-footer__lower-row-item
+      
+      global-footer__lower-row-item--desktop-only">
+    
+            <span data-test-id="footer-copyright-desktop">
+              LinkedIn Corporation © 2024
+            </span>
+          
+  </li>
+
+          
+  <li class="global-footer__lower-row-item
+      
+      ">
+    
+            <a class="global-footer__lower-row-item-link" data-test-id="footer-about" target="_blank" rel="noopener" href="https://about.linkedin.com">
+              About
+            </a>
+          
+  </li>
+
+          
+  <li class="global-footer__lower-row-item
+      
+      ">
+    
+            <a class="global-footer__lower-row-item-link" data-test-id="footer-transparency" target="_blank" rel="noopener" href="https://safety.linkedin.com">
+              Transparency Center
+            </a>
+          
+  </li>
+
+          
+  <li class="global-footer__lower-row-item
+      
+      ">
+    
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <div class="dropdown__container privacy-dropdown">
+      <button class="dropdown__trigger privacy-dropdown__trigger plain-button t-12" data-test-selector="dropdown-trigger" aria-expanded="false" aria-controls="privacy-footer-menu">
+        
+      Privacy and Terms
+      <li-icon class="privacy-dropdown__caret-icon" size="small" tabindex="-1" aria-hidden="true" type="caret-filled-down-icon"></li-icon>
+    
+      </button>
+      <div class="dropdown__menu privacy-dropdown__menu dropdown__menu--up dropdown__menu--inverse" data-test-selector="dropdown-menu" aria-hidden="true" tabindex="-1" id="privacy-footer-menu" role="dialog" aria-label="Privacy and Terms menu" autofocus="true">
+        
+      
+  <a class="privacy-dropdown__link dropdown__menu-item t-14" data-test-selector="privacy-dropdown-item" target="_blank" rel="noopener" href="https://www.linkedin.com/legal/cookie-policy">
+    
+        Cookies
+      
+  </a>
+
+      
+  <a class="privacy-dropdown__link dropdown__menu-item t-14" data-test-selector="privacy-dropdown-item" target="_blank" rel="noopener" href="https://www.linkedin.com/legal/copyright-policy">
+    
+        Copyright
+      
+  </a>
+
+      
+  <a class="privacy-dropdown__link dropdown__menu-item t-14" data-test-selector="privacy-dropdown-item" target="_blank" rel="noopener" href="https://www.linkedin.com/legal/user-agreement">
+    
+        Terms
+      
+  </a>
+
+      
+  <a class="privacy-dropdown__link dropdown__menu-item t-14" data-test-selector="privacy-dropdown-item" target="_blank" rel="noopener" href="https://www.linkedin.com/legal/privacy-policy">
+    
+        Privacy
+      
+  </a>
+
+        
+  <a class="privacy-dropdown__link dropdown__menu-item t-14" data-test-selector="privacy-dropdown-item" target="_blank" rel="noopener" href="https://www.linkedin.com/psettings/guest-controls" data-test-id="privacy-dropdown-guest-controls">
+    
+          Guest controls
+        
+  </a>
+
+        
+  <a class="privacy-dropdown__link dropdown__menu-item t-14" data-test-selector="privacy-dropdown-item" target="_blank" rel="noopener" href="https://www.linkedin.com/legal/california-privacy-disclosure" data-test-id="privacy-dropdown-cpra-link">
+    
+          Your California Privacy Choices
+        
+  </a>
+
+      <button class="visually-hidden dropdown__menu-item-sr-nav-only" type="button">Dismiss Privacy and Terms menu</button>
+    
+      </div>
+    </div>
+  
+
+          
+  </li>
+
+          
+  <li class="global-footer__lower-row-item
+      global-footer__lower-row-item--standalone
+      ">
+    
+            <span data-test-id="footer-copyright">
+              LinkedIn Corporation © 2024
+            </span>
+          
+  </li>
+
+        </ul>
+      </div>
+
+    </footer>
+  
+
+<!---->
+<!---->      </body>
+    </html>
+  
+  
+  

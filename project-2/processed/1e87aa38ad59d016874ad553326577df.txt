@@ -1,0 +1,90 @@
+Notice for California Consumers
+Last revised December 12, 2022
+This notice describes the rights of Californians under the California Consumer Privacy Act of 2018, which was amended by the California Privacy Rights Act of 2020 (together, “CCPA”). The CCPA requires businesses like us to provide certain information to California consumers. We fully describe our practices to all our members and visitors in our Privacy Policy , but use this separate notice to ensure that we meet the CCPA’s requirements. This notice contains the following four parts:
+You Can Opt Out of Our Sharing Your Personal Information. We Do Not Sell Your Personal Information.
+Your CCPA Rights
+The CCPA Categories of Personal Information We Collect and the Sources
+The CCPA Categories of Personal Information We Disclose for a “Business Purpose”
+1. You Can Opt Out of Our Sharing Your Personal Information. We Do Not Sell Your Personal Information.
+If you are a LinkedIn member, click here to opt out of sharing . Guests can opt out by visiting guest controls . In addition to these controls, in the U.S. we will automatically opt you out of sharing if we receive a Global Privacy Control signal from you that reflects your choice to opt-out of sharing.
+The CCPA requires us to disclose if we share your personal information. We may share your personal information, including information about your visits to LinkedIn, with our partners in order to market LinkedIn’s services to you on other platforms. If you are a member, we may also share your personal information with Microsoft to personalize the ads you see when you use Microsoft services.
+We do not sell your personal information.
+2. Your Rights Under the CCPA
+The CCPA provides Californians with the following rights:
+2.1 Requests for Information
+Like all of our members, you (or your authorized agent) can request a copy of your personal information . Under the CCPA, you can also request that we disclose how we have collected, used, and disclosed your personal information over the past 12 months, including the categories of personal information we collected and our purposes for doing so; the categories of sources for that information; the categories of third parties with whom we shared it or disclosed it for a business purpose and our purposes for doing so. Companies that sell personal information (we do not) must make additional disclosures.
+If you are not a LinkedIn member, you can submit your request here .
+2.2 Your Right to Opt Out of Sales
+We do not sell personal information, so we don’t have an opt out.
+2.3 Your Right to Opt Out of Sharing
+Under the CCPA, you can opt out of the sharing of your personal information with third parties for cross-context behavioral advertising purposes. You can direct us not to share your personal information as described in Section 1.
+2.4 Your Right to Limit the Use of Sensitive Personal Information
+Under the CCPA, you can limit a business’s use and disclosure of your sensitive personal information to certain purposes specified by law (e.g., providing you with services you request or preventing fraud, or for other purposes that don’t involve deriving your attributes). We only use sensitive personal information for such permitted purposes, so we don’t have an opt-out.
+2.5 Your Right to Notification
+Under the CCPA, a business like LinkedIn cannot collect new categories of personal information or use them for materially different purposes without first notifying you.
+2.6 Nondiscrimination for Exercising Your CCPA Rights
+The CCPA prohibits businesses from discriminating against you for exercising your rights under the law. Such discrimination may include denying services, charging different prices or rates for services, providing a different level or quality of services, or suggesting that you will receive a different level or quality of goods or services as a result of exercising your rights.
+2.7 Your Right to Correct Inaccurate Personal Information
+Like all of our members, you can edit much of your personal information through your LinkedIn account (such as your profile information). You can also request that we correct inaccurate personal information .
+2.8 Your Right to Delete Personal Information
+Like all of our members, you can request that we delete your personal information by closing your LinkedIn account or by requesting that we delete specific information about you. We honor such requests unless an exception applies, such as when the information is necessary to complete the transaction or contract for which it was collected or when information is being used to detect, prevent, or investigate security incidents, comply with laws, identify and repair bugs, or ensure another consumer’s ability to exercise their free speech rights or other rights provided by law.
+2.9 LinkedIn Annual CCPA Metrics
+Please visit LinkedIn's CCPA Annual Metrics page to view metrics required by CCPA regulations for the past calendar year.
+2.10 Statement Regarding Selling or Sharing the Personal Information of Consumers Under Age 16
+CCPA regulations require us to state whether we have actual knowledge that we have sold or shared the personal information of consumers under 16 years of age. As stated in our user agreement , LinkedIn services are not for use by anyone under the age of 16. We do not knowingly provide services to anyone under the age of 16 nor do we have actual knowledge that we sell or share the personal information of consumers under 16 years of age.
+3. The CCPA Categories of Personal Information We Collect and the Sources
+Our Privacy Policy describes the information we collect and its sources. This notice organizes that description around the personal information categories set forth in the CCPA.
+CCPA Personal Information Categories and corresponding sources of this info.
+CCPA Personal Information Categories and corresponding sources of this info.
+CCPA Personal Information Category
+Sources of this Information
+Identifiers (e.g., real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers)
+Information you provide directly or through your interactions with our Services (as defined in our Privacy Policy ) or partners (as described in Sections 1.2 and 2.4 of our Privacy Policy )
+Vendors that provide information to help us serve members relevant ads and understand the ads’ effectiveness
+Information from other LinkedIn members or customers
+Characteristics of protected classifications under California or Federal law (e.g., your gender or age) (“Characteristics of Protected Classifications”)
+Information you provide to us directly and inferences we make based on that information
+Information from our customers
+Commercial information (e.g., information regarding products or services purchased, obtained, or considered)
+Information you provide to us directly, such as to buy a Premium service
+Your interactions with our Services
+Information from our partners and customers
+Internet or Other Electronic Network Activity Information (e.g., browsing history, search history, and information regarding your interactions with our Services)
+Your interactions with our Services
+Your visits to third party sites that offer our autofill, follow or “Apply with LinkedIn” functionality, as needed for fraud prevention and security purposes.
+If you are a member, your interactions with the services of partners and customers that use the LinkedIn Insight Tag or similar technologies
+Geolocation Data
+Information you provide to us directly or through your interactions with our Services, as explained in Section 1.5 of our Privacy Policy
+Professional or Employment-Related Information
+Information you provide to us directly
+Information from our customers, partners, or other members (e.g., if a connection endorses you)
+Inferences
+Information you provide to us directly or through your interactions with our Services
+Information from our customers and partners
+Personal information described in Cal. Civ. Code §1798.80(e)(such as name, address, telephone number, education, employment history, credit card or debit card number)
+Information you provide directly or through your interactions with our Services
+Information from our customers or partners
+Audio, electronic, visual or similar information
+Information you provide directly or through your interactions with our Services, customers, or partners
+Sensitive personal information, which may include:
+- Data generated when you communicate on our services (e.g., messages to other members)
+- Data used to secure your account (e.g., login information or proof of identification if you are unable to verify your account)
+- Data you add to your profile or submit via your settings, which may include information about your race or ethnicity
+Information you provide to us directly or through your interactions with our Services
+We use and retain this personal information for the purposes outlined in Sections 2 and 4.1 of our Privacy Policy . This means that we generally retain the types of personal information listed in the chart above as long as you keep your account open or as needed to provide you services.
+4. The CCPA Categories of Personal Information We “Share”
+While we do not sell your personal information, we may engage in “sharing” under the CCPA, which broadly defines this term as disclosing personal information for purposes of cross-context behavioral advertising, which is defined to include instances where companies target advertising based on personal information obtained from a consumer’s activity across distinctly-branded websites or services. LinkedIn’s practices and the categories of data we share are described in Section 1. We do not share sensitive personal information.
+As described above, LinkedIn members can opt out of “sharing” by visiting member settings here , and guests can opt out by using guest controls . We will automatically opt you out of sharing if we receive a Global Privacy Control signal from you that reflects your choice to opt-out of sharing.
+5. The CCPA Categories of Personal Information We Disclose for a “Business Purpose”
+The CCPA requires us to describe the “business purposes” for which we may disclose your personal information. As described in our Privacy Policy, we may disclose your personal information to support our own operational purposes in providing our Services to you. In addition, we may disclose personal information at your direction, such as when you choose to communicate with other members through our Services.
+5.1 Auditing Interactions
+We may disclose the types of personal information listed in Section 3 with partners, service providers and related companies, in order to audit interactions and transactions, such as to count or verify the positioning and quality of ad impressions.
+5.2 Security and Integrity
+In order to secure our Services, including to detect, prevent, and investigate security incidents or violations of our Professional Community Policies or applicable laws, we may disclose the types of personal information listed in Section 3 with our partners, service providers, law enforcement, and related companies.
+5.3 Service Improvements
+In order to improve our Services (such as to identify bugs, repair errors, or ensure that services function as intended) or conduct internal research and analysis to improve our technology, we may disclose the types of personal information listed in Section 3 with our partners, service providers, and related companies.
+5.4 Service Providers and Other Notified Purposes
+We may disclose the types of personal information listed in Section 3 with Service Providers, as defined by the CCPA, in order to have them perform services specified by a written contract or with others for a notified purpose permitted by the CCPA (e.g., to respond to law enforcement requests).
+5.5 Marketing and Advertising
+Except as noted above, we may disclose the types of personal information listed in Section 3 with our partners, service providers, and related companies, in order for them to provide marketing and advertising services on our behalf as permitted by the CCPA (e.g., sending you communications).
+LinkedIn

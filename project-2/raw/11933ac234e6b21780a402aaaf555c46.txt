@@ -1,0 +1,1271 @@
+<!DOCTYPE html>
+
+    
+    <html lang="en">
+      <head>
+        <meta name="pageKey" content="d_products_marketplace_guest_product_categories_serp_page">
+<!---->        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="0.0.958" data-call-tree-id="AAYjLPiUlocy1hyomodH4A==" data-multiproduct-name="marketplaces-guest-frontend" data-service-name="marketplaces-guest-frontend" data-browser-id="50f3d72b-1950-4f52-88f8-e55fed167bd9" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_products_marketplace_guest_product_categories_serp_page;BxkhccFkRti9FQUCghcTFw==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-logout-url="/uas/logout">
+
+        <link rel="canonical" href="https://www.linkedin.com/products/categories/help-desk-software">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
+
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        <title>Best Help Desk Software | Products | LinkedIn</title>
+        <meta name="description" content="Discover top products in Help Desk Software, trusted by LinkedIn, the world’s largest professional network">
+
+        <meta property="og:title" content="Best Help Desk Software | Products | LinkedIn">
+        <meta property="og:description" content="Discover top products in Help Desk Software, trusted by LinkedIn, the world’s largest professional network">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.linkedin.com/products/categories/help-desk-software">
+        <meta property="og:image" content="https://static.licdn.com/aero-v1/sc/h/2tlbmif5mv1o8m84bkv29l34h">
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@linkedin">
+        <meta name="twitter:title" content="Best Help Desk Software | Products | LinkedIn">
+        <meta name="twitter:description" content="Discover top products in Help Desk Software, trusted by LinkedIn, the world’s largest professional network">
+        <meta name="twitter:image" content="https://static.licdn.com/aero-v1/sc/h/2tlbmif5mv1o8m84bkv29l34h">
+
+        <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/services/api/ingraphs/gauge" data-counter-metric-endpoint="/services/api/ingraphs/counter">
+          <meta name="robots" content="noarchive">
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/2iqj6svatd0g270dube6nkbfv">
+      
+<!---->      </head>
+      <body dir="ltr">
+<!----><!----><!---->
+        
+        <div class="products-serp-layout">
+          
+    
+    
+    
+    
+    
+    
+    
+
+
+<!---->
+    
+    
+    <div class="base-serp-page">
+        
+    
+
+    <a href="#main-content" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
+      Skip to main content
+    </a>
+  
+      <header class="base-serp-page__header global-alert-offset">
+          
+
+    
+    
+    
+
+    <nav class="nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap babybear:flex-wrap babybear:py-1.5
+        " aria-label="Primary">
+
+<!---->
+      <a href="/?trk=products_seo_search_nav-header-logo" class="nav__logo-link link-no-visited-state z-1 mr-auto babybear:z-0 babybear:mr-0 babybear:flex-1 hover:no-underline focus:no-underline active:no-underline
+          " data-tracking-control-name="products_seo_search_nav-header-logo" data-tracking-will-navigate>
+          
+                
+          
+    
+    <span class="sr-only">LinkedIn</span>
+<!---->      <icon class="block text-color-brand w-[84px] h-[21px] papabear:w-[135px] papabear:h-[34px]
+          " data-test-id="nav-logo" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb"></icon>
+  
+      
+            
+      </a>
+
+        
+
+    
+    
+    
+    
+
+    <section class="search-bar relative flex flex-grow h-[40px] bg-cool-gray-20 min-w-0 max-w-full mx-4 rounded-sm babybear:mx-0 babybear:mb-1.5 babybear:bg-color-transparent babybear:w-full babybear:flex babybear:flex-wrap
+        " data-current-search-type="JOBS">
+      <button class="search-bar__placeholder papabear:hidden mamabear:hidden text-input w-full mt-1.5 !pl-[14px] border-1 border-solid border-color-border-faint rounded-[2px] h-[40px] max-h-[40px] flex items-center overflow-hidden cursor-text" data-tracking-control-name="products_seo_search_search-switcher-opener">
+        <icon class="text-color-icon w-3 h-3 mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/397vrsk6op88l4981ji1xe1qt"></icon>
+        <div class="search-bar__full-placeholder font-sans text-md text-color-text max-w-[calc(100%-40px)] text-left whitespace-nowrap overflow-hidden text-ellipsis">
+<!----><!----><!---->        </div>
+        <span class="sr-only">Expand search</span>
+      </button>
+      
+      
+        
+
+    
+    
+    
+    
+
+    <div class="switcher-tabs__trigger-and-tabs babybear:flex">
+        <button aria-expanded="false" class="switcher-tabs__placeholder flex !h-full !py-0 !pl-2 !pr-1.5 border-r-1 border-solid border-r-color-border-faint babybear:hidden
+            tab-md papabear:tab-vertical mamabear:tab-vertical papabear:justify-start mamabear:justify-start cursor-pointer" data-tracking-control-name="products_seo_search_switcher-tabs-placeholder">
+          <span class="switcher-tabs__placeholder-text m-auto"></span>
+          <icon class="switcher-tabs__caret-down-filled onload pointer-events-none block my-auto min-h-[24px] min-w-[24px] h-[24px] babybear:hidden" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv"></icon>
+        </button>
+
+        <div class="switcher-tabs hidden z-[1] w-auto min-w-[160px] mb-1.5 py-1 absolute top-[48px] left-0 border-solid border-1 border-color-border-faint papabear:container-raised mamabear:container-raised babybear:static babybear:w-[100vw] babybear:h-[48px] babybear:p-0">
+          <ul class="switcher-tabs__list flex flex-1 items-stretch papabear:flex-col mamabear:flex-col" role="tablist">
+              <li class="switcher-tabs__tab h-[44px] babybear:basis-1/2" aria-selected="true" role="tab">
+                <button class="switcher-tabs__button w-full h-full
+                    tab-md papabear:tab-vertical mamabear:tab-vertical papabear:justify-start mamabear:justify-start cursor-pointer
+                    tab-selected" data-switcher-type="JOBS" data-tracking-control-name="products_seo_search_switcher-tabs-jobs-search-switcher" type="button">
+                  Jobs
+                </button>
+              </li>
+              <li class="switcher-tabs__tab h-[44px] babybear:basis-1/2" aria-selected="false" role="tab">
+                <button class="switcher-tabs__button w-full h-full
+                    tab-md papabear:tab-vertical mamabear:tab-vertical papabear:justify-start mamabear:justify-start cursor-pointer
+                    " data-switcher-type="PEOPLE" data-tracking-control-name="products_seo_search_switcher-tabs-people-search-switcher" type="button">
+                  People
+                </button>
+              </li>
+              <li class="switcher-tabs__tab h-[44px] babybear:basis-1/2" aria-selected="false" role="tab">
+                <button class="switcher-tabs__button w-full h-full
+                    tab-md papabear:tab-vertical mamabear:tab-vertical papabear:justify-start mamabear:justify-start cursor-pointer
+                    " data-switcher-type="LEARNING" data-tracking-control-name="products_seo_search_switcher-tabs-learning-search-switcher" type="button">
+                  Learning
+                </button>
+              </li>
+          </ul>
+
+          <button aria-label="Close" class="switcher-tabs__cancel-btn papabear:hidden mamabear:hidden block w-6 h-6 m-auto text-color-text-low-emphasis" data-tracking-control-name="products_seo_search_switcher-tabs-cancel-search-switcher" type="button">
+            <icon class="switcher-tabs__cancel-icon block w-3 h-3 m-auto onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+          </button>
+        </div>
+    </div>
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="PEOPLE">
+      <form class="base-search-bar__form w-full flex babybear:mx-mobile-container-padding babybear:flex-col" role="search" action="/pub/dir" data-tracking-control-name="products_seo_search_people-search-bar_base-search-bar-form">
+        
+          
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="First Name" name="firstName" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="First Name" autocomplete="on" data-tracking-control-name="products_seo_search_people-search-bar_first-name_dismissable-input" maxlength="500" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_people-search-bar_first-name_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+          
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="Last Name" name="lastName" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Last Name" autocomplete="on" data-tracking-control-name="products_seo_search_people-search-bar_last-name_dismissable-input" maxlength="500" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_people-search-bar_last-name_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+      
+        <input name="trk" value="products_seo_search_people-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babybear:invisible babybear:ml-[-9999px] babybear:w-[1px] babybear:h-[1px]" aria-label="Search" data-tracking-control-name="products_seo_search_people-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="JOBS">
+      <form class="base-search-bar__form w-full flex babybear:mx-mobile-container-padding babybear:flex-col" role="search" action="/jobs/search" data-tracking-control-name="products_seo_search_jobs-search-bar_base-search-bar-form">
+        
+        
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input keywords-typeahead-input text-input">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-keywords-typeahead-list" aria-haspopup="listbox" aria-label="Search job titles or companies" name="keywords" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Search job titles or companies" autocomplete="off" data-tracking-control-name="products_seo_search_dismissable-input" maxlength="500" role="combobox" type="search">
+      
+<!---->      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-tint" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="job-search-bar-keywords-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+<!---->        
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input location-typeahead-input">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-location-typeahead-list" aria-haspopup="listbox" aria-label="Location" name="location" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Location" autocomplete="off" data-tracking-control-name="products_seo_search_dismissable-input" maxlength="500" role="combobox" type="search">
+      
+<!---->      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-tint" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="job-search-bar-location-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        <input name="geoId" type="hidden">
+      
+        <input name="trk" value="products_seo_search_jobs-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babybear:invisible babybear:ml-[-9999px] babybear:w-[1px] babybear:h-[1px]" aria-label="Search" data-tracking-control-name="products_seo_search_jobs-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="LEARNING">
+      <form class="base-search-bar__form w-full flex babybear:mx-mobile-container-padding babybear:flex-col" role="search" action="/learning/search" data-tracking-control-name="products_seo_search_learning-search-bar_base-search-bar-form">
+        
+        
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="Search skills, subjects, or software" name="keywords" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Search skills, subjects, or software" autocomplete="on" data-tracking-control-name="products_seo_search_learning-search-bar_keywords_dismissable-input" maxlength="500" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_learning-search-bar_keywords_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        <input class="nav__search-uoo" name="upsellOrderOrigin" type="hidden">
+        
+      
+        <input name="trk" value="products_seo_search_learning-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babybear:invisible babybear:ml-[-9999px] babybear:w-[1px] babybear:h-[1px]" aria-label="Search" data-tracking-control-name="products_seo_search_learning-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+        <div aria-live="polite" class="search-bar__live-text sr-only" role="status"></div>
+      
+  
+    </section>
+  
+
+<!---->
+      <div class="nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2
+          ">
+          
+    
+    <a class="nav__button-tertiary btn-md btn-tertiary" href="https://www.linkedin.com/signup/cold-join?session_redirect=%2Fservices%2Fproducts%2Fcategories%2Fhelp-desk-software&amp;trk=products_seo_search_nav-header-join" data-tracking-control-name="products_seo_search_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate>
+      Join now
+    </a>
+
+
+            
+      
+      <a class="nav__button-secondary btn-md btn-secondary-emphasis" href="https://www.linkedin.com/uas/login?session_redirect=%2Fservices%2Fproducts%2Fcategories%2Fhelp-desk-software&amp;fromSignIn=true&amp;trk=products_seo_search_nav-header-signin" data-tracking-control-name="products_seo_search_nav-header-signin" data-tracking-will-navigate>
+        Sign in
+      </a>
+
+
+<!---->      </div>
+
+<!---->
+<!---->    </nav>
+  
+      </header>
+
+<!---->
+      
+        
+        <div class="products-serp-layout__top-section">
+          <div class="products-serp-layout__top-filters">
+            
+    
+    
+    
+
+    
+    <div class="single-search-bar products-serp-layout__search-bar product-search-bar" data-current-search-type="PRODUCTS" data-products-search-bar>
+      
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="PRODUCTS">
+      <form class="base-search-bar__form w-full flex babybear:mx-mobile-container-padding babybear:flex-col" role="search" action="#" data-tracking-control-name="products_seo_search_products_base-search-bar-form">
+        
+<!---->
+          
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input keywords-typeahead-input">
+      <input aria-autocomplete="list" aria-controls="PRODUCTS-search-bar-typeahead-list" aria-haspopup="listbox" aria-label="Search products by name or category" name="PRODUCTS" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none" placeholder="Search products by name or category" autocomplete="off" data-tracking-control-name="products_seo_search_products_dismissable-input" maxlength="500" role="combobox" type="search">
+      
+        <div aria-live="polite" class="typeahead-live-text sr-only" role="status"></div>
+      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-tint" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="PRODUCTS-search-bar-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="products_seo_search_products_dismissable-input-clear" type="button">
+          <label class="sr-only">Dismiss</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        
+        <input name="trk" value="products_seo_search_products_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babybear:invisible babybear:ml-[-9999px] babybear:w-[1px] babybear:h-[1px]" aria-label="Search" data-tracking-control-name="products_seo_search_products_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+    </div>
+  
+
+    <code id="productSearchCategoryTitle" style="display: none"><!--{"str":"Categories"}--></code>
+
+    <code id="productSearchProductTitle" style="display: none"><!--{"str":"Products"}--></code>
+  
+            
+    
+    
+    
+    
+    
+
+    <form class="top-filters">
+      <ul class="top-filters__list">
+<!---->            <li class="top-filters__item">
+              
+    
+    
+
+    <div class="filter-dropdown" data-facet-name="role">
+      
+    <button id="roleFacets_dropdown-btn" class="filter-button__button  filter-dropdown__button" aria-expanded="false" aria-controls="roleFacets_dropdown" data-tracking-control-name="products_seo_search_dropdown_btn" type="button">
+      Used by
+<!---->
+      <icon class="filter-button__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv"></icon>
+    </button>
+  
+
+      <div id="roleFacets_dropdown" class="filter-dropdown__dropdown">
+        <fieldset>
+          <legend class="sr-only">Used by</legend>
+          
+    
+
+    <div class="filter-list">
+      
+<!---->            
+      <template class="filter-list__item-template">
+        <li class="filter-list__list-item">
+          <input name="_R" type="checkbox">
+          <label></label>
+        </li>
+      </template>
+      <ul class="filter-list__list filter-dropdown__list hidden" tabindex="-1">
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:99" name="_R" value="urn:li:title:99" type="checkbox">
+            <label for="urn:li:title:99">
+              Customer Service Representative (25)
+            </label>
+          </li>
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:123" name="_R" value="urn:li:title:123" type="checkbox">
+            <label for="urn:li:title:123">
+              Customer Service Specialist (20)
+            </label>
+          </li>
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:361" name="_R" value="urn:li:title:361" type="checkbox">
+            <label for="urn:li:title:361">
+              Customer Support Specialist (18)
+            </label>
+          </li>
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:199" name="_R" value="urn:li:title:199" type="checkbox">
+            <label for="urn:li:title:199">
+              Customer Service Manager (13)
+            </label>
+          </li>
+          <li class="filter-list__list-item">
+            <input id="urn:li:title:12482" name="_R" value="urn:li:title:12482" type="checkbox">
+            <label for="urn:li:title:12482">
+              Customer Service Support Manager (10)
+            </label>
+          </li>
+        <li class="filter-list__list-item">
+          <input class="filter-list__action filter-list__action--apply" value="Done" data-tracking-control-name="products_seo_search_filter_dropdown_apply_btn" type="button">
+        </li>
+      </ul>
+    </div>
+  
+        </fieldset>
+      </div>
+    </div>
+  
+            </li>
+<!---->        <li class="top-filters__item">
+          <a class="top-filters__item--clear top-filters__link-button" href="/products/search/?q&amp;trk=products_seo_search" aria-label="See all products" data-tracking-control-name="products_seo_search_see_all_products_link" data-tracking-will-navigate>
+            See all products
+          </a>
+        </li>
+      </ul>
+    </form>
+  
+          </div>
+          <section class="products-serp-layout__hero" data-impression-id="products-guest-search-hero">
+              
+    <div class="serp-hero">
+      <div class="serp-hero__text-container">
+        <h1 class="serp-hero__title">
+          Find top products in Help Desk Software category
+        </h1>
+          <p class="serp-hero__subtitle t-16 t-black--light">
+            Software used to provide customers with information about a company's products or services.
+- Receive inquiries through channels such as email, phone, text, or social media
+- Organize ticketing system for support assignments and timely response
+- Provide self-service through site portals and features like auto messaging and virtual assistants
+          </p>
+          <p class="serp-hero__results-title t-16 t-bold t-black--light">
+            197 results
+          </p>
+<!---->      </div>
+      <div class="serp-hero__image-container">
+        <img class="serp-hero__image onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/di2kzk7mfpka0hbydu9s1y7ft" alt="Person working in front of a computer">
+      </div>
+    </div>
+  
+          </section>
+        </div>
+      
+      
+
+      <div class="base-serp-page__content">
+        
+        <main id="main-content" class="serp-page__results" role="main">
+<!---->
+            <section class="serp-page__results-list">
+<!---->              
+          <ul data-product-cards-list class>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/salesforce-service-cloud/?trk=products_seo_search" aria-label="View Service Cloud" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4D33AQHhqfrRn7e3Ew/productpage-logo-image_100_100/productpage-logo-image_100_100/0/1698899083260/salesforce_service_cloud_logo?e=2147483647&amp;v=beta&amp;t=XvPY8VkqezlV7F0n97xwrg0P5QytF1tPi44TPWFWVkU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Service Cloud’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/salesforce-service-cloud/?trk=products_seo_search" aria-label="View Service Cloud" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Service Cloud</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/salesforce?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Salesforce</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/salesforce-service-cloud/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Transform how service teams deliver value across every customer touchpoint — from customer experience, engagement, processes, automation, and service operations. Grow customer lifetime value, reduce costs, and maximize efficiency when you reimagine service with Service Cloud, from the contact center to the field.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/salesforce-service-cloud/?trk=products_seo_search" aria-label="View Service Cloud" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/freshworks-inc-freshdesk/?trk=products_seo_search" aria-label="View Freshdesk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D5633AQHfd2UDPpQJtA/productpage-logo-image_100_100/productpage-logo-image_100_100/0/1666841518223/freshworks_inc_freshdesk_logo?e=2147483647&amp;v=beta&amp;t=tSbMcSfA-soJiJIV49w2eken98DVq0OTbW51JWQF_20" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Freshdesk’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/freshworks-inc-freshdesk/?trk=products_seo_search" aria-label="View Freshdesk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Freshdesk</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/freshworks-inc?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Freshworks</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/freshworks-inc-freshdesk/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Freshdesk is an intuitive and cost-effective customer helpdesk software built for B2B companies that help businesses delight their customers effortlessly.
+
+Our solution helps you provide highly personalized service by proactively anticipating customer needs to solve customer inquiries faster. With our robust ticketing platform, you can delight your customers effortlessly while keeping your agents happy.
+
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/freshworks-inc-freshdesk/?trk=products_seo_search" aria-label="View Freshdesk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/zohocorp-zoho-desk/?trk=products_seo_search" aria-label="View Zoho Desk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5633AQHyUBc4fxha4A/productpage-logo-image_100_100/productpage-logo-image_100_100/0/1680082552097/zohocorp_zoho_desk_logo?e=2147483647&amp;v=beta&amp;t=Ex89YH1vq6-jY3DDxIymAeVAgHbBSvvPAMjDq-ZTCSQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Zoho Desk’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/zohocorp-zoho-desk/?trk=products_seo_search" aria-label="View Zoho Desk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Zoho Desk</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/zoho?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Zoho</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/zohocorp-zoho-desk/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Zoho Desk is context-aware help desk software that helps businesses of all sizes provide proactive and well informed customer support. Combine effective ticket management with easy collaboration tools, granular metric reports, powerful automation, robust self-service, sentiment analysis, and much more to boost agent productivity and deliver positive customer experiences. Over 40,000 businesses globally trust Zoho Desk to enable them to deliver exceptional service and create loyal customers.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/zohocorp-zoho-desk/?trk=products_seo_search" aria-label="View Zoho Desk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/freshworks-inc-freshworks-customer-service-suite/?trk=products_seo_search" aria-label="View Freshworks Customer Service Suite" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D5633AQFfnV-81Kntfw/productpage-logo-image_100_100/productpage-logo-image_100_100/0/1697625376569/freshworks_inc_customer_service_suite_logo?e=2147483647&amp;v=beta&amp;t=yKPsvrMPBrt045-mB858EkLD4-sKFCEW8M2ePxgyFMQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Freshworks Customer Service Suite’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/freshworks-inc-freshworks-customer-service-suite/?trk=products_seo_search" aria-label="View Freshworks Customer Service Suite" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Freshworks Customer Service Suite</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/freshworks-inc?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Freshworks</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/freshworks-inc-freshworks-customer-service-suite/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Freshworks Customer Service Suite is a bundled offering that integrates Freshchat's conversational AI interface and chatbots with Freshdesk's advanced ticketing and collaboration features. The powerful solution empowers businesses to deliver exceptional customer support while providing the option to add on additional capabilities like Freshcaller, Freshbots, and Freddy Copilot.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/freshworks-inc-freshworks-customer-service-suite/?trk=products_seo_search" aria-label="View Freshworks Customer Service Suite" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/zendesk/?trk=products_seo_search" aria-label="View Zendesk Suite" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQGMK6CgDnRnbQ/company-logo_100_100/company-logo_100_100/0/1656690074643/zendesk_logo?e=2147483647&amp;v=beta&amp;t=909wknjHWz-siUrZnsHs5RTnxN_s1-8olck3DXAvuE8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Zendesk Suite’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/zendesk/?trk=products_seo_search" aria-label="View Zendesk Suite" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Zendesk Suite</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/zendesk?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Zendesk</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/zendesk/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Your complete solution for ticketing, messaging, help center, voice, and powerful AI. Deliver conversational experiences across any channel with a complete service solution that is easy to use, and powerful at scale.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/zendesk/?trk=products_seo_search" aria-label="View Zendesk Suite" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+                <li class="products-serp-layout__insight">
+                  
+    <div class="insights-card">
+      <icon class="insights-card__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1iwnqbpcmxhny1818u5cjmign">
+      </icon>
+      <div class="insights-card__text-content">
+        <h3 class="insights-card__title">Find products trusted by professionals in your network</h3>
+        <p class="insights-card__body">
+          See which products are used by connections in your network and those that share similar job titles
+          <a class="insights-card__link" href="https://www.linkedin.com/signup/cold-join?session_redirect=%2Fservices%2Fproducts%2Fcategories%2Fhelp-desk-software&amp;trk=products_seo_search_insights_sign_in" data-tracking-control-name="products_seo_search_insights_sign_in" data-tracking-will-navigate>
+            Sign in to view full insights
+          </a>
+        </p>
+      </div>
+    </div>
+  
+                </li>
+              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/zendesk-for-employee-experience/?trk=products_seo_search" aria-label="View Zendesk for Employee Experience" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQH_bC13eyDqjw/company-logo_100_100/company-logo_100_100/0/1684356295421/zendesk_logo?e=2147483647&amp;v=beta&amp;t=w6vh07kTKA91c64ELehbqv7PXy7evnbswb2OTjBxlRo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Zendesk for Employee Experience’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/zendesk-for-employee-experience/?trk=products_seo_search" aria-label="View Zendesk for Employee Experience" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Zendesk for Employee Experience</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/zendesk?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Zendesk</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/zendesk-for-employee-experience/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Zendesk for Employee Experience empowers HR and IT leaders to provide the smart, flexible internal service experiences that they need to unlock their employees’ potential &amp; transform their business.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/zendesk-for-employee-experience/?trk=products_seo_search" aria-label="View Zendesk for Employee Experience" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/intercom/?trk=products_seo_search" aria-label="View Intercom" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQG7zHCnyvBV0A/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630609686605/intercom_logo?e=2147483647&amp;v=beta&amp;t=8dj8mSfaJk0mg0wEruxNmbcJsB5cm1tC8Vp8pjcWuUs" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Intercom’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/intercom/?trk=products_seo_search" aria-label="View Intercom" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Intercom</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/intercom?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Intercom</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/intercom/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Now, you can deliver world-class support at any scale. It's all possible with our industry-leading Business Messenger and the new Conversational Support Funnel.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/intercom/?trk=products_seo_search" aria-label="View Intercom" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/front-app/?trk=products_seo_search" aria-label="View Front" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQGiQfkuwHBVqg/company-logo_100_100/company-logo_100_100/0/1630666108025/front_app_logo?e=2147483647&amp;v=beta&amp;t=GU8qAyaCXJgGbv3VRcG8jX3kXWBgZBvClhBydXHYcOY" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Front’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/front-app/?trk=products_seo_search" aria-label="View Front" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Front</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/fronthq?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Front</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/front-app/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Front is a customer operations platform for streamlining communication and delivering exceptional service at scale. 
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/front-app/?trk=products_seo_search" aria-label="View Front" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/hiverhq-hiver/?trk=products_seo_search" aria-label="View Hiver" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEGdh0Kee5dqw/company-logo_100_100/company-logo_100_100/0/1673342131168/hiverhq_logo?e=2147483647&amp;v=beta&amp;t=Y2rMK8aR30gi6xwX2aSXJzaDfrKhzo-xOBIV1MpPMHo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="Hiver’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/hiverhq-hiver/?trk=products_seo_search" aria-label="View Hiver" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">Hiver</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/hiverhq?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Hiver</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/hiverhq-hiver/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                Hiver is a Gmail-based customer service solution that helps teams across the organization collaborate on shared inboxes like services@, orders@, support@. 
+
+It’s the most frictionless, natural way for teams to handle customer email communication as it works right inside Gmail. 
+
+We're great for teams that want to manage customer communication right from their Gmail and Google Apps accounts.
+
+Hiver is really simple to use, and yet very powerful. Most teams learn how to use it with zero or very little help, and within minutes.
+
+Hiver helps over 1500 companies - ranging from new-age unicorns to traditional enterprises - deliver a better experience to their customers. Companies like Canva, Lonely Planet, Flexport, Pluralsight, Oxford Business Group, and Upwork, among others, are powered by Hiver.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/hiverhq-hiver/?trk=products_seo_search" aria-label="View Hiver" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+<!---->              <li>
+                
+    
+    
+    
+    
+    
+    
+
+    <div class="product-serp-card">
+      <div class="product-serp-card__info">
+        <a class="product-serp-card__image-container" href="/products/syncfusion-bolddesk/?trk=products_seo_search" aria-label="View BoldDesk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5633AQG1q6XWVrz7fw/productpage-logo-image_100_100/productpage-logo-image_100_100/0/1652790679429/syncfusion_bolddesk_logo?e=2147483647&amp;v=beta&amp;t=UXjJsoiQOfr1CR-MvM-YGJjreMecE_VzHhjf-G10D8k" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e" alt="BoldDesk’s product picture">
+  
+        </a>
+        <div class="product-serp-card__content">
+          <h3>
+            <a class="link-without-visisted-state" href="/products/syncfusion-bolddesk/?trk=products_seo_search" aria-label="View BoldDesk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <span class="t-16 t-black">BoldDesk</span>
+            </a>
+          </h3>
+            <h4 class="t-14">
+              Help Desk Software by <a href="/company/syncfusion?trk=products_seo_search" target="_blank" data-tracking-control-name="products_seo_search_view_company_link" data-tracking-will-navigate="true" class="t-black t-bold">Syncfusion</a>
+            </h4>
+            <a class="product-serp-card__description" href="/products/syncfusion-bolddesk/?trk=products_seo_search" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_product">
+              <p class="t-14 t-black--light">
+                BoldDesk is cloud-based, modern ticketing software for managing support email, collaborating with teammates, automating repetitive tasks, and improving customer experience.
+              </p>
+            </a>
+        </div>
+      </div>
+      <div class="product-serp-card__cta-container">
+        <a class="product-serp-card__cta" href="/products/syncfusion-bolddesk/?trk=products_seo_search" aria-label="View BoldDesk" target="_blank" data-tracking-will-navigate data-tracking-control-name="products_seo_search_view_more_cta">
+          <span>View product</span>
+        </a>
+      </div>
+    </div>
+  
+              </li>
+          </ul>
+            <section class="products-serp-layout__see-more-container ">
+              
+    <div class="loader hidden">
+      <div class="loader__container mb-2 overflow-hidden">
+        <icon class="loader__icon inline-block loader__icon--default text-color-progress-loading" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1" data-svg-class-name="loader__icon-svg--small fill-currentColor h-[30px] min-h-[30px] w-[30px] min-w-[30px]"></icon>
+      </div>
+    </div>
+  
+              <button class="products-serp-layout__see-more t-16" data-tracking-control-name="products_seo_search_see_more" data-tracking-will-navigate type="button">
+                See more
+              </button>
+            </section>
+      
+            </section>
+        </main>
+          <aside class="serp-page__aside">
+            
+        <div class="products-serp-layout__aside">
+          
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="how-it-works">
+      <h3 class="t-24">How it works</h3>
+      <ul class="how-it-works__items-list">
+        <li class="how-it-works__item">
+          <div class="how-it-works__icon-wrapper">
+            <icon class="how-it-works__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/6l9w5f9bvl4sb46z759ytgh3p"></icon>
+          </div>
+          <div>
+            <h4 class="t-16">Explore</h4>
+            <p class="t-14 t-black--light">Discover the best product for your need from a growing catalog of 25,000 products and categories trusted by LinkedIn professionals</p>
+          </div>
+        </li>
+        <li class="how-it-works__item">
+          <div class="how-it-works__icon-wrapper">
+            <icon class="how-it-works__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/d4pdkz7ay1y8u5fq9oqh43abj"></icon>
+          </div>
+          <div>
+            <h4 class="t-16">Learn</h4>
+            <p class="t-14 t-black--light">Evaluate new tools, explore trending products in your industry and see who in your network is skilled in the product</p>
+          </div>
+        </li>
+        <li class="how-it-works__item">
+          <div class="how-it-works__icon-wrapper">
+            <icon class="how-it-works__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/shy1lg9d921zoz7bz6ui73i2"></icon>
+          </div>
+          <div>
+            <h4 class="t-16">Grow</h4>
+            <p class="t-14 t-black--light">Join communities of product users to learn best practices, celebrate your progress and accelerate your career</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  
+        </div>
+      
+          </aside>
+      
+      </div>
+
+      
+        
+      
+
+      
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer bg-transparent w-full ">
+      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:w-[1128px] papabear:p-0">
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/e12h2cd8ac580qen9qdd0qks8"></icon>
+          <span class="li-footer__copy-text flex items-center">&copy; 2024</span>
+        
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=products_seo_search_footer-about" data-tracking-control-name="products_seo_search_footer-about" data-tracking-will-navigate>
+          
+          About
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=products_seo_search_footer-accessibility" data-tracking-control-name="products_seo_search_footer-accessibility" data-tracking-will-navigate>
+          
+          Accessibility
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=products_seo_search_footer-user-agreement" data-tracking-control-name="products_seo_search_footer-user-agreement" data-tracking-will-navigate>
+          
+          User Agreement
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=products_seo_search_footer-privacy-policy" data-tracking-control-name="products_seo_search_footer-privacy-policy" data-tracking-will-navigate>
+          
+          Privacy Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/california-privacy-disclosure?trk=products_seo_search_footer-california-privacy-rights-act" data-tracking-control-name="products_seo_search_footer-california-privacy-rights-act" data-tracking-will-navigate>
+          
+            Your California Privacy Choices
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=products_seo_search_footer-cookie-policy" data-tracking-control-name="products_seo_search_footer-cookie-policy" data-tracking-will-navigate>
+          
+          Cookie Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=products_seo_search_footer-copyright-policy" data-tracking-control-name="products_seo_search_footer-copyright-policy" data-tracking-will-navigate>
+          
+          Copyright Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=products_seo_search_footer-brand-policy" data-tracking-control-name="products_seo_search_footer-brand-policy" data-tracking-will-navigate>
+          
+          Brand Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=products_seo_search_footer-guest-controls" data-tracking-control-name="products_seo_search_footer-guest-controls" data-tracking-will-navigate>
+          
+            Guest Controls
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/professional-community-policies?trk=products_seo_search_footer-community-guide" data-tracking-control-name="products_seo_search_footer-community-guide" data-tracking-will-navigate>
+          
+          Community Guidelines
+        
+        </a>
+  </li>
+
+        
+<!---->
+          
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
+<!---->
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-[100%] top-auto" role="menu" tabindex="-1">
+          
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English selected" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link--selected" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                <strong>English</strong>
+            </button>
+          </li>
+      
+        </ul>
+
+          
+        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+          <span class="language-selector__label-text mr-0.5 break-words">
+            Language
+          </span>
+          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+        </button>
+      
+    </div>
+  
+  
+          
+  </li>
+
+      </ul>
+
+<!---->    </footer>
+  
+    </div>
+  
+  
+  
+        </div>
+        <code id="filterValues" style="display: none"><!--{"startIndex":10,"keyword":"","productCategoryUrns":["urn:li:standardizedProductCategory:1192"],"titleUrns":[],"currentCategoryUrn":"urn:li:standardizedProductCategory:1192"}--></code>
+        <code id="resultsTotal" style="display: none"><!--197--></code>
+        <code id="isLoggedIn" style="display: none"><!--false--></code>
+        <code id="trackingPrefix" style="display: none"><!--"products_seo_search"--></code>
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/b3bkcytad1iwoflflnaq71col" async></script>
+          
+        <script src="https://static.licdn.com/aero-v1/sc/h/46szc6gaahr64r13frechi941" async defer></script>
+      
+      </body>
+    </html>
+  
+  

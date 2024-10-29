@@ -1,0 +1,905 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <title>Stanford | Faculty Positions</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="//cdn.stanford.edu/facultypositions/latest/icons/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+    <link href="//cdn.stanford.edu/facultypositions/latest/icons/apple-touch-icon.png" rel="apple-touch-icon" /> <link href="https://careers-static.pageuppeople.com/jobs-shared-010005202249131221250017020413143166133192.css" rel="stylesheet" type="text/css" /> <script src="https://careers-static.pageuppeople.com/Jobs-39170149918616823646177135332332305121163.js" type="text/javascript"></script>
+	<script>PU.Jobs.source = {"instId":1054,"sourcePointer":"cw","language":"en-us","baseDomain":"https://facultypositions.stanford.edu","dynamicTemplate":true,"action":"Listing"};PU.Analytics.init({"TrackingId":"G-8MJYP9RHDL","InstanceTrackingId":null});</script>
+    <!-- Bootstrap Custom -->
+    <link rel="stylesheet" href="//cdn.stanford.edu/facultypositions/latest/css/bootstrap-custom.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="//cdn.stanford.edu/facultypositions/latest/css/font-awesome/all.min.css">
+    <!-- Decanter -->
+    <link rel="stylesheet" href="//cdn.stanford.edu/facultypositions/latest/css/decanter.css">
+    <link rel="stylesheet" href="//cdn.stanford.edu/facultypositions/latest/css/decanter-custom.css">
+    <!-- Faculty Positions -->
+    <link rel="stylesheet" href="//cdn.stanford.edu/facultypositions/latest/css/facultypositions.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F1W1R97Q4X"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-F1W1R97Q4X');
+    </script>
+</head>
+
+<body>
+    <header class="su-masthead su-masthead--light">
+        <a href="#main-content" class="su-skiplinks">Skip to main content</a>
+        <div class="su-brand-bar su-brand-bar--bright">
+            <div class="su-brand-bar__container">
+                <a class="su-brand-bar__logo" href="https://stanford.edu">Stanford University</a>
+            </div>
+        </div>
+        <section>
+            <div class="su-lockup su-lockup--option-a">
+                <a href="http://facultypositions.stanford.edu">
+                    <div class="su-lockup__cell1">
+                        <div class="su-lockup__wordmark-wrapper">
+                            <span class="su-lockup__wordmark">Stanford</span>
+                        </div>
+                    </div>
+                    <div class="su-lockup__cell2">
+                        <span class="su-lockup__line1">Faculty Positions</span>
+                    </div>
+                </a>
+            </div>
+            <div class="su-site-search su-user-menu">
+                <ul class="nav justify-content-end">
+                    <li class="nav-item"><a href="https://secure.dc4.pageuppeople.com/apply/1054/aw/applicationForm/default.asp" class="nav-link">Applicant login</a></li>
+                </ul>
+            </div>
+            <nav class="su-main-nav su-main-nav--mobile-search" aria-label="main menu">
+                <button class="su-main-nav__toggle su-main-nav__toggle--right" aria-expanded="false">Menu</button>
+                <ul class="su-main-nav__menu-lv1">
+                    <li class="su-user-menu"><a href="https://secure.dc4.pageuppeople.com/apply/1054/aw/applicationForm/default.asp">Applicant login</a></li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <div class="collage">
+            <div class="collage1"></div>
+            <div class="collage2"></div>
+            <div class="collage3"></div>
+            <div class="collage4"></div>
+            <div class="collage5"></div>
+        </div>
+        <section>
+            <form action="/en-us/search/" method="get" id="jobs-form" class="careers-browse">
+            <div class="row">
+                <div id="main-content" class="col-xl-8 pr-xl-5 col-lg-12">
+                    <!--Main Content Start-->
+                    <h1>Open Faculty Positions</h1>
+                    <div id="messages" style="display: none"><ul id="message-list" role="presentation"></ul></div><div id="waiting" class="waiting" style="display: none;"></div><div id="job" style="display:none"><div id="job-content"></div></div><div id="search-results" style="display:none">
+  
+<div id="job-mail" class="script">
+    <a id="job-mail-trigger" href="/en-us/listing/">Send me jobs like these</a>
+    <div id="job-mail-content">
+        <div id="job-mail-subscribe">
+            <p>We will email you new jobs that match this search.</p>
+            
+<div id="job-mail-email">
+    <input aria-label="Email address" type="email" id="job-mail-subscribe-email" name="job-mail-subscribe-email" class="text-input" placeholder="address@example.com" value="" aria-required="true">
+</div>
+<p id="job-mail-subscribed" class="success" style="display: none;">Great, we can send you jobs like this, if this is your first time signing up, please check your inbox to confirm your subscription.</p>
+<p id="job-mail-error" class="error" style="display: none;" >The email address was invalid, please check for errors.</p>
+<p id="job-mail-agreed" class="error" style="display: none;" >You must agree to the privacy statement</p>
+<label for="job-mail-subscribe-button" style="display: none;">Subscribe</label>
+<script src='https://www.recaptcha.net/recaptcha/api.js'></script>
+
+<label aria-hidden="true" for="g-recaptcha-response" style="display: none">Recaptcha</label>
+<div class="g-recaptcha" data-sitekey="6LeC1A0UAAAAAPZK8E1CxJkweNzEiOuWfqJ63a0v"></div>
+
+<input type="submit" id="job-mail-subscribe-button" name="job-mail-subscribe-button" class="button" value="Subscribe">
+
+    <label aria-hidden="true" for="job-mail-subscribe-privacy" style="display: none;">Privacy agreement</label>
+    <input aria-hidden="true" type="checkbox" id="job-mail-subscribe-privacy" name="job-mail-subscribe-privacy" value="agree" checked="true" style="display: none;" />
+
+        </div>
+    </div>
+</div>
+  <h2>Search results</h2>
+  <table aria-live="polite" role="presentation">
+<tbody id="search-results-content">
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/493494/pediatric-neonatology-hospitalist">Pediatric Neonatology Hospitalist</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Neonatology in the Department of Pediatrics at Stanford University School of Medicine/ Stanford Medicine Children’s Health is recruiting board certified/eligible pediatricians with strong clinical skills in the hospital care of sick newborns and a special interest in neonatal medicine. We currently have openings for full-time, part-time, and moonlighting positions to join the Division as Clinical Instructors, Clinical Assistant Professors, Clinical Associate Professors, or Clinical Professors in the Clinician Educator Line.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494690/pediatric-cardiology-hospitalists">Pediatric Cardiology Hospitalists</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Cardiology in the Department of Pediatrics at Stanford University is recruiting Pediatric Hospitalists to join our hospitalist team in the cardiac step-down unit at Lucile Packard Children’s Hospital (LPCH). The successful recruit will be appointed as Clinical Instructors or Clinical Assistants in the Clinician Educator Line. The major criterion for appointment as Clinician Educators is excellence in the overall mix of clinical care, teaching, administrative and/or scholarship appropriate to the programmatic need the individual is expected to fulfill.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494768/faculty-appointment-in-korean-studies">Faculty Appointment in Korean Studies</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">Stanford University seeks candidates for a faculty position in Korean Studies. The successful candidate will be expected to advance research and education on Korea, in the Korea Program of the Walter H. Shorenstein Asia-Pacific Research Center (APARC).</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494788/faculty-appointment-in-taiwan-studies">Faculty Appointment in Taiwan Studies</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">Stanford University seeks candidates for a new faculty position on Taiwan. The successful candidate will have expertise in in the policy studies, social sciences, international relations, or global affairs relating to Taiwan, and will be expected to advance research and education on Taiwan studies, in the newly established Taiwan Program of the Walter H. Shorenstein Asia-Pacific Research Center (APARC). This is an open search.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494789/faculty-appointment-in-japanese-politics-and-foreign-policy">Faculty Appointment in Japanese Politics and Foreign Policy</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">Stanford University seeks candidates for a new faculty position in the politics and foreign policy of Japan. The successful candidate will have expertise in politics, policy studies, diplomacy, security studies, international relations, or global affairs relating to Japan and the Indo-Pacific region, and will be expected to advance research and education on Japanese politics and foreign policy, in the Japan Program of the Walter H. Shorenstein Asia-Pacific Research Center (APARC). This is an open search.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494787/faculty-position-in-high-energy-theoretical-physics-open-rank">Faculty Position in High Energy Theoretical Physics (Open Rank)</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Physics at Stanford University seeks applicants for a junior or senior appointment at the rank of tenure-track Assistant Professor, tenured Associate Professor, or Full Professor. Areas of interest include but are not limited to cosmology, particle phenomenology, quantum field theory, quantum gravity, string theory, and the interface of quantum information with these topics.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494786/radiation-oncologist-network-locations">Radiation Oncologist - Network Locations</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Radiation Therapy in the Department of Radiation Oncology at Stanford University seeks board eligible or board-certified radiation oncologists to join its faculty in the Clinician Educator line (open rank). These positions will involve general radiation oncology practice and practice building at our network locations in San Jose and East Bay California, with expectations of coverage and rotations at other network sites.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494785/neurohospitalist-clinician-educator-in-neurology">Neurohospitalist Clinician Educator in Neurology</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Neurohospitalist Division in the Department of Neurology at Stanford University seeks a board-certified neurologist to join the Department as a Clinical Assistant or Clinical Associate Professor in the Clinician Educator Line.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494784/faculty-position-experimental-biological-physics-open-rank">Faculty Position Experimental Biological Physics (Open Rank)</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2025-05-01T06:55:00Z">30 Apr 2025 11:55 PM </time></span> Pacific Daylight Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Applied Physics at Stanford University seeks applicants for a faculty position at Assistant, Associate, or Full Professor level in experimental biological physics very broadly construed.  We seek candidates who bring physics-inspired approaches (e.g. developing instrumentation and other methods, or framing questions) to any area of biology including information processing by structures ranging from cells to brains; dynamics and mechanics ranging from molecules to cells, tissues, and development; evolution, ecology, and engineering of microbes or the immune system.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494783/pediatric-pulmonary-faculty">Pediatric Pulmonary Faculty</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Pulmonary Medicine in the Department of Pediatrics at Stanford University seeks an MD or MD/PhD faculty member to join the Professoriate at the Assistant, Associate, or Professor level in the University Medical Line (UML), University Tenure Line (UTL), or Non-Tenure Line (Research) (NTLR).</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494780/neonatologist-lucile-packard-childrens-hospital">Neonatologist, Lucile Packard Children’s Hospital</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Neonatal and Developmental Medicine in the Department of Pediatrics at Stanford University School of Medicine/Stanford Medicine Children’s Health is seeking an academic neonatologist to join our team at the Level IV NICU at Lucile Packard Children’s Hospital Stanford in Palo Alto, CA. The successful candidate will be appointed as a Clinical Assistant Professor, Clinical Associate Professor, or Clinical Professor in the Clinician Educator line. The major criterion for appointment as Clinician Educators is excellence in the overall mix of clinical care, teaching, administrative and/or scholarship appropriate to the programmatic need the individual is expected to fulfill.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494781/neonatologist-dominican-hospital-nicu">Neonatologist, Dominican Hospital NICU</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Neonatal and Developmental Medicine in the Department of Pediatrics at Stanford University School of Medicine/Stanford Medicine Children’s Health is seeking an academic neonatologist to join our team at the Dominican Hospital NICU in Santa Cruz, California. The successful candidate will be appointed as a Clinical Assistant Professor, Clinical Associate Professor, or Clinical Professor in the Clinician Educator line. The major criterion for appointment as Clinician Educators is excellence in the overall mix of clinical care, teaching, administrative and/or scholarship appropriate to the programmatic need the individual is expected to fulfill.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494782/gastroenterologist-physician-scientist">Gastroenterologist: Physician Scientist</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Gastroenterology and Hepatology in the Department of Medicine at Stanford School of Medicine University seeks a gastroenterologist as Assistant or Associate Professor in the University Medical Line. The successful applicant should have MD or MD/PhD degree and demonstrable record of scholarly achievement including the ability to conduct team science by collaborating productively with other investigators and clinicians in a sustainable fashion. The candidate must possess or be able to obtain a California medical license at the time of appointment, as well as board certification/board eligibility in gastroenterology. As a physician-scientist, the candidate is expected to have demonstrated excellence in patient care.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494772/assistant-or-untenured-associate-professor-in-electrical-engineering">Assistant or Untenured Associate Professor in Electrical Engineering</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Electrical Engineering at Stanford University (https://ee.stanford.edu) invites applications for a tenure-track faculty appointment at the junior level (Assistant or untenured Associate Professor).  We invite applications from individuals working at the frontiers of electrical and computer engineering, broadly defined.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494779/assistant-professor-in-physics">Assistant Professor in Physics</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Physics is seeking applicants for a tenure-track Assistant Professor in experimental, observational or theoretical astrophysics or cosmology (or combinations thereof).</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494770/faculty-positions-in-political-economy">Faculty Positions in Political Economy</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-12-01T07:55:00Z">30 Nov 2024 11:55 PM </time></span> Pacific Standard Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Graduate School of Business invites applications for tenure-track positions at all ranks beginning September 1, 2025. The positions are for scholars of exceptional caliber who will strengthen the political economy group's research and teaching and make a distinctive programmatic contribution to the Graduate School of Business. The political economy group at the GSB is a collaboration of economists and political scientists. We welcome applications from across political economy broadly construed, both theoretical and empirical, and focusing on developed as well as developing countries. Outstanding research and teaching skills are essential.  Applicants at all ranks will be considered and must have a PhD or expect to complete one before September 1, 2025.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494776/faculty-positions-in-accounting">Faculty Positions in Accounting</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-11-16T07:55:00Z">15 Nov 2024 11:55 PM </time></span> Pacific Standard Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">STANFORD UNIVERSITY, Graduate School of Business, invites applications for tenure line faculty positions at the Assistant Professor level in accounting, beginning September 1, 2025, from candidates who are interested in financial accounting, managerial accounting, tax, and other areas.  Candidates should have or expect to complete a PhD by September 1, 2025, and should possess a strong and active research record. The successful candidate will be expected to conduct research and to teach both MBA and PhD courses in accounting.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494773/assistant-professor-in-classics">Assistant Professor in Classics</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-11-02T06:55:00Z">1 Nov 2024 11:55 PM </time></span> Pacific Daylight Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Classics at Stanford University invites applications for the post of tenure-track Assistant Professor in Latin literature, specializing in one or more of the following areas: Latin literature of later antiquity (3rd -7th centuries); Latin literature of the Imperial period (1st–3rd centuries); Latin poetry of the Augustan period.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494778/director-of-jazz-studies">Director of Jazz Studies</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-10-19T06:55:00Z">18 Oct 2024 11:55 PM </time></span> Pacific Daylight Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Music at Stanford University seeks to appoint a Director of Jazz Studies at the rank of Associate Professor (Teaching) for an initial term of five years, with the possibility of renewal for a continuing-term appointment.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494771/assistant-professor-in-neuroscience">Assistant Professor in Neuroscience</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-10-16T06:55:00Z">15 Oct 2024 11:55 PM </time></span> Pacific Daylight Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Biology at Stanford University is searching for a tenure-track Assistant Professor working broadly in the field of neuroscience.</td>
+    </tr>
+
+
+
+
+    </tbody>
+    </table>
+    <p><a href="/en-us/listing/?page=2&page-items=20" class="more-link button" style="display:block" title="More Jobs" data-page="2" data-page-items="20" >More Jobs <span class="count">111</span></a></p>
+</div><div id="recent-jobs">
+  <h2>Current opportunities</h2>
+  <table aria-live="polite" role="presentation">
+  <tbody id="recent-jobs-content">
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/493494/pediatric-neonatology-hospitalist">Pediatric Neonatology Hospitalist</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Neonatology in the Department of Pediatrics at Stanford University School of Medicine/ Stanford Medicine Children’s Health is recruiting board certified/eligible pediatricians with strong clinical skills in the hospital care of sick newborns and a special interest in neonatal medicine. We currently have openings for full-time, part-time, and moonlighting positions to join the Division as Clinical Instructors, Clinical Assistant Professors, Clinical Associate Professors, or Clinical Professors in the Clinician Educator Line.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494690/pediatric-cardiology-hospitalists">Pediatric Cardiology Hospitalists</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Cardiology in the Department of Pediatrics at Stanford University is recruiting Pediatric Hospitalists to join our hospitalist team in the cardiac step-down unit at Lucile Packard Children’s Hospital (LPCH). The successful recruit will be appointed as Clinical Instructors or Clinical Assistants in the Clinician Educator Line. The major criterion for appointment as Clinician Educators is excellence in the overall mix of clinical care, teaching, administrative and/or scholarship appropriate to the programmatic need the individual is expected to fulfill.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494768/faculty-appointment-in-korean-studies">Faculty Appointment in Korean Studies</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">Stanford University seeks candidates for a faculty position in Korean Studies. The successful candidate will be expected to advance research and education on Korea, in the Korea Program of the Walter H. Shorenstein Asia-Pacific Research Center (APARC).</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494788/faculty-appointment-in-taiwan-studies">Faculty Appointment in Taiwan Studies</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">Stanford University seeks candidates for a new faculty position on Taiwan. The successful candidate will have expertise in in the policy studies, social sciences, international relations, or global affairs relating to Taiwan, and will be expected to advance research and education on Taiwan studies, in the newly established Taiwan Program of the Walter H. Shorenstein Asia-Pacific Research Center (APARC). This is an open search.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494789/faculty-appointment-in-japanese-politics-and-foreign-policy">Faculty Appointment in Japanese Politics and Foreign Policy</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">Stanford University seeks candidates for a new faculty position in the politics and foreign policy of Japan. The successful candidate will have expertise in politics, policy studies, diplomacy, security studies, international relations, or global affairs relating to Japan and the Indo-Pacific region, and will be expected to advance research and education on Japanese politics and foreign policy, in the Japan Program of the Walter H. Shorenstein Asia-Pacific Research Center (APARC). This is an open search.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494787/faculty-position-in-high-energy-theoretical-physics-open-rank">Faculty Position in High Energy Theoretical Physics (Open Rank)</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Physics at Stanford University seeks applicants for a junior or senior appointment at the rank of tenure-track Assistant Professor, tenured Associate Professor, or Full Professor. Areas of interest include but are not limited to cosmology, particle phenomenology, quantum field theory, quantum gravity, string theory, and the interface of quantum information with these topics.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494786/radiation-oncologist-network-locations">Radiation Oncologist - Network Locations</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Radiation Therapy in the Department of Radiation Oncology at Stanford University seeks board eligible or board-certified radiation oncologists to join its faculty in the Clinician Educator line (open rank). These positions will involve general radiation oncology practice and practice building at our network locations in San Jose and East Bay California, with expectations of coverage and rotations at other network sites.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494785/neurohospitalist-clinician-educator-in-neurology">Neurohospitalist Clinician Educator in Neurology</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Neurohospitalist Division in the Department of Neurology at Stanford University seeks a board-certified neurologist to join the Department as a Clinical Assistant or Clinical Associate Professor in the Clinician Educator Line.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494784/faculty-position-experimental-biological-physics-open-rank">Faculty Position Experimental Biological Physics (Open Rank)</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2025-05-01T06:55:00Z">30 Apr 2025 11:55 PM </time></span> Pacific Daylight Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Applied Physics at Stanford University seeks applicants for a faculty position at Assistant, Associate, or Full Professor level in experimental biological physics very broadly construed.  We seek candidates who bring physics-inspired approaches (e.g. developing instrumentation and other methods, or framing questions) to any area of biology including information processing by structures ranging from cells to brains; dynamics and mechanics ranging from molecules to cells, tissues, and development; evolution, ecology, and engineering of microbes or the immune system.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494783/pediatric-pulmonary-faculty">Pediatric Pulmonary Faculty</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Pulmonary Medicine in the Department of Pediatrics at Stanford University seeks an MD or MD/PhD faculty member to join the Professoriate at the Assistant, Associate, or Professor level in the University Medical Line (UML), University Tenure Line (UTL), or Non-Tenure Line (Research) (NTLR).</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494780/neonatologist-lucile-packard-childrens-hospital">Neonatologist, Lucile Packard Children’s Hospital</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Neonatal and Developmental Medicine in the Department of Pediatrics at Stanford University School of Medicine/Stanford Medicine Children’s Health is seeking an academic neonatologist to join our team at the Level IV NICU at Lucile Packard Children’s Hospital Stanford in Palo Alto, CA. The successful candidate will be appointed as a Clinical Assistant Professor, Clinical Associate Professor, or Clinical Professor in the Clinician Educator line. The major criterion for appointment as Clinician Educators is excellence in the overall mix of clinical care, teaching, administrative and/or scholarship appropriate to the programmatic need the individual is expected to fulfill.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494781/neonatologist-dominican-hospital-nicu">Neonatologist, Dominican Hospital NICU</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Neonatal and Developmental Medicine in the Department of Pediatrics at Stanford University School of Medicine/Stanford Medicine Children’s Health is seeking an academic neonatologist to join our team at the Dominican Hospital NICU in Santa Cruz, California. The successful candidate will be appointed as a Clinical Assistant Professor, Clinical Associate Professor, or Clinical Professor in the Clinician Educator line. The major criterion for appointment as Clinician Educators is excellence in the overall mix of clinical care, teaching, administrative and/or scholarship appropriate to the programmatic need the individual is expected to fulfill.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494782/gastroenterologist-physician-scientist">Gastroenterologist: Physician Scientist</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Division of Gastroenterology and Hepatology in the Department of Medicine at Stanford School of Medicine University seeks a gastroenterologist as Assistant or Associate Professor in the University Medical Line. The successful applicant should have MD or MD/PhD degree and demonstrable record of scholarly achievement including the ability to conduct team science by collaborating productively with other investigators and clinicians in a sustainable fashion. The candidate must possess or be able to obtain a California medical license at the time of appointment, as well as board certification/board eligibility in gastroenterology. As a physician-scientist, the candidate is expected to have demonstrated excellence in patient care.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494772/assistant-or-untenured-associate-professor-in-electrical-engineering">Assistant or Untenured Associate Professor in Electrical Engineering</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Electrical Engineering at Stanford University (https://ee.stanford.edu) invites applications for a tenure-track faculty appointment at the junior level (Assistant or untenured Associate Professor).  We invite applications from individuals working at the frontiers of electrical and computer engineering, broadly defined.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494779/assistant-professor-in-physics">Assistant Professor in Physics</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+         
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Physics is seeking applicants for a tenure-track Assistant Professor in experimental, observational or theoretical astrophysics or cosmology (or combinations thereof).</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494770/faculty-positions-in-political-economy">Faculty Positions in Political Economy</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-12-01T07:55:00Z">30 Nov 2024 11:55 PM </time></span> Pacific Standard Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Graduate School of Business invites applications for tenure-track positions at all ranks beginning September 1, 2025. The positions are for scholars of exceptional caliber who will strengthen the political economy group's research and teaching and make a distinctive programmatic contribution to the Graduate School of Business. The political economy group at the GSB is a collaboration of economists and political scientists. We welcome applications from across political economy broadly construed, both theoretical and empirical, and focusing on developed as well as developing countries. Outstanding research and teaching skills are essential.  Applicants at all ranks will be considered and must have a PhD or expect to complete one before September 1, 2025.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494776/faculty-positions-in-accounting">Faculty Positions in Accounting</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-11-16T07:55:00Z">15 Nov 2024 11:55 PM </time></span> Pacific Standard Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">STANFORD UNIVERSITY, Graduate School of Business, invites applications for tenure line faculty positions at the Assistant Professor level in accounting, beginning September 1, 2025, from candidates who are interested in financial accounting, managerial accounting, tax, and other areas.  Candidates should have or expect to complete a PhD by September 1, 2025, and should possess a strong and active research record. The successful candidate will be expected to conduct research and to teach both MBA and PhD courses in accounting.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494773/assistant-professor-in-classics">Assistant Professor in Classics</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-11-02T06:55:00Z">1 Nov 2024 11:55 PM </time></span> Pacific Daylight Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Classics at Stanford University invites applications for the post of tenure-track Assistant Professor in Latin literature, specializing in one or more of the following areas: Latin literature of later antiquity (3rd -7th centuries); Latin literature of the Imperial period (1st–3rd centuries); Latin poetry of the Augustan period.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494778/director-of-jazz-studies">Director of Jazz Studies</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-10-19T06:55:00Z">18 Oct 2024 11:55 PM </time></span> Pacific Daylight Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Music at Stanford University seeks to appoint a Director of Jazz Studies at the rank of Associate Professor (Teaching) for an initial term of five years, with the possibility of renewal for a continuing-term appointment.</td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <a class="job-link" href="/en-us/job/494771/assistant-professor-in-neuroscience">Assistant Professor in Neuroscience</a>
+      </td>
+      <td>
+        <span class="location">Stanford University</span>
+      </td>
+      <td>
+        <span class="close-date"><time datetime="2024-10-16T06:55:00Z">15 Oct 2024 11:55 PM </time></span> Pacific Daylight Time
+      </td>
+    </tr>
+    <tr class="summary">
+      <td colspan="3">The Department of Biology at Stanford University is searching for a tenure-track Assistant Professor working broadly in the field of neuroscience.</td>
+    </tr>
+
+
+
+
+    </tbody>
+    </table>
+    <p><a href="/en-us/listing/?page=2&page-items=20" class="more-link button" style="display:block" title="More Jobs" data-page="2" data-page-items="20" >More Jobs <span class="count">111</span></a></p>
+</div><p id="PageUpPeopleLink"><a href="https://www.pageuppeople.com/powered-by-pageup/" target="_top">Powered by PageUp</a></p>
+                    <!--Main Content End-->
+                </div>
+
+                <div id="side-content" class="col-xl-4 pl-xl-5 col-lg-12">
+                    <!--Side Content Start-->
+                    <div id="pup-search" role="search">
+                        <h2 id="title-search-keyword">Job search</h2>
+                        
+<input aria-labelledby="title-search-keyword" type="text" id="search-keyword" name="search-keyword" class="text-input" placeholder="Search for jobs" value="">
+
+                    </div>
+
+                    <div id="search-filter" role="region" aria-labelledby="title-filter-results">
+                        <h2 id="title-filter-results">Refine search</h2>
+                        <div id="search-filters" ><h3 id="title-work-type">Work type</h3>
+<div class="filter-wrapper"><fieldset style="border: 0;margin: 0;padding: 0;" role="group" aria-labelledby="title-work-type"><ul class="filter" role="presentation">
+<li class="ce---clinician-educator"><input type="checkbox" id="work-type_ceclinicianeducator" name="work-type" value="CE - Clinician Educator"  /><label for="work-type_ceclinicianeducator">CE - Clinician Educator <span class="count">58</span></label></li>
+<li class="non-tenure-line-research"><input type="checkbox" id="work-type_nontenurelineresearch" name="work-type" value="Non-Tenure Line (Research)"  /><label for="work-type_nontenurelineresearch">Non-Tenure Line (Research) <span class="count">12</span></label></li>
+<li class="non-tenure-line-teaching"><input type="checkbox" id="work-type_nontenurelineteaching" name="work-type" value="Non-Tenure Line (Teaching)"  /><label for="work-type_nontenurelineteaching">Non-Tenure Line (Teaching) <span class="count">2</span></label></li>
+<li class="policy-institute-fellows"><input type="checkbox" id="work-type_policyinstitutefellows" name="work-type" value="Policy Institute Fellows"  /><label for="work-type_policyinstitutefellows">Policy Institute Fellows <span class="count">3</span></label></li>
+<li class="university-medical-line"><input type="checkbox" id="work-type_universitymedicalline" name="work-type" value="University Medical Line"  /><label for="work-type_universitymedicalline">University Medical Line <span class="count">49</span></label></li>
+<li class="university-tenure-line"><input type="checkbox" id="work-type_universitytenureline" name="work-type" value="University Tenure Line"  /><label for="work-type_universitytenureline">University Tenure Line <span class="count">61</span></label></li></ul></fieldset></div>
+
+<h3 id="title-location">Locations</h3>
+<div class="filter-wrapper"><div class="filter-group"><fieldset style="border: 0;margin: 0;padding: 0;" role="group" aria-labelledby="title-location div_location_1"><div id="div_location_1" class="filter-group-title"></div><ul class="filter" role="presentation">
+<li class="stanford-university"><input type="checkbox" id="location_stanforduniversity" name="location" value="Stanford University"  /><label for="location_stanforduniversity">Stanford University <span class="count">130</span></label></li>
+<li class="va-palo-alto-health-care-system-vapahcs"><input type="checkbox" id="location_vapaloaltohealthcaresystemvapahcs" name="location" value="VA Palo Alto Health Care System (VAPAHCS)"  /><label for="location_vapaloaltohealthcaresystemvapahcs">VA Palo Alto Health Care System (VAPAHCS) <span class="count">2</span></label></li></ul></fieldset></div></div>
+
+<h3 id="title-category">Categories</h3>
+<div class="filter-wrapper"><div class="filter-group"><fieldset style="border: 0;margin: 0;padding: 0;" role="group" aria-labelledby="title-category div_category_1"><div id="div_category_1" class="filter-group-title">School</div><ul class="filter" role="presentation">
+<li class="dean-of-research"><input type="checkbox" id="category_deanofresearch" name="category" value="Dean of Research"  /><label for="category_deanofresearch">Dean of Research <span class="count">3</span></label></li>
+<li class="doerr-school-of-sustainability"><input type="checkbox" id="category_doerrschoolofsustainability" name="category" value="Doerr School of Sustainability"  /><label for="category_doerrschoolofsustainability">Doerr School of Sustainability <span class="count">2</span></label></li>
+<li class="graduate-school-of-business"><input type="checkbox" id="category_graduateschoolofbusiness" name="category" value="Graduate School of Business"  /><label for="category_graduateschoolofbusiness">Graduate School of Business <span class="count">5</span></label></li>
+<li class="graduate-school-of-education"><input type="checkbox" id="category_graduateschoolofeducation" name="category" value="Graduate School of Education"  /><label for="category_graduateschoolofeducation">Graduate School of Education <span class="count">5</span></label></li>
+<li class="school-of-engineering"><input type="checkbox" id="category_schoolofengineering" name="category" value="School of Engineering"  /><label for="category_schoolofengineering">School of Engineering <span class="count">3</span></label></li>
+<li class="school-of-humanities--sciences"><input type="checkbox" id="category_schoolofhumanitiessciences" name="category" value="School of Humanities &amp; Sciences"  /><label for="category_schoolofhumanitiessciences">School of Humanities &amp; Sciences <span class="count">19</span></label></li>
+<li class="school-of-medicine"><input type="checkbox" id="category_schoolofmedicine" name="category" value="School of Medicine"  /><label for="category_schoolofmedicine">School of Medicine <span class="count">95</span></label></li></ul></fieldset></div></div><input id="filter-results-submit" type="submit" class="button" value="Filter Results"></div>
+                    </div>
+                    <!--Side Content End-->
+                </div>
+            </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <section class="su-local-footer">
+            <div class="su-local-footer__header">
+                <div class="row">
+                    <div class="pl-0 col-xl-3 col-sm-12">
+                        <h2>Get Help</h2>
+                        <p>Questions about a job or your application?</p>
+                        <p><a href="https://fsat.stanford.edu/get-help" class="su-button su-link">Find out how to request help</a></p>
+                    </div>
+
+                    <div class="pl-0 col-xl-8 offset-xl-1 col-sm-12">
+                        <h2>Equal Opportunity</h2>
+                        <p>Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job.</p>
+                        <p>Stanford is an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity,
+                            national origin, disability, protected veteran status, or any other characteristic protected by law.</p>
+                        <p>Stanford welcomes applications from all who would bring additional dimensions to the University’s research, teaching, and clinical missions.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="su-global-footer su-global-footer--bright">
+            <div class="su-global-footer__container">
+                <div class="su-global-footer__brand">
+                    <a class="su-logo" href="https://www.stanford.edu">
+                        Stanford
+                        <br />
+                        University
+                    </a>
+                </div>
+                <div class="su-global-footer__content">
+                    <nav aria-label="global footer menu">
+                        <ul class="su-global-footer__menu su-global-footer__menu--global">
+                            <li>
+                                <a href="https://www.stanford.edu">Stanford Home</a>
+                            </li>
+                            <li>
+                                <a href="https://visit.stanford.edu/plan/">Maps &amp; Directions</a>
+                            </li>
+                            <li>
+                                <a href="https://www.stanford.edu/search/">Search Stanford</a>
+                            </li>
+                            <li>
+                                <a href="https://emergency.stanford.edu">Emergency Info</a>
+                            </li>
+                        </ul>
+                        <ul class="su-global-footer__menu su-global-footer__menu--policy">
+                            <li>
+                                <a href="https://www.stanford.edu/site/terms/" title="Terms of use for sites">Terms of Use</a>
+                            </li>
+                            <li>
+                                <a href="https://www.stanford.edu/site/privacy/" title="Privacy and cookie policy">Privacy</a>
+                            </li>
+                            <li>
+                                <a href="https://uit.stanford.edu/security/copyright-infringement" title="Report alleged copyright infringement">Copyright</a>
+                            </li>
+                            <li>
+                                <a href="https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4" title="Ownership and use of Stanford trademarks and images">Trademarks</a>
+                            </li>
+                            <li>
+                                <a href="http://exploredegrees.stanford.edu/nonacademicregulations/nondiscrimination/" title="Non-discrimination policy">Non-Discrimination</a>
+                            </li>
+                            <li>
+                                <a href="https://www.stanford.edu/site/accessibility" title="Report web accessibility issues">Accessibility</a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="su-global-footer__copyright">
+                        <span>&copy; Stanford University.</span>
+                        <span>&nbsp; Stanford, California 94305.</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </footer>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="//cdn.stanford.edu/facultypositions/latest/js/bootstrap.bundle.min.js"></script>
+    <script src="//cdn.stanford.edu/facultypositions/latest/js/decanter.js"></script>
+    <script src="//cdn.stanford.edu/facultypositions/latest/js/stanford.js"></script>
+</body>
+
+</html>

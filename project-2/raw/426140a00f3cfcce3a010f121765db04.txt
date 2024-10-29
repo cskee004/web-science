@@ -1,0 +1,1376 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	
+		<meta charset="utf-8">
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+	<meta name="author" content="Harvard Public Health Magazine">
+	<link rel="pingback" href="https://harvardpublichealth.org/xmlrpc.php">
+
+		<meta name="HandheldFriendly" content="True">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<meta name="apple-mobile-web-app-title" content="“Health care for the homeless” is just a start. People need housing.">
+	<meta name="theme-color" content="rgba(248, 248, 248, 1)">
+
+		<meta name="application-name" content="Harvard Public Health Magazine">
+
+	
+		<script>
+			function is_browser() {
+				return (navigator.userAgent.indexOf("Chrome") !== - 1 || navigator.userAgent.indexOf("Opera") !== - 1 || navigator.userAgent.indexOf("Firefox") !== - 1 || navigator.userAgent.indexOf("MSIE") !== - 1 || navigator.userAgent.indexOf("Safari") !== - 1 || navigator.userAgent.indexOf("Edge") !== - 1);
+			}
+
+			function less_than_ie11() {
+				return (!window.atob || // IE9 and below
+						Function('/*@cc_on return document.documentMode===10@*/')() // IE10
+				);
+			}
+
+			function not_excluded_page() {
+				return (window.location.href.indexOf("/unsupported-browser/") === - 1 && document.title.toLowerCase().indexOf('page not found') === - 1);
+			}
+
+			if (is_browser() && less_than_ie11() && not_excluded_page()) {
+				window.location = location.protocol + '//' + location.host + '/unsupported-browser/';
+			}
+		</script>
+
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.3 (Yoast SEO v23.3) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Affordable housing is key to end cycles of homeless hospitalization</title>
+	<meta name="description" content="Health care systems should play a role in expanding access to affordable housing for people experiencing homelessness, argues Jeremy Cygler." />
+	<link rel="canonical" href="https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="“Health care for the homeless” is just a start. People need housing." />
+	<meta property="og:description" content="Health care systems should play a role in expanding access to affordable housing for people experiencing homelessness, argues Jeremy Cygler." />
+	<meta property="og:url" content="https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/" />
+	<meta property="og:site_name" content="Harvard Public Health Magazine" />
+	<meta property="article:author" content="Jeremy Cygler" />
+	<meta property="article:published_time" content="2024-06-20T18:58:38+00:00" />
+	<meta property="article:modified_time" content="2024-06-25T13:47:56+00:00" />
+	<meta property="og:image" content="https://harvardpublichealth.org/wp-content/uploads/2024/06/HarvardPublicHealth_affordable-housing-_hrz.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Jeremy Cygler" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@PublicHealthMag" />
+	<meta name="twitter:site" content="@PublicHealthMag" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Jeremy Cygler" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="4 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/#article","isPartOf":{"@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/"},"author":{"name":"Jeremy Cygler","@id":"https://harvardpublichealth.org/#/schema/person/289c71a3a46b3f3ef38d65ff4583a19e"},"headline":"“Health care for the homeless” is just a start. People need housing.","datePublished":"2024-06-20T18:58:38+00:00","dateModified":"2024-06-25T13:47:56+00:00","mainEntityOfPage":{"@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/"},"wordCount":779,"publisher":{"@id":"https://harvardpublichealth.org/#organization"},"image":{"@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/#primaryimage"},"thumbnailUrl":"https://harvardpublichealth.org/wp-content/uploads/2024/06/HarvardPublicHealth_affordable-housing-_f.jpg","articleSection":["Policy &amp; Practice"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/","url":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/","name":"Affordable housing is key to end cycles of homeless hospitalization","isPartOf":{"@id":"https://harvardpublichealth.org/#website"},"primaryImageOfPage":{"@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/#primaryimage"},"image":{"@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/#primaryimage"},"thumbnailUrl":"https://harvardpublichealth.org/wp-content/uploads/2024/06/HarvardPublicHealth_affordable-housing-_f.jpg","datePublished":"2024-06-20T18:58:38+00:00","dateModified":"2024-06-25T13:47:56+00:00","description":"Health care systems should play a role in expanding access to affordable housing for people experiencing homelessness, argues Jeremy Cygler.","breadcrumb":{"@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/#primaryimage","url":"https://harvardpublichealth.org/wp-content/uploads/2024/06/HarvardPublicHealth_affordable-housing-_f.jpg","contentUrl":"https://harvardpublichealth.org/wp-content/uploads/2024/06/HarvardPublicHealth_affordable-housing-_f.jpg","width":1201,"height":901,"caption":"Illustration: Navy and gray stethoscope with the metal portions creating a house. Four orange squares representing windows are in the center. Background is seafoam green."},{"@type":"BreadcrumbList","@id":"https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://harvardpublichealth.org/"},{"@type":"ListItem","position":2,"name":"“Health care for the homeless” is just a start. People need housing."}]},{"@type":"WebSite","@id":"https://harvardpublichealth.org/#website","url":"https://harvardpublichealth.org/","name":"Harvard Public Health Magazine","description":"Exploring what works, what doesn’t, and why.","publisher":{"@id":"https://harvardpublichealth.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://harvardpublichealth.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://harvardpublichealth.org/#organization","name":"Harvard Public Health Magazine","url":"https://harvardpublichealth.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://harvardpublichealth.org/#/schema/logo/image/","url":"https://harvardpublichealth.org/wp-content/uploads/2022/07/HPH-logo.jpg","contentUrl":"https://harvardpublichealth.org/wp-content/uploads/2022/07/HPH-logo.jpg","width":1200,"height":800,"caption":"Harvard Public Health Magazine"},"image":{"@id":"https://harvardpublichealth.org/#/schema/logo/image/"},"sameAs":["https://x.com/PublicHealthMag","https://www.linkedin.com/showcase/publichealthmag","https://www.instagram.com/publichealthmag/"]},{"@type":"Person","@id":"https://harvardpublichealth.org/#/schema/person/289c71a3a46b3f3ef38d65ff4583a19e","name":"Jeremy Cygler","image":"","url":""}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//harvardpublichealth.org' />
+<link rel='dns-prefetch' href='//a.omappapi.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<style id='restrict-content-pro-content-upgrade-redirect-style-inline-css'>
+.wp-block-restrict-content-pro-content-upgrade-redirect .wp-block-button__width-25 {
+  width: calc(25% - 0.5rem);
+}
+.wp-block-restrict-content-pro-content-upgrade-redirect .wp-block-button__width-25 .wp-block-button__link {
+  width: 100%;
+}
+.wp-block-restrict-content-pro-content-upgrade-redirect .wp-block-button__width-50 {
+  width: calc(50% - 0.5rem);
+}
+.wp-block-restrict-content-pro-content-upgrade-redirect .wp-block-button__width-50 .wp-block-button__link {
+  width: 100%;
+}
+.wp-block-restrict-content-pro-content-upgrade-redirect .wp-block-button__width-75 {
+  width: calc(75% - 0.5rem);
+}
+.wp-block-restrict-content-pro-content-upgrade-redirect .wp-block-button__width-75 .wp-block-button__link {
+  width: 100%;
+}
+.wp-block-restrict-content-pro-content-upgrade-redirect .wp-block-button__width-100 {
+  margin-right: 0;
+  width: 100%;
+}
+.wp-block-restrict-content-pro-content-upgrade-redirect .wp-block-button__width-100 .wp-block-button__link {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style-content-upgrade-redirect.css.map*/
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='tribe-styles-master-css' href='https://harvardpublichealth.org/wp-content/themes/core/assets/css/dist/theme/master.min.css?ver=1e322e3ed731ccdaa07660cbf5e2a4c2' media='all' />
+<link rel='stylesheet' id='tribe-styles-print-css' href='https://harvardpublichealth.org/wp-content/themes/core/assets/css/dist/theme/print.min.css?ver=ab3440a733c4289d043eea607636141d' media='print' />
+<link rel='stylesheet' id='searchwp-forms-css' href='https://harvardpublichealth.org/wp-content/plugins/searchwp/assets/css/frontend/search-forms.css?ver=4.3.16' media='all' />
+<link rel='stylesheet' id='jquery-ui-smoothness-css' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.3/themes/smoothness/jquery-ui.css?ver=screen' media='all' />
+<link rel='stylesheet' id='gravity-forms-wcag-20-form-fields-css-css' href='https://harvardpublichealth.org/wp-content/plugins/gravity-forms-wcag-20-form-fields/css/gf_wcag20_form_fields.min.css?ver=6.6.1' media='all' />
+<script src="https://harvardpublichealth.org/wp-content/themes/core/assets/js/vendor/jquery.min.js?ver=3.4.1" id="jquery-core-js"></script>
+<script defer='defer' src="https://harvardpublichealth.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.17" id="gform_json-js"></script>
+<script id="gform_gravityforms-js-extra">
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/harvardpublichealth.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/harvardpublichealth.org\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"e6afb1ba57d5cdd3937a2681f529046f","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = {"1":"1"};
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/harvardpublichealth.org\/wp-content\/plugins\/gravityforms\/images"}};
+</script>
+<script id="gform_gravityforms-js-before">
+
+</script>
+<script defer='defer' src="https://harvardpublichealth.org/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.8.17" id="gform_gravityforms-js"></script>
+<script defer='defer' src="https://harvardpublichealth.org/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=50c7bea9c2320e16728e44ae9fde5f26" id="gform_gravityforms_utils-js"></script>
+<script id="gf_wcag20_form_fields_js-js-extra">
+var gf_wcag20_form_fields_settings = {"new_window_text":"this link will open in a new window","failed_validation":""};
+</script>
+<script src="https://harvardpublichealth.org/wp-content/plugins/gravity-forms-wcag-20-form-fields/js/gf_wcag20_form_fields.min.js?ver=6.6.1" id="gf_wcag20_form_fields_js-js"></script>
+<link rel="https://api.w.org/" href="https://harvardpublichealth.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://harvardpublichealth.org/wp-json/wp/v2/posts/19514" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://harvardpublichealth.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel='shortlink' href='https://harvardpublichealth.org/?p=19514' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://harvardpublichealth.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fharvardpublichealth.org%2Fpolicy-practice%2Faffordable-housing-is-key-to-end-cycles-of-homeless-hospitalization%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://harvardpublichealth.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fharvardpublichealth.org%2Fpolicy-practice%2Faffordable-housing-is-key-to-end-cycles-of-homeless-hospitalization%2F&#038;format=xml" />
+<link rel='preload' href='https://harvardpublichealth.org/wp-content/themes/core/assets/js/dist/theme/scripts.min.js?ver=c59ac40f4544310038b0ff1c682766ca' as='script'/>
+<link rel='preload' href='https://harvardpublichealth.org/wp-content/themes/core/assets/js/dist/theme/vendor.min.js?ver=b525a1dc55d39c00b51c80915a899c25' as='script'/>
+<link rel='preload' href='https://a.omappapi.com/app/js/api.min.js?ver=2.16.4' as='script'/>
+<link rel='preload' href='https://harvardpublichealth.org/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.8.17' as='script'/>
+<link rel='preload' href='https://harvardpublichealth.org/wp-content/themes/core/assets/js/vendor/jquery.min.js?ver=3.4.1' as='script'/>
+<link rel='preload' href='https://harvardpublichealth.org/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910' as='script'/>
+<meta name="theme-color" content="#ffffff">
+		<!-- Google Tag Manager -->
+		<script>(function (w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					'gtm.start':
+						new Date().getTime(), event: 'gtm.js'
+				});
+				var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s), dl = l != 'dataLayer'?'&l=' + l:'';
+				j.async = true;
+				j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-567ML69');</script>
+		<!-- End Google Tag Manager -->
+
+		
+		<!-- Meta Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window, document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '618637760466070');
+		fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=618637760466070&ev=PageView&noscript=1"/></noscript>
+		<!-- End Meta Pixel Code -->
+
+		<meta name="et-api-version" content="v1"><meta name="et-api-origin" content="https://harvardpublichealth.org"><link rel="https://theeventscalendar.com/" href="https://harvardpublichealth.org/wp-json/tribe/tickets/v1/" /><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://harvardpublichealth.org"><link rel="alternate" href="https://harvardpublichealth.org/wp-json/tribe/events/v1/" /><link rel="icon" href="https://harvardpublichealth.org/wp-content/uploads/2022/05/favicon-50x50.png" sizes="32x32" />
+<link rel="icon" href="https://harvardpublichealth.org/wp-content/uploads/2022/05/favicon-250x250.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://harvardpublichealth.org/wp-content/uploads/2022/05/favicon-250x250.png" />
+<meta name="msapplication-TileImage" content="https://harvardpublichealth.org/wp-content/uploads/2022/05/favicon.png" />
+		<style id="wp-custom-css">
+			
+
+/*Custom CSS tags*/
+
+
+.cs-no-radius, .cs-no-radius img {
+    border-radius: 0 !important;
+}
+
+p.cs-credit {
+    font-family: var(--font-family-mono);
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: var(--font-weight-monospace-regular);
+    max-width: 100%;
+    text-align: left;
+    padding-top: var(--spacer-10);
+    color: var(--color-text);
+}
+
+.h2-size-reduce {
+    font-size: 30px !important;
+}
+
+.hide-eyebrow .c-card .c-card__meta-primary {
+    display:none;
+}
+
+/*SNAPSHOTS type size fixes remove after Cite addresses*/
+
+/*--removes author--*/
+.s-snapshot-header .snapshot-post-meta__post-author {
+    display: none;
+}
+
+    .s-snapshot-header .snapshot-post-meta__date-author-wrapper {
+    justify-content: flex-end;
+    }
+}
+
+
+/*--fixes typesize issues through overrides--*/
+	
+	.s-snapshot-header .snapshot-post-meta__post-title {
+    font-size: 32px;
+}
+	
+@media screen and (min-width: 500px) {
+		.s-snapshot-header .snapshot-post-meta__post-title {
+    font-size: 32px;
+}
+}
+
+.b-homepage-snapshots .b-homepage-snapshots__header p,
+.b-homepage-snapshots>.l-container .snapshot-cards__section>.snapshot-cards__container>.snapshot-cards__cards h2.c-card__title,
+.post-type-archive-snapshot .c-subheader__description,
+.snapshot-cards__section .snapshot-cards__container .snapshot-cards__cards .c-card--type-snapshot .c-card__title {
+    font-size: var(--font-size-body-extra-large);
+}
+
+@media screen and (min-width: 1280px) {
+    .snapshot-cards__section .snapshot-cards__container .snapshot-cards__cards .c-card--type-snapshot .c-card__title,
+    .b-homepage-snapshots>.l-container .snapshot-cards__section>.snapshot-cards__container>.snapshot-cards__cards h2.c-card__title {
+        font-size: 32px;
+    }
+}
+
+
+/*--increases max width on single title--*/
+
+@media screen and (min-width: 1024px) {
+    .s-snapshot-header .snapshot-post-meta__post-title {
+        max-width: 500px;
+    }
+
+/*END Snapshot fixes*/
+
+/*hides event date and time in hero due to events have passed bug; hides "this event has passed"*/
+
+span.meta__event-date {
+    display: none!important;
+}
+
+.s-sink.l-sink .tribe-events-notices {
+    display: none;
+}
+
+
+
+@media screen and (max-width: 1023px) {
+	.site-header__brand-image {
+			width: 60vw;
+			max-width: 218px;
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.site-header__brand-image {
+			max-width: 267px;
+	}
+}
+
+/* Tag menus spacing correction */
+
+@media screen and (min-width: 1024px) {
+    .c-nav__main-list li {
+        margin: 0 15px;
+    }    
+}
+
+
+@media screen and (min-width: 1240px) {
+    .c-nav__main-list li {
+        margin: 0 var(--spacer-30);
+    }    
+}
+
+
+/*OTHER minor adjustments*/
+
+/*Add space below pull image and text description*/
+
+.b-pull-image-and-text__description {
+    margin-bottom: 1em;
+}
+
+
+
+/*GRAVITY FORMS adjustments*/
+
+
+/*required styling*/
+.gfield_required {
+    color: var(--brand-cobalt);
+    font-size: 16px;
+    position: relative;
+    right: 5px;
+    line-height: 0;
+}
+
+/*list field width correction*/
+.ginput_list .gfield_list {
+    width: 100%;
+}
+
+/*list field bottom margin*/
+.gfield_list_group td {
+    padding-bottom: 0.375em;
+}
+
+/*subscribe in-article CTA*/
+
+.in-article-cta.c-block {
+    width: 100%;
+    max-width: 1090px;
+}
+
+
+@media screen and (min-width: 1024px) {
+    .in-article-cta.c-block .b-lead-form__title {
+        margin-top: -15px;
+    }
+}
+
+.in-article-cta.c-block .gform_wrapper .gform_button {
+    color: var(--color-black);
+    background-color: var(--theme-light-lemon);
+}
+
+.in-article-cta.c-block .gform_wrapper .gform_button:hover,
+.in-article-cta.c-block .gform_wrapper .gform_button:focus,
+.in-article-cta.c-block .gform_wrapper .gform_button:active {
+    color: var(--color-black);
+    background-color: var(--brand-mist);
+}
+
+/*Hide tags on FE*/
+
+.item-single__tags {
+    display: none;
+}
+
+
+/*correct gform confirmations link style*/
+
+div.gform_confirmation_wrapper div.gform_confirmation_message a {
+    color: var(--brand-cobalt) !important;
+    box-shadow: inset 0 var(--underline-height) 0 #235ffc1c !important;
+}
+
+div.gform_confirmation_wrapper div.gform_confirmation_message a:hover,
+div.gform_confirmation_wrapper div.gform_confirmation_message a:focus {
+    box-shadow: inset 0 var(--underline-height-hover) 0 var(--underline-background-color-hover) !important;
+    color: var(--brand-mist) !important;
+}
+
+/*Audio clip margin correx*/
+
+.s-sink>.wp-block-audio, .s-sink>.wp-block-embed, .s-sink>.wp-block-video {
+    margin-top: var(--spacer-40);
+    margin-bottom: var(--spacer-50);
+}
+
+
+/* correct takeaway number line-height */
+
+.b-takeaways ol li:before {
+    line-height: 0.9;
+}
+	
+/* Masthead menu (topics) */
+	
+.c-nav__main-list li a {
+    font-size: 15px;
+}
+
+@media screen and (min-width: 1024px) {
+    .c-nav__main-list li {
+        margin: 0px clamp( 0.5em , calc( 3.7vw + -1.88em ) , 1em );
+    }
+    
+    .c-nav__main-list li:first-of-type {
+        margin: 0 clamp( 0.5em , calc( 3.7vw + -1.88em ) , 1em ) 0 0;
+    }
+}
+
+@media screen and (min-width: 1240px) {
+    .c-nav__main-list li {
+        margin: 0 var(--spacer-30);
+    }
+
+    .c-nav__main-list li:first-of-type {
+        margin: 0 var(--spacer-30) 0 0;
+    }
+
+}
+	
+	@media screen and (min-width: 1360px) {
+			.c-nav__main-list li a {
+    font-size: 16px;
+}
+	}
+		</style>
+		
+</head>
+
+<body class="post-template-default single single-post postid-19514 single-format-standard wp-embed-responsive post-affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization tribe-no-js tec-no-tickets-on-recurring tec-no-rsvp-on-recurring tribe-theme-core">
+
+	
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-567ML69" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+		
+	<div class="l-wrapper" data-js="site-wrap">
+
+		<a href="#main-content" class="a11y-skip-link u-visually-hidden">
+			Skip to main content		</a>
+
+		
+<header  class="site-header site-header--reduced t-theme--light" data-js="site-header">
+
+	<div class="site-header__container header-post">
+
+		<div class="site-header-left">
+			<div class="site-header__brand" data-js="logo"><a href="https://harvardpublichealth.org" class="site-header__brand-link" rel="home"><svg class="site-header__brand-image" xmlns="http://www.w3.org/2000/svg" width="574" height="49" viewBox="0 0 574 49" fill="none">
+<path d="M0.4 47L5.776 44.648V8.416L0.4 6.064H15.464L9.08 8.416V24.152H32.096V8.416L25.712 6.064H40.776L35.4 8.416V44.648L40.776 47H25.712L32.096 44.648V25.16H9.08V44.648L15.464 47H0.4ZM50.9391 47.672C47.5231 47.672 44.4991 45.712 44.4991 41.792C44.4991 36.248 54.5791 32.664 62.4751 29.64V26.952C62.4751 23.032 59.5631 19.896 55.4751 19.896C53.9631 19.896 52.6751 20.232 51.1631 21.128C47.9151 23.032 48.8671 28.576 46.1231 28.576C45.1151 28.576 44.3871 27.792 44.3871 26.672C44.3871 23.144 53.4591 18.384 57.3791 18.384C61.8591 18.384 65.4431 21.632 65.4431 26.728V44.312L70.0911 44.48L62.4751 47.672V40.336C59.1151 44.144 55.3631 47.672 50.9391 47.672ZM52.6191 45.768C56.1471 45.768 59.3951 42.688 62.4751 39.272V30.424C54.7471 33.448 47.5791 36.528 47.5791 41.344C47.5791 44.2 49.8751 45.768 52.6191 45.768ZM72.3167 47L76.8527 45.04V22.64L72.2607 22.304L79.8207 18.384V23.648C81.7247 21.408 84.8607 18.384 88.3887 18.384C90.5727 18.384 92.0847 19.448 92.0847 21.072C92.0847 22.192 91.3567 22.976 90.2367 22.976C88.1087 22.976 87.6607 20.68 85.5887 20.68C83.2927 20.68 81.2207 23.144 79.8207 24.824V45.04L85.1407 47H72.3167ZM121.269 21.016L110.797 48.288L98.5334 20.904L94.1094 18.944H107.437L101.781 20.792L111.357 42.688H112.029L120.149 20.96L114.437 18.944H126.029L121.269 21.016ZM133.025 47.672C129.609 47.672 126.585 45.712 126.585 41.792C126.585 36.248 136.665 32.664 144.561 29.64V26.952C144.561 23.032 141.649 19.896 137.561 19.896C136.049 19.896 134.761 20.232 133.249 21.128C130.001 23.032 130.953 28.576 128.209 28.576C127.201 28.576 126.473 27.792 126.473 26.672C126.473 23.144 135.545 18.384 139.465 18.384C143.945 18.384 147.529 21.632 147.529 26.728V44.312L152.177 44.48L144.561 47.672V40.336C141.201 44.144 137.449 47.672 133.025 47.672ZM134.705 45.768C138.233 45.768 141.481 42.688 144.561 39.272V30.424C136.833 33.448 129.665 36.528 129.665 41.344C129.665 44.2 131.961 45.768 134.705 45.768ZM154.403 47L158.939 45.04V22.64L154.347 22.304L161.907 18.384V23.648C163.811 21.408 166.947 18.384 170.475 18.384C172.659 18.384 174.171 19.448 174.171 21.072C174.171 22.192 173.443 22.976 172.323 22.976C170.195 22.976 169.747 20.68 167.675 20.68C165.379 20.68 163.307 23.144 161.907 24.824V45.04L167.227 47H154.403ZM188.046 47.672C180.934 47.672 176.174 41.792 176.174 33.336C176.174 24.488 181.438 18.384 189.278 18.384C192.694 18.384 196.278 19.896 198.574 22.08V6.344L193.982 6.008L201.542 1.92V44.312L206.134 44.48L198.574 47.728V43.192C195.494 45.152 191.406 47.672 188.046 47.672ZM189.95 46.048C192.358 46.048 195.55 44.312 198.574 42.352V28.352C197.902 22.864 194.094 19.168 189.39 19.168C183.454 19.168 179.366 24.712 179.366 32.608C179.366 40.56 183.678 46.048 189.95 46.048ZM220.673 47L224.985 43.92V8.92L220.673 5.56H239.545C249.065 5.56 256.177 10.488 256.177 16.984C256.177 23.816 249.065 28.912 239.545 28.912H231.985V43.92L237.081 47H220.673ZM231.985 6.736V27.792H238.817C244.753 27.792 248.897 23.312 248.897 16.984C248.897 10.936 244.753 6.736 238.817 6.736H231.985ZM270.88 47.672C266.288 47.672 262.984 44.368 262.984 39.328V23.928L259.064 22.304L269.648 17.656V39.104C269.648 41.904 271.72 44.256 274.576 44.256C276.424 44.256 279 43.304 281.464 41.848V23.928L277.544 22.304L288.128 17.656V42.688L291.824 43.808L281.464 47.84V42.632C278.384 44.704 273.848 47.672 270.88 47.672ZM300.46 44.704L296.316 47.672V7.128L292.396 5.504L302.98 0.855997V22.472C306.004 20.4 310.204 17.656 313.116 17.656C320.284 17.656 325.156 23.424 325.156 31.824C325.156 41.12 319.388 47.672 310.26 47.672C306.844 47.672 303.148 46.552 300.46 44.704ZM310.316 46.776C314.908 46.776 318.044 41.4 318.044 33.784C318.044 26.168 314.292 20.904 309.308 20.904C307.628 20.904 305.444 21.912 302.98 23.368V38.936C303.54 43.808 306.676 46.776 310.316 46.776ZM327.593 47L331.065 44.536V7.072L327.201 5.504L337.785 0.855997V44.536L341.257 47H327.593ZM353.927 12.336H346.367V4.664H353.927V12.336ZM343.623 47L347.151 44.536V23.872L343.231 22.304L353.815 17.656V44.536L357.399 47H343.623ZM373.309 47.672C365.357 47.672 359.757 42.016 359.757 33.224C359.757 24.04 365.749 17.656 373.813 17.656C379.693 17.656 384.229 20.68 384.229 24.04C384.229 25.776 383.109 27.008 381.541 27.008C376.781 27.008 378.741 18.552 373.813 18.552C369.445 18.552 366.477 23.648 366.477 30.424C366.477 37.704 370.341 42.8 376.277 42.8C380.813 42.8 383.949 40.28 385.517 35.128C384.341 42.968 379.693 47.672 373.309 47.672ZM399.447 47L403.759 43.92V8.64L399.447 5.56H415.855L410.759 8.64V24.096H429.799V8.64L424.759 5.56H441.167L436.855 8.64V43.92L441.167 47H424.759L429.799 43.92V25.216H410.759V43.92L415.855 47H399.447ZM457.418 47.672C449.466 47.672 443.866 41.96 443.866 33.336C443.866 24.152 449.634 17.656 457.586 17.656C464.25 17.656 468.786 22.024 468.786 28.464V28.912H450.642C450.642 29.528 450.586 30.088 450.586 30.704C450.586 37.872 454.45 42.968 460.386 42.968C464.922 42.968 468.058 40.28 469.626 35.128C468.45 42.968 463.802 47.672 457.418 47.672ZM450.754 28.016H460.61C462.01 28.016 462.514 27.12 462.514 25.72C462.514 21.912 460.442 18.552 457.586 18.552C454.114 18.552 451.426 22.304 450.754 28.016ZM480.013 47.672C476.093 47.672 473.405 45.208 473.405 41.736C473.405 36.248 483.597 32.552 491.213 29.248V26.56C491.213 22.528 488.693 19.672 485.221 19.672C483.933 19.672 482.869 19.952 481.749 20.68C478.557 22.752 480.573 30.256 476.093 30.256C474.413 30.256 473.237 28.968 473.237 27.176C473.237 22.304 484.717 17.656 488.917 17.656C494.237 17.656 497.821 21.184 497.821 26.336V42.576L501.517 43.64L491.213 47.672V41.176C487.909 44.76 484.045 47.672 480.013 47.672ZM484.437 44.088C486.901 44.088 489.141 42.24 491.213 39.888V30.2C485.053 32.776 479.957 35.464 479.957 39.664C479.957 42.296 481.805 44.088 484.437 44.088ZM503.194 47L506.666 44.536V7.072L502.802 5.504L513.386 0.855997V44.536L516.858 47H503.194ZM530.648 47.672C525.72 47.672 522.528 44.872 522.696 40.168L523.48 22.808L518.216 20.904L522.696 17.264V13.4L529.472 10.32V19H538.936V21.352H529.472V39.776C529.472 42.408 531.488 44.2 534.568 44.2C536.92 44.2 539.552 42.856 541.008 40.84C538.824 44.816 534.68 47.672 530.648 47.672ZM541.203 47L544.675 44.536V7.128L540.755 5.504L551.339 0.855997V22.696C554.811 20.456 559.291 17.656 561.979 17.656C566.571 17.656 569.875 21.016 569.875 26.056V44.536L573.347 47H559.459L563.211 44.536V26.392C563.211 23.256 561.083 20.848 558.451 20.848C556.323 20.848 553.691 22.136 551.339 23.48V44.536L555.147 47H541.203Z" fill="black"/>
+</svg><span class="screen-reader-text">Harvard Public Health Magazine</span></a></div>			
+<p  class="site-header__tagline" >
+	Exploring what works, what doesn’t, and why.</p>
+		</div>
+
+		<div class="site-header__actions">
+							<div class="site-header__cta-wrap">
+					
+<a  class="site-header__cta-link a-btn is-style-light" href="https://harvardpublichealth.org/subscribe/">Subscribe</a>
+
+				</div>
+			
+			<div class="site-header__search-form" data-js="search-form-container">
+				
+<form
+	 class="c-search--full search-results__form c-search"	role="search"
+	method="get"
+	action="https://harvardpublichealth.org"
+	data-js="search-form"
+>
+
+	<label class="c-search__label u-visually-hidden" for="s-66f347880a439">
+		Search	</label>
+
+	<input
+		class="c-search__input"
+		type="text"
+		id="s-66f347880a439"
+		name="s"
+		placeholder="Enter keyword"
+		data-js="search-form-input"
+		value=""
+	/>
+
+	<button  class="c-search__clear-button" name="reset" data-js="search-form-clear" type="reset">
+	<span>Clear</span></button>
+
+	<button  class="c-search__submit-button" name="submit" type="submit">
+	<span>Search</span></button>
+
+</form>
+			</div>
+
+			<div class="site-header__main-container" data-js="site-header-main-container">
+				<div class="site-header__search-container">
+					<button class="site-header__search-button" data-js="search-form-opener">
+						<i class="icon icon-search"></i>
+						<span class="u-visually-hidden">Search</span>
+					</button>
+				</div>
+
+				
+<button class="site-header__menu-button" data-js="flyout-menu-toggle" aria-expanded="false" aria-controls="flyout-menu">
+	<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<line x1="4.37114e-08" y1="3.5" x2="32" y2="3.5" stroke-width="5%" />
+		<line x1="16" y1="15.5" x2="32" y2="15.5" stroke-width="5%" />
+		<line x1="8" y1="27.5" x2="32" y2="27.5" stroke-width="5%" />
+	</svg>
+	<span class="u-visually-hidden">Open menu</span>
+</button>
+			</div>
+		</div>
+
+		
+<div class="site-header__flyout-container">
+	<div id="flyout-menu" class="site-header__flyout" data-js="flyout-menu">
+		<button class="site-header__flyout-close-button" data-js="flyout-menu-toggle"
+		        aria-label="Close menu">
+			<i class="icon icon-close"></i>
+		</button>
+
+		<div class="site-header__flyout-tagline t-theme--light">
+							
+<p  class="site-header__tagline" >
+	Exploring what works, what doesn’t, and why.</p>
+			
+							<div class="site-header__cta-wrap">
+					
+<a  class="site-header__cta-link a-btn " href="https://harvardpublichealth.org/subscribe/">Subscribe</a>
+
+				</div>
+					</div>
+		
+		<nav  class="site-header__flyout-secondary" data-js="" id="masthead-flyout-secondary" aria-label="Tertiary navigation menu">
+	<ul  class="site-header__flyout-secondary-list" >
+		<li class="flyout_secondary__list-item flyout_secondary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/about/" class="flyout_secondary__action flyout_secondary__action--depth-0">About</a></li>
+<li class="flyout_secondary__list-item flyout_secondary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/contact/" class="flyout_secondary__action flyout_secondary__action--depth-0">Contact</a></li>
+<li class="flyout_secondary__list-item flyout_secondary__list-item--depth-0"><a href="https://harvardpublichealth.org/snapshots" class="flyout_secondary__action flyout_secondary__action--depth-0">Snapshots</a></li>
+<li class="flyout_secondary__list-item flyout_secondary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/republish-our-articles/" class="flyout_secondary__action flyout_secondary__action--depth-0">Republish our articles</a></li>
+<li class="flyout_secondary__list-item flyout_secondary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/submissions/" class="flyout_secondary__action flyout_secondary__action--depth-0">Submissions</a></li>
+<li class="flyout_secondary__list-item flyout_secondary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/support-our-journalism/" class="flyout_secondary__action flyout_secondary__action--depth-0">Support us</a></li>
+	</ul>
+</nav>
+
+					<div class="site-header__flyout-menu-title">
+				Explore			</div>
+		
+		<nav  class="site-header__flyout-primary" data-js="" id="masthead-flyout-primary" aria-label="Secondary navigation menu">
+	<ul  class="site-header__flyout-primary-list" >
+		<li class="flyout_primary__list-item flyout_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/environmental-health/" class="flyout_primary__action flyout_primary__action--depth-0">Environmental Health</a></li>
+<li class="flyout_primary__list-item flyout_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/equity/" class="flyout_primary__action flyout_primary__action--depth-0">Equity</a></li>
+<li class="flyout_primary__list-item flyout_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/global-health/" class="flyout_primary__action flyout_primary__action--depth-0">Global Health</a></li>
+<li class="flyout_primary__list-item flyout_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/mental-health/" class="flyout_primary__action flyout_primary__action--depth-0">Mental Health</a></li>
+<li class="flyout_primary__list-item flyout_primary__list-item--depth-0 flyout_primary__list-item--is-current-parent"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/policy-practice/" class="flyout_primary__action flyout_primary__action--depth-0">Policy &amp; Practice</a></li>
+<li class="flyout_primary__list-item flyout_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/reproductive-health/" class="flyout_primary__action flyout_primary__action--depth-0">Reproductive Health</a></li>
+<li class="flyout_primary__list-item flyout_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/tech-innovation/" class="flyout_primary__action flyout_primary__action--depth-0">Tech &amp; Innovation</a></li>
+	</ul>
+</nav>
+
+		
+<a  class="site-header__flyout-all-topics" href="https://harvardpublichealth.org/all-topics/">All Topics</a>
+
+
+	</div>
+
+	<div class="site-header__flyout-overlay" data-js="flyout-menu-overlay"></div>
+</div>
+	</div>
+
+</header>
+
+	<main id="main-content">
+
+	<article class="item-single" data-js="item-single">
+
+		
+<section  class="s-sink t-sink c-block b-hero t-theme--light color-deep-sea b-hero--layout-right" style="--color-theme: #0D2155">
+	<div class="b-hero__background b-hero__background--color">
+		
+		
+			</div>
+
+	<div  class="b-hero__container l-container">
+
+					<div  class="b-hero__media" >
+				
+<div	 class="b-hero__figure c-image"	>
+
+	
+		<img  class="b-hero__img c-image__image" alt="Illustration: Navy and gray stethoscope with the metal portions creating a house. Four orange squares representing windows are in the center. Background is seafoam green." width="1359" height="1675" src="https://harvardpublichealth.org/wp-content/uploads/2024/06/HarvardPublicHealth_affordable-housing-_v.jpg" sizes="(min-width: 1680px) 750px, (min-width: 768px) calc(50vw - 64px), calc(100vw - 48px)" srcset="https://harvardpublichealth.org/wp-content/uploads/2024/06/HarvardPublicHealth_affordable-housing-_v.jpg 1359w, 
+https://harvardpublichealth.org/wp-content/uploads/2024/06/HarvardPublicHealth_affordable-housing-_v-750x924.jpg 750w" />
+	
+	
+	
+</div>
+			</div>
+		
+		
+		
+		<div  class="b-hero__content">
+			
+<header	 class="c-block__content-block c-block__header b-hero__content-container c-content-block c-content-block--layout-stacked c-block__content-block--has-title c-block__content-block--has-description"	>
+
+	
+<p  class=" t-story-tag b-hero__overline c-content-block__leadin" >
+	Opinion</p>
+
+	
+<h1  class="c-block__title b-hero__title h3 c-content-block__title" >
+	“Health care for the homeless” is just a start. People need housing.</h1>
+
+	<div class="c-block__description b-hero__description t-sink s-sink c-content-block__content">
+Otherwise, cycles of hospitalization will continue.</div>
+
+	
+</header>
+		</div>
+	</div>
+</section>
+
+		
+<header class="sticky-header" data-js="sticky-header" tabindex="0">
+
+	<div class="sticky-header__container">
+		<a href="https://harvardpublichealth.org" class="sticky-header__logo">
+			<svg width="513" class="site-logo" height="44" viewBox="0 0 513 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M0.462891 42H13.9129L8.21289 39.9V22.5H28.7629V39.9L23.0629 42H36.5129L31.7129 39.9V7.55L36.5129 5.45H23.0629L28.7629 7.55V21.6H8.21289V7.55L13.9129 5.45H0.462891L5.26289 7.55V39.9L0.462891 42ZM45.5871 42.6C49.5371 42.6 52.8871 39.45 55.8871 36.05V42.6L62.6871 39.75L58.5371 39.6V23.9C58.5371 19.35 55.3371 16.45 51.3371 16.45C47.8371 16.45 39.7371 20.7 39.7371 23.85C39.7371 24.85 40.3871 25.55 41.2871 25.55C43.7371 25.55 42.8871 20.6 45.7871 18.9C47.1371 18.1 48.2871 17.8 49.6371 17.8C53.2871 17.8 55.8871 20.6 55.8871 24.1V26.5C48.8371 29.2 39.8371 32.4 39.8371 37.35C39.8371 40.85 42.5371 42.6 45.5871 42.6ZM47.0871 40.9C44.6371 40.9 42.5871 39.5 42.5871 36.95C42.5871 32.65 48.9871 29.9 55.8871 27.2V35.1C53.1371 38.15 50.2371 40.9 47.0871 40.9ZM64.6742 42H76.1242L71.3742 40.25V22.2C72.6242 20.7 74.4742 18.5 76.5242 18.5C78.3742 18.5 78.7742 20.55 80.6742 20.55C81.6742 20.55 82.3242 19.85 82.3242 18.85C82.3242 17.4 80.9742 16.45 79.0242 16.45C75.8742 16.45 73.0742 19.15 71.3742 21.15V16.45L64.6242 19.95L68.7242 20.25V40.25L64.6742 42ZM108.382 18.8L112.632 16.95H102.282L107.382 18.75L100.132 38.15H99.532L90.982 18.6L96.032 16.95H84.132L88.082 18.7L99.032 43.15L108.382 18.8ZM118.878 42.6C122.828 42.6 126.178 39.45 129.178 36.05V42.6L135.978 39.75L131.828 39.6V23.9C131.828 19.35 128.628 16.45 124.628 16.45C121.128 16.45 113.028 20.7 113.028 23.85C113.028 24.85 113.678 25.55 114.578 25.55C117.028 25.55 116.178 20.6 119.078 18.9C120.428 18.1 121.578 17.8 122.928 17.8C126.578 17.8 129.178 20.6 129.178 24.1V26.5C122.128 29.2 113.128 32.4 113.128 37.35C113.128 40.85 115.828 42.6 118.878 42.6ZM120.378 40.9C117.928 40.9 115.878 39.5 115.878 36.95C115.878 32.65 122.278 29.9 129.178 27.2V35.1C126.428 38.15 123.528 40.9 120.378 40.9ZM137.965 42H149.415L144.665 40.25V22.2C145.915 20.7 147.765 18.5 149.815 18.5C151.665 18.5 152.065 20.55 153.965 20.55C154.965 20.55 155.615 19.85 155.615 18.85C155.615 17.4 154.265 16.45 152.315 16.45C149.165 16.45 146.365 19.15 144.665 21.15V16.45L137.915 19.95L142.015 20.25V40.25L137.965 42ZM168.004 42.6C171.004 42.6 174.654 40.35 177.404 38.6V42.65L184.154 39.75L180.054 39.6V1.75L173.304 5.4L177.404 5.7V19.75C175.354 17.8 172.154 16.45 169.104 16.45C162.104 16.45 157.404 21.9 157.404 29.8C157.404 37.35 161.654 42.6 168.004 42.6ZM169.704 41.15C164.104 41.15 160.254 36.25 160.254 29.15C160.254 22.1 163.904 17.15 169.204 17.15C173.404 17.15 176.804 20.45 177.404 25.35V37.85C174.704 39.6 171.854 41.15 169.704 41.15ZM197.184 42H211.834L207.284 39.25V25.85H214.034C222.534 25.85 228.884 21.3 228.884 15.2C228.884 9.4 222.534 5 214.034 5H197.184L201.034 8V39.25L197.184 42ZM207.284 6.05H213.384C218.684 6.05 222.384 9.8 222.384 15.2C222.384 20.85 218.684 24.85 213.384 24.85H207.284V6.05ZM242.012 42.6C244.662 42.6 248.712 39.95 251.462 38.1V42.75L260.712 39.15L257.412 38.15V15.8L247.962 19.95L251.462 21.4V37.4C249.262 38.7 246.962 39.55 245.312 39.55C242.762 39.55 240.912 37.45 240.912 34.95V15.8L231.462 19.95L234.962 21.4V35.15C234.962 39.65 237.912 42.6 242.012 42.6ZM268.422 39.95C270.822 41.6 274.122 42.6 277.172 42.6C285.322 42.6 290.472 36.75 290.472 28.45C290.472 20.95 286.122 15.8 279.722 15.8C277.122 15.8 273.372 18.25 270.672 20.1V0.799997L261.222 4.95L264.722 6.4V42.6L268.422 39.95ZM277.222 41.8C273.972 41.8 271.172 39.15 270.672 34.8V20.9C272.872 19.6 274.822 18.7 276.322 18.7C280.772 18.7 284.122 23.4 284.122 30.2C284.122 37 281.322 41.8 277.222 41.8ZM292.648 42H304.848L301.748 39.8V0.799997L292.298 4.95L295.748 6.35V39.8L292.648 42ZM316.161 11.05V4.2H309.411V11.05H316.161ZM306.961 42H319.261L316.061 39.8V15.8L306.611 19.95L310.111 21.35V39.8L306.961 42ZM333.466 42.6C339.166 42.6 343.316 38.4 344.366 31.4C342.966 36 340.166 38.25 336.116 38.25C330.816 38.25 327.366 33.7 327.366 27.2C327.366 21.15 330.016 16.6 333.916 16.6C338.316 16.6 336.566 24.15 340.816 24.15C342.216 24.15 343.216 23.05 343.216 21.5C343.216 18.5 339.166 15.8 333.916 15.8C326.716 15.8 321.366 21.5 321.366 29.7C321.366 37.55 326.366 42.6 333.466 42.6ZM356.804 42H371.454L366.904 39.25V22.55H383.904V39.25L379.404 42H394.054L390.204 39.25V7.75L394.054 5H379.404L383.904 7.75V21.55H366.904V7.75L371.454 5H356.804L360.654 7.75V39.25L356.804 42ZM408.564 42.6C414.264 42.6 418.414 38.4 419.464 31.4C418.064 36 415.264 38.4 411.214 38.4C405.914 38.4 402.464 33.85 402.464 27.45C402.464 26.9 402.514 26.4 402.514 25.85H418.714V25.45C418.714 19.7 414.664 15.8 408.714 15.8C401.614 15.8 396.464 21.6 396.464 29.8C396.464 37.5 401.464 42.6 408.564 42.6ZM402.614 25.05C403.214 19.95 405.614 16.6 408.714 16.6C411.264 16.6 413.114 19.6 413.114 23C413.114 24.25 412.664 25.05 411.414 25.05H402.614ZM428.738 42.6C432.338 42.6 435.788 40 438.738 36.8V42.6L447.938 39L444.638 38.05V23.55C444.638 18.95 441.438 15.8 436.688 15.8C432.938 15.8 422.688 19.95 422.688 24.3C422.688 25.9 423.738 27.05 425.238 27.05C429.238 27.05 427.438 20.35 430.288 18.5C431.288 17.85 432.238 17.6 433.388 17.6C436.488 17.6 438.738 20.15 438.738 23.75V26.15C431.938 29.1 422.838 32.4 422.838 37.3C422.838 40.4 425.238 42.6 428.738 42.6ZM432.688 39.4C430.338 39.4 428.688 37.8 428.688 35.45C428.688 31.7 433.238 29.3 438.738 27V35.65C436.888 37.75 434.888 39.4 432.688 39.4ZM449.435 42H461.635L458.535 39.8V0.799997L449.085 4.95L452.535 6.35V39.8L449.435 42ZM473.948 42.6C477.548 42.6 481.248 40.05 483.198 36.5C481.898 38.3 479.548 39.5 477.448 39.5C474.698 39.5 472.898 37.9 472.898 35.55V19.1H481.348V17H472.898V9.25L466.848 12V15.45L462.848 18.7L467.548 20.4L466.848 35.9C466.698 40.1 469.548 42.6 473.948 42.6ZM483.372 42H495.822L492.422 39.8V21C494.522 19.8 496.872 18.65 498.772 18.65C501.122 18.65 503.022 20.8 503.022 23.6V39.8L499.672 42H512.072L508.972 39.8V23.3C508.972 18.8 506.022 15.8 501.922 15.8C499.522 15.8 495.522 18.3 492.422 20.3V0.799997L482.972 4.95L486.472 6.4V39.8L483.372 42Z" fill="black"/>
+		</svg>			<span class="u-visually-hidden">Harvard Public Health Magazine</span>
+		</a>
+
+		
+<div  class="sticky-header__title" >
+	“Health care for the homeless” is just a start. People need housing.</div>
+
+		<div class="sticky-header__actions">
+			<button class="sticky-header__share" data-js="share-button">
+				<span class="t-text-button">Share</span>
+				<i class="icon icon-share"></i>
+			</button>
+		</div>
+
+		<div class="sticky-header__share-container" data-js="share-container">
+			<div class="social-share">
+
+	<p class="social-share__title u-visually-hidden">Share This</p>
+
+	<ul class="social-share-networks" data-js="social-share-networks">
+					<li class="social-share-networks__item">
+				
+<a  class="social-share-networks__anchor icon icon-linkedin" data-js="social-share-popup" data-width="640" data-height="352" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fharvardpublichealth.org%2Fpolicy-practice%2Faffordable-housing-is-key-to-end-cycles-of-homeless-hospitalization%2F&amp;title=%E2%80%9CHealth+care+for+the+homeless%E2%80%9D+is+just+a+start.+People+need+housing.">
+<span  class="u-visually-hidden" >
+	Share on LinkedIn</span>
+</a>
+
+			</li>
+					<li class="social-share-networks__item">
+				
+<a  class="social-share-networks__anchor icon icon-twitter" data-js="social-share-popup" data-width="550" data-height="450" title="Share on Twitter" href="https://twitter.com/share?url=https%3A%2F%2Fharvardpublichealth.org%2Fpolicy-practice%2Faffordable-housing-is-key-to-end-cycles-of-homeless-hospitalization%2F&amp;text=%E2%80%9CHealth+care+for+the+homeless%E2%80%9D+is+just+a+start.+People+need+housing.">
+<span  class="u-visually-hidden" >
+	Share on Twitter</span>
+</a>
+
+			</li>
+					<li class="social-share-networks__item">
+				
+<a  class="social-share-networks__anchor icon icon-facebook" data-js="social-share-popup" data-width="640" data-height="352" title="Share on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fharvardpublichealth.org%2Fpolicy-practice%2Faffordable-housing-is-key-to-end-cycles-of-homeless-hospitalization%2F&amp;t=%E2%80%9CHealth+care+for+the+homeless%E2%80%9D+is+just+a+start.+People+need+housing.">
+<span  class="u-visually-hidden" >
+	Share on Facebook</span>
+</a>
+
+			</li>
+					<li class="social-share-networks__item">
+				
+<a  class="social-share-networks__anchor icon icon-whatsapp" data-js="social-share-popup" data-width="640" data-height="352" title="Share on WhatsApp" href="https://wa.me/?text=%E2%80%9CHealth+care+for+the+homeless%E2%80%9D+is+just+a+start.+People+need+housing.%20https%3A%2F%2Fharvardpublichealth.org%2Fpolicy-practice%2Faffordable-housing-is-key-to-end-cycles-of-homeless-hospitalization%2F">
+<span  class="u-visually-hidden" >
+	Share on WhatsApp</span>
+</a>
+
+			</li>
+					<li class="social-share-networks__item">
+				
+<a  class="social-share-networks__anchor icon icon-email" title="Share through Email" href="mailto:?subject=%E2%80%9CHealth+care+for+the+homeless%E2%80%9D+is+just+a+start.+People+need+housing.&amp;body=https%3A%2F%2Fharvardpublichealth.org%2Fpolicy-practice%2Faffordable-housing-is-key-to-end-cycles-of-homeless-hospitalization%2F">
+<span  class="u-visually-hidden" >
+	Share through Email</span>
+</a>
+
+			</li>
+			</ul>
+</div>
+
+			<button class="sticky-header__close-search" data-js="close-share">
+				<i class="icon icon-circle-close"></i>
+			</button>
+		</div>
+	</div>
+</header>
+
+		<div class="item-single__container">
+
+			<div class="l-container">
+				<div class="item-single__categories--container">
+											<div class="item-single__categories item-single__categories--desktop">
+							
+<div  class="t-overline item-single__meta-label" >
+	Filed Under</div>
+							<div class="item-single__categories-links">
+								
+<a  class="a-tag-link item-single__term-link" href="https://harvardpublichealth.org/policy-practice/" aria-label="More articles from Policy &amp; Practice">Policy &amp; Practice</a>
+
+							</div>
+						</div>
+					
+					
+					
+<div class="item-single__republish item-single__republish--desktop" data-js="republish">
+	<a class="republish__text">
+		<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="36.41618497109827 32.76 117.26011560693641 116.116"
+			 style="max-height: 500px" width="117" height="117" class="arrows">
+
+			<path stroke-width="1.7" stroke="var(--svg-path-color)"
+				  d="M131.962 48.3674C108.536 27.6518 72.7523 29.8489 52.0368 53.2748C33.709 74.0005 33.3163 104.399 49.6923 125.478"/>
+			<path fill="var(--svg-path-color)"
+				  d="M135.166 50.4801L134.784 50.9505C133.77 50.6458 132.701 50.4602 131.582 50.3936C130.462 50.3269 129.024 50.3861 127.266 50.5711L126.387 49.8592C128.008 49.1655 129.477 48.7687 130.749 48.6188L131.993 47.0832C131.957 46.1967 131.954 45.5315 131.986 45.0839C132.024 44.5708 132.137 43.7304 132.324 42.5686L133.203 43.2805C133.552 46.4379 134.207 48.8364 135.166 50.4801Z"/>
+			<path stroke-width="1.69223" stroke="var(--svg-path-color)"
+				  d="M56.9678 132.822C80.5174 153.573 116.341 151.34 136.983 127.833C155.245 107.036 155.505 76.5549 139.014 55.433"/>
+			<path fill="var(--svg-path-color)"
+				  d="M53.7498 130.707L54.1293 130.235C55.1464 130.54 56.2175 130.725 57.3389 130.791C58.4602 130.857 59.9006 130.796 61.66 130.609L62.5431 131.322C60.9227 132.019 59.454 132.418 58.1808 132.57L56.9418 134.11C56.9819 134.999 56.987 135.666 56.9578 136.115C56.9215 136.629 56.8119 137.472 56.6299 138.637L55.7469 137.924C55.3833 134.759 54.7166 132.354 53.7498 130.707Z"/>
+		</svg>
+
+		<span>Republish</span>
+
+	</a>
+</div>
+
+				</div>
+
+				<div class="item-single__meta-container">
+																		<div class="item-single__meta-box">
+								
+<div  class="t-overline item-single__meta-label" >
+	Written by</div>
+								
+<div  class="item-single__meta-value" >
+	Jeremy Cygler</div>
+							</div>
+											
+											<div class="item-single__meta-box">
+							
+<div  class="t-overline item-single__meta-label" >
+	Published</div>
+							
+<div  class="item-single__meta-value" >
+	June 20, 2024</div>
+
+							
+<div class="item-single__republish item-single__republish--mobile" data-js="republish">
+	<a class="republish__text">Republish this article</a>
+</div>
+
+						</div>
+					
+											<div class="item-single__meta-box">
+							
+<div  class="t-overline item-single__meta-label" >
+	Read Time</div>
+							<div class="item-single__meta-value">
+								4 min							</div>
+						</div>
+					
+									</div>
+			</div>
+
+			<div class="item-single__content s-sink t-sink l-sink l-sink--double">
+				
+<p class="has-drop-cap">On a sweltering July morning last year, I met a new patient. His cracked and calloused feet suggested he had spent nights awake and wandering the streets, afraid of falling asleep on a park bench and getting mugged, and I noticed a weariness in his gaze. He’d been admitted to the hospital with dangerously high blood pressure and pains in his chest.</p>
+
+
+
+<p>Two months earlier, he’d undergone a thorough workup at this very hospital, and been discharged with medications to lower his blood pressure and treat his heart conditions. But he’d lost his medications when his backpack had been stolen, he told me, and it had been nearly impossible to follow a regimen that required him to take pills four times a day when he didn’t have a place to store his medications or even a watch.</p>
+
+
+
+<p>After a day in the hospital, his blood pressure returned to normal and his chest pain disappeared. Our team tried to find him housing, but we could only arrange an urgent referral to the city’s overburdened social services programs. I felt powerless as I discharged him to a nearby shelter, anticipating he’d be admitted again.</p>
+
+
+
+<p>This story is typical for many people experiencing homelessness—a population that has been on the rise in the United States since 2016. The most recent national survey estimated <a href="https://www.huduser.gov/portal/sites/default/files/pdf/2023-AHAR-Part-1.pdf" target="_blank" rel="noreferrer noopener">650,000 people experienced homelessness on a single night in 2023</a>, up 12 percent from 2022. People experiencing homelessness seek medical attention for ailments directly attributable to their living conditions—and yet the health care system fails to address the underlying problem, which creates a cycle of hospitalizations. Without more housing that people like my patient can afford, the care that doctors like me provide can be futile.</p>
+
+
+
+<section  class="in-article-cta c-block b-lead-form l-container t-theme--light" >
+	<div  class="b-lead-form__container u-bg-pebble" >
+				<header class="b-lead-form__header">
+			
+<h2  class="c-block__title b-lead-form__title" >
+	Sign up for Harvard Public Health</h2>
+			
+<div  class="c-block__subtitle b-lead-form__subtitle" role="doc-subtitle">
+	Exploring what works, what doesn&#039;t, and why.</div>
+		</header>
+		
+		<div class="b-lead-form__content">
+			
+<p  class="b-lead-form__description" >
+	Delivered to your inbox weekly.</p>
+			<div  class="b-lead-form__form">
+				
+
+                <div class='gf_browser_chrome gform_wrapper gform_legacy_markup_wrapper gform-theme--no-framework' data-form-theme='legacy' data-form-index='0' id='gform_wrapper_1' ><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><li id="field_1_2" class="gfield gfield--type-email gfield--width-full field_sublabel_below gfield--has-description field_description_below hidden_label field_validation_below gfield_visibility_visible gf-email"  data-field-class="gf-email" data-js-reload="field_1_2" ><label class='gfield_label gform-field-label' for='input_1_2'>Email address</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_1_2' type='email' value='' class='large'   placeholder='Email address'  aria-invalid="false" aria-describedby="gfield_description_1_2" autocomplete="email"/>
+                        </div><div class='gfield_description' id='gfield_description_1_2'>By clicking “Subscribe,” you agree to receive email communications from Harvard Public Health.</div></li><li id="field_1_3" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_3" ><label class='gfield_label gform-field-label' for='input_1_3'>Phone</label><div class='ginput_container'><input name='input_3' id='input_1_3' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_3'>This field is for validation purposes and should be left unchanged.</div></li></ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Subscribe'  onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=0&amp;theme=legacy' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImVlNjI0ZTc0NmYzODIyM2E2Nzg3NzBiMzFjOWZlNjg0Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://harvardpublichealth.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://harvardpublichealth.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+
+			</div>
+					</div>
+	</div>
+</section>
+
+
+
+<p>As the number of people who are unsheltered—living in tents or on the street, not in shelters—has increased, so have attempts at displacement. The Supreme Court is considering whether a law in Grants Pass, Oregon that bans sleeping on public property or in public parks constitutes cruel and unusual punishment. Around the country, cities regularly clear encampments of people experiencing homelessness. Research suggests that <a href="https://www.apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2024/01/16/displacement-of-encampments" target="_blank" rel="noreferrer noopener">encampment sweeps worsen the health</a> of the displaced inhabitants.</p>
+
+
+
+<p>In their book <a href="https://www.jchs.harvard.edu/blog/rents-have-soared-across-country-home-prices-grew-even-faster" target="_blank" rel="noreferrer noopener"><em>Homelessness is a Housing Problem</em></a>, authors Gregg Colburn and Clayton Page Aldern argue that affordable housing scarcity is driving rising homelessness. Rents and home prices <a href="https://www.jchs.harvard.edu/blog/rents-have-soared-across-country-home-prices-grew-even-faster">soared during the COVID-19 pandemic</a>, exacerbating an already dire housing market situation. Creating affordable housing will not end homelessness—unmet behavioral, mental, and physical health needs are both the cause and consequence of homelessness, and they will need to be addressed—but affordable housing is a necessary step.</p>
+
+
+
+<p>Several studies have shown the cost benefits of supportive housing for homeless people with chronic illness, mental health issues, and substance abuse. The savings are highest when housing programs target individuals who are frequent users of health care. For example, a housing program for people experiencing homelessness and severe alcohol problems in Seattle <a href="https://www.tn.gov/content/dam/tn/health/program-areas/NHC_Invest_Housing_Save_Health_Care_2016.pdf" target="_blank" rel="noreferrer noopener">saved about $43,000 in health costs per person each year</a>, while the housing provided cost about $13,000. However, not all studies have found the same results. We need more research to understand the most cost-effective ways of implementing housing programs.</p>
+
+
+
+<aside  class=" c-block b-pull-post c-block--pull-right" >
+	<div  class="b-pull-post__container c-block__container">
+
+					
+<h2  class="c-block__overline b-pull-post__overline" >
+	More from HPH</h2>
+		
+		<div  class="b-pull-post__content">
+							
+<article  class="c-card has-target-link c-card--type-post c-card--style-pull" data-js="use-target-link">
+
+	
+	<div  class="c-card__content">
+
+		<div class="t-story-tag c-card__meta-primary">
+Book</div>
+
+		
+<h3  class="t-display-variable c-card__title" id="p-66f3478813043-title">
+	
+<a  class="c-card__link" data-js="target-link" href="https://harvardpublichealth.org/equity/rough-sleepers-tracy-kidder-on-bringing-healthcare-to-the-homeless/">Inside the Sisyphean crisis of homelessness</a>
+
+</h3>
+
+		
+		
+		
+		
+	</div>
+
+</article>
+							
+<article  class="c-card has-target-link c-card--type-post c-card--style-pull" data-js="use-target-link">
+
+	
+	<div  class="c-card__content">
+
+		<div class="t-story-tag c-card__meta-primary">
+Feature</div>
+
+		
+<h3  class="t-display-variable c-card__title" id="p-66f34788131d4-title">
+	
+<a  class="c-card__link" data-js="target-link" href="https://harvardpublichealth.org/equity/fighting-for-more-black-homeownership-and-less-systemic-racism/">For Black Americans, homeownership can mean better health</a>
+
+</h3>
+
+		
+		
+		
+		
+	</div>
+
+</article>
+							
+<article  class="c-card has-target-link c-card--type-post c-card--style-pull" data-js="use-target-link">
+
+	
+	<div  class="c-card__content">
+
+		<div class="t-story-tag c-card__meta-primary">
+Opinion</div>
+
+		
+<h3  class="t-display-variable c-card__title" id="p-66f34788132d0-title">
+	
+<a  class="c-card__link" data-js="target-link" href="https://harvardpublichealth.org/mental-health/what-is-fountain-house-how-does-the-clubhouse-model-work/">Fountain House saw my strengths, not just my illness</a>
+
+</h3>
+
+		
+		
+		
+		
+	</div>
+
+</article>
+					</div>
+
+	</div>
+</aside>
+
+
+
+<p>Health care systems have traditionally focused on providing and improving health care for people experiencing homelessness. It’s time for them to do more. A few innovative health systems have already begun to do so. In New Jersey, St. Joseph’s Health financed the development of <a href="https://www.huduser.gov/portal/pdredge/pdr-edge-inpractice-030524.html" target="_blank" rel="noreferrer noopener">56 units of affordable housing</a> on land that the hospital owned. In New Orleans, the managed care organization Aetna invested $26.7 million in a <a href="https://www.nytimes.com/2024/03/12/business/affordable-housing-hospitals-investment.html" target="_blank" rel="noreferrer noopener">192-unit affordable housing complex</a>. In Toronto, where a large number of people are experiencing homelessness, the University Health Network partnered with the city to build <a href="https://www.thestar.com/news/gta/why-a-hospital-network-is-turning-a-parking-lot-into-affordable-housing/article_7c0f2782-fced-5bbf-b0c9-144a6440a032.html" target="_blank" rel="noreferrer noopener">51 units of affordable housing</a> on a parking lot it owned. And <a href="https://about.kaiserpermanente.org/commitments-and-impact/healthy-communities/improving-community-conditions/housing-security" target="_blank" rel="noreferrer noopener">Kaiser Permanente has committed $400 million</a> to creating or preserving 30,000 affordable housing units in parts of California, where the homeless population is the country’s highest, by 2030. Since health care systems are primary partners in these developments, they frequently provide residents with on-site health care and social services.</p>
+
+
+
+<p class=" t-has-endmark t-has-endmark">More hospitals, provider networks, insurers, and <a href="https://www.vox.com/2024/2/13/24064445/medicaid-rent-housing-homelessness-healthcare">government agencies</a> should take on a role in directly addressing the housing shortage. They should invest in housing development, especially projects that create affordable or supportive housing units, and donate unused land to further this goal. For too long, players in health care have focused on mitigating the consequences of homelessness, rather than addressing the root problem. Now, it&#8217;s time for them to be a part of the solution and create healthier communities for all.</p>
+
+
+
+<p class="is-style-t-caption">Source image: SkyAceDesign / iStock</p>
+			</div>
+
+							<div class="item-single__categories item-single__categories--mobile">
+					
+<div  class="t-overline item-single__meta-label" >
+	Filed Under</div>
+					<div class="item-single__categories-links">
+						
+<a  class="a-tag-link item-single__term-link" href="https://harvardpublichealth.org/policy-practice/" aria-label="More articles from Policy &amp; Practice">Policy &amp; Practice</a>
+
+					</div>
+				</div>
+			
+			
+							<div class="item-single__contributors">
+					
+<div  class="c-block__overline item-single__section-title" >
+	Contributors</div>
+					
+<div  class="c-contributor">
+
+	
+<div  class="c-contributor__initials u-bg-lemon u-fc-black" >
+	JC</div>
+
+			<div class="c-contributor__description">
+			
+<div  class="c-contributor__name" >
+	Jeremy Cygler</div>
+						
+<div  class="c-contributor__bio t-sink s-sink" >
+	Jeremy Cygler is a doctor based in Toronto.</div>
+
+					</div>
+	</div>
+				</div>
+			
+			
+			
+<div class="republish-modal__body is-hidden" data-js="republish-modal">
+
+	<div class="close">
+		<div class="inner" data-js="republish-modal__close">
+			<a>Return to story</a>
+		</div>
+	</div>
+
+	<div class="republish-modal__content wp-block-columns alignwide">
+
+		<h2 class="h2">Republish this article</h2>
+
+		<article class="republish-modal__content__html-wrapper">
+			<div class="content" data-js="content">&lt;h1&gt;“Health care for the homeless” is just a start. People need housing.&lt;/h1&gt;<br />
+<br />
+&lt;p&gt;Otherwise, cycles of hospitalization will continue.&lt;/p&gt;<br />
+<br />
+&lt;p&gt;Written by Jeremy Cygler&lt;/p&gt;<br />
+<br />
+&lt;p&gt;This &lt;a rel=&quot;canonical&quot; href=&quot;https://harvardpublichealth.org/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/&quot;&gt;article&lt;/a&gt; originally appeared in&lt;a href=&quot;https://harvardpublichealth.org/&quot;&gt;Harvard Public Health magazine&lt;/a&gt;. Subscribe to their &lt;a href=&quot;https://harvardpublichealth.org/subscribe/&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;<br />
+<br />
+&lt;p class=&quot;has-drop-cap&quot;&gt;On a sweltering July morning last year, I met a new patient. His cracked and calloused feet suggested he had spent nights awake and wandering the streets, afraid of falling asleep on a park bench and getting mugged, and I noticed a weariness in his gaze. He’d been admitted to the hospital with dangerously high blood pressure and pains in his chest.&lt;/p&gt;<br />
+<br />
+&lt;p&gt;Two months earlier, he’d undergone a thorough workup at this very hospital, and been discharged with medications to lower his blood pressure and treat his heart conditions. But he’d lost his medications when his backpack had been stolen, he told me, and it had been nearly impossible to follow a regimen that required him to take pills four times a day when he didn’t have a place to store his medications or even a watch.&lt;/p&gt;<br />
+<br />
+&lt;p&gt;After a day in the hospital, his blood pressure returned to normal and his chest pain disappeared. Our team tried to find him housing, but we could only arrange an urgent referral to the city’s overburdened social services programs. I felt powerless as I discharged him to a nearby shelter, anticipating he’d be admitted again.&lt;/p&gt;<br />
+<br />
+&lt;p&gt;This story is typical for many people experiencing homelessness—a population that has been on the rise in the United States since 2016. The most recent national survey estimated &lt;a href=&quot;https://www.huduser.gov/portal/sites/default/files/pdf/2023-AHAR-Part-1.pdf&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;650,000 people experienced homelessness on a single night in 2023&lt;/a&gt;, up 12 percent from 2022. People experiencing homelessness seek medical attention for ailments directly attributable to their living conditions—and yet the health care system fails to address the underlying problem, which creates a cycle of hospitalizations. Without more housing that people like my patient can afford, the care that doctors like me provide can be futile.&lt;/p&gt;<br />
+<br />
+&lt;p&gt;As the number of people who are unsheltered—living in tents or on the street, not in shelters—has increased, so have attempts at displacement. The Supreme Court is considering whether a law in Grants Pass, Oregon that bans sleeping on public property or in public parks constitutes cruel and unusual punishment. Around the country, cities regularly clear encampments of people experiencing homelessness. Research suggests that &lt;a href=&quot;https://www.apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2024/01/16/displacement-of-encampments&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;encampment sweeps worsen the health&lt;/a&gt; of the displaced inhabitants.&lt;/p&gt;<br />
+<br />
+&lt;p&gt;In their book &lt;a href=&quot;https://www.jchs.harvard.edu/blog/rents-have-soared-across-country-home-prices-grew-even-faster&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;&lt;em&gt;Homelessness is a Housing Problem&lt;/em&gt;&lt;/a&gt;, authors Gregg Colburn and Clayton Page Aldern argue that affordable housing scarcity is driving rising homelessness. Rents and home prices &lt;a href=&quot;https://www.jchs.harvard.edu/blog/rents-have-soared-across-country-home-prices-grew-even-faster&quot;&gt;soared during the COVID-19 pandemic&lt;/a&gt;, exacerbating an already dire housing market situation. Creating affordable housing will not end homelessness—unmet behavioral, mental, and physical health needs are both the cause and consequence of homelessness, and they will need to be addressed—but affordable housing is a necessary step.&lt;/p&gt;<br />
+<br />
+&lt;p&gt;Several studies have shown the cost benefits of supportive housing for homeless people with chronic illness, mental health issues, and substance abuse. The savings are highest when housing programs target individuals who are frequent users of health care. For example, a housing program for people experiencing homelessness and severe alcohol problems in Seattle &lt;a href=&quot;https://www.tn.gov/content/dam/tn/health/program-areas/NHC_Invest_Housing_Save_Health_Care_2016.pdf&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;saved about $43,000 in health costs per person each year&lt;/a&gt;, while the housing provided cost about $13,000. However, not all studies have found the same results. We need more research to understand the most cost-effective ways of implementing housing programs.&lt;/p&gt;<br />
+<br />
+&lt;p&gt;Health care systems have traditionally focused on providing and improving health care for people experiencing homelessness. It’s time for them to do more. A few innovative health systems have already begun to do so. In New Jersey, St. Joseph’s Health financed the development of &lt;a href=&quot;https://www.huduser.gov/portal/pdredge/pdr-edge-inpractice-030524.html&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;56 units of affordable housing&lt;/a&gt; on land that the hospital owned. In New Orleans, the managed care organization Aetna invested $26.7 million in a &lt;a href=&quot;https://www.nytimes.com/2024/03/12/business/affordable-housing-hospitals-investment.html&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;192-unit affordable housing complex&lt;/a&gt;. In Toronto, where a large number of people are experiencing homelessness, the University Health Network partnered with the city to build &lt;a href=&quot;https://www.thestar.com/news/gta/why-a-hospital-network-is-turning-a-parking-lot-into-affordable-housing/article_7c0f2782-fced-5bbf-b0c9-144a6440a032.html&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;51 units of affordable housing&lt;/a&gt; on a parking lot it owned. And &lt;a href=&quot;https://about.kaiserpermanente.org/commitments-and-impact/healthy-communities/improving-community-conditions/housing-security&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Kaiser Permanente has committed $400 million&lt;/a&gt; to creating or preserving 30,000 affordable housing units in parts of California, where the homeless population is the country’s highest, by 2030. Since health care systems are primary partners in these developments, they frequently provide residents with on-site health care and social services.&lt;/p&gt;<br />
+<br />
+&lt;p class=&quot; t-has-endmark t-has-endmark&quot;&gt;More hospitals, provider networks, insurers, and &lt;a href=&quot;https://www.vox.com/2024/2/13/24064445/medicaid-rent-housing-homelessness-healthcare&quot;&gt;government agencies&lt;/a&gt; should take on a role in directly addressing the housing shortage. They should invest in housing development, especially projects that create affordable or supportive housing units, and donate unused land to further this goal. For too long, players in health care have focused on mitigating the consequences of homelessness, rather than addressing the root problem. Now, it's time for them to be a part of the solution and create healthier communities for all.&lt;/p&gt;<br />
+<br />
+&lt;script async src=&quot;https://www.googletagmanager.com/gtag/js?id=G-S1L5BS4DJN&quot;&gt;&lt;/script&gt;<br />
+&lt;script&gt;<br />
+window.dataLayer = window.dataLayer || [];<br />
+if (typeof gtag !== &quot;function&quot;) {function gtag(){dataLayer.push(arguments);}}<br />
+gtag('js', new Date());<br />
+gtag('config', 'G-S1L5BS4DJN');<br />
+&lt;/script&gt;<br />
+</div>
+
+			<div class="button-wrapper">
+				<label class="label is-hidden" for="copy-button" data-js="copied-label">Copied!</label>
+				<button id="copy-button" type="button" data-js="copy-button">Copy HTML</button>
+			</div>
+
+		</article>
+
+		<div class="republish-modal__content-guidelines">
+			<h3 class="h3">Republishing guidelines</h3>
+
+			<div class="republish-modal__content-guidelines__content">
+				<div class="t-sink s-sink column content__left"><p>We’re happy to know you’re interested in republishing one of our stories. Please follow the guidelines below, adapted from other sites, primarily ProPublica’s <a href="https://www.propublica.org/steal-our-stories/">Steal Our Stories</a> guidelines (we didn’t steal <em>all </em>of its republishing guidelines, but we stole a lot of them). We also borrowed from <a href="https://undark.org/republishing-guidelines/">Undark</a> and <a href="https://kffhealthnews.org/syndication/">KFF Health News</a>.</p>
+<p><strong>Timeframe:</strong> Most stories and opinion pieces on our site can be republished within 90 days of posting. An article is available for republishing if our “Republish” button appears next to the story. We follow the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons noncommercial no-derivatives license</a>.</p>
+<p>When republishing a <em>Harvard Public Health</em> story, please follow these rules and use the required acknowledgments:</p>
+<ul>
+<li>Do not edit our stories, except to reflect changes in time (for instance, “last week” may replace “yesterday”), make style updates (we use serial commas; you may choose not to), and location (we spell out state names; you may choose not to).</li>
+<li>Include the author’s byline.</li>
+<li>Include text at the top of the story that says, “This article was originally published by <em>Harvard Public Health</em>. You must link the words “Harvard Public Health” to the story’s original/canonical URL.</li>
+<li>You must preserve the links in our stories, including our newsletter sign-up language and link.</li>
+<li>You must use our analytics tag: a single pixel and a snippet of HTML code that allows us to monitor our story’s traffic on your site. If you utilize our “Republish” link, the code will be automatically appended at the end of the article. It occupies minimal space and will be enclosed within a standard &lt;script&gt; tag.</li>
+<li>You must set the canonical link to the original <em>Harvard Public Health</em> URL or otherwise ensure that canonical tags are properly implemented to indicate that HPH is the original source of the content. For more information about canonical metadata, <a href="https://support.google.com/webmasters/answer/139066?hl=en">click here</a>.</li>
+</ul>
+<p><strong>Packaging:</strong> Feel free to use our headline and deck or to craft your own headlines, subheads, and other material.</p>
+</div>
+				<div class="t-sink s-sink column content__right"><p class="p1"><span class="s1"><b>Art:</b> You may republish editorial cartoons and photographs on stories with the “Republish” button. For illustrations or articles without the “Republish” button, please reach out to <a href="mailto:republishing@hsph.harvard.edu"><span class="s2">republishing@hsph.harvard.edu</span></a>.</span></p>
+<p class="p1"><span class="s1"><b>Exceptions: </b>Stories that do not include a Republish button are either exclusive to us or governed by another collaborative agreement. Please reach out directly to the author, photographer, illustrator, or other named contributor for permission to reprint work that does not include our Republish button. Please do the same for stories published more than 90 days previously. If you have any questions, contact us at <a href="mailto:republishing@hsph.harvard.edu"><span class="s3">republishing@hsph.harvard.edu</span></a>.</span></p>
+<p class="p1"><span class="s1"><b>Translations:</b> If you would like to translate our story into another language, please contact us first at <a href="mailto:republishing@hsph.harvard.edu"><span class="s2">republishing@hsph.harvard.edu</span></a>.</span></p>
+<p class="p1"><span class="s1"><b>Ads:</b> It’s okay to put our stories on pages with ads, but not ads specifically sold against our stories. You can’t state or imply that donations to your organization support <i>Harvard Public Health</i>.</span></p>
+<p class="p3"><span class="s1"><b>Responsibilities and restrictions: </b>You have no rights to sell, license, syndicate, or otherwise represent yourself as the authorized owner of our material to any third parties. This means that you cannot actively publish or submit our work for syndication to third-party platforms or apps like Apple News or Google News. <i>Harvard Public Health</i> recognizes that publishers cannot fully control when certain third parties aggregate or crawl content from publishers’ own sites.</span></p>
+<p class="p1"><span class="s1">You may not republish our material wholesale or automatically; you need to select stories to be republished individually. </span></p>
+<p class="p1"><span class="s1">You may not use our work to populate a website designed to improve rankings on search engines or solely to gain revenue from network-based advertisements.</span></p>
+<p class="p3"><span class="s1">Any website on which our stories appear must include a prominent and effective way to contact the editorial team at the publication.</span></p>
+<p><strong>Social media:</strong> If your publication shares republished stories on social media, we welcome a tag. We are @PublicHealthMag on <a href="https://twitter.com/PublicHealthMag">X</a>, <a href="https://www.threads.net/@publichealthmag">Threads</a>, and <a href="https://www.instagram.com/publichealthmag/">Instagram</a>, and Harvard Public Health magazine on <a href="https://www.facebook.com/PublicHealthMag">Facebook</a> and <a href="mailto:https://www.linkedin.com/showcase/publichealthmag/">LinkedIn</a>.</p>
+<p class="p1"><span class="s1"><b>Questions:</b> If you have other questions, email us at <a href="mailto:republishing@hsph.harvard.edu"><span class="s3">republishing@hsph.harvard.edu</span></a>. </span></p>
+</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+		</div>
+
+		
+<section  class="item-single__related-posts t-sink c-block b-post-loop b-post-loop--columns-3 b-post-loop--has-overline" >
+	<div  class="l-container">
+
+					<header class="b-post-loop__header">
+				
+<h2  class="b-post-loop__overline c-block__overline" >
+	More in Policy &amp; Practice</h2>
+									<div class="b-post-loop__cta">
+<a  class="a-cta a-cta--with-arrow is-text-only" href="https://harvardpublichealth.org/policy-practice/" aria-label="More articles from Policy &amp; Practice">See all<i class="icon icon-arrow-right"></i></a>
+
+</div>
+							</header>
+		
+		<div  class="b-post-loop__content">
+							
+<article  class="c-card has-target-link c-card--type-post c-card--style-stacked-3up" data-js="use-target-link">
+
+			<div  class="c-card__media">
+			
+<figure	 class="c-card__figure c-image"	>
+
+	
+		<img  class="c-card__image c-image__image lazyload" alt="Jennifer Layden speaks into two microphones at podium at a city of Chicago press conference. Three other officials stand behind her." width="1200" height="800" data-expand="200" data-parent-fit="width" data-src="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_JenniferLayden_CDC_f.jpg" srcset="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_JenniferLayden_CDC_f-50x33.jpg" data-sizes="(min-width: 1680px) 480px, (min-width: 1024px) calc(33vw - 64px), calc(25vw - 48px)" data-srcset="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_JenniferLayden_CDC_f.jpg 1200w, 
+https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_JenniferLayden_CDC_f-750x500.jpg 750w" src="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_JenniferLayden_CDC_f-50x33.jpg" />
+	
+	
+	
+</figure>
+		</div>
+	
+	<div  class="c-card__content">
+
+		<div class="t-story-tag c-card__meta-primary">
+People</div>
+
+		
+<h3  class="t-display-variable c-card__title" id="p-66f347881f20a-title">
+	
+<a  class="c-card__link" data-js="target-link" href="https://harvardpublichealth.org/policy-practice/public-health-data-management-needs-fixing-heres-how-we-do-it/">Bringing public health data into the 21st century</a>
+
+</h3>
+
+		<div class="t-display-variable c-card__subtitle"id="p-66f347881f20a-subtitle">
+In the U.S., data is handled differently for every disease. Jennifer Layden hopes to improve that system.</div>
+
+		
+		
+		
+	</div>
+
+</article>
+							
+<article  class="c-card has-target-link c-card--type-post c-card--style-stacked-3up" data-js="use-target-link">
+
+			<div  class="c-card__media">
+			
+<figure	 class="c-card__figure c-image"	>
+
+	
+		<img  class="c-card__image c-image__image lazyload" alt="Book cover: “An Imperfect Storm: A pandemic and the coming of age of a Nigerian institution, a memoir” by Chikwe Ihekweazu with Vivianne Ihekweazu. The cover has three images of Nigerian health care workers filtered in yellow, red, and blue." width="1200" height="800" data-expand="200" data-parent-fit="width" data-src="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_Books_imperfect-storm-nigeria_f.jpg" srcset="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_Books_imperfect-storm-nigeria_f-50x33.jpg" data-sizes="(min-width: 1680px) 480px, (min-width: 1024px) calc(33vw - 64px), calc(25vw - 48px)" data-srcset="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_Books_imperfect-storm-nigeria_f.jpg 1200w, 
+https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_Books_imperfect-storm-nigeria_f-750x500.jpg 750w" src="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_Books_imperfect-storm-nigeria_f-50x33.jpg" />
+	
+	
+	
+</figure>
+		</div>
+	
+	<div  class="c-card__content">
+
+		<div class="t-story-tag c-card__meta-primary">
+Book</div>
+
+		
+<h3  class="t-display-variable c-card__title" id="p-66f347881fa13-title">
+	
+<a  class="c-card__link" data-js="target-link" href="https://harvardpublichealth.org/policy-practice/chikwe-ihekweazu-vivianne-ihekweazu-public-health-book-review/">The resilience playbook</a>
+
+</h3>
+
+		<div class="t-display-variable c-card__subtitle"id="p-66f347881fa13-subtitle">
+In Nigeria, fighting COVID was <em>An Imperfect Storm</em> that required creativity and optimism.</div>
+
+		
+		
+		
+	</div>
+
+</article>
+							
+<article  class="c-card has-target-link c-card--type-post c-card--style-stacked-3up" data-js="use-target-link">
+
+			<div  class="c-card__media">
+			
+<figure	 class="c-card__figure c-image"	>
+
+	
+		<img  class="c-card__image c-image__image lazyload" alt="Illustration: A figure stands on one abstract, geometric path with three other paths crossing in different directions." width="1200" height="800" data-expand="200" data-parent-fit="width" data-src="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_public-health-officer_f.jpg" srcset="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_public-health-officer_f-50x33.jpg" data-sizes="(min-width: 1680px) 480px, (min-width: 1024px) calc(33vw - 64px), calc(25vw - 48px)" data-srcset="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_public-health-officer_f.jpg 1200w, 
+https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_public-health-officer_f-750x500.jpg 750w" src="https://harvardpublichealth.org/wp-content/uploads/2024/09/HarvardPublicHealth_public-health-officer_f-50x33.jpg" />
+	
+	
+	
+</figure>
+		</div>
+	
+	<div  class="c-card__content">
+
+		<div class="t-story-tag c-card__meta-primary">
+Opinion</div>
+
+		
+<h3  class="t-display-variable c-card__title" id="p-66f34788200ef-title">
+	
+<a  class="c-card__link" data-js="target-link" href="https://harvardpublichealth.org/policy-practice/a-public-health-officer-on-the-reality-of-principles-vs-practice/">What should we do when public health principles conflict?</a>
+
+</h3>
+
+		<div class="t-display-variable c-card__subtitle"id="p-66f34788200ef-subtitle">
+Few decisions in the field are perfect. We must be prepared to make them anyway.</div>
+
+		
+		
+		
+	</div>
+
+</article>
+					</div>
+
+					<footer class="b-post-loop__footer">
+				
+<a  class="a-cta a-cta--with-arrow is-text-only" href="https://harvardpublichealth.org/policy-practice/" aria-label="More articles from Policy &amp; Practice">See all<i class="icon icon-arrow-right"></i></a>
+
+			</footer>
+		
+	</div>
+</section>
+
+	</article>
+
+
+		
+<footer class="site-footer">
+
+	<div class="site-footer__container">
+
+					
+<figure	 class="site-footer__logo c-image"	>
+
+	
+		<img  class="c-image__image lazyload" alt="Harvard Public Health torus logo: HPH initials encircled by &quot;Harvard Public Health&quot;" width="1200" height="1200" data-expand="200" data-parent-fit="width" data-src="https://harvardpublichealth.org/wp-content/uploads/2024/04/HPH_Torus_Seal_Logo_Cobalt.svg" src="" />
+	
+	
+	
+</figure>
+		
+		
+<div class="social-follow">
+
+	<ul class="social-follow__list">
+					<li class="social-follow__item social-follow__item--twitter">
+				<a href="https://twitter.com/publichealthmag" class="social-follow__anchor" rel="me noopener"
+				   title="Follow us on Twitter" target="_blank">
+					<i class="icon icon-twitter"></i>
+					<span class="u-visually-hidden">Follow us on Twitter</span>
+				</a>
+			</li>
+					<li class="social-follow__item social-follow__item--youtube">
+				<a href="https://www.youtube.com/@PublicHealthMag" class="social-follow__anchor" rel="me noopener"
+				   title="Follow us on YouTube" target="_blank">
+					<i class="icon icon-youtube"></i>
+					<span class="u-visually-hidden">Follow us on YouTube</span>
+				</a>
+			</li>
+					<li class="social-follow__item social-follow__item--linkedin">
+				<a href="https://linkedin.com/showcase/publichealthmag" class="social-follow__anchor" rel="me noopener"
+				   title="Add us on LinkedIn" target="_blank">
+					<i class="icon icon-linkedin"></i>
+					<span class="u-visually-hidden">Add us on LinkedIn</span>
+				</a>
+			</li>
+					<li class="social-follow__item social-follow__item--instagram">
+				<a href="https://www.instagram.com/publichealthmag/" class="social-follow__anchor" rel="me noopener"
+				   title="Follow us on Instagram" target="_blank">
+					<i class="icon icon-instagram"></i>
+					<span class="u-visually-hidden">Follow us on Instagram</span>
+				</a>
+			</li>
+			</ul>
+
+</div>
+
+		<div class="site-footer__form-container">
+							<div class="site-footer__form-wrapper t-theme--light">
+					<div class="site-footer__form-title">
+						Sign up for our newsletter and get the latest in public health in your inbox.					</div>
+					<div class="site-footer__form">
+						
+                <div class='gf_browser_chrome gform_wrapper gform_legacy_markup_wrapper gform-theme--no-framework' data-form-theme='legacy' data-form-index='1' id='gform_wrapper_1' ><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/policy-practice/affordable-housing-is-key-to-end-cycles-of-homeless-hospitalization/' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><li id="field_1_2" class="gfield gfield--type-email gfield--width-full field_sublabel_below gfield--has-description field_description_below hidden_label field_validation_below gfield_visibility_visible gf-email"  data-field-class="gf-email" data-js-reload="field_1_2" ><label class='gfield_label gform-field-label' for='input_1_2'>Email address</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_1_2' type='email' value='' class='large'   placeholder='Email address'  aria-invalid="false" aria-describedby="gfield_description_1_2" autocomplete="email"/>
+                        </div><div class='gfield_description' id='gfield_description_1_2'>By clicking “Subscribe,” you agree to receive email communications from Harvard Public Health.</div></li><li id="field_1_3" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_3" ><label class='gfield_label gform-field-label' for='input_1_3'>Name</label><div class='ginput_container'><input name='input_3' id='input_1_3' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_3'>This field is for validation purposes and should be left unchanged.</div></li></ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Subscribe'  onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /> 
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImVlNjI0ZTc0NmYzODIyM2E2Nzg3NzBiMzFjOWZlNjg0Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://harvardpublichealth.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://harvardpublichealth.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+					</div>
+				</div>
+			
+			<nav  class="site-footer__nav" aria-label="Footer navigation ">
+	<ul  class="site-footer__nav-list" >
+		<li class="footer_primary__list-item footer_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/" class="footer_primary__action footer_primary__action--depth-0">Front page</a></li>
+<li class="footer_primary__list-item footer_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/about/" class="footer_primary__action footer_primary__action--depth-0">About</a></li>
+<li class="footer_primary__list-item footer_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/submissions/" class="footer_primary__action footer_primary__action--depth-0">Submissions</a></li>
+<li class="footer_primary__list-item footer_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/contact/" class="footer_primary__action footer_primary__action--depth-0">Contact</a></li>
+<li class="footer_primary__list-item footer_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/support-our-journalism/" class="footer_primary__action footer_primary__action--depth-0">Support our journalism</a></li>
+<li class="footer_primary__list-item footer_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/republish-our-articles/" class="footer_primary__action footer_primary__action--depth-0">Republish our articles</a></li>
+<li class="footer_primary__list-item footer_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/all-topics/" class="footer_primary__action footer_primary__action--depth-0">Explore topics</a></li>
+<li class="footer_primary__list-item footer_primary__list-item--depth-0"><a href="https://live-harvard-public-health-magazine.pantheonsite.io/newsletter/" class="footer_primary__action footer_primary__action--depth-0">Newsletter archive</a></li>
+	</ul>
+</nav>
+		</div>
+
+		<div class="site-footer__copyright-container">
+							<div class="site-footer__copyright">
+					© 2024					President and Fellows of Harvard College				</div>
+			
+			<nav  class="site-footer__legal-nav" aria-label="Legal navigation">
+	<ul  class="site-footer__legal-nav-list" >
+		<li class="footer_legal__list-item footer_legal__list-item--depth-0"><a href="https://www.hsph.harvard.edu/" class="footer_legal__action footer_legal__action--depth-0">Harvard Chan School</a></li>
+<li class="footer_legal__list-item footer_legal__list-item--depth-0"><a href="https://www.hsph.harvard.edu/privacy-policy/" class="footer_legal__action footer_legal__action--depth-0">Privacy Policy</a></li>
+<li class="footer_legal__list-item footer_legal__list-item--depth-0"><a href="https://accessibility.huit.harvard.edu/" class="footer_legal__action footer_legal__action--depth-0">Digital Accessibility</a></li>
+	</ul>
+</nav>
+		</div>
+
+	</div>
+
+</footer>
+
+	</div><!-- .l-wrapper -->
+
+			<script>window.Promise ||
+			document.write('<script src="https://harvardpublichealth.org/wp-content/themes/core/assets/js/vendor/es6-promise.auto.js"><\/script>');
+		</script>
+				<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"},"registration_prompt":"There is unsaved attendee information. Are you sure you want to continue?"};/* ]]> */ </script><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Test Popup -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,286996,'rhdm2wjyigznkqtt9jil');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Test Sticky Footer -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,286996,'ry04grpjl0xshmnskrlb');</script>
+<!-- / OptinMonster -->		<script type="text/javascript">
+		var rhdm2wjyigznkqtt9jil_shortcode = true;var ry04grpjl0xshmnskrlb_shortcode = true;		</script>
+		<script src="https://harvardpublichealth.org/wp-content/themes/core/assets/js/dist/theme/vendor.min.js?ver=b525a1dc55d39c00b51c80915a899c25" id="tribe-scripts-vendor-js"></script>
+<script id="tribe-scripts-scripts-js-extra">
+var modern_tribe_i18n = {"help_text":{"msg_limit":"There is a limit to the messages you can post."},"tooltips":{"add_to_save":"Add Photo to Saved Items","in_this_photo":"Products in this photo"}};
+var modern_tribe_config = {"images_url":"https:\/\/harvardpublichealth.org\/wp-content\/themes\/core\/assets\/img\/theme","template_url":"https:\/\/harvardpublichealth.org\/wp-content\/themes\/core\/","script_debug":"","hmr_dev":""};
+</script>
+<script src="https://harvardpublichealth.org/wp-content/themes/core/assets/js/dist/theme/scripts.min.js?ver=c59ac40f4544310038b0ff1c682766ca" id="tribe-scripts-scripts-js"></script>
+<script>(function(d){var s=d.createElement("script");s.type="text/javascript";s.src="https://a.omappapi.com/app/js/api.min.js";s.async=true;s.id="omapi-script";d.getElementsByTagName("head")[0].appendChild(s);})(document);</script><script src="https://harvardpublichealth.org/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script src="https://harvardpublichealth.org/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://harvardpublichealth.org/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://harvardpublichealth.org/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
+<script defer='defer' src="https://harvardpublichealth.org/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.8.17" id="gform_placeholder-js"></script>
+<script defer='defer' src="https://harvardpublichealth.org/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=54e7080aa7a02c83aa61fae430b9d869" id="gform_gravityforms_theme_vendors-js"></script>
+<script id="gform_gravityforms_theme-js-extra">
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"e6afb1ba57d5cdd3937a2681f529046f"}}},"hmr_dev":"","public_path":"https:\/\/harvardpublichealth.org\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+</script>
+<script defer='defer' src="https://harvardpublichealth.org/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910" id="gform_gravityforms_theme-js"></script>
+<script src="https://harvardpublichealth.org/wp-content/plugins/optinmonster/assets/dist/js/helper.min.js?ver=2.16.4" id="optinmonster-wp-helper-js"></script>
+<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+		<script type="text/javascript">var omapi_localized = {
+			ajax: 'https://harvardpublichealth.org/wp-admin/admin-ajax.php?optin-monster-ajax-route=1',
+			nonce: '1bf64ff14f',
+			slugs:
+			{"rhdm2wjyigznkqtt9jil":{"slug":"rhdm2wjyigznkqtt9jil","mailpoet":false},"ry04grpjl0xshmnskrlb":{"slug":"ry04grpjl0xshmnskrlb","mailpoet":false}}		};</script>
+				<script type="text/javascript">var omapi_data = {"object_id":19514,"object_key":"post","object_type":"post","term_ids":[9],"wp_json":"https:\/\/harvardpublichealth.org\/wp-json","wc_active":false,"edd_active":false,"nonce":"c0fc226c64"};</script>
+		
+</body>
+</html>

@@ -1,0 +1,12 @@
+LinkedIn is a place where every member of the global workforce can find opportunity
+Whatever your goals, ideas, and abilities are, we’re here to help you succeed.
+No two LinkedIn members are the same—and it’s that diversity which makes our community so great.
+We’re on a journey to make accessibility and inclusive design part of our core principles, building accessibility from the ground up and testing our products with assistive technology to make sure that everyone can use LinkedIn to advance their professional goals.
+Our Disability Answer Desk
+Our teams are constantly working to improve the experience for all of LinkedIn’s products by adding new features and making changes to better serve all our members and customers. We’re always open to feedback and would love to hear from you as to how we can make our products even better.
+If you find an accessibility bug or have trouble using LinkedIn's products with assistive technology, contact us and we’ll reach out to help you through it. We also offer support through Be My Eyes , a free app that connects blind and low-vision people with volunteers for visual assistance through a live video call.
+If you’re a screen reader user, please visit the articles on the Screen Reader Support page in the Help Center.
+Accessibility @ LinkedIn
+As a Microsoft company, we've embraced digital inclusion, adopting the W3C (World Wide Web Consortium) WCAG (Web Content Accessibility Guidelines) V2.1 Level AA in the design and development of our products.
+As part of our commitment to accessibility we continuously audit our products—internally and through a third party—using assistive technology such as screen reading software (e.g., JAWS, NVDA, VoiceOver and TalkBack).
+Read more about our Accessibility journey

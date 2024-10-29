@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-59TBB2D4');
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-52MDQDLC');
+</script>
+<meta name="description" content="This Policy is established to promote equal access to information technology and digital content and to improve the user experience of IT and digital / online media for" />
+<link rel="canonical" href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" />
+<meta property="og:type" content="News" />
+<meta property="og:url" content="https://accessibility.huit.harvard.edu/digital-accessibility-policy" />
+<meta property="og:title" content="Harvard University Digital Accessibility Policy | Digital Accessibility​" />
+<meta property="og:description" content="This Policy is established to promote equal access to information technology and digital content and to improve the user experience of IT and digital / online media for all users, including persons with disabilities." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="This Policy is established to promote equal access to information technology and digital content and to improve the user experience of IT and digital / online media for all users, including persons with disabilities." />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" id="font-merriweather-css" href="//fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" type="text/css" media="all" />
+<link rel="stylesheet" id="font-roboto-css" href="//fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" type="text/css" media="all" />
+<link rel="stylesheet" id="font-material-icons-css" href="//fonts.googleapis.com/icon?family=Material+Icons" type="text/css" media="all" />
+<link rel="stylesheet" id="font-material-icons-outlined-css" href="//fonts.googleapis.com/icon?family=Material+Icons+Outlined" type="text/css" media="all" />
+<link rel="stylesheet" id="font-postgrotesk-css" href="/profiles/hwp_dstan/themes/hwp_hyard/hwp-goldin/fonts/postgrotesk.css" type="text/css" media="all" />
+<link rel="stylesheet" id="font-sanomat-css" href="/profiles/hwp_dstan/themes/hwp_hyard/hwp-goldin/fonts/sanomat.css" type="text/css" media="all" />
+<link rel="icon" href="/profiles/hwp_dstan/themes/hwp_hyard/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Harvard University Digital Accessibility Policy | Digital Accessibility​</title>
+    <link rel="stylesheet" media="all" href="/sites/g/files/omnuum1101/files/css/css_nKm9fbAET0lXM8NupO90BABXYV5xpLyItLFJnLNn5wg.css?delta=0&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdzlGOwyAMBNALJeVI0RBGgRYMsqHb3H5pfxr1008ezQR0ZJxU5xnxTFVtiX9tC9Yh216Vjq-ekzyWgk5NyFvaq5jzME7nr9fxfmd4e7zj5Yx9tMVO6yyf1KcgntDgjlw98gUKkqyFMi5mqXONRKD-aipN65NLg-JQtGgu6GjIt6_chrThc7I4R33zDQfXqf1iEKlDds4BffXzov4DPolxLg" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/icon?family=Material+Icons" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/icon?family=Material+Icons+Outlined" />
+<link rel="stylesheet" media="all" href="/sites/g/files/omnuum1101/files/css/css_LRf4wLqrXxYnRFDGQTqyBkuPvsbGzUkJrqwi1pPvZeo.css?delta=3&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdzlGOwyAMBNALJeVI0RBGgRYMsqHb3H5pfxr1008ezQR0ZJxU5xnxTFVtiX9tC9Yh216Vjq-ekzyWgk5NyFvaq5jzME7nr9fxfmd4e7zj5Yx9tMVO6yyf1KcgntDgjlw98gUKkqyFMi5mqXONRKD-aipN65NLg-JQtGgu6GjIt6_chrThc7I4R33zDQfXqf1iEKlDds4BffXzov4DPolxLg" />
+<link rel="stylesheet" media="all" href="/sites/g/files/omnuum1101/files/css/css_zz7Oy1VsJUiU0VK0Q4lvR6HYlgYoL-hx1JP2gDL5V4U.css?delta=4&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdzlGOwyAMBNALJeVI0RBGgRYMsqHb3H5pfxr1008ezQR0ZJxU5xnxTFVtiX9tC9Yh216Vjq-ekzyWgk5NyFvaq5jzME7nr9fxfmd4e7zj5Yx9tMVO6yyf1KcgntDgjlw98gUKkqyFMi5mqXONRKD-aipN65NLg-JQtGgu6GjIt6_chrThc7I4R33zDQfXqf1iEKlDds4BffXzov4DPolxLg" />
+
+    
+  
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="GBUU5-S9S78-P7UW2-BSS9F-LR483",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"GBUU5-S9S78-P7UW2-BSS9F-LR483";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdndcoqxez7bwzxx6rpa-f-f9eed38e8-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"1597782","ak.ai":parseInt("841065",10),"ak.ol":"0","ak.cr":21,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"277835f1","ak.r":45983,"ak.a2":n,"ak.m":"b","ak.n":"ff","ak.bpcip":"72.218.49.0","ak.cport":59829,"ak.gh":"23.38.126.23","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727525982","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==gqeyPLqlkTkF/cwfXR7HYL7hpykpPjPn9PRsV0MbiE4Z0Ad+gBxeEVA50kN9ZmCMlMpySyDBdKgeH2bP19P13uL65ZOajJAnxd+eEhJoxkb5HX69SYEGJhPfEKZYyqzJUKFtJ6/xTrANuDfqbeYihjENxBYVsgOD1iqKlsIjbg0GymWkG0/bXnKPyplJnMQnp5WDrY00gLvDrxE9/VNiWEjZkeRaAcSQl9OZrD0Wx28iiwzsQIOLYvKwKeFQTtr7Mr85mHxtOzgd+EqafVhySIwk1oOuBwLIhI1T1JpLjKvngx1vnG1/qh0tviLx5cMbY5pwt9YUAelrA9G9KlrzP2xKvbtCEsoWdFGziKSJ/NcGQp4i1t7v+jI9faM/6UT5F3fyV9/3ESWtsSq1A9JqRgp5w95DyFPfyGZdxbsN9nc=","ak.pv":"239","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+  <body class="hwp-font-group-merriweather hwp-icons-filled hwp-style-default">
+        <a href="#main-content" class="hwp-skip-to-content visually-hidden">
+      <div class="hwp-relative hwp-button hwp-button--large hwp-bg-button-light-primary">
+        <span class="hwp-button__text">Skip to main content</span>
+        <span  class="material-icon material-icon--arrow-circle-down hwp-font-group-merriweather hwp-icons-filled hwp-style-default" aria-hidden="true">arrow_circle_down</span>
+      </div>
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59TBB2D4" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+</noscript><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52MDQDLC" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+</noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+      <div>
+    <div id="block-hwp-announcement-banners">
+  
+    
+      
+
+
+
+  </div>
+<div id="block-hwp-globalheader">
+  
+    
+      
+
+<div  class="header-global header-global--stacked hwp-bg-dark-core">
+  <div class="hwp-container hwp-container-px">
+    <a class="header-global__logo"
+       href="https://www.harvard.edu/">
+      <img alt="Harvard University" src="/profiles/hwp_dstan/themes/hwp_hyard/hwp-goldin/images/svg/header-logo-horizontal.svg" />
+
+    </a>
+      </div>
+</div>
+
+  </div>
+<div id="block-hwp-siteheader">
+  
+    
+      
+
+
+
+
+<div  class="header-site header-site--stacked hwp-bg-light-base">
+  <div class="header-site__main hwp-container">
+    <div class="header-site__brand">
+        <a href="/">
+                <div class="header-site__title">Digital Accessibility​</div>
+            </a>
+
+    </div>
+
+    <button class="header-site__menu-trigger js-header-site__menu-trigger" aria-expanded="false">
+      <span class="material-icon material-icon--menu" aria-hidden="true">menu</span>
+      <span class="material-icon material-icon--close" aria-hidden="true">close</span>
+      <span class="header-site__menu-trigger-label">Menu</span>
+    </button>
+    <div class="header-site__utils hwp-shrink-0">
+      <search role="search" class="header-site__search hwp-mb-16">
+                  <form class="hwp-search-form-header" data-drupal-selector="hwp-search-form-header" action="/digital-accessibility-policy" method="post" id="hwp-search-form-header" accept-charset="UTF-8">
+  <div class="hwp-form-type-search hwp-form-item js-form-item form-item form-type-search js-form-type-search form-item-search js-form-item-search form-no-label">
+      <label for="edit-search" class="visually-hidden">Search</label>
+        <input data-drupal-selector="edit-search" type="search" id="edit-search" name="search" value="" size="60" maxlength="128" class="form-search" />
+
+        </div>
+
+  
+
+
+<button  data-twig-suggestion="header_site_search_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="hwp-button hwp-button--small button js-form-submit form-submit" >
+      <span class="hwp-button__text">Search</span>
+        <span class="material-icon" aria-hidden="true">search</span>
+  </button>
+<input autocomplete="off" data-drupal-selector="form-a0jvktpzlws5jetau7il3rs4ifdh-mxbbgynyxm43is" type="hidden" name="form_build_id" value="form-A0JvKTpZLWs5jetAU7il3RS4iFdh-mXBBgYnYxm43Is" />
+<input data-drupal-selector="edit-hwp-search-form-header" type="hidden" name="form_id" value="hwp_search_form_header" />
+
+</form>
+
+            </search>
+      <div class="header-site__utility-menu">
+            
+        </div>
+    </div>
+  </div>
+
+  <div class="header-site__navigation">
+    <div class="header-site__brand">
+        <a href="/">
+                <div class="header-site__title">Digital Accessibility​</div>
+            </a>
+
+    </div>
+        
+
+
+  
+<nav  class="hwp-main-menu hwp-bg-light-core" aria-label="Main">
+  <div class="hwp-main-menu__container">
+    
+                                  <ul class="hwp-main-menu__list">
+                        
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    Training and Support
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                                                                                  <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/training" show_in_main_navigation="1" show_in_section_navigation="1" class="hwp-main-menu__link" data-drupal-link-system-path="node/1577201">Overview</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/all-instructor-led-trainings" class="hwp-main-menu__link" data-drupal-link-system-path="node/1577236">Instructor-Led Trainings</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/self-paced-trainings" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/1577416">Self-Paced Trainings</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/das-office-hours" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/1577216">DAS Office Hours</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/services" class="hwp-main-menu__link" data-drupal-link-system-path="node/740446">Accessibility Services</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    Content
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                                                                                  <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/content" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/1490846">Overview</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/content-creator-essentials" class="hwp-main-menu__link" data-drupal-link-system-path="node/1541416">Essentials</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/academic-content" class="hwp-main-menu__link" data-drupal-link-system-path="node/1484616">Academic</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/media-accessibility-resources" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/740436">Multimedia</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/accessible-documents" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/1400550">Documents</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/creating-accessible-emails" class="hwp-main-menu__link" data-drupal-link-system-path="node/1432610">Emails</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/data-viz-charts-graphs" class="hwp-main-menu__link" data-drupal-link-system-path="node/1440239">Data Visualizations</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/creating-accessible-forms" class="hwp-main-menu__link" data-drupal-link-system-path="node/1543236">Forms</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    Practices
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                                                                                  <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/practices" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/1490851">Overview</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/techniques" class="hwp-main-menu__link" data-drupal-link-system-path="node/1577421">Techniques</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/testing" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/740421">Accessibility Testing</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/procurement-process" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/740441">Working with Vendors</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/hosting-accessible-remote-meetings-and-events" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/1364264">Hosting Accessible Meetings</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                                              <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                                                                  <button class="js-hwp-main-menu__submenu-trigger hwp-main-menu__submenu-trigger" aria-expanded="false">
+                  <span class="hwp-main-menu__link">
+                    Roles
+                  </span>
+                  <span class="hwp-main-menu__submenu-trigger-icon">
+                    <span class="material-icon !hwp-block" aria-hidden="true">expand_more</span>
+                  </span>
+                </button>
+                                                                                                                  <ul class="hwp-main-menu__list-submenu" tabindex="-1">
+                          
+          
+          
+                                        <li class="hwp-main-menu__item hwp-main-menu__item--has-submenu">
+                          <a href="/roles" title="" class="hwp-main-menu__link" data-drupal-link-system-path="node/1490856">Overview</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/content-creator-essentials" show_in_main_navigation="1" show_in_section_navigation="1" class="hwp-main-menu__link" data-drupal-link-system-path="node/1541416">For Content Creators</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/developers" show_in_main_navigation="1" show_in_section_navigation="1" class="hwp-main-menu__link" data-drupal-link-system-path="node/740356">For Developers</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/academic-content" show_in_main_navigation="1" show_in_section_navigation="1" class="hwp-main-menu__link" data-drupal-link-system-path="node/1484616">For Faculty</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/managers" class="hwp-main-menu__link" data-drupal-link-system-path="node/1406342">For Managers</a>
+                                              </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/procurement-process" class="hwp-main-menu__link" data-drupal-link-system-path="node/740441">For Purchasers</a>
+                                              </li>
+              </ul>
+            
+                      </li>
+                  
+          
+          
+                                        <li class="hwp-main-menu__item">
+                          <a href="/policies" class="hwp-main-menu__link" data-drupal-link-system-path="node/1164003">Policies</a>
+                                              </li>
+              </ul>
+            
+  </div>
+</nav>
+
+    </div>
+</div>
+
+  </div>
+<div id="block-hwp-breadcrumbs">
+  
+    
+      
+  <nav  class="hwp-breadcrumbs hwp-bg-light-core" aria-labelledby="system-breadcrumb">
+    <div class="hwp-container hwp-container-px">
+      <p id="system-breadcrumb" hidden>Breadcrumbs</p>
+      <ol>
+                  <li>
+                          <a href="/">Home</a>
+                                      <span  class="material-icon material-icon--chevron-right" aria-hidden="true">chevron_right</span>
+                      </li>
+                  <li>
+                          <span>Harvard University Digital Accessibility Policy</span>
+                                  </li>
+              </ol>
+    </div>
+  </nav>
+
+  </div>
+<style>:root {
+    --hwp-font-light-text: #FFFFFF;
+    --hwp-font-light-link: #F3F4F4;
+    --hwp-font-dark-text: #1E1E1E;
+    --hwp-font-dark-link: #0A2240;
+    --hwp-bg-light-base: #F3F4F4;
+    --hwp-bg-light-alternative: #DCE2E2;
+    --hwp-bg-light-core: #FFFFFF;
+    --hwp-bg-dark-base: #0A2240;
+    --hwp-bg-dark-alternative: #656F75;
+    --hwp-bg-dark-core: #1E1E1E;
+    --hwp-button-light-primary: #FFFFFF;
+    --hwp-button-light-secondary: #DCE2E2;
+    --hwp-button-dark-primary: #0A2240;
+    --hwp-button-dark-secondary: #656F75;
+    --hwp-button-strong-primary: #A51C30;
+    --hwp-button-strong-secondary: #A51C30;
+    --hwp-accent-light-regular: #FFFFFF;
+    --hwp-accent-light-vibrant: #F3F4F4;
+    --hwp-accent-dark-regular: #A51C30;
+    --hwp-accent-dark-vibrant: #0A2240;
+  }</style>
+
+  </div>
+
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main id="main-content" role="main" aria-label="Harvard University Digital Accessibility Policy" aria-labelledby="page-title" tabindex="-1">
+    <div class="layout-content">
+        <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+<article class="node node--type-hwp-page node--view-mode-full">
+  
+
+  
+<div  class="hwp-page-title hwp-bg-dark-base">
+  <div class="hwp-container hwp-container-px hwp-py-32">
+    
+    <h1 class="text-x-large" id="page-title">
+      <span>Harvard University Digital Accessibility Policy</span>
+
+    </h>
+    
+  </div>
+</div>
+
+        <div
+      class="hwp-container hwp-container-px hwp-w-full hwp-py-32 lg:hwp-py-64 ">
+            <div class="hwp-flex-1 hwp-overflow-hidden">
+                  
+            <div class="hwp-text-block field field--name-field-hwp-body field--type-text-long field--label-hidden"><div class="tex2jax_process"><p>This Policy is established to promote equal access to information technology and digital content and to improve the user experience of IT and digital / online media for all users, including persons with disabilities.</p>
+</div></div>
+      
+        
+                  
+      <div class="field field--name-field-hwp-additional-content field--type-entity-reference-revisions field--label-hidden">
+              <div>
+<div  class="hwp-text-block hwp-px-24 md:hwp-px-32 hwp-py-32 hwp-bg-light-core">
+      
+        
+            
+            <div class="hwp-text-block field field--name-field-hwp-body field--type-text-long field--label-hidden"><div class="tex2jax_process"><h2>Policy Statement</h2>
+<p>Harvard University is committed to making University Information Technology and University Digital Content accessible.</p>
+<p>For the purposes of this Policy, “accessible” means a person with a disability is afforded the opportunity to acquire the same information, engage in the same interactions, and enjoy the same services as a person without a disability in an equally effective and equally integrated manner, with substantially equivalent ease of use.</p>
+</div></div>
+      
+    </div>
+</div>
+              <div>
+
+
+
+
+
+  
+<div  class="hwp-page-list hwp-page-list--grid hwp-page-list--grid-3 hwp-bg-light-base">
+      
+            <div class="field field--name-field-hwp-section-heading field--type-entity-reference-revisions field--label-hidden">
+  <div class="hwp-section-heading">
+  <div
+    class="hwp-section-heading__container hwp-container-px hwp-container"
+  >
+    
+        
+        <H2
+      class="hwp-section-heading__title text-medium">
+      Policy Resources
+    </H2>
+          <div class="hwp-section-heading__ctas">
+              
+
+  
+
+
+<a  class="hwp-button hwp-button--large"  href="https://harvard.az1.qualtrics.com/jfe/form/SV_0PrAhzDswr9Z3z7">
+      <span class="hwp-button__text">Report a Web Accessibility Concern</span>
+        <span class="material-icon" aria-hidden="true">arrow_circle_right</span>
+  </a>
+
+
+        </div>
+  </div>
+</div>
+</div>
+      
+          
+  <div class="hwp-page-list__container hwp-container-px hwp-container">
+        <div class="hwp-page-list__items" >
+      
+
+
+
+<article  class="page-card page-card--vertical hwp-bg-light-core" >
+  <div class="page-card__text hwp-order-1">
+        <a href="/digital-accessibility-policy-procedures" class="page-card__link hwp-order-2">      <h3 class="page-card__heading hwp-order-2">Digital Accessibility Policy Procedures</h3>
+    </a>
+        
+        
+        
+        
+        
+        
+          </div>
+
+    </article>
+
+
+
+
+<article  class="page-card page-card--vertical hwp-bg-light-core" >
+  <div class="page-card__text hwp-order-1">
+        <a href="/faqs" class="page-card__link hwp-order-2">      <h3 class="page-card__heading hwp-order-2">Policy Frequently Asked Questions (FAQs)</h3>
+    </a>
+        
+        
+        
+        
+        
+        
+          </div>
+
+    </article>
+
+
+
+
+<article  class="page-card page-card--vertical hwp-bg-light-core" >
+  <div class="page-card__text hwp-order-1">
+        <a href="https://hvd.gs/356476" class="page-card__link hwp-order-2">      <h3 class="page-card__heading hwp-order-2">Read the Gazette article</h3>
+    </a>
+        
+        
+        
+        
+        
+        
+          </div>
+
+    </article>
+
+    </div>
+        </div>
+</div>
+</div>
+              <div>
+<div  class="hwp-text-block hwp-px-24 md:hwp-px-32 hwp-py-32 hwp-bg-light-core">
+      
+        
+            
+            <div class="hwp-text-block field field--name-field-hwp-body field--type-text-long field--label-hidden"><div class="tex2jax_process"><h2>Digital Accessibility Standards</h2>
+<p>Toward meeting the University’s commitment to accessibility, Harvard expects University Information Technology and University Digital Content to conform to applicable Digital Accessibility Standards to the fullest extent possible.</p>
+<p>For the purposes of this Policy, the Digital Accessibility Standards (or “the Standards”) are The World Wide Web Consortium’s Web Content Accessibility Guidelines version 2.1, Level AA Conformance (WCAG 2.1&nbsp;Level AA) for websites and web-based applications and services. Software and services that are not web-based should conform to WCAG 2.1 Level AA to the extent such guidelines may usefully be applied to improve the accessibility of these resources.</p>
+<p>In the case of digital hardware interfaces, the Standards also include the federal Section 508 standards described in Chapter 4 (“Hardware”) of Appendix C to 36 C.F.R. Part 1194, whether or not such instances of hardware are covered by the regulation.</p>
+<h2>The Path Forward</h2>
+<h3>New Instances of University IT</h3>
+<p>Instances of University Information Technology newly purchased, licensed, or internally developed after June 1, 2023&nbsp;are expected to conform to the Standards to the fullest extent possible at the point of rollout or implementation. Where such conformance with the Standards is not technically feasible or may require extraordinary measures due to the nature or purpose of the Information Technology, a request for exception may be submitted for review by an appropriate University, School, or Unit Authority.</p>
+<h3>New University Content</h3>
+<p>Starting on June 1, 2023, Harvard users using University IT to post, distribute, or publish University Content should aim to make such content conform to the Standards, to the extent technically feasible and in accordance with the University Content framework specified in the Implementation Procedures. Where conformance with the Standards is not technically feasible, Harvard users should consider how to make University Content available in an alternative format accessible (as defined above) to persons with disabilities.</p>
+<h3>Existing University IT and Content</h3>
+<p>As further outlined in the Implementation Procedures, the Accessibility Steering Committee will establish and recommend to Senior Leadership a prioritization plan for improving the accessibility of existing University Information Technology, including websites and web-based applications, and the existing University Content hosted, published, or communicated on those platforms. Priority will be given to University IT platforms that provide the most essential functions to, and are most broadly and regularly used by, Harvard faculty, staff, and students. In the case of public-facing websites, priority will be given to sites that are among the most highly trafficked and to those that contain core institutional information.</p>
+<h2>Procurement Considerations</h2>
+<p>Harvard personnel purchasing or procuring University Information Technology are responsible for ensuring that suppliers seeking to develop or provide University IT are aware of this Policy and that contracts with such vendors hold them accountable to the Standards to the fullest extent possible. Harvard Strategic Procurement, the HUIT Vendor Management Office, and others charged with supporting IT procurement efforts should support these efforts when involved in IT purchases.</p>
+<p>The Implementation Procedures published under this Policy will identify resources, strategies, and guidelines for securing the greatest possible level of conformance to the Standards from third-party vendors, and purchasers and providers of University IT are expected to adopt and practice them. The Policy expects that the University will apply such market power as it has to prioritize and promote digital accessibility. However, the Policy recognizes that the University is able to exert less control over some “off-the-shelf” Information Technology developed and marketed outside the University.</p>
+<h2>Definitions</h2>
+<p>“University Information Technology” or “University IT” is Information Technology purchased, developed, deployed, or used for University Business and, in the case of web-based applications and websites, is hosted on a Harvard-owned or -controlled domain.</p>
+<p>“Information Technology” includes software; server-based, personal computer, mobile device, and web-based applications and websites; website hosting and design services; development, hosting, maintenance, and archiving services; cloud-based applications and information processing or storage services; digital hardware interfaces; and digital database configurations and interfaces.</p>
+<p>“University Content” is Digital Content created, posted, distributed or published for University Business.</p>
+<p>“Digital Content” consists of any information or communication accessed or displayed in a digital format or medium, as text, image, audio, or video.</p>
+<p>“University Business” includes activities carried out by Harvard faculty and staff in furtherance of Harvard University’s mission of teaching and research but does not include activities organized or conducted by students or student organizations.</p>
+<p>“Senior Leadership” includes the University’s President, Provost, Executive Vice President, and Vice Presidents; the Deans of the several Schools, their Department Chairs, and the Directors of University and School Centers or their designees.</p>
+<h2>Responsibility</h2>
+<p>The University expects that Senior Leadership will promote broad awareness of this Policy, assign responsibility to ensure the accessibility of University IT provided within their jurisdictions, and designate Digital Accessibility Liaisons. Improving digital accessibility requires the attention and commitment of the entire University community. Accordingly, all members of the Harvard community should be mindful of this Policy and aim to ensure that University Content they post to, publish on, or communicate through University IT is accessible.</p>
+<p>Where possible, including on websites operated by the University, Harvard administrators should indicate commitment to accessibility by posting a link to this Policy.</p>
+<h2>Resources and Support</h2>
+<p>The University is committed to providing resources and support to the Harvard community in order to effectuate this Policy.</p>
+<h3>Accessibility Steering Committee</h3>
+<p>The Accessibility Steering Committee is convened by the President and/or Provost. In addition to preparing the prioritization plan described above (see “Existing University IT and Content”), the ASC is responsible for (1) providing periodic review and revision of this Policy and its Implementation Procedures, including making appropriate updates to the Policy’s Standards definition as industry standards and practices evolve, with recommendations going to the President and/or Provost; (2) working with Senior Leadership to promote general awareness of this Policy; (3) assessing and reporting to the President and/or Provost the University’s accessibility efforts as outlined in this Policy; and (4) establishing a process and designating appropriate authorities to review and decide on requests for Policy exceptions.</p>
+<h3>Digital Accessibility Services</h3>
+<p>The Office of Digital Accessibility Services (“DAS”) within Harvard University Information Technology is responsible for supporting Senior Leadership across the University in creating and sustaining a culture of commitment at Harvard. In addition to devising Implementation Procedures for the ASC to review, DAS provides training, guidance, and information on accessibility standards and best practices and works with University IT purchasers and providers, and their technical partners, to advise or augment their efforts toward adopting the Standards. Guided by ASC priorities, DAS tracks and supports remediation efforts throughout Harvard.</p>
+<h3>Digital Accessibility Liaisons</h3>
+<p>Digital Accessibility Liaisons (“DAL”) are appointed by Senior Leadership. DAL&nbsp;coordinate local accessibility efforts and report on progress to the ASC and DAS.</p>
+<h3>University Disability Resources</h3>
+<p>University Disability Resources (UDR) within Central Administration provides leadership to University efforts to ensure an accessible, inclusive, and welcoming learning and working environment for persons with disabilities while complying with federal and state regulations. UDR serves as a University-wide resource on disability-related information, procedures, and services for the Harvard community, digital and otherwise.</p>
+<h2>Exceptions and Remediation</h2>
+<p>As outlined in the Implementation Procedures, IT purchasers or providers requesting an exception to this Policy may be required to submit an accommodation plan detailing how the unit will make, as applicable, the services or information provided by the University IT in question available to persons with disabilities, by alternate accessible (as defined above) means. The additional cost and expense incurred to bring University IT into conformance will not be considered a valid basis for grant of an exception, except in extraordinary circumstances and as approved by the Accessibility Steering Committee (“ASC”). Further details on exceptions processes will be included in the Implementation Procedures document.</p>
+<p>The ASC may require that some or all non-conforming portions of an instance of University Content (as provided in the University Content framework specified in the Implementing Procedures) or University IT be brought into conformance by designated staff or suppliers, and the expense of that work may be charged to the unit that is responsible for assuring the accessibility of that asset. If the ASC is unable to identify who is responsible for an instance of University Content that does not conform to the framework, then the ASC may ask that HUIT remove the non-conforming content from view until it can be brought into conformance.</p>
+<p>Upon a specific request by an individual who is unable to access specific University Content due to non-conformance to the Standards, either the requested content must be updated to conform to the Standards or the requested content otherwise must be made available in an alternative format in a timely manner. The unit responsible for the creation and maintenance of University Content is responsible for making it accessible or providing the accessible alternative.</p>
+<h2>Disclaimer</h2>
+<p>This Policy establishes internal guidelines and expectations for the purpose of promoting and advancing digital accessibility at Harvard University. Harvard reserves the right to modify the Policy unilaterally at any time. The Policy is not intended to create, nor does it create, any contractual or other legal obligation on Harvard’s part, or any contractual or other legal right for any member of the Harvard community or the general public.</p>
+<p><strong>Note: </strong>this updated Policy supersedes the previous Digital Accessibility Policy, which was made effective on April 30, 2019 and applied exclusively to “University Websites,” which was defined to include only certain public-facing websites within a Harvard-controlled domain. The updated Policy has a broader scope and applies to all websites within Harvard-controlled domains, as well as the other forms of Information Technology listed in the definition above.</p>
+<p>---</p>
+<p>Last updated: June 1, 2023</p>
+</div></div>
+      
+    </div>
+</div>
+              <div>
+
+
+  
+
+  
+<div  class="hwp-page-list hwp-page-list--grid hwp-page-list--grid-3 hwp-bg-light-alternative">
+                
+            <div class="field field--name-field-hwp-section-heading field--type-entity-reference-revisions field--label-hidden">
+  <div class="hwp-section-heading">
+  <div
+    class="hwp-section-heading__container hwp-container-px hwp-container"
+  >
+    
+        
+        <H2
+      class="hwp-section-heading__title text-medium">
+      Upcoming Policy Trainings and Office Hours
+    </H2>
+        <div class="hwp-section-heading__description hwp-text-block"><p><strong>Not sure where to start with accessibility? We're here to help!</strong></p>
+<p>The Digital Accessibility Services (DAS) team provides instructor-led trainings as well as virtual Office Hours on the 2nd and 4th Fridays of each month from 10am-12pm.</p>
+</div>
+    </div>
+</div>
+</div>
+      
+                      
+  <div class="hwp-page-list__container hwp-container-px hwp-container">
+          <div id=hwp-node-list-results>
+      <div class="hwp-page-list__items" >
+              
+
+
+<article  class="event-card event-card--vertical hwp-bg-light-core" >
+  <div class="event-card__text hwp-order-2">
+        <a href="/event/das-office-hours-092724?occ_id=0" class="event-card__link hwp-order-2">
+      <h3 class="event-card__heading hwp-order-2">DAS Office Hours</h3>
+    </a>
+
+    <div class="event-card__info hwp-order-3">
+                    <div class="event-card__date hwp-order-3">Sep. 27, 2024</div>
+      
+                    <div class="event-card__time hwp-order-4">10:00AM - 12:00PM</div>
+      
+                    <div class="event-card__address hwp-order-5">Virtual - Zoom</div>
+          </div>
+
+              <div class="event-card__metadata hwp-order-1">
+                  <span>Virtual</span>
+              </div>
+    
+          </div>
+
+    </article>
+
+              
+
+
+<article  class="event-card event-card--vertical hwp-bg-light-core" >
+  <div class="event-card__text hwp-order-2">
+        <a href="/event/accessibility-technology-procurement-100924?occ_id=0" class="event-card__link hwp-order-2">
+      <h3 class="event-card__heading hwp-order-2">Accessibility in Technology Procurement</h3>
+    </a>
+
+    <div class="event-card__info hwp-order-3">
+                    <div class="event-card__date hwp-order-3">Oct. 9, 2024</div>
+      
+                    <div class="event-card__time hwp-order-4">11:00AM - 12:00PM</div>
+      
+                    <div class="event-card__address hwp-order-5">Virtual - Zoom</div>
+          </div>
+
+              <div class="event-card__metadata hwp-order-1">
+                  <span>Virtual</span>
+              </div>
+    
+          </div>
+
+    </article>
+
+              
+
+
+<article  class="event-card event-card--vertical hwp-bg-light-core" >
+  <div class="event-card__text hwp-order-2">
+        <a href="/event/introduction-digital-accessibility-harvards-policies-100924?occ_id=0" class="event-card__link hwp-order-2">
+      <h3 class="event-card__heading hwp-order-2">Introduction to Digital Accessibility &amp; Harvard&#039;s Policies</h3>
+    </a>
+
+    <div class="event-card__info hwp-order-3">
+                    <div class="event-card__date hwp-order-3">Oct. 9, 2024</div>
+      
+                    <div class="event-card__time hwp-order-4">1:30PM - 3:00PM</div>
+      
+                    <div class="event-card__address hwp-order-5">Virtual - Zoom</div>
+          </div>
+
+              <div class="event-card__metadata hwp-order-1">
+                  <span>Virtual</span>
+              </div>
+    
+          </div>
+
+    </article>
+
+          </div>
+        
+  <div class="hwp-text-center hwp-pt-32 md:hwp-pt-24"><a class="hwp-button hwp-button--large" href="/events"><span class="hwp-button__text">All DAS Events</span><span class="material-icon" aria-hidden="true">arrow_circle_right</span></a>
+</div>
+
+</div>
+
+      </div>
+</div>
+</div>
+              <div>
+<div  class="hwp-text-block hwp-px-24 md:hwp-px-32 hwp-py-32 hwp-bg-light-core">
+      
+        
+        <h2 class="hwp-text-block__heading h2">
+      University Disability Resources
+    </h2>
+            
+            <div class="hwp-text-block field field--name-field-hwp-body field--type-text-long field--label-hidden"><div class="tex2jax_process"><p>For access to all other disability-related resources and guidance for students, faculty, staff, visitors and guests, please visit <a href="https://accessibility.harvard.edu/">University Disability Resources</a>.</p>
+</div></div>
+      
+    </div>
+</div>
+          </div>
+  
+        
+        
+
+<div class="hwp-news-footer hwp-py-24 hwp-pt-0 hwp-container hwp-container-px">
+              
+          
+  <div class="page-tags">
+    
+    </div>
+
+      <div class="page-tags">
+    
+        <ul class="hwp-news-footer__tags hwp-flex hwp-flex-wrap hwp-gap-16 hwp-mb-24">
+                        </ul>
+  </div>
+  
+        
+  </div>
+      </div>
+    </div>
+  
+  </article>
+
+  </div>
+
+    </div>
+    
+      </main>
+
+      <footer role="contentinfo">
+        <div>
+    <div id="block-hwp-footer-content">
+  
+    
+      
+
+  
+<div  class="footer-site footer-site--columns hwp-bg-light-base hwp-text-14 hwp-leading-150">
+  <div class="hwp-container hwp-container-px hwp-pt-24 hwp-pb-32 lg:hwp-pt-40">
+    <div class="hwp-mb-24 lg:hwp-mb-32 ">
+                                          </div>
+    <div class="lg:hwp-gap-40 lg:hwp-flex">
+      <div class="lg:hwp-w-1/3 xl:hwp-w-1/4">
+        <div class="hwp-flex hwp-flex-col hwp-gap-24 ">
+                      <div><p><strong>Contact Us</strong></p>
+</div>
+                              <div class="hwp-gap-24 hwp-grid ">
+                                      <div class="hwp-flex hwp-gap-20 hwp-items-center">
+                <span class="material-icon material-icon--footer-contact" aria-hidden="true">email</span>
+                <a href="mailto:digitalaccessibility@harvard.edu">digitalaccessibility@harvard.edu</a>
+              </div>
+                                              </div>
+        </div>
+      </div>
+      <div class="hwp-mt-32 lg:hwp-w-2/3 xl:hwp-w-3/4 lg:hwp-mt-0 lg:hwp-flex lg:hwp-flex-col">
+            <nav aria-label="footer">
+  
+
+
+    
+                                        
+    <ul  class="hwp-menu hwp-menu--footer">
+                
+
+<li  class="hwp-menu__item">
+        <a href="/about" show_in_main_navigation="1" show_in_section_navigation="1" class="hwp-menu__link" data-drupal-link-system-path="node/740266">About Digital Accessibility Services (DAS)</a>
+    </li>
+          </ul>
+  
+</nav>
+
+                    <div class="lg:hwp-text-right lg:hwp-mt-auto">
+            <a href="/login" class="hwp-py-8 hwp-mt-16 hwp-inline-flex">Admin login</a>
+          </div>
+              </div>
+    </div>
+  </div>
+      
+
+<div  class="hwp-global-footer hwp-bg-dark-core hwp-py-12 md:hwp-pb-20">
+  <div
+    class="hwp-container hwp-container-px hwp-text-14 hwp-text-white xl:hwp-flex
+     xl:hwp-gap-x-24 hwp-flex-wrap xl:hwp-items-center xl:hwp-justify-between">
+    <div class="hwp-global-footer__logo">
+      <a href="https://www.harvard.edu" class="hwp-inline-flex hwp-py-12">
+        
+<img
+   class="image"
+      src="/profiles/hwp_dstan/themes/hwp_hyard/hwp-goldin/images/svg/footer-logo.svg"
+      alt="Harvard University"
+          />
+      </a>
+    </div>
+    <div class="hwp-global-footer__copyright hwp-py-20 md:hwp-py-0">
+      <p>Copyright © 2024 The President and Fellows of Harvard College</p>
+
+    </div>
+    <div class="hwp-flex hwp-flex-col md:hwp-flex-row md:hwp-gap-x-32 xl:hwp-ml-auto">
+                        <a href="https://accessibility.harvard.edu/" class="hwp-py-12">Accessibility</a>
+                  <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" class="hwp-py-12">Digital Accessibility</a>
+                  <a href="https://www.harvard.edu/copyright-issue/" class="hwp-py-12">Report Copyright Infringement</a>
+                  <a href="https://hwp.harvard.edu/harvardsites-platform-information-gathering-statement" class="hwp-py-12">Info Practices</a>
+                  </div>
+  </div>
+</div>
+  </div>
+
+  </div>
+
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"","siteName":"Digital Accessibility​","entityCreated":"1556120851","entityType":"node","entityBundle":"hwp_page","entityId":"1164004","entityTitle":"Harvard University Digital Accessibility Policy","primaryCategory":"digital-accessibility-policy","userUid":0,"harvard_affiliation":"central administration","harvard_affiliation_short_name":"CADM","site_type":"department_initiative_center_program","site_section":"external public facing","platform_id":"harvardsites_drupal"});</script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1164004","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"mathjax":{"config_type":1,"config":{"tex2jax":{"inlineMath":[["{$","$}"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":true,"extNofollow":true,"extNoreferrer":true,"extFollowNoOverride":true,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":true,"extIconPlacement":"append","extFaLinkClasses":"open-in-new","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"2a5b502776b932861ff5b4cefe90e9e95fe7a5fb5221b3d143e72c3100fd5ed9"}}</script>
+<script src="/sites/g/files/omnuum1101/files/js/js_eHBTvYJLE-JnrQ-o8PtXDBBxGHhcRN4O_jlSJ9XJ43A.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdzlGOwyAMBNALJeVI0RBGgRYMsqHb3H5pfxr1008ezQR0ZJxU5xnxTFVtiX9tC9Yh216Vjq-ekzyWgk5NyFvaq5jzME7nr9fxfmd4e7zj5Yx9tMVO6yyf1KcgntDgjlw98gUKkqyFMi5mqXONRKD-aipN65NLg-JQtGgu6GjIt6_chrThc7I4R33zDQfXqf1iEKlDds4BffXzov4DPolxLg"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/sites/g/files/omnuum1101/files/js/js_iobq3VGVIIL4E5AsZo0EXerdEr6JqJpHBExJdMGdhdg.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdzlGOwyAMBNALJeVI0RBGgRYMsqHb3H5pfxr1008ezQR0ZJxU5xnxTFVtiX9tC9Yh216Vjq-ekzyWgk5NyFvaq5jzME7nr9fxfmd4e7zj5Yx9tMVO6yyf1KcgntDgjlw98gUKkqyFMi5mqXONRKD-aipN65NLg-JQtGgu6GjIt6_chrThc7I4R33zDQfXqf1iEKlDds4BffXzov4DPolxLg"></script>
+<script src="//siteimproveanalytics.com/js/siteanalyze_2992.js"></script>
+<script src="/sites/g/files/omnuum1101/files/js/js_HB2jtGRcPyB687bJOcFk2YunmF9cjqlEdyjMA3T-ugQ.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=hwp_hyard&amp;include=eJxdzlGOwyAMBNALJeVI0RBGgRYMsqHb3H5pfxr1008ezQR0ZJxU5xnxTFVtiX9tC9Yh216Vjq-ekzyWgk5NyFvaq5jzME7nr9fxfmd4e7zj5Yx9tMVO6yyf1KcgntDgjlw98gUKkqyFMi5mqXONRKD-aipN65NLg-JQtGgu6GjIt6_chrThc7I4R33zDQfXqf1iEKlDds4BffXzov4DPolxLg"></script>
+
+  </body>
+</html>

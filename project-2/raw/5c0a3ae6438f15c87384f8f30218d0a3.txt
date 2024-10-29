@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+					    	
+<title>AP Definitive Source | Home</title>
+<meta name="description" content=""/>
+<meta property="og:title" content="AP Definitive Source | Home"/>
+<meta property="og:description" content=""/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="/"/>
+<meta name="twitter:widgets:csp" content="on">
+<meta name="twitter:card" content="summary_large_image">
+	<meta property="og:image" content="https://blog.ap.org/uploads/site/share-definitive-source.jpg"/>
+	<meta name="twitter:image" content="https://blog.ap.org/uploads/site/share-definitive-source.jpg">
+
+
+<link rel="stylesheet" href="https://blog.ap.org/css/bootstrap.css?20240813-010826">
+<link rel="stylesheet" href="https://blog.ap.org/css/all.css?20240813-010826">
+<link rel="stylesheet" href="https://blog.ap.org/css/js.css?20240813-010826">
+<link rel="stylesheet" href="https://blog.ap.org/css/shame.css?20240813-010826">
+
+
+<!--favicon -->
+<link rel="shortcut icon" href="/images/favicon/favicon.ico" type="image/icon" />
+
+<!-- Analytics -->
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-19104461-1', 'auto');
+  ga('send', 'pageview');
+
+
+</script>
+	</head>
+<body style="visibility: hidden;">
+<a href="#main" class="skip">Skip navigation</a>
+<div id="wrapper">
+	<div class="wrap side-push wrap-apd">
+								<header id="header" class="header-apd">
+			<div class="container">
+				<div class="row">
+					<div class="logo-holder col-sm-2">
+	<div class="logo">
+		<a href="https://blog.ap.org/">
+						<img src="https://blog-uploads.associatedpress.com/blog/site/logo.png" height="117" width="100" alt="Logo">
+					</a>
+	</div>
+</div>
+					<div class="header-r col-md-10 col-sm-12">
+						<div class="nav-wrap">
+														<nav class="menu">
+								<a href="#" class="nav-opener"><span class="icon-opener"></span></a>
+								<span class="slogan">THE DEFINITIVE SOURCE</span>								<div class="nav-drop open-close">
+									<div class="nav-holder">
+										<a href="#" class="nav-opener close-btn "><span></span></a>
+										<ul>
+											<li class="add"><a href="#search" class="opener search"><span class="icon-search"></span><em>Search</em></a></li>
+											<li><a href="#sections" class="opener1">Sections</a></li>
+											<li><a href="#topics" class="opener2">Topics</a></li>
+											<li class="add"><a href="#about" class="opener3">About</a></li>
+										</ul>
+									</div>
+									<div class="slide">
+										<form id="search" class="search-form" action="https://blog.ap.org/search" method="get">
+
+	<label for="search-query01">Search</label>
+
+	<div class="input-wrap">
+
+		<div class="form-group">
+
+			<input name="q" type="text" class="form-control" id="search-query01" placeholder="Search..." value="">
+
+		</div>
+
+		<button type="submit" class="btn btn-default"><span class="icon-search"></span></button>
+
+	</div>
+
+</form>
+
+									</div>
+									<div class="slide1">
+										<div class="col-holder">
+											<div id="sections" class="col1">
+	<strong class="title add">Sections</strong>
+	<ul>
+   
+					<li><a href="https://blog.ap.org/announcements">Announcements</a></li>
+					<li><a href="https://blog.ap.org/behind-the-news">Behind the News</a></li>
+					<li><a href="https://blog.ap.org/industry-insights">Industry Insights</a></li>
+					<li><a href="https://blog.ap.org/products-and-services">Products and Services</a></li>
+			</ul>
+</div>
+    
+<div class="col1 hidden-sm hidden-xs">
+			<img src="https://blog-uploads.associatedpress.com/blog/news/_headerSection/AP_18304654658713.jpg" alt="Ap 18304654658713">
+		<a href="https://blog.ap.org/behind-the-news" class="title">Behind the News</strong>
+		<a href="https://blog.ap.org/behind-the-news/a-commitment-to-deep-global-journalism">A commitment to deep global journalism</a>	<time datetime="2018-11-15">Nov 15, 2018</time></div>
+    
+<div class="col1 hidden-sm hidden-xs">
+			<img src="https://blog-uploads.associatedpress.com/blog/news/_headerSection/2988/reportforamerica1.jpg" alt="Reportforamerica1">
+		<a href="https://blog.ap.org/announcements" class="title">Announcements</strong>
+		<a href="https://blog.ap.org/announcements/ap-to-host-2-report-for-america-journalists">AP to host 2 Report for America journalists</a>	<time datetime="2019-01-17">Jan 17, 2019</time></div>
+    
+<div class="col1 hidden-sm hidden-xs">
+			<img src="https://blog-uploads.associatedpress.com/blog/news/_headerSection/AP_18309858211072.jpg" alt="Ap 18309858211072">
+		<a href="https://blog.ap.org/products-and-services" class="title">Products and Services</strong>
+		<a href="https://blog.ap.org/products-and-services/stellar-debut-for-ap-votecast">Stellar debut for AP VoteCast</a>	<time datetime="2018-11-13">Nov 13, 2018</time></div>
+    
+<div class="col1 hidden-sm hidden-xs">
+			<img src="https://blog-uploads.associatedpress.com/blog/news/_headerSection/AP_18310505321596.jpg" alt="Ap 18310505321596">
+		<a href="https://blog.ap.org/industry-insights" class="title">Industry Insights</strong>
+		<a href="https://blog.ap.org/industry-insights/the-importance-of-trust-in-polling">The importance of trust in polling</a>	<time datetime="2018-11-09">Nov 9, 2018</time></div>
+										</div>
+									</div>
+									<div class="slide2">
+										<div class="col-holder">
+										<span id="topics" class="col-title">Topics</span>
+<div class="col">
+	<ul class="col-list">
+				<li>
+			<a href="https://blog.ap.org/topic/photojournalism">Photojournalism</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/standards">Standards</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/state-news">State news</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/awards">Awards</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/breaking-news">Breaking news</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/politics">Politics</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/elections">Elections</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/journalism">Journalism</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/behind-the-news">Behind the news</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/pulitzer-prize">Pulitzer Prize</a>
+		</li>
+			</ul>
+</div>
+<div class="col hidden-xs">
+	<ul class="col-list">
+				<li>
+			<a href="https://blog.ap.org/topic/media">Media</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/industry-insights">Industry insights</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/local-news">Local news</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/automation">Automation</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/latin-america">Latin America</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/vote-count">Vote count</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/brazil">Brazil</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/photography">Photography</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/immigration">Immigration</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/announcements">Announcements</a>
+		</li>
+			</ul>
+</div>
+<div class="col hidden-xs">
+	<ul class="col-list">
+				<li>
+			<a href="https://blog.ap.org/topic/washington">Washington</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/newsroom-tools">newsroom tools</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/annoucements">Annoucements</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/race-calls">Race calls</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/presidential-election">Presidential election</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/arizona">Arizona</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/featured">featured</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/definitive-source">Definitive Source</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/definitive-source">Definitive-Source</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/statement">Statement</a>
+		</li>
+			</ul>
+</div>
+<div class="col hidden-xs">
+	<ul class="col-list">
+				<li>
+			<a href="https://blog.ap.org/topic/featured">Featured </a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/georgia">Georgia</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/state-government">State government</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/texas">Texas</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/us-news">US News</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/artificial-intelligence">Artificial intelligence</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/votecast">VoteCast</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/florida">Florida</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/pulitzer">Pulitzer</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/visual-journalism">visual journalism</a>
+		</li>
+			</ul>
+</div>
+<div class="col hidden-xs">
+	<ul class="col-list">
+				<li>
+			<a href="https://blog.ap.org/topic/election-day">Election Day</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/migration">Migration</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/democracy">Democracy</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/climate">climate</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/generative-ai">Generative AI</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/generative-artificial-intelligence">Generative Artificial Intelligence</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/ai">AI</a>
+		</li>
+				<li>
+			<a href="https://blog.ap.org/topic/colombia">Colombia</a>
+		</li>
+			</ul>
+</div>
+										</div>
+									</div>
+									<div class="slide3">
+										<div class="col-holder">											
+											<div id="about">
+	<strong class="col-title">About This Blog</strong>
+	<div class="text-wrapper">
+		<p>The Associated Press has been breaking news since 1846. In that time, AP has endeavored to always be accurate, trustworthy and responsive. As news is transmitted in more ways than ever before and in more formats than ever, we remain committed to the highest standards of integrity in all areas of business at AP: from newsgathering to corporate behavior. This blog aims to provide further understanding of AP and transparency in our operations and mission.</p>
+	</div>
+</div>
+										</div>
+									</div>
+
+									 								</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+				<div class="hold apd">
+			<main id="main" role="main" class="main-apd">
+	<div class="container">
+												<div class="image-container hidden-xs">
+	
+						<div class="col-md-3 col-xs-6">
+							<div class="image-wrap">
+											        <span data-picture data-alt="Local news AI">
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/Local-news-AI_2023-10-10-162437_lprq.jpg"></span>
+        <!-- retina 2x desktop -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_720x830_crop_center-center_75_none/Local-news-AI_2023-10-10-162437_lprq.jpg"
+              data-width="360" data-height="415"
+              data-media="(-webkit-min-device-pixel-ratio:1.5), (min-resolution:1.5dppx)"></span>
+        <!-- retina 1x tablet -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_242x226_crop_center-center_75_none/Local-news-AI_2023-10-10-162437_lprq.jpg"
+              data-media="(max-width:991px)"></span>
+        <!-- retina 2x tablet -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_484x452_crop_center-center_75_none/Local-news-AI_2023-10-10-162437_lprq.jpg"
+              data-width="242" data-height="226"
+              data-media="(max-width:991px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:991px) and (min-resolution:144dpi)"></span>
+        <!-- retina 1x mobile -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_242x226_crop_center-center_75_none/Local-news-AI_2023-10-10-162437_lprq.jpg"
+              data-media="(max-width:767px)"></span>
+        <!-- retina 2x mobile -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_484x452_crop_center-center_75_none/Local-news-AI_2023-10-10-162437_lprq.jpg"
+              data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dpi)"></span>
+        <!--[if (lt IE 9) & (!IEMobile)]>
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/Local-news-AI_2023-10-10-162437_lprq.jpg"></span>
+		<![endif]-->
+        <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+		<noscript><img src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/Local-news-AI_2023-10-10-162437_lprq.jpg"
+                       alt="Local news AI"></noscript>
+	</span>
+
+										<div class="post-block image-post-block">
+														<span class="title">Posted in <a href="https://blog.ap.org/industry-insights">Industry Insights</a></span>
+							<h1><a href="https://blog.ap.org/introducing-5-ai-solutions-for-local-news">Introducing 5 AI solutions for local news</a></h1>
+						<div class="meta">
+	<time datetime="2023-10-10">Oct. 10, 2023</time>,
+	by
+	<a href="https://blog.ap.org/contributor/nicole-meir">Nicole Meir</a></div>
+					</div>
+				</div>
+			</div>
+								<div class="col-md-3 col-xs-6">
+							<div class="image-wrap">
+											        <span data-picture data-alt="Julie web summit 1">
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-left_75_none/21107/Julie-web-summit-1.png"></span>
+        <!-- retina 2x desktop -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_720x830_crop_center-left_75_none/21107/Julie-web-summit-1.png"
+              data-width="360" data-height="415"
+              data-media="(-webkit-min-device-pixel-ratio:1.5), (min-resolution:1.5dppx)"></span>
+        <!-- retina 1x tablet -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_242x226_crop_center-left_75_none/21107/Julie-web-summit-1.png"
+              data-media="(max-width:991px)"></span>
+        <!-- retina 2x tablet -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_484x452_crop_center-left_75_none/21107/Julie-web-summit-1.png"
+              data-width="242" data-height="226"
+              data-media="(max-width:991px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:991px) and (min-resolution:144dpi)"></span>
+        <!-- retina 1x mobile -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_242x226_crop_center-left_75_none/21107/Julie-web-summit-1.png"
+              data-media="(max-width:767px)"></span>
+        <!-- retina 2x mobile -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_484x452_crop_center-left_75_none/21107/Julie-web-summit-1.png"
+              data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dpi)"></span>
+        <!--[if (lt IE 9) & (!IEMobile)]>
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-left_75_none/21107/Julie-web-summit-1.png"></span>
+		<![endif]-->
+        <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+		<noscript><img src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-left_75_none/21107/Julie-web-summit-1.png"
+                       alt="Julie web summit 1"></noscript>
+	</span>
+
+										<div class="post-block image-post-block">
+														<span class="title">Posted in <a href="https://blog.ap.org/industry-insights">Industry Insights</a></span>
+							<h1><a href="https://blog.ap.org/countering-misinformation-ai-in-us-elections">Countering misinformation, AI in US elections</a></h1>
+						<div class="meta">
+	<time datetime="2023-11-15">Nov. 15, 2023</time>,
+	by
+	<a href="https://blog.ap.org/contributor/nicole-meir">Nicole Meir</a></div>
+					</div>
+				</div>
+			</div>
+								<div class="col-md-3 col-xs-6">
+							<div class="image-wrap">
+											        <span data-picture data-alt="Pulitzer blog 3">
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/pulitzer-blog-3.jpg"></span>
+        <!-- retina 2x desktop -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_720x830_crop_center-center_75_none/pulitzer-blog-3.jpg"
+              data-width="360" data-height="415"
+              data-media="(-webkit-min-device-pixel-ratio:1.5), (min-resolution:1.5dppx)"></span>
+        <!-- retina 1x tablet -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_242x226_crop_center-center_75_none/pulitzer-blog-3.jpg"
+              data-media="(max-width:991px)"></span>
+        <!-- retina 2x tablet -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_484x452_crop_center-center_75_none/pulitzer-blog-3.jpg"
+              data-width="242" data-height="226"
+              data-media="(max-width:991px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:991px) and (min-resolution:144dpi)"></span>
+        <!-- retina 1x mobile -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_242x226_crop_center-center_75_none/pulitzer-blog-3.jpg"
+              data-media="(max-width:767px)"></span>
+        <!-- retina 2x mobile -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_484x452_crop_center-center_75_none/pulitzer-blog-3.jpg"
+              data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dpi)"></span>
+        <!--[if (lt IE 9) & (!IEMobile)]>
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/pulitzer-blog-3.jpg"></span>
+		<![endif]-->
+        <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+		<noscript><img src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/pulitzer-blog-3.jpg"
+                       alt="Pulitzer blog 3"></noscript>
+	</span>
+
+										<div class="post-block image-post-block">
+														<span class="title">Posted in <a href="https://blog.ap.org/industry-insights">Industry Insights</a></span>
+							<h1><a href="https://blog.ap.org/ap-journalists-accept-pulitzer-prizes-for-ukraine-coverage">AP journalists accept Pulitzer Prizes for Ukraine coverage</a></h1>
+						<div class="meta">
+	<time datetime="2023-10-20">Oct. 20, 2023</time>,
+	by
+	<a href="https://blog.ap.org/contributor/nicole-meir">Nicole Meir</a></div>
+					</div>
+				</div>
+			</div>
+								<div class="col-md-3 col-xs-6">
+							<div class="image-wrap">
+											        <span data-picture data-alt="AP News Social Image1">
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/APNews-Social-Image1.jpg"></span>
+        <!-- retina 2x desktop -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_720x830_crop_center-center_75_none/APNews-Social-Image1.jpg"
+              data-width="360" data-height="415"
+              data-media="(-webkit-min-device-pixel-ratio:1.5), (min-resolution:1.5dppx)"></span>
+        <!-- retina 1x tablet -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_242x226_crop_center-center_75_none/APNews-Social-Image1.jpg"
+              data-media="(max-width:991px)"></span>
+        <!-- retina 2x tablet -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_484x452_crop_center-center_75_none/APNews-Social-Image1.jpg"
+              data-width="242" data-height="226"
+              data-media="(max-width:991px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:991px) and (min-resolution:144dpi)"></span>
+        <!-- retina 1x mobile -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_242x226_crop_center-center_75_none/APNews-Social-Image1.jpg"
+              data-media="(max-width:767px)"></span>
+        <!-- retina 2x mobile -->
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_484x452_crop_center-center_75_none/APNews-Social-Image1.jpg"
+              data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dpi)"></span>
+        <!--[if (lt IE 9) & (!IEMobile)]>
+		<span data-src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/APNews-Social-Image1.jpg"></span>
+		<![endif]-->
+        <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+		<noscript><img src="https://blog-uploads.associatedpress.com/blog/news/_360x415_crop_center-center_75_none/APNews-Social-Image1.jpg"
+                       alt="AP News Social Image1"></noscript>
+	</span>
+
+										<div class="post-block image-post-block">
+														<span class="title">Posted in <a href="https://blog.ap.org/announcements">Announcements</a></span>
+							<h1><a href="https://blog.ap.org/a-new-look-for-ap-news">A new look for AP News</a></h1>
+						<div class="meta">
+	<time datetime="2023-06-28">Jun. 28, 2023</time>,
+	by
+	<a href="https://blog.ap.org/contributor/lauren-easton">Lauren Easton</a></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				<div class="content-holder">
+			<div class="row">
+				<section id="content" class="col-md-9 col-sm-12">
+										<div class="post-blocks">
+						<div id="ajax-load">
+							
+	
+	
+				<section class="post-block">
+	<div class="row">
+		<div class="col-sm-4 col-xs-4">
+			<div class="img-wrap">
+												<img src="https://blog-uploads.associatedpress.com/blog/news/_342x523_crop_center-center_none/AP24254557230951_2024-09-24-145702_dlbe.jpg" />
+			</div>
+		</div>
+		<div class="col-lg-7 col-md-8 col-sm-8 col-xs-8">
+			<div class="col-wrap">
+				<span class="title">Posted in <a href="https://blog.ap.org/behind-the-news">Behind the News</a></span>
+				<h1><a href="https://blog.ap.org/how-does-ap-count-the-vote">How does AP count the vote?</a></h1>
+				<div class="meta">
+	<time datetime="2024-09-24">Sep. 24, 2024</time>,
+	by
+	<a href="https://blog.ap.org/contributor/nicole-meir">Nicole Meir</a></div>
+				<div class="text-holder">
+							<p>In every U.S. election since 1848 AP has counted the vote and declared the winners. As Nov. 5 approaches, David Scott, the AP vice president who oversees our elections operation, explains how AP tallies millions of ballots to deliver the results:</p>
+	<span class="link-holder"><a href="https://blog.ap.org/how-does-ap-count-the-vote">Continue reading ></a></span>
+					<ul class="social-networks "><li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fblog.ap.org%2Fhow-does-ap-count-the-vote&amp;title=How%20does%20AP%20count%20the%20vote%3F" class="popup-share" data-popup-size="500x350"><img src="/css/svg-icons/facebook.svg" alt="Facebook icon"></a></li><li><a href="http://twitter.com/intent/tweet?text=How%20does%20AP%20count%20the%20vote%3F&amp;url=https%3A%2F%2Fblog.ap.org%2Fhow-does-ap-count-the-vote" class="popup-share" data-popup-size="500x260"><img src="/css/svg-icons/twitter.svg" alt="Twitter icon"></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fblog.ap.org%2Fhow-does-ap-count-the-vote&amp;title=How%20does%20AP%20count%20the%20vote%3F" class="popup-share" data-popup-size="500x460"><img src="/css/svg-icons/linkedin.svg" alt="LinkedIn icon"></a></li><li><a href="mailto:?subject=How%20does%20AP%20count%20the%20vote%3F&amp;body=AP Definitive Source: https%3A%2F%2Fblog.ap.org%2Fhow-does-ap-count-the-vote"><img src="/css/svg-icons/email.svg" alt="Email icon"></a></li></ul>				</div>
+			</div>
+		</div>
+	</div>
+</section>
+				<section class="post-block">
+	<div class="row">
+		<div class="col-sm-4 col-xs-4">
+			<div class="img-wrap">
+												<img src="https://blog-uploads.associatedpress.com/blog/news/_342x523_crop_center-center_none/1914_Elections_NYC_19141103.jpg" />
+			</div>
+		</div>
+		<div class="col-lg-7 col-md-8 col-sm-8 col-xs-8">
+			<div class="col-wrap">
+				<span class="title">Posted in <a href="https://blog.ap.org/industry-insights">Industry Insights</a></span>
+				<h1><a href="https://blog.ap.org/why-does-ap-call-us-elections">Why does AP call US elections?</a></h1>
+				<div class="meta">
+	<time datetime="2024-09-17">Sep. 17, 2024</time>,
+	by
+	<a href="https://blog.ap.org/contributor/lauren-easton">Lauren Easton</a></div>
+				<div class="text-holder">
+							<p>For 178 years, The Associated Press has played a vital role in U.S. elections, counting the vote and declaring the winners – and reporting them to the world, without fear or favor.  </p>
+	<span class="link-holder"><a href="https://blog.ap.org/why-does-ap-call-us-elections">Continue reading ></a></span>
+					<ul class="social-networks "><li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fblog.ap.org%2Fwhy-does-ap-call-us-elections&amp;title=Why%20does%20AP%20call%20US%20elections%3F" class="popup-share" data-popup-size="500x350"><img src="/css/svg-icons/facebook.svg" alt="Facebook icon"></a></li><li><a href="http://twitter.com/intent/tweet?text=Why%20does%20AP%20call%20US%20elections%3F&amp;url=https%3A%2F%2Fblog.ap.org%2Fwhy-does-ap-call-us-elections" class="popup-share" data-popup-size="500x260"><img src="/css/svg-icons/twitter.svg" alt="Twitter icon"></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fblog.ap.org%2Fwhy-does-ap-call-us-elections&amp;title=Why%20does%20AP%20call%20US%20elections%3F" class="popup-share" data-popup-size="500x460"><img src="/css/svg-icons/linkedin.svg" alt="LinkedIn icon"></a></li><li><a href="mailto:?subject=Why%20does%20AP%20call%20US%20elections%3F&amp;body=AP Definitive Source: https%3A%2F%2Fblog.ap.org%2Fwhy-does-ap-call-us-elections"><img src="/css/svg-icons/email.svg" alt="Email icon"></a></li></ul>				</div>
+			</div>
+		</div>
+	</div>
+</section>
+				<section class="post-block add">
+	<div class="news-wrap">
+		<div class="row">
+			<div class="col-md-9 col-sm-8">
+				<span class="title">Posted in <a href="https://blog.ap.org/behind-the-news">Behind the News</a></span>
+				<h1><a href="https://blog.ap.org/ap-trump-photo-garners-global-attention">AP Trump photo garners global attention</a></h1>
+				<div class="meta">
+	<time datetime="2024-07-15">Jul. 15, 2024</time>,
+	by
+	<a href="https://blog.ap.org/contributor/lauren-easton">Lauren Easton</a></div>
+				<div class="text-holder">
+							<p>When shots rang out at former President Donald Trump’s rally in Pennsylvania on Saturday, AP chief photographer Evan Vucci sprang into action to capture an image that instantly became iconic. </p>
+	<span class="link-holder"><a href="https://blog.ap.org/ap-trump-photo-garners-global-attention">Continue reading ></a></span>
+				</div>
+				<ul class="social-networks "><li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fblog.ap.org%2Fap-trump-photo-garners-global-attention&amp;title=AP%20Trump%20photo%20garners%20global%20attention" class="popup-share" data-popup-size="500x350"><img src="/css/svg-icons/facebook.svg" alt="Facebook icon"></a></li><li><a href="http://twitter.com/intent/tweet?text=AP%20Trump%20photo%20garners%20global%20attention&amp;url=https%3A%2F%2Fblog.ap.org%2Fap-trump-photo-garners-global-attention" class="popup-share" data-popup-size="500x260"><img src="/css/svg-icons/twitter.svg" alt="Twitter icon"></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fblog.ap.org%2Fap-trump-photo-garners-global-attention&amp;title=AP%20Trump%20photo%20garners%20global%20attention" class="popup-share" data-popup-size="500x460"><img src="/css/svg-icons/linkedin.svg" alt="LinkedIn icon"></a></li><li><a href="mailto:?subject=AP%20Trump%20photo%20garners%20global%20attention&amp;body=AP Definitive Source: https%3A%2F%2Fblog.ap.org%2Fap-trump-photo-garners-global-attention"><img src="/css/svg-icons/email.svg" alt="Email icon"></a></li></ul>			</div>
+			<div class="col-sm-4">
+				<div class="news-img">
+															<img src="https://blog-uploads.associatedpress.com/blog/news/_209x189_crop_center-center_none/AP24195803307155.jpg" />
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="image-wrap hidden-xs hidden-sm">
+				<div class="image-full">
+			<!-- bottom full image -->
+						<img src="https://blog-uploads.associatedpress.com/blog/news/_708x300_crop_center-center_none/AP24195803307155.jpg" alt="AP24195803307155">
+					</div>
+	</div>
+</section>
+				<section class="post-block">
+	<div class="holder">
+		<div class="col-md-12 col-sm-12">
+			<span class="title">Posted in <a href="https://blog.ap.org/behind-the-news">Behind the News</a></span>
+			<h1><a href="https://blog.ap.org/strengthening-democracy-coverage-in-local-newsrooms">Strengthening democracy coverage in local newsrooms</a></h1>
+			<div class="meta">
+	<time datetime="2024-06-18">Jun. 18, 2024</time>,
+	by
+	<a href="https://blog.ap.org/contributor/nicole-meir">Nicole Meir</a></div>
+			<div class="text-holder">
+						<p>In a new collaboration, AP and the University of Chicago’s <a href="https://effectivegov.uchicago.edu/" target="_blank" rel="noreferrer noopener">Center for Effective Government</a>
+will work together to help strengthen democracy coverage across U.S. newsrooms. </p>
+	<span class="link-holder"><a href="https://blog.ap.org/strengthening-democracy-coverage-in-local-newsrooms">Continue reading ></a></span>
+			</div>
+			<ul class="social-networks "><li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fblog.ap.org%2Fstrengthening-democracy-coverage-in-local-newsrooms&amp;title=Strengthening%20democracy%20coverage%20in%20local%20newsrooms" class="popup-share" data-popup-size="500x350"><img src="/css/svg-icons/facebook.svg" alt="Facebook icon"></a></li><li><a href="http://twitter.com/intent/tweet?text=Strengthening%20democracy%20coverage%20in%20local%20newsrooms&amp;url=https%3A%2F%2Fblog.ap.org%2Fstrengthening-democracy-coverage-in-local-newsrooms" class="popup-share" data-popup-size="500x260"><img src="/css/svg-icons/twitter.svg" alt="Twitter icon"></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fblog.ap.org%2Fstrengthening-democracy-coverage-in-local-newsrooms&amp;title=Strengthening%20democracy%20coverage%20in%20local%20newsrooms" class="popup-share" data-popup-size="500x460"><img src="/css/svg-icons/linkedin.svg" alt="LinkedIn icon"></a></li><li><a href="mailto:?subject=Strengthening%20democracy%20coverage%20in%20local%20newsrooms&amp;body=AP Definitive Source: https%3A%2F%2Fblog.ap.org%2Fstrengthening-democracy-coverage-in-local-newsrooms"><img src="/css/svg-icons/email.svg" alt="Email icon"></a></li></ul>		</div>
+			</div>
+</section>
+				<section class="post-block">
+	<div class="row">
+		<div class="col-sm-4 col-xs-4">
+			<div class="img-wrap">
+												<img src="https://blog-uploads.associatedpress.com/blog/news/_342x523_crop_center-center_none/CUNY.jpg" />
+			</div>
+		</div>
+		<div class="col-lg-7 col-md-8 col-sm-8 col-xs-8">
+			<div class="col-wrap">
+				<span class="title">Posted in <a href="https://blog.ap.org/industry-insights">Industry Insights</a></span>
+				<h1><a href="https://blog.ap.org/engaging-audiences-amid-news-fatigue">Engaging audiences amid news fatigue</a></h1>
+				<div class="meta">
+	<time datetime="2024-05-24">May. 24, 2024</time>,
+	by
+	<a href="https://blog.ap.org/contributor/nicole-meir">Nicole Meir</a></div>
+				<div class="text-holder">
+							<p>Speaking at the Craig Newmark Graduate School of Journalism at the City University of New York on Thursday, Executive Editor Julie Pace outlined several challenges facing the news industry and steps news organizations must take to address them.</p>
+	<span class="link-holder"><a href="https://blog.ap.org/engaging-audiences-amid-news-fatigue">Continue reading ></a></span>
+					<ul class="social-networks "><li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fblog.ap.org%2Fengaging-audiences-amid-news-fatigue&amp;title=Engaging%20audiences%20amid%20news%20fatigue" class="popup-share" data-popup-size="500x350"><img src="/css/svg-icons/facebook.svg" alt="Facebook icon"></a></li><li><a href="http://twitter.com/intent/tweet?text=Engaging%20audiences%20amid%20news%20fatigue&amp;url=https%3A%2F%2Fblog.ap.org%2Fengaging-audiences-amid-news-fatigue" class="popup-share" data-popup-size="500x260"><img src="/css/svg-icons/twitter.svg" alt="Twitter icon"></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fblog.ap.org%2Fengaging-audiences-amid-news-fatigue&amp;title=Engaging%20audiences%20amid%20news%20fatigue" class="popup-share" data-popup-size="500x460"><img src="/css/svg-icons/linkedin.svg" alt="LinkedIn icon"></a></li><li><a href="mailto:?subject=Engaging%20audiences%20amid%20news%20fatigue&amp;body=AP Definitive Source: https%3A%2F%2Fblog.ap.org%2Fengaging-audiences-amid-news-fatigue"><img src="/css/svg-icons/email.svg" alt="Email icon"></a></li></ul>				</div>
+			</div>
+		</div>
+	</div>
+</section>
+	
+	
+			<a href="https://blog.ap.org/p2" class="btn btn-default more">Load More</a>
+							</div>
+					</div>
+				</section>
+				<aside id="sidebar" class="sidebar-apd col-md-3 hidden-xs hidden-sm">
+					<div class="contributor-block">
+						<h2>Contributors</h2>
+						    
+<ul>
+                                <li>
+                                                    <div class="img-wrap">
+                        <a href="https://blog.ap.org/contributor/lauren-easton"><img src="https://blog-uploads.associatedpress.com/blog/authors/Easton_Lauren-Sept-2015.jpg" height="72" width="72"
+                                                      alt="Lauren Easton"></a>
+                    </div>
+                                <div class="description">
+                    <a href="https://blog.ap.org/contributor/lauren-easton"><strong class="name">Lauren Easton</strong></a>
+                    Vice President of Corporate Communications
+                    <a href="https://twitter.com/LaurenEastonAP">@LaurenEastonAP</a>
+                </div>
+            </li>
+                                        <li>
+                                                    <div class="img-wrap">
+                        <a href="https://blog.ap.org/contributor/nicole-meir"><img src="https://blog-uploads.associatedpress.com/blog/authors/Mier-Hi-Res02.jpeg" height="72" width="72"
+                                                      alt="Nicole Meir"></a>
+                    </div>
+                                <div class="description">
+                    <a href="https://blog.ap.org/contributor/nicole-meir"><strong class="name">Nicole Meir</strong></a>
+                    Media Relations Manager
+                    <a href="https://twitter.com/NicoleMeirAP">@NicoleMeirAP</a>
+                </div>
+            </li>
+            </ul>
+
+
+					</div>
+					<div class="post-style-block">
+						<h2>Recommended Posts</h2>
+							  
+<ul>
+		<li>
+										<div class="img-wrap">
+				<img src="https://blog-uploads.associatedpress.com/blog/news/_200x132_fit_center-center_75_none/Saed-Ahmed_2023-01-24-144548_jmmf.jpg" height="66" width="100" alt="Saed Ahmed">
+			</div>
+				<div class="description">
+			<span>Announcements</span>
+			<a href="https://blog.ap.org/saeed-ahmed-named-vp-of-news-for-digital-platforms">Saeed Ahmed named VP of news for digital platforms</a>
+				<time datetime="2023-01-24">Jan 24, 2023</time>		</div>
+	</li>
+		<li>
+										<div class="img-wrap">
+				<img src="https://blog-uploads.associatedpress.com/blog/news/_200x132_fit_center-center_75_none/Karen-Kaiser.jpg" height="66" width="100" alt="Karen Kaiser">
+			</div>
+				<div class="description">
+			<span>Industry Insights</span>
+			<a href="https://blog.ap.org/industry-insights/fighting-for-press-freedom">Fighting for press freedom</a>
+				<time datetime="2022-05-03">May 3, 2022</time>		</div>
+	</li>
+		<li>
+										<div class="img-wrap">
+				<img src="https://blog-uploads.associatedpress.com/blog/news/_200x132_fit_center-center_75_none/amanda_barrett-092921.jpg" height="66" width="100" alt="Amanda Barrett 092921">
+			</div>
+				<div class="description">
+			<span>Announcements</span>
+			<a href="https://blog.ap.org/announcements/amanda-barrett-named-vp-of-standards-inclusion">Amanda Barrett named VP of standards, inclusion</a>
+				<time datetime="2022-11-07">Nov 7, 2022</time>		</div>
+	</li>
+		<li>
+						<div class="description">
+			<span>Behind the News</span>
+			<a href="https://blog.ap.org/behind-the-news/what-is-ap-ceo-explains-in-op-ed">What is AP? CEO explains in op-ed</a>
+				<time datetime="2019-05-29">May 29, 2019</time>		</div>
+	</li>
+	</ul>
+  
+					</div>
+				</aside>
+			</div>
+		</div>
+	</div>
+</main>
+									<footer id="footer" class="footer-apd">
+				<div class="footer-t">
+					<div class="container">
+						<div class="row">
+							<div class="col-left accordion feedback-wrapper">
+								<nav class="col">
+									<span class="title accordion-opener">Definitive Source</span>
+									<ul class="accordion-slide">
+										<li><a href="https://blog.ap.org/forms/feedback" class="feedback-open">Site feedback</a></li>
+										<li><a class="optanon-toggle-display" style="cursor:pointer;color:#000;">Cookie Settings</a></li>
+									</ul>
+								</nav>
+								<nav class="col right">
+									<span class="title accordion-opener">More AP Blogs</span>
+									<ul class="accordion-slide">
+										<li><a href="https://apimagesblog.com/" target="_blank">AP Images Spotlight</a></li>
+									</ul>
+								</nav>
+								<div class="col-large" style="margin-bottom: 15px;">
+									<span class="title accordion-opener">Communications</span>
+									<ul class="accordion-slide">
+										<li><a href="https://www.ap.org/sign-up-for-updates/" target="_blank">Stay up to date with The Definitive Source</a></li>
+									</ul>
+								</div>
+								<div class="feedback-holder js-only">
+									<a href="#" class="btn-close feedback-close js-only"><span class="icon-cross"></span></a>
+									<form action="" class="feedback-form validate-form" method="post" accept-charset="UTF-8" data-ajax="true">
+	<input type="hidden" name="action" value="contactForm/sendMessage">
+	<input type="hidden" name="redirect" value="https://blog.ap.org/forms/feedback-thanks">
+	<input type="hidden" name="CRAFT_CSRF_TOKEN" value="zl5tUOhK6cp5bbS52D3iF42tXtG2bTO3ECcMKShV3GjjixCbIuYYZ6oIDwi9e4qkEQny8q5WhVW4n27h3QxF-WJReEthF-8wtbl-8W-naQQ=">
+		<input type="hidden" name="topic">
+	<input type="hidden" name="subject" value="Feedback Form ">
+	<fieldset>
+		<div class="heading">
+			<span class="feedback-title hidden-xs">Site feedback</span>
+			<h3>We’d love to hear from you</h3>
+		</div>
+		<div class="form-field field-box">
+			<div class="row">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<div class="form-group required-row">
+						<input name="fromName" type="text" class="form-control required" placeholder="Name">
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<div class="form-group required-row">
+						<input name="fromEmail" type="email" class="form-control required-email" placeholder="Email address">
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="required-row">
+						<div class="text-area-wrap">
+							<label for="message">Comments</label>
+							<textarea name="message" cols="30" rows="10" class="form-control required" placeholder="Comments"></textarea>
+							<button class="btn btn-default" type="submit">
+								Send
+								<span class="icons">
+									<span class="icon-arrow"></span>
+								</span>
+							</button>
+							<a href="#" class="icon-cross js-ony"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<span class="thankyou-msg thanks-box"><strong>THANKS!</strong> We appreciate your feedback <em class="icon-check"></em></span>
+	</fieldset>
+</form>
+
+								</div>
+							</div>
+							<div class="col-right accordion">
+								<div class="col right">
+									<strong class="title social">Follow AP</strong>
+									<ul class="social-networks">
+										 <li><a href="https://twitter.com/AP" target="_blank"><span class="icon-twitter"></span></a></li>
+										<li><a href="https://facebook.com/APNews" target="_blank"><span class="icon-facebook"></span></a></li>
+										<li><a href="https://linkedin.com/company/associated-press" target="_blank"><span class="icon-linkedin"></span></a></li>
+										<li><a href="https://youtube.com/ap" target="_blank"><span class="icon-youtube"></span></a></li>
+									</ul>
+								</div>
+								<nav class="col">
+									<span class="title accordion-opener">The Associated Press</span>
+									<ul class="accordion-slide">
+										<li><a href="http://www.ap.org/" target="_blank">ap.org</a></li>
+										<li><a href="https://www.ap.org/solutions/services/" target="_blank">Products and services</a></li>
+										<li><a href="https://www.ap.org/about/media-center/" target="_blank">Media center</a></li>
+										<li><a href="https://www.ap.org/about/" target="_blank">Company</a></li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="footer-b">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-2 hidden-xs">
+								<span class="company">The Associated Press</span>
+							</div>
+							<div class="col-md-5 col-sm-6 hidden-xs">
+								<ul class="footer-nav">
+																			<li><a href="http://www.ap.org/about" target="_blank">About us</a></li>
+																			<li><a href="https://www.ap.org/contact-us/" target="_blank">Contact us</a></li>
+																			<li><a href="https://customerzone.ap.org/cz/s/contactsupport" target="_blank">AP Support</a></li>
+																			<li><a href="https://www.ap.org/about/media-center/" target="_blank">Media Center</a></li>
+																			<li><a href="http://www.ap.org/company/careers" target="_blank">Careers</a></li>
+																	</ul>
+							</div>
+							<div class="col-md-5 col-sm-4">
+								<span class="copyright">All contents © copyright 2024 Associated Press. All rights reserved.</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+					</div><!-- /.hold.apd -->
+	</div>
+</div>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="https://blog.ap.org/js/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="https://blog.ap.org/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://blog.ap.org/js/jquery.main.js?20240813-010827"></script>
+
+<!-- OneTrust Cookies Consent Notice (Production CDN, blog.ap.org, en-US) start -->
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="0bc3c648-67d6-4e70-9428-76a6f819b998-test" ></script>
+<script type="text/javascript">
+    function OptanonWrapper() { }
+</script>
+
+<!-- OneTrust Cookies Consent Notice (Production CDN, blog.ap.org, en-US) end -->
+
+</body>
+</html>

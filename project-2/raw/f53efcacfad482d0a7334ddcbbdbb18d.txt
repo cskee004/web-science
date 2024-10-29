@@ -1,0 +1,1413 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script src="/sites/default/files/hotjar/hotjar.script.js?skfm92"></script>
+<meta name="description" content="Our anthropology and archaeology collections are some of the most comprehensive and oldest in the world." />
+<link rel="canonical" href="https://library.harvard.edu/libraries/tozzer" />
+<meta property="og:site_name" content="Harvard Library" />
+<meta property="og:type" content="library" />
+<meta property="og:url" content="https://library.harvard.edu/libraries/tozzer" />
+<meta property="og:title" content="Tozzer Library" />
+<meta property="og:description" content="Our anthropology and archaeology collections are some of the most comprehensive and oldest in the world." />
+<meta property="og:image" content="https://library.harvard.edu/sites/default/files/2023-09/220422_Tozzer43%20copy%202%20cropped.JPG" />
+<meta property="og:image:alt" content="Image of artwork hanging in Tozzer Library" />
+<meta itemprop="name" content="Tozzer Library" />
+<meta itemprop="description" content="Our anthropology and archaeology collections are some of the most comprehensive and oldest in the world." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Harvard Library - Tozzer Library" />
+<meta name="twitter:site" content="@harvardlibrary" />
+<meta name="twitter:url" content="https://library.harvard.edu/libraries/tozzer" />
+<meta name="twitter:image:alt" content="Image of artwork hanging in Tozzer Library" />
+<meta name="twitter:image" content="https://library.harvard.edu/sites/default/files/2023-09/220422_Tozzer43%20copy%202%20cropped.JPG" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/harvard/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/default/files/google_tag/ga4/google_tag.script.js?skfm92" defer></script>
+
+    <title>Tozzer Library | Harvard Library</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_-3CVcbhcjrD8hpPmJzPL_9K_4PEBIq4p7YF1BaPJIA4.css?delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Lora:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_B_vRC4kly_77UEmaji62uAL5P1OVymz5fNeMSXfBArg.css?delta=2&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+
+    
+  </head>
+  <body class="path-node page-node-type-library">
+        <a href="#hl__main-id" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSHSDQ5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <section class="region">
+      
+  </section>
+
+
+  
+  <section class="hl__header region js-header">
+    <nav class="hl__header__container" aria-label="main">
+      <div class="hl__header__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library Homepage">
+            <img class="hl__image " alt="Harvard Library Homepage" height="82" width="110" src="/themes/custom/harvard/assets/images/logo-final.svg">
+          </a>
+        </section>
+      </div>
+
+      <div class="hl__header__menu">
+        <section class="hl__main-nav js-main-nav">
+          <button class="hl__hamburger-button js-hamburger-button" type="button" aria-label="open or close the Main Navigation">
+            <span class="hl__hamburger-button__icon"></span>
+          </button>
+          <div class="hl__main-nav__wrapper">
+            <div class="hl__main-nav__container">
+                
+
+<div class="hl__main-nav__menu">
+          <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-1">
+        Help with...
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-1">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/services-tools" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1326"><span>All Services, Tools & Catalogs</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-library-alum" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1416"><span>Alumni Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/borrow-renew-and-return-library-materials" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1306"><span>Borrowing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/get-support-research-publishing" class="hl__link-tag" title="Get Remote Support for Research &amp; Publishing" data-ga-link="Header Nav" data-drupal-link-system-path="node/9426"><span>Research & Publishing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://library.harvard.edu/services-tools/scan-deliver" class="hl__link-tag" data-ga-link="Header Nav"><span>Scan & Deliver</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/teach-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1356"><span>Teaching</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-2">
+        Collections
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-2">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/explore-collections" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/341"><span>Explore Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://curiosity.lib.harvard.edu/" class="hl__link-tag" data-ga-link="Header Nav"><span>Curated Digital Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-librarys-special-collections-and-archives" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1311"><span>How to Use Special Collections & Archives</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/how-choose-search-tool" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/11134"><span>How to Choose a Search Tool</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/exhibits" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1441"><span>What's on Exhibit</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-3">
+        Events &amp; News
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-3">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://libcal.library.harvard.edu/calendar/main" title="Upcoming Events" class="hl__link-tag" data-ga-link="Header Nav"><span>Events</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/about/news" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/116"><span>News</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-4">
+        Visit &amp; About
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-4">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/libraries" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/171"><span>Locations & Hours</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visitor-access" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/3186"><span>Visitor Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/spaces" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="spaces"><span>Find a Space</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/confronting-anti-black-racism" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10946"><span>Confronting Anti-Black Racism</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/grants-fellowships" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1586"><span>Grants & Fellowships</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/staff" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1466"><span>Staff Profiles</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/about-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10241"><span>About Harvard Library</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+  
+</div>
+
+
+
+  
+
+<div class="hl__main-nav__utility-nav">
+  <section class="hl__utility-nav js-utility-nav">
+                                                                                    <div class="js-utility-nav-item hl__utility-nav__link js-utility-nav-item--hollis">
+                                                  <a href="https://hollis.harvard.edu/primo-explore/account?vid=HVD2&amp;section=overview&amp;lang=en_US" data-icon="user" data-show-title="yes" data-item-type="link" data-item-label="hollis" class="hl__utility-nav__item" title="Sign in to HOLLIS">              <span class="hl__utility-nav__icon hl__utility-nav__item--hollis" aria-hidden="true">
+                <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="user-icon" style="pointer-events:none">
+      <title id="user-icon">Sign in to HOLLIS</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-1156.000000, -35.000000)">
+      <g transform="translate(1065.000000, 1.000000)">
+        <g transform="translate(91.000000, 34.000000)" fill="#1E1E1E" fill-rule="nonzero">
+          <path d="M17.5774327,20 C18.8046827,20 19.8251827,18.9925 19.5558077,17.795125 C18.5516827,13.333125 14.5650577,11.875 9.79980771,11.875 C5.03454521,11.875 1.04763271,13.333125 0.0435327056,17.795125 C-0.225904794,18.9925 0.794582706,20 2.02188271,20 L17.5774327,20 Z"></path>
+          <path d="M14.7996827,5 C14.7996827,7.761375 12.5610577,10 9.79968271,10 C7.03823271,10 4.79965771,7.761375 4.79965771,5 C4.79965771,2.238575 7.03823271,0 9.79968271,0 C12.5610577,0 14.7996827,2.238575 14.7996827,5 Z"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+
+              </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hollis ">MyHOLLIS</span>
+                          </a>
+              </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--ask">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--ask" id="hl__utility-nav__button-2" title="Ask a Librarian, contact us with your question" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--ask" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" role="img" aria-labelledby="ask-icon" style="pointer-events:none">
+      <title id="ask-icon">Ask a Librarian, contact us with your question</title>
+    <g>
+    <g transform="translate(-34 -74)"><path d="M41 81h-2v2h2zm4 0h-2v2h2zm4 0h-2v2h2zm3-7a2 2 0 0 1 2 2v18l-4-4H36a2 2 0 0 1-2-2V76c0-1.1.9-2 2-2z"></path>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--ask ">Ask</span>
+                                    </button>
+                      <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__dropdown-tray">
+      <div class="hl__dropdown-tray__container">
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--searchbox">
+          <h2 class="hl__comp-heading">Ask <span class="hl__dropdown-tray__heading--lora">a Librarian</span></h2>
+          <section class="hl__single-input-form  ">
+            <form class="hl__single-input-form__form" action="https://ask.library.harvard.edu/search" method="GET" autocomplete="off">
+              <label class="hl__label hl__label--inline" for="text-input">Ask a librarian</label>
+              <div class="hl__single-input-form__input-group">
+                                  <input class="hl__input hl__input--inline js-is-required" name="q" id="text-input" type="text" placeholder="Try &quot;printer help&quot; or &quot;Zotero&quot;" data-type="text" required="" autocomplete="off">
+                                <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label="">
+                  Go
+                </button>
+              </div>
+            </form>
+          </section>
+        </div>
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--links">
+          <div class="hl__linked-list hl__linked-list--no-bullets ">
+            <h2 class="hl__comp-heading  ">More help options</h2>
+            <ul class="hl__linked-list__items">
+                              <li class="hl__linked-list__item">
+                  <a href="/services-tools/library-liaisons" class="hl__link-tag">Find my subject liaison</a>
+                </li>
+                              <li class="hl__linked-list__item">
+                  <a href="https://harvard.az1.qualtrics.com/jfe/form/SV_09DXHPBmaMSnqdL" class="hl__link-tag">Request a research appointment</a>
+                </li>
+                          </ul>
+          </div>
+          <!-- "Library.Harvard Chat Widget" embedded from ask.library.harvard.edu -->
+          <!-- update styles in sprinshare interface -->
+          <div id="hl__chat-button">
+            <div id="libchat_90b85bdd1489a074045c2519ad2fc1a5" class="hl__chat-button">
+              <p class="hl__chat-button__placeholder">Let's chat!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+                                            </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--hours">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--hours" id="hl__utility-nav__button-3" title="Library locations and hours" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--hours" aria-hidden="true">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="clock-icon" style="pointer-events:none">
+      <title id="clock-icon">Library locations and hours</title>
+    <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hours ">Hours</span>
+                                    </button>
+                                <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+                  <section class="hl__featured-libraries">
+      <div class="hl__featured-libraries__container">
+        <div class="hl__featured-libraries__today">
+          <h2>
+            <span class="hl__highlighted-text">Saturday, Sep 28, 2024</span>
+          </h2>
+        </div>
+                  <ul class="hl__featured-libraries__items">
+              <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/widener" class="hl__link-tag"><span>Widener Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">9am - 5pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/lamont" class="hl__link-tag"><span>Lamont Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">11am - 10pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/cabot" class="hl__link-tag"><span>Cabot Science Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">12pm - 10pm</span>
+</div>
+
+  </li>
+
+                          <li class="hl__featured-libraries__item hl__featured-libraries__item--more">
+                <h3 class="hl__featured-libraries__all"><span>see all locations</span></h3>
+                <div class="hl__featured-libraries__see-more">
+              <span class="hl__featured-libraries__more-icon">
+                <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+              </span>
+                  <span class="hl__featured-libraries__more-link">
+                      <a href="/libraries?active_filter=1" class="hl__link-tag hl__link-tag--with-arrow" #title="See more library hours"><span>Hours for all 25&plus; locations</span></a>
+
+                  </span>
+                </div>
+              </li>
+                      </ul>
+              </div>
+    </section>
+  
+
+      </div>
+</div>
+                                  </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--search">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--search" id="hl__utility-nav__button-4" title="Search" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--search" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17" role="img" aria-labelledby="search-icon" style="pointer-events:none">
+      <title id="search-icon">Search</title>
+    <g>
+    <g transform="translate(-158 -656)"><path d="M170.15 666.7l4.85 4.85-1.45 1.45-4.86-4.85v-.77l-.26-.27a6.32 6.32 0 1 1 .68-.68l.27.26zm-5.83 0a4.37 4.37 0 1 0 .01-8.74 4.37 4.37 0 0 0-.01 8.73z"></path></g>
+  </g>
+</svg>
+
+            </span>
+                                    </button>
+                                          <div class="hl__utility-nav__dropdown js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small js-utility-nav-back-button" aria-label="close dropdown menu" tabindex="-1"><span class="hl__button__text">back</span></button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__single-input-form hl__single-input-form--clear js-search-dropdown">
+      <form class="hl__single-input-form__form" action="/search" method="GET" autocomplete="off">
+        <label class="hl__label hl__label--hidden" for="utility-nav-search-input">Search website or HOLLIS catalog</label>
+        <div class="hl__single-input-form__input-group">
+          <input class="hl__input hl__input--inline js-is-required" name="keywords" id="utility-nav-search-input" type="text" placeholder="" data-type="text" required="" autocomplete="off" />
+          <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label=""><span class="hl__button__text">Search</span></button>
+        </div>
+        <div class="hl__single-input-form__dropdown">
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in website" id="search-website-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>website (library.harvard)</span>
+            </a>
+          </div>
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in library catalog" id="search-hollis-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>library catalog &amp; articles (HOLLIS)</span>
+            </a>
+          </div>
+        </div>
+      </form>
+    </section>
+    <div class="hl__utility-nav__helper-text">
+      <section class="hl__rich-text">
+        <p>Search website or HOLLIS catalog</p>
+      </section>
+    </div>
+  </div>
+</div>
+                        </div>
+      
+  </section>
+</div>
+
+
+
+            </div>
+          </div>
+        </section>
+      </div>
+    </nav>
+  </section>
+  <div class="hl__header__sticky-gap"></div>
+
+
+<main id="hl__main-id" class="hl__full-template hl__library-details" tabindex="-1">
+
+  
+        <section class="hl__full-template__pre-content hl__library-details__pre-content region">
+      <div id="block-breadcrumbs" data-block-plugin-id="system_breadcrumb_block">
+            <nav role="navigation" aria-labelledby="system-breadcrumb"  class="hl__breadcrumb hl__breadcrumb--light">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+
+    <ul class="hl__breadcrumb__items">
+                        <li class="hl__breadcrumb__item">
+            <a href="/"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Home">Home</a>
+          </li>
+                                <li class="hl__breadcrumb__item">
+            <a href="/libraries"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Locations &amp; Hours">Locations &amp; Hours</a>
+          </li>
+                  </ul>
+  </nav>
+
+      </div>
+
+  
+    
+
+<section  class="hl__page-header hl__page-header--light">
+  <div class="hl__page-header__container">
+    <div class="hl__page-header__page-title">
+        <h1 class="hl__page-title"><span>Tozzer Library</span>
+</h1>
+    </div>
+    <div class="hl__page-header__sub-text">
+        <div class="hl__sub-text"></div>
+    </div>
+  </div>
+</section>
+
+  <div class="hl__library-details__bg-overlay hl__library-details__bg-overlay--dark"></div>
+
+<style>
+  .hl__library-details__pre-content {
+    background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_narrow/public/2023-09/220422_Tozzer43%20copy%202%20cropped.JPG?h=7e5362cb&itok=ODx9ZRRj');
+  }
+
+  @media (min-width: 800px) {
+    .hl__library-details__pre-content {
+      background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_wide/public/2023-09/220422_Tozzer43%20copy%202%20cropped.JPG?h=7e5362cb&itok=HWb-7-kf');
+    }
+  }
+</style>
+
+
+
+
+
+
+    
+  <div class="hl__library-details__jump-links">
+    <div class="hl__jump-links js-jump-links hl__jump-links--primary">
+                                                                                                        <div class="hl__jump-links__navigation">
+        <nav class="hl__jump-links__items" aria-label="in-page">
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#research" class="hl__link-tag"><span>Research</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#happening" class="hl__link-tag"><span>What&#039;s Happening</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#spaces" class="hl__link-tag"><span>Spaces</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#using-the-library" class="hl__link-tag"><span>Using the Library</span></a>
+            </div>
+                  </nav>
+      </div>
+    </div>
+  </div>
+
+
+
+  </section>
+
+  
+    <section class="hl__full-template__main-content region">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-harvard-content" data-block-plugin-id="system_main_block">
+  
+    
+      
+<article>
+  
+
+  <div class="hl__library-details__info">
+    <a name="library-info" id="library-info"></a>
+     <section class="hl__library-info">
+      <div class="hl__library-info__container ">
+        <div class="hl__library-info__hours">
+          <section class="hl__library-hours">
+            <div class="hl__library-hours__icon">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+                <g>
+                  <g transform="translate(-188 -510)">
+                    <g>
+                      <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+                    </g>
+                    <g>
+                      <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+                    </g>
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <div class="hl__library-hours__today">
+              Today: 12pm - 5pm
+            </div>
+                        <div class="hl__library-hours__see-all">
+                <a href="/libraries?active_filter=1&amp;library=tozzer&amp;weeks=1" class="hl__link-tag hl__link-tag--with-arrow" title="See all hours for Tozzer Library" data-ga-link="Text Link: In-Line Arrow"><span>See All Hours</span></a>
+
+            </div>
+                      </section>
+        </div>
+                <div class="hl__library-info__summary">
+          <h2 class="hl__comp-heading  ">Highlights</h2>
+          <div class="hl__library-info__highlights">
+            <section class="hl__rich-text  ">
+              <p>  Our anthropology and archaeology collections are some of the most comprehensive and oldest in the world.
+</p>
+              <ul>
+      <li>Archaeology of the Americas</li>
+      <li>Anthropological field notes</li>
+      <li>Scholars&#039; personal libraries</li>
+      <li>Student dissertations/theses</li>
+  </ul>
+
+            </section>
+          </div>
+                    <div class="hl__library-info__access">
+            <section class="hl__rich-text  ">
+                                Open to the general public. Non-HUID holders must register with the Harvard Library Access and Borrowing Office prior to visiting.
+
+                                            <div class="hl__rich-text__see-all-link">
+                    <a href="/visitor-access" class="hl__link-tag hl__link-tag--with-arrow" data-ga-link="Text Link: In-Line Arrow"><span>Full access policy</span></a>
+
+                </div>
+                          </section>
+          </div>
+        </div>
+                  <div class="hl__library-info__cta hl__library-info__cta--newsletter">
+            <section class="hl__pattern-cta hl__pattern-cta--small">
+              <div class="hl__pattern-cta__container">
+                <div class="hl__pattern-cta__text">
+                  <div class="hl__pattern-cta__title">Sign up for our newsletter</div>
+                  <div class="hl__pattern-cta__description">Stay in the know</div>
+                </div>
+                <div class="hl__pattern-cta__links">
+                  <div class="hl__pattern-cta-icon"><a class="hl__icon-link" href="https://forms.gle/vYCvd6xaP3MrQRb76" title="sign up for our newsletter"><svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs></defs><g stroke="none" stroke-width="1" fill-rule="evenodd"><g transform="translate(-845.000000, -677.000000)"><g transform="translate(801.000000, 512.000000)"><path d="M57.5,165 L45.5,165 C44.675,165 44.0075,165.675 44.0075,166.5 L44,175.5 C44,176.325 44.675,177 45.5,177 L57.5,177 C58.325,177 59,176.325 59,175.5 L59,166.5 C59,165.675 58.325,165 57.5,165 L57.5,165 Z M58,168.428571 L52,172 L46,168.428571 L46,167 L52,170.571429 L58,167 L58,168.428571 L58,168.428571 Z"></path></g></g></g></svg></a></div>                </div>
+              </div>
+            </section>
+          </div>
+
+                <div class="hl__library-info__sidebar js-accordion">
+          <div class="hl__library-info__contact">
+            <section class="hl__contact-info">
+              <h2 class="hl__comp-heading  ">Contact</h2>
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                  <div class="hl__contact-info__address">    <span class="address-line1">21 Divinity Avenue</span>
+ <br />
+
+      Cambridge,
+    <span class="administrative-area">MA</span>
+ <span class="postal-code">02138</span>
+
+</div>
+                  <div class="hl__contact-info__directions">
+                    <span class="hl__contact-info__icon" aria-hidden="true"> <svg height="17" viewbox="0 0 12 17" width="12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M994 1676c3.32 0 6 2.66 6 5.95 0 4.46-6 11.05-6 11.05s-6-6.59-6-11.05a5.97 5.97 0 0 1 6-5.95zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4z" id="jpn3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-988 -1676)">
+            <use fill="silver" xlink:href="#jpn3a">
+            </use>
+        </g>
+    </g>
+</svg>
+</span>
+                    <a class="hl__link-tag" href="https://www.google.com/maps/place/Tozzer+Library/@42.3785052,-71.1147813,15z/data=!4m2!3m1!1s0x0:0xe908d8bf6e0bcb7d?sa=X&amp;ved=0ahUKEwjm7uDByOfZAhVI11MKHdPtDlAQ_BIImwEwDg" title="Get directions to Tozzer Library">
+                      <span>Directions</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="hl__contact-info">
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                                      <ul class="hl__contact-info__items hl__contact-info__items--email">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="12px" viewBox="0 0 15 12"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-845.000000, -677.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M57.5,165 L45.5,165 C44.675,165 44.0075,165.675 44.0075,166.5 L44,175.5 C44,176.325 44.675,177 45.5,177 L57.5,177 C58.325,177 59,176.325 59,175.5 L59,166.5 C59,165.675 58.325,165 57.5,165 L57.5,165 Z M58,168.428571 L52,172 L46,168.428571 L46,167 L52,170.571429 L58,167 L58,168.428571 L58,168.428571 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <span class="hl__contact-info__email"><a href="mailto:TozzerLibrary@fas.harvard.edu" class="hl__link-tag">  <span class="hl__visually-hidden">email:</span>
+  <span>TozzerLibrary@fas.harvard.edu</span>
+</a></span>
+                      </li>
+                    </ul>
+                                                        <ul class="hl__contact-info__items hl__contact-info__items--phone">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="15px" viewBox="0 0 15 15"
+     version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-846.000000, -702.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M48.0166667,196.491667 C49.2166667,198.85 51.15,200.775 53.5083333,201.983333 L55.3416667,200.15 C55.5666667,199.925 55.9,199.85 56.1916667,199.95 C57.125,200.258333 58.1333333,200.425 59.1666667,200.425 C59.625,200.425 60,200.8 60,201.258333 L60,204.166667 C60,204.625 59.625,205 59.1666667,205 C51.3416667,205 45,198.658333 45,190.833333 C45,190.375 45.375,190 45.8333333,190 L48.75,190 C49.2083333,190 49.5833333,190.375 49.5833333,190.833333 C49.5833333,191.875 49.75,192.875 50.0583333,193.808333 C50.15,194.1 50.0833333,194.425 49.85,194.658333 L48.0166667,196.491667 L48.0166667,196.491667 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <a href="tel:617-495-2253" class="hl__contact-info__phone">  <span class="hl__contact-info__label hl__visually-hidden">Phone number</span>
+  617-495-2253
+</a>
+                      </li>
+                    </ul>
+                                  </div>
+              </div>
+            </section>
+          </div>
+          <div class="js-accordion-content">
+            <div class="hl__library-info__links">
+              <section class="hl__contact-info">
+                <div class="hl__contact-info__list">
+                  <div class="hl__contact-info__section">
+                                            <div class="hl__contact-info__website">
+    <span class="hl__contact-info__icon" aria-hidden="true">
+      <svg height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z" id="fwuua">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-986 -1703)">
+            <use fill="silver" xlink:href="#fwuua">
+            </use>
+        </g>
+    </g>
+</svg>
+    </span>
+    <a href="https://libcal.library.harvard.edu/appointments/tozzer" class="hl__link-tag" title="Visit website for Book an Appointment "><span>Book an Appointment </span></a>
+  </div>
+
+                                      </div>
+                </div>
+              </section>
+              <div class="hl__library-info__links-buttons">
+                                    <a href="/staff?active_filter=1&amp;library=176" class="hl__library-info__contact-buttons hl__button hl__button--small" title="View Staff Directory">View Staff Directory</a>
+
+                              </div>
+            </div>
+                      </div>
+          <div class="hl__library-info__more-info">
+            <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more contact information">
+              <span class="hl__link-tag__toggle-text">Less contact information</span> <span>More contact information</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+        <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="research" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Research
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="fancy_links-17435" tabindex="-1">
+      <section class="hl__fancy-link-list "><h3 class="hl__comp-heading">  Research Guides
+</h3><div class="hl__fancy-link-list__description"><section class="hl__rich-text"><p class="hl__rte-large">Our research guides can help you make the most of your research at Tozzer.</p></section></div><div class="hl__fancy-link-list__grid"><a href="https://guides.library.harvard.edu/anthro" class="hl__fancy-link hl__fancy-link--external" title="Anthropology research tools"><span class="hl__fancy-link__text">Anthropology research tools</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/american-indigenous-studies" class="hl__fancy-link hl__fancy-link--external" title="American Indigenous Studies research tools"><span class="hl__fancy-link__text">American Indigenous Studies research tools</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://guides.library.harvard.edu/indigenouslanguage" class="hl__fancy-link hl__fancy-link--external" title="Indigenous Language Research Guide"><span class="hl__fancy-link__text">Indigenous Language Research Guide</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-17588" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                              <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="/collections/indigenous-knowledge-collection" title="Read more about Indigenous Knowledge Collection " class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/ikcwebsite_2_0.jpg?h=b212ed59&amp;itok=0ykt23DD')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Indigenous Knowledge Collection </span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Indigenous Knowledge Collection </span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Explore contemporary materials from Native American and Global Indigenous communities.
+</div>
+      </div>
+</a>
+
+                                    </div>
+
+          
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-17576" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="happening" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  News &amp; Events
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="recent_news-17682" tabindex="-1">
+        <section class="hl__teaser-grid">
+      <div class="hl__teaser-grid__container">
+        <h3 class="hl__comp-heading">Recent News</h3>
+
+                <div>
+  
+  
+  
+
+  
+  
+  
+
+  <section class="hl__teaser-grid ">
+  <div class="hl__teaser-grid__container">
+    <div class="hl__teaser-grid__grid">
+              
+<a  data-ga-link="Featured Stories" class="hl__teaser-link" href="/about/news/2024-03-07/tozzer-space-study" title="Tozzer Space Study">
+  
+  <div class="hl__teaser-link__container">
+          <div class="hl__teaser-link__image">
+        <img class="hl__image" alt="Tozzer Library interior with empty chairs lining the wall" src="https://library.harvard.edu/sites/default/files/styles/extra_large_600_x_600/public/tozzer%20054.jpg?itok=onvFgj_9" width="107" height="190" />
+      </div>
+        <div class="hl__teaser-link__details">
+      <div class="hl__teaser-link__subject hl__teaser-link__subject--with-date"></div>
+      <div class="hl__teaser-link__date">  <time datetime="2024-02-29T12:00:00Z">February 29, 2024</time>
+
+</div>
+      <h4 class="hl__teaser-link__title"><span>Tozzer Space Study</span>
+</h4>
+      <div class="hl__teaser-link__description">
+        <section class="hl__rich-text">
+          <p>  How Harvard Library&#039;s User Research Center engaged with students, faculty, and staff about how they use Tozzer Library.
+</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</a>
+
+              
+<a  data-ga-link="Featured Stories" class="hl__teaser-link" href="/about/news/2023-08-29/everyday-indigeneity-championing-native-voices" title="Everyday Indigeneity: Championing Native Voices">
+  
+  <div class="hl__teaser-link__container">
+          <div class="hl__teaser-link__image">
+        <img class="hl__image" alt="Board, box, and pieces for the game &quot;Spirit Island&quot;" src="https://library.harvard.edu/sites/default/files/styles/extra_large_600_x_600/public/hm_so23-treasure_game_0.jpg?itok=ZxAZt-sJ" width="107" height="190" />
+      </div>
+        <div class="hl__teaser-link__details">
+      <div class="hl__teaser-link__subject hl__teaser-link__subject--with-date"></div>
+      <div class="hl__teaser-link__date">  <time datetime="2023-09-01T12:00:00Z">September 1, 2023</time>
+
+</div>
+      <h4 class="hl__teaser-link__title"><span>Everyday Indigeneity: Championing Native Voices</span>
+</h4>
+      <div class="hl__teaser-link__description">
+        <section class="hl__rich-text">
+          <p>  Harvard&#039;s Indigenous Knowledge Collection transcends the confines of scholarly texts and embraces Native voices in all forms.
+</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</a>
+
+          </div>
+  </div>
+</section>
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+       
+                  <div class="hl__teaser-grid__see-all">
+              <a href="/about/news?library_id=176" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See More</span></a>
+
+          </div>
+              </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_events-17168" tabindex="-1">
+                  <section class="hl__event-grid hl__event-grid--triple">
+                    <div class="hl__event-grid__container">
+            <h3 class="hl__comp-heading">  Upcoming Events
+</h3>
+            <div class="hl__event-grid__events">
+                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/13177557" title="See details about &quot;How Egyptologist George Reisner went Walking among Pharaohs&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">How Egyptologist George Reisner went Walking among Pharaohs</h3>
+                    <div class="hl__event-teaser__type">Book Talk</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Wednesday, Oct 9, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        5:30 PM
+                                                  - 7:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Tozzer Library
+                      </div>
+                                      </div>
+                </a>
+                                          </div>
+                          <div class="hl__event-grid__see-all">
+                  <a href="https://libcal.library.harvard.edu/calendar/main?cid=15049&amp;t=d&amp;d=0000-00-00&amp;cal=15049&amp;cm=6708&amp;inc=0" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See all events</span></a>
+
+              </div>
+                      </div>
+        </section>
+        </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="button_callout-17969" tabindex="-1">
+      <section class="hl__stacked-promo-grid">
+    <div class="hl__stacked-promo-grid__container">
+              <h3 class="hl__comp-heading hl__comp-heading--left">  Fellowships
+</h3>
+      
+      
+      <div class="hl__stacked-promo-grid__grid">
+          <section class="hl__stacked-promo">
+          <div class="hl__stacked-promo__image">
+          <article class="media media--type-image media--view-mode-">
+          <img loading="lazy" src="/sites/default/files/styles/button_callout/public/43654054_2_0.jpg?h=bd63985f&amp;itok=KybgVsk-" width="690" height="388" alt="black and white picture of Cora" />
+
+
+
+
+  </article>
+
+
+      </div>
+    
+    <div class="hl__stacked-promo__details">
+              <h3 class="hl__stacked-promo__title">  Cora Du Bois Fellowship
+</h3>
+      
+              <div class="hl__stacked-promo__description">
+          <section class="hl__rich-text ">
+            <p>  A fellowship for Ph.D. candidates in Anthropology working on their dissertations whose research will be enhanced by working at Tozzer Library.
+</p>
+          </section>
+        </div>
+      
+              <div class="hl__stacked-promo__link">
+            <a href="https://library.harvard.edu/cora-du-bois-fellowship" class="hl__button hl__button--small hl__button--minor" title="Visit link for &quot;Learn More&quot;"><span class="hl__button__text">Learn More</span></a>
+
+        </div>
+          </div>
+</section>
+
+
+      </div>
+    </div>
+  </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-17437" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="spaces" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Spaces
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="button_callout-12586" tabindex="-1">
+      <section class="hl__stacked-promo-grid">
+    <div class="hl__stacked-promo-grid__container">
+      
+              <div class="hl__stacked-promo-grid__description">
+          <section class="hl__rich-text">
+              <p>Tozzer offers open seating areas with public computers, along with several spaces that can be reserved by Harvard faculty, staff, or students. You can also search <a href="https://library.harvard.edu/spaces?library=176">Find a Space</a> to see more options.</p>
+
+          </section>
+        </div>
+      
+      <div class="hl__stacked-promo-grid__grid">
+          <section class="hl__stacked-promo">
+          <div class="hl__stacked-promo__image">
+          <article class="media media--type-image media--view-mode-">
+          <img loading="lazy" src="/sites/default/files/styles/button_callout/public/screenshot_2019-11-13_find_a_space_harvard_library.png?h=6347d0c5&amp;itok=U-vcJWsN" width="690" height="388" alt="Study Room A empty with four chairs around a table" />
+
+
+
+
+  </article>
+
+
+      </div>
+    
+    <div class="hl__stacked-promo__details">
+              <h3 class="hl__stacked-promo__title">  Study Rooms
+</h3>
+      
+              <div class="hl__stacked-promo__description">
+          <section class="hl__rich-text ">
+            <p>  There are two study rooms located in the basement, which sit 4-6 people and can be reserved up to three hours at a time. 
+</p>
+          </section>
+        </div>
+      
+              <div class="hl__stacked-promo__link">
+            <a href="https://libcal.library.harvard.edu/reserve/tozzerstudy" class="hl__button hl__button--small hl__button--minor" title="Visit link for &quot;Reserve&quot;"><span class="hl__button__text">Reserve</span></a>
+
+        </div>
+          </div>
+</section>
+
+  <section class="hl__stacked-promo">
+          <div class="hl__stacked-promo__image">
+          <article class="media media--type-image media--view-mode-">
+          <img loading="lazy" src="/sites/default/files/styles/button_callout/public/dsc_0312.jpg?h=6302e12c&amp;itok=iSpTOXXT" width="690" height="388" alt="study carrels in a sunlit room emptied of people" />
+
+
+
+
+  </article>
+
+
+      </div>
+    
+    <div class="hl__stacked-promo__details">
+              <h3 class="hl__stacked-promo__title">  Study Carrels
+</h3>
+      
+              <div class="hl__stacked-promo__description">
+          <section class="hl__rich-text ">
+            <p>  The carrels are located in the basement, and each one can be reserved for the academic year and/or summer term.
+</p>
+          </section>
+        </div>
+      
+              <div class="hl__stacked-promo__link">
+            <a href="https://library.harvard.edu/spaces?library=176&amp;room=591&amp;room_type=1146" class="hl__button hl__button--small hl__button--minor" title="Visit link for &quot;Learn More&quot;"><span class="hl__button__text">Learn More</span></a>
+
+        </div>
+          </div>
+</section>
+
+  <section class="hl__stacked-promo">
+          <div class="hl__stacked-promo__image">
+          <article class="media media--type-image media--view-mode-">
+          <img loading="lazy" src="/sites/default/files/styles/button_callout/public/study_carrels_hunap_0.jpg?h=9c86ceb9&amp;itok=t3S4PvCs" width="690" height="388" alt="two wooden study carrels near a window" />
+
+
+
+
+  </article>
+
+
+      </div>
+    
+    <div class="hl__stacked-promo__details">
+              <h3 class="hl__stacked-promo__title">  HUNAP Carrels
+</h3>
+      
+              <div class="hl__stacked-promo__description">
+          <section class="hl__rich-text ">
+            <p>  Tozzer Library provides two study carrels for use by HUNAP affiliates. 
+</p>
+          </section>
+        </div>
+      
+              <div class="hl__stacked-promo__link">
+            <a href="https://libcal.library.harvard.edu/reserve/hunap/carrels?_gl=1%2Ac06fga%2A_ga%2AMTA2NDAyNTIzNi4xNjY5MTUyNjg5%2A_ga_3CXC97RWEK%2AMTY5NDEwNjI5Ni40LjEuMTY5NDExMjA1MC40LjAuMA.." class="hl__button hl__button--small hl__button--minor" title="Visit link for &quot;Reserve&quot;"><span class="hl__button__text">Reserve</span></a>
+
+        </div>
+          </div>
+</section>
+
+
+      </div>
+    </div>
+  </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-17589" tabindex="-1">
+        <section class="hl__show-more-text"><div  id="showMoreText17589"><section class="hl__rich-text"><h2>Accessibility of Tozzer Library</h2><ul><li>The main entrance to Tozzer Library via Divinity Avenue is accessible by automatic door and elevator.&nbsp;</li><li>Study rooms on the lower level are accessible via the library elevator, which is to the left once you enter the library.&nbsp;&nbsp;</li><li>There are two all-gender restrooms on Level 1 of Tozzer Library.&nbsp;</li></ul><p>Contact Susan Gilman, <a href="mailto:sgilman@fas.harvard.edu">sgilman@fas.harvard.edu</a>, with questions about accessibility of elevators, study spaces, meeting rooms, and restrooms.</p></section></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-2641" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="using-the-library" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Using the Library
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="call_to_action-17438" tabindex="-1">
+      <section class="node node--type-call-to-action node--promoted node--view-mode-default hl__pattern-cta"><div class="hl__pattern-cta__container"><div class="hl__pattern-cta__text"><div class="hl__pattern-cta__title"><span>Ask a Librarian</span></div><div class="hl__pattern-cta__description">  Not sure where to begin? Our staff of librarians, archivists, and subject matter experts are ready to answer your questions.
+</div><div class="hl__pattern-cta__description-line2">  You can email us or get immediate help during our live chat hours. 
+</div></div><div class="hl__pattern-cta__links"><a href="https://ask.library.harvard.edu/"  class="hl__button hl__button--small" data-ga-link="Primary CTA Large"><span class="hl__button__text">Ask Us</span></a></div></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_how_tos-3086" tabindex="-1">
+        <section class="hl__staggered-type-list">
+      <header class="hl__staggered-type-list__header">
+                  <h3  class="hl__comp-heading">  How To...
+</h3>
+                          <div class="hl__staggered-type-list__description">
+            <section  class="hl__rich-text">
+              
+            </section>
+          </div>
+              </header>
+      <div class="hl__staggered-type-list__list-wrapper">
+        <div class="hl__staggered-type-list__list">
+            <a class="hl__type-promo" href="/how-to/get-support-research-publishing" title="Get Support for Research &amp; Publishing " style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/cabot_library-petervanderwarker-12.jpg?h=6f845eb0&itok=tAGKqKCL')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Get Support for Research &amp; Publishing </h3>
+          <div class="hl__type-promo__description">
+          Looking for resources for your scholarship? Harvard Library can help.<br />
+
+
+      </div>
+      </div>
+</a>
+
+  <a class="hl__type-promo" href="/how-to/use-harvard-librarys-special-collections-and-archives" title="Use Harvard Library&#039;s Special Collections and Archives" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/colonial_houghton_004_922_0.jpg?h=2e80255c&itok=VRxDTCTN')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Use Harvard Library&#039;s Special Collections and Archives</h3>
+          <div class="hl__type-promo__description">
+          Open to all, these unique materials can take you to places you never expected.
+
+      </div>
+      </div>
+</a>
+
+  <a class="hl__type-promo" href="/how-to/use-harvard-library-alum" title="Use Harvard Library as an Alum" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/shutterstock_183529466.jpg?h=19f108c5&itok=HpcYgEsA')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Use Harvard Library as an Alum</h3>
+          <div class="hl__type-promo__description">
+          Access a growing number of electronic resources available to alumni and find out how to visit libraries.
+
+      </div>
+      </div>
+</a>
+
+
+        </div>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_services-2541" tabindex="-1">
+        <section class="hl__category-teaser-grid"><h3  class="hl__comp-heading">  Services &amp; Tools
+</h3><div class="hl__category-teaser-grid__description"><section  class="hl__rich-text"></section></div><div class="hl__category-teaser-grid__grid"><a class="hl__category-teaser" href="http://nrs.harvard.edu/urn-3:hul.eresource:anthrlit" title="Anthropological Literature"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="59" height="74" viewBox="0 0 59 74"><path fill-rule="evenodd" d="M15.0029446,39.0583559 C12.6597224,31.3633515 14.518336,22.6567971 20.6052471,16.5752284 C27.3364897,9.84405918 37.2687363,8.28910797 45.5016425,11.873021 L35.074658,22.2998918 C33.6741505,23.700384 33.6741505,25.9743263 35.074658,27.3749548 L41.6248557,33.9250811 C43.0253632,35.3255733 45.2993303,35.3255733 46.6999741,33.9250811 L57.1269585,23.4982103 C60.7109107,31.731163 59.1559425,41.6624834 52.4246999,48.3943342 C46.3378843,54.4810834 37.6357339,56.3449527 29.9413272,53.9965755 L1.55763687,82.3799563 C-1.93579284,85.8733479 -7.60203357,85.8733479 -11.0900101,82.3799563 L-13.3799277,80.0900637 C-16.8733574,76.6019888 -16.8733574,70.9359462 -13.3799277,67.4425546 L15.0029446,39.0583559 Z" transform="translate(0 -10)"></path></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Tool
+</div><h3 class="hl__category-teaser__title"><span>Anthropological Literature</span><span class="hl__link-tag__external-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20"><g><g transform="translate(-906 -1005)"><path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path></g></g></svg></span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          An index of journals primarily from Tozzer Library, as well as other open-access journals.
+
+      </section></div></div></a><a class="hl__category-teaser" href="/services-tools/course-reserves" title="Course Reserves"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Course Reserves</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          We work with faculty and instructors to help provide students with access to course-related library resources.
+
+      </section></div></div></a><a class="hl__category-teaser" href="/services-tools/zotero" title="Zotero"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="59" height="74" viewBox="0 0 59 74"><path fill-rule="evenodd" d="M15.0029446,39.0583559 C12.6597224,31.3633515 14.518336,22.6567971 20.6052471,16.5752284 C27.3364897,9.84405918 37.2687363,8.28910797 45.5016425,11.873021 L35.074658,22.2998918 C33.6741505,23.700384 33.6741505,25.9743263 35.074658,27.3749548 L41.6248557,33.9250811 C43.0253632,35.3255733 45.2993303,35.3255733 46.6999741,33.9250811 L57.1269585,23.4982103 C60.7109107,31.731163 59.1559425,41.6624834 52.4246999,48.3943342 C46.3378843,54.4810834 37.6357339,56.3449527 29.9413272,53.9965755 L1.55763687,82.3799563 C-1.93579284,85.8733479 -7.60203357,85.8733479 -11.0900101,82.3799563 L-13.3799277,80.0900637 C-16.8733574,76.6019888 -16.8733574,70.9359462 -13.3799277,67.4425546 L15.0029446,39.0583559 Z" transform="translate(0 -10)"></path></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Tool
+</div><h3 class="hl__category-teaser__title"><span>Zotero</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          An easy-to-use citation tool to help you collect, organize, cite, and share research.
+
+      </section></div></div></a></div><div class="hl__category-teaser-grid__see-all"><a href="/services-tools" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See all services &amp; tools</span></a></div></section>  </div>
+
+
+</article>
+
+  </div>
+
+  </section>
+
+
+        <section class="hl__full-template__post-content region">
+    <div id="block-newslettersignupblock" data-block-plugin-id="newsletter_signup_block">
+  
+    
+      <section class="hl__single-input-form"><form class="newsletter-signup hl__single-input-form__form" data-drupal-selector="newsletter-signup" action="/libraries/tozzer" method="post" id="newsletter-signup" accept-charset="UTF-8">
+  <label class="hl__label hl__label--inline" data-drupal-selector="edit-title" for="edit-email-address" id="edit-title">Stay in the know</label><div class="hl__single-input-form__input-group">
+<input placeholder="Email Address" class="hl__input hl__input--inline js-is-required form-email required" data-twig-suggestion="newsletter_signup_email" data-drupal-selector="edit-email-address" type="email" id="edit-email-address" name="email_address" value="" maxlength="254" required="required" aria-required="true" />
+
+<button class="hl__button hl__button--small hl__button--inline button js-form-submit form-submit" data-twig-suggestion="newsletter_signup_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Sign up" data-ga-link="Form: Email Full-Width">
+  Sign up  
+</button></div><input autocomplete="off" data-drupal-selector="form-pglgdk10cn1x-fxtqbat8chbrezpzyikni1qr5gldw8" type="hidden" name="form_build_id" value="form-PgLGdK10CN1X_fxtQBAt8cHBRezpZyIkNi1qR5gLdW8" />
+<input data-drupal-selector="edit-newsletter-signup" type="hidden" name="form_id" value="newsletter_signup" />
+
+</form>
+</section>
+  </div>
+
+  </section>
+
+  </main>
+
+  <footer role="contentinfo">
+    <section>  <section class="region hl__footer">
+    <div class="hl__footer__container">
+      <div class="hl__footer__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library">
+            <img class="hl__image" alt="Harvard Library Logo" height="24" width="270" src="/themes/custom/harvard/assets/images/logo-large.svg">
+          </a>
+        </section>
+      </div>
+
+        
+<div class="hl__footer__links">
+                <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 1 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/support-library" class="hl__link-tag" data-drupal-link-system-path="node/5341"><span>Giving to the Library</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://provost.harvard.edu/" class="hl__link-tag"><span>Office of the Provost</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollis.harvard.edu/" class="hl__link-tag"><span>HOLLIS</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollisarchives.lib.harvard.edu/" class="hl__link-tag"><span>HOLLIS for Archival Discovery</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="http://nrs.harvard.edu/urn-3:hul.ois:databases" class="hl__link-tag"><span>Databases</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+          <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 2 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/library-newsletters-social-media" class="hl__link-tag" data-drupal-link-system-path="node/10856"><span>Newsletters/Social</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://staff.library.harvard.edu" class="hl__link-tag"><span>Staff Portal</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://library.harvard.edu/accessibility" class="hl__link-tag"><span>Library Accessibility</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://nrs.harvard.edu/urn-3:hul.ois:reportaproblem" class="hl__link-tag"><span>Report a Problem</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+      
+</div>
+
+
+
+
+      <div class="hl__footer__content">
+        <div class="hl__footer__top-links">
+          <div class="hl__footer__quick-links">
+
+            <div class="hl__linked-list hl__linked-list--no-bullets ">
+              <ul class="hl__linked-list__items">
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="https://accessibility.harvard.edu/" title="Read our accessibility"><span>Accessibility</span></a>
+                </li>
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="/privacy-terms-use-copyright-information/" title="Read our Privacy Policy"><span>Privacy</span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="hl__footer__license">
+          <div class="hl__footer__cc-icon">
+            <img class="hl__image " alt="Creative Commons license" height="31" width="88" src="/themes/custom/harvard/assets/images/cc-88x31.png">
+          </div>
+          <div class="hl__footer__cc-text">Creative Commons Attribution 4.0 International License</div>
+        </div>
+        <div class="hl__footer__message">
+          <section class="hl__rich-text hl__rich-text--small ">
+            <p>Except where otherwise noted, this work is subject to a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, which allows anyone to share and adapt our material as long as proper attribution is given. For details and exceptions, see the <a href="https://osc.hul.harvard.edu/programs/copyright/ccby">Harvard Library Copyright Policy</a> &copy;2024 Presidents and Fellows of Harvard College.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+  </footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_LwjaQiGzOrCwzVrRBti8K86MznwJk7GyLWx7kaTRtmo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=90b85bdd1489a074045c2519ad2fc1a5"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=055503cc8dd52ad22b42fb2afdf10da9"></script>
+
+  </body>
+</html>

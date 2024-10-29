@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+  <html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="no-js">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Accelerating the development of large-scale solutions and educating tomorrow’s change makers in response to urgent planetary challenges." />
+<link rel="canonical" href="https://sustainability.stanford.edu/" />
+<link rel="shortlink" href="https://sustainability.stanford.edu/" />
+<meta property="og:site_name" content="Stanford Doerr School of Sustainability" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://sustainability.stanford.edu/" />
+<meta property="og:title" content="Stanford Doerr School of Sustainability" />
+<meta property="og:image" content="https://sustainability.stanford.edu/sites/sustainability/files/styles/large/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=AEWFLB5_" />
+<meta property="og:image:url" content="https://sustainability.stanford.edu/sites/sustainability/files/styles/large/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=AEWFLB5_" />
+<meta property="og:image:alt" content="Big Ideas in Sustainability - Hoover Institution and Stanford Doerr School of Sustainability" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Accelerating the development of large-scale solutions and educating tomorrow’s change makers in response to urgent planetary challenges." />
+<meta name="twitter:title" content="Stanford Doerr School of Sustainability" />
+<meta name="twitter:image" content="https://sustainability.stanford.edu/sites/sustainability/files/styles/large/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=AEWFLB5_" />
+<meta name="twitter:image:alt" content="Big Ideas in Sustainability - Hoover Institution and Stanford Doerr School of Sustainability" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/profiles/sdss/sdss_profile/themes/sdss_subtheme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-180x180.png" />
+
+    <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-192x192.png" sizes="192x192" />
+    <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-128.png" sizes="128x128" />
+    <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-16x16.png" sizes="16x16" />
+
+    <link rel="mask-icon" href="https://www-media.stanford.edu/assets/favicon/safari-pinned-tab.svg" color="#ffffff">
+    <meta name="application-name" content="Stanford University"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="https://www-media.stanford.edu/assets/favicon/mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="https://www-media.stanford.edu/assets/favicon/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="https://www-media.stanford.edu/assets/favicon/mstile-150x150.png" />
+    <meta name="msapplication-square310x310logo" content="https://www-media.stanford.edu/assets/favicon/mstile-310x310.png" />
+
+    <title>Stanford Doerr School of Sustainability</title>
+    <link rel="stylesheet" media="all" href="/sites/sustainability/files/css/css_7Ak6B30_AoUdjvgmZuy_CWkR1_p5TctZ1ErFEySEYRs.css?delta=0&amp;language=en&amp;theme=sdss_subtheme&amp;include=eJyVVO2WoyAMfSEKj8SJEpUZBA4JdXz7BezU2h533T-Ym9yEfBCH4BkWpDCjGnZZLthVSGL4B0HSZGfxledIDIl1tqoDwqPGwRoyH3WvQBTBDyEZXXxtryOMqHmNSMoHg_LXfKuGnRxTGKxDTby6Qj3Rn_IjJBgTxEkmhJ71E5-7PAo5Mx-S1X9N9pMqt-ByyM7dFmt4ErQS47w19Ngi1U5BhkhT7njCMp-KBP6ws_5bmZQjOPmAn3lM6CImRZbRzkV5Rwke3Mq2JzGGMBYOw6hGno8Qxncs4Qt-RLalDGZMvvQp9OCGEAqSL_KFUSwr2WUdRUy2PLbOoULPltdbreLKLB8j2of524ldI7OPuXOWJjRbCzenlxegeAm6Dy7Pfr9zRmNBGUux8MWGShK1yB4i2-DPogWPH9HOK7BUFu9ucSHVTjkHkx0eVK3lz1h4L10i1T66EQ7j2My6h2TkJtc7LqRCEfo6tpMeTQn_o656_SGtlk_TPp19rbAe-mKG2-u4QOzA-1LK6_0TpiDr8b5cffmzlcDvq3xYtsZsP6TbvrF_AOa8HlI" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.13.1/css/v4-shims.css" />
+<link rel="stylesheet" media="all" href="/sites/sustainability/files/css/css_dUVYcWGOoBEKFl7LE_wME008xHjvv6pF1NYHi5zGllo.css?delta=3&amp;language=en&amp;theme=sdss_subtheme&amp;include=eJyVVO2WoyAMfSEKj8SJEpUZBA4JdXz7BezU2h533T-Ym9yEfBCH4BkWpDCjGnZZLthVSGL4B0HSZGfxledIDIl1tqoDwqPGwRoyH3WvQBTBDyEZXXxtryOMqHmNSMoHg_LXfKuGnRxTGKxDTby6Qj3Rn_IjJBgTxEkmhJ71E5-7PAo5Mx-S1X9N9pMqt-ByyM7dFmt4ErQS47w19Ngi1U5BhkhT7njCMp-KBP6ws_5bmZQjOPmAn3lM6CImRZbRzkV5Rwke3Mq2JzGGMBYOw6hGno8Qxncs4Qt-RLalDGZMvvQp9OCGEAqSL_KFUSwr2WUdRUy2PLbOoULPltdbreLKLB8j2of524ldI7OPuXOWJjRbCzenlxegeAm6Dy7Pfr9zRmNBGUux8MWGShK1yB4i2-DPogWPH9HOK7BUFu9ucSHVTjkHkx0eVK3lz1h4L10i1T66EQ7j2My6h2TkJtc7LqRCEfo6tpMeTQn_o656_SGtlk_TPp19rbAe-mKG2-u4QOzA-1LK6_0TpiDr8b5cffmzlcDvq3xYtsZsP6TbvrF_AOa8HlI" />
+<link rel="stylesheet" media="all" href="/sites/sustainability/files/css/css_vhcz6lWC1DxSfcZPGt12euAuDrTlIN5VAvurjjwFVbg.css?delta=4&amp;language=en&amp;theme=sdss_subtheme&amp;include=eJyVVO2WoyAMfSEKj8SJEpUZBA4JdXz7BezU2h533T-Ym9yEfBCH4BkWpDCjGnZZLthVSGL4B0HSZGfxledIDIl1tqoDwqPGwRoyH3WvQBTBDyEZXXxtryOMqHmNSMoHg_LXfKuGnRxTGKxDTby6Qj3Rn_IjJBgTxEkmhJ71E5-7PAo5Mx-S1X9N9pMqt-ByyM7dFmt4ErQS47w19Ngi1U5BhkhT7njCMp-KBP6ws_5bmZQjOPmAn3lM6CImRZbRzkV5Rwke3Mq2JzGGMBYOw6hGno8Qxncs4Qt-RLalDGZMvvQp9OCGEAqSL_KFUSwr2WUdRUy2PLbOoULPltdbreLKLB8j2of524ldI7OPuXOWJjRbCzenlxegeAm6Dy7Pfr9zRmNBGUux8MWGShK1yB4i2-DPogWPH9HOK7BUFu9ucSHVTjkHkx0eVK3lz1h4L10i1T66EQ7j2My6h2TkJtc7LqRCEfo6tpMeTQn_o656_SGtlk_TPp19rbAe-mKG2-u4QOzA-1LK6_0TpiDr8b5cffmzlcDvq3xYtsZsP6TbvrF_AOa8HlI" />
+<link rel="stylesheet" media="print" href="/sites/sustainability/files/css/css_t24fQmXslix_fwPd4atwM5-lCrbIFwRO_7TaMMhebvk.css?delta=5&amp;language=en&amp;theme=sdss_subtheme&amp;include=eJyVVO2WoyAMfSEKj8SJEpUZBA4JdXz7BezU2h533T-Ym9yEfBCH4BkWpDCjGnZZLthVSGL4B0HSZGfxledIDIl1tqoDwqPGwRoyH3WvQBTBDyEZXXxtryOMqHmNSMoHg_LXfKuGnRxTGKxDTby6Qj3Rn_IjJBgTxEkmhJ71E5-7PAo5Mx-S1X9N9pMqt-ByyM7dFmt4ErQS47w19Ngi1U5BhkhT7njCMp-KBP6ws_5bmZQjOPmAn3lM6CImRZbRzkV5Rwke3Mq2JzGGMBYOw6hGno8Qxncs4Qt-RLalDGZMvvQp9OCGEAqSL_KFUSwr2WUdRUy2PLbOoULPltdbreLKLB8j2of524ldI7OPuXOWJjRbCzenlxegeAm6Dy7Pfr9zRmNBGUux8MWGShK1yB4i2-DPogWPH9HOK7BUFu9ucSHVTjkHkx0eVK3lz1h4L10i1T66EQ7j2My6h2TkJtc7LqRCEfo6tpMeTQn_o656_SGtlk_TPp19rbAe-mKG2-u4QOzA-1LK6_0TpiDr8b5cffmzlcDvq3xYtsZsP6TbvrF_AOa8HlI" />
+<link rel="stylesheet" media="all" href="/sites/sustainability/files/css/css_3A9N3eCsJGznJ6g8OFPF4ZxpCrdv2nhLVnXmwPsbNN8.css?delta=6&amp;language=en&amp;theme=sdss_subtheme&amp;include=eJyVVO2WoyAMfSEKj8SJEpUZBA4JdXz7BezU2h533T-Ym9yEfBCH4BkWpDCjGnZZLthVSGL4B0HSZGfxledIDIl1tqoDwqPGwRoyH3WvQBTBDyEZXXxtryOMqHmNSMoHg_LXfKuGnRxTGKxDTby6Qj3Rn_IjJBgTxEkmhJ71E5-7PAo5Mx-S1X9N9pMqt-ByyM7dFmt4ErQS47w19Ngi1U5BhkhT7njCMp-KBP6ws_5bmZQjOPmAn3lM6CImRZbRzkV5Rwke3Mq2JzGGMBYOw6hGno8Qxncs4Qt-RLalDGZMvvQp9OCGEAqSL_KFUSwr2WUdRUy2PLbOoULPltdbreLKLB8j2of524ldI7OPuXOWJjRbCzenlxegeAm6Dy7Pfr9zRmNBGUux8MWGShK1yB4i2-DPogWPH9HOK7BUFu9ucSHVTjkHkx0eVK3lz1h4L10i1T66EQ7j2My6h2TkJtc7LqRCEfo6tpMeTQn_o656_SGtlk_TPp19rbAe-mKG2-u4QOzA-1LK6_0TpiDr8b5cffmzlcDvq3xYtsZsP6TbvrF_AOa8HlI" />
+
+    <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+
+
+                      <!-- Global analytics tag (gtag.js) - Google Analytics -->
+        <script async src="//www.googletagmanager.com/gtag/js?id=G-BECJQXLNCY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-BECJQXLNCY');
+        </script>
+                </head>
+            <body class="sws-acquia sdss-header-variant--option_a front role--anonymous">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRQFXJR"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<header class="su-masthead su-masthead--right">
+
+              <a href="#main-content" class="visually-hidden focusable su-skipnav su-skipnav--content">
+          Skip to main content
+        </a>
+        <a href="#secondary-navigation" class="visually-hidden focusable su-skipnav su-skipnav--secondary">
+          Skip to secondary navigation
+        </a>
+      
+      
+<div class="su-brand-bar su-brand-bar--dark">
+  <div class="su-brand-bar__container"><a  class="su-brand-bar__logo" href="https://stanford.edu">Stanford University<span class="su-brand-bar__link--a11y"> (link is external)</span>
+  </a></div>
+</div>
+
+<section class="su-masthead--inner">
+        <div  id="block-sdss-subtheme-branding" class="su-lockup su-lockup--option-none">
+    <a href="https://sustainability.stanford.edu/" >
+  <div class="su-lockup__cell1">
+          <div class="su-lockup__logo-wrapper">
+      <img src="/sites/sustainability/files/2022-08/sdss-lock-up-color-small_0.png" alt="Stanford Doerr School of Sustainability" class="su-lockup__custom-logo" />
+          </div>
+    </div>        </a>
+  </div>
+
+
+        
+<div  data-drupal-selector="views-exposed-form-search-results" id="block-sdss-subtheme-search" class="su-site-search views-exposed-form views-exposed-filter-block search-results su-site-search" role="search">
+ <form action="/search" method="get" accept-charset="UTF-8">
+  <label class="su-site-search__sr-label" for="key">Search this site</label>
+  <input  type="text" id="key" name="key" class="su-site-search__input" placeholder="Search this site" maxlength="128">
+  <button  type="submit" name="search" class="su-site-search__submit su-sr-only-text">Submit Search</button></form>
+</div>
+
+
+        <div id="block-sdss-subtheme-main-navigation" class="system-menu-block main">
+      <nav class="su-multi-menu--dropdowns su-multi-menu su-multi-menu--buttons no-js" aria-label="main menu">
+    <button class="su-multi-menu__nav-toggle su-multi-menu__nav-toggle--right " aria-expanded="false">Menu</button>
+    <ul class="su-multi-menu__menu su-multi-menu__menu-lv1"><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/our-impact"><span class="su-multi-menu__link-text-wrapper">Impact</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv2"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-impact/get-involved"><span class="su-multi-menu__link-text-wrapper">Get Involved</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-impact/living-lab"><span class="su-multi-menu__link-text-wrapper">A Living Lab</span></a></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/our-community"><span class="su-multi-menu__link-text-wrapper">Community</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv2"><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/our-community/faculty-0"><span class="su-multi-menu__link-text-wrapper">Faculty</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/faculty-0/faculty-forum-talks"><span class="su-multi-menu__link-text-wrapper">Faculty talks</span></a></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/community-awards"><span class="su-multi-menu__link-text-wrapper">Community Awards</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/environmental-justice"><span class="su-multi-menu__link-text-wrapper">Environmental Justice</span></a></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/our-community/dei"><span class="su-multi-menu__link-text-wrapper">Diversity, Equity &amp; Inclusion</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/about-our-dei-vision"><span class="su-multi-menu__link-text-wrapper">About our DEI Vision</span></a></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/our-community/dei/community-dei-resources"><span class="su-multi-menu__link-text-wrapper">Community DEI Resources</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv4"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/dei-library"><span class="su-multi-menu__link-text-wrapper">DEI Library</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/community-dei-resources/prospective-students"><span class="su-multi-menu__link-text-wrapper">Prospective Students</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/community-dei-resources/current-students"><span class="su-multi-menu__link-text-wrapper">Current Students</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/faculty-staff-resources"><span class="su-multi-menu__link-text-wrapper">Faculty &amp; Staff</span></a></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/excellence-dei-awards"><span class="su-multi-menu__link-text-wrapper">Excellence in DEI Awards</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/meet-dei-team"><span class="su-multi-menu__link-text-wrapper">Meet the DEI Team</span></a></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/our-community/dei/surge"><span class="su-multi-menu__link-text-wrapper">SURGE</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv4"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/surge/program-details"><span class="su-multi-menu__link-text-wrapper">SURGE program details</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/surge/surge-faqs"><span class="su-multi-menu__link-text-wrapper">FAQs</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/surge/potential-projects-2024"><span class="su-multi-menu__link-text-wrapper">Potential Projects for 2024</span></a></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/land-acknowledgment"><span class="su-multi-menu__link-text-wrapper">Land Acknowledgment</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/dei-events"><span class="su-multi-menu__link-text-wrapper">Events</span></a></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/alumni"><span class="su-multi-menu__link-text-wrapper">Alumni</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/alumni/events"><span class="su-multi-menu__link-text-wrapper">Events</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv4"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/alumni/events/all-alumni-events"><span class="su-multi-menu__link-text-wrapper">All Events</span></a></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/alumni/get-involved"><span class="su-multi-menu__link-text-wrapper">Get Involved</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/alumni/career-education"><span class="su-multi-menu__link-text-wrapper">Advance your Career</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/alumni/awards"><span class="su-multi-menu__link-text-wrapper">Awards</span></a></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/our-community/leadership"><span class="su-multi-menu__link-text-wrapper">Leadership</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/leadership/dean-arun-majumdar"><span class="su-multi-menu__link-text-wrapper">Dean Arun Majumdar</span></a></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/advisory-council"><span class="su-multi-menu__link-text-wrapper">Advisory Council</span></a></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/our-community/our-values-and-practices"><span class="su-multi-menu__link-text-wrapper">Our Values and Practices</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/our-values-and-practices/how-we-put-our-values-practice"><span class="su-multi-menu__link-text-wrapper">How we put our values into practice</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/our-values-and-practices/field-expectations"><span class="su-multi-menu__link-text-wrapper">Field expectations</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/our-values-and-practices/reporting-structures-and-resources"><span class="su-multi-menu__link-text-wrapper">Reporting structures and resources</span></a></li></ul></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-and-education"><span class="su-multi-menu__link-text-wrapper">Admissions &amp; Education</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv2"><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-and-education/student-experience"><span class="su-multi-menu__link-text-wrapper">Student Experience</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-education/careers"><span class="su-multi-menu__link-text-wrapper">Careers</span></a></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-and-education/student-experience/undergraduate-research-opportunities"><span class="su-multi-menu__link-text-wrapper">Undergraduate Research Opportunities</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv4"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="https://hopkinsmarinestation.stanford.edu/undergraduate-studies/research-opportunities"><span class="su-multi-menu__link-text-wrapper">Hopkins Internships - Summer Undergraduate Research Funds (HI-SURF)</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="https://woods.stanford.edu/educating-leaders/education-leadership-programs/mentoring-undergraduates-interdisciplinary-research"><span class="su-multi-menu__link-text-wrapper">Mentoring Undergraduates in Interdisciplinary Research (MUIR)</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="https://explore-energy.stanford.edu/research/super"><span class="su-multi-menu__link-text-wrapper">Summer Undergraduate Program on Energy Research (SUPER)</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/our-community/dei/surge"><span class="su-multi-menu__link-text-wrapper">Sustainability Undergraduate Research in Geoscience and Engineering (SURGE)</span></a></li></ul></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions"><span class="su-multi-menu__link-text-wrapper">Admissions</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-and-education/external-education"><span class="su-multi-menu__link-text-wrapper">External Education</span></a></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-education/field-learning"><span class="su-multi-menu__link-text-wrapper">Field Learning</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="https://insidesdss.stanford.edu/resources/field-and-travel"><span class="su-multi-menu__link-text-wrapper">Field Resources (SUNETid required)</span></a></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-education/professional-development"><span class="su-multi-menu__link-text-wrapper">Professional Development</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-education/professional-development/academic-professional-program"><span class="su-multi-menu__link-text-wrapper">Academic Professional Program</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv4"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-education/professional-development/academic-professional-program/pillars"><span class="su-multi-menu__link-text-wrapper">The Pillars</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-education/professional-development/academic-professional-program/faqs"><span class="su-multi-menu__link-text-wrapper">FAQs</span></a></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-education/professional-development/professional-development-events"><span class="su-multi-menu__link-text-wrapper">Events</span></a></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-and-education/graduate-certificate-programs"><span class="su-multi-menu__link-text-wrapper">Sustainability Graduate Certificates</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-and-education/graduate-certificate-programs/climate-change"><span class="su-multi-menu__link-text-wrapper">Climate Change</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-and-education/graduate-certificate-programs/sustainable-energy"><span class="su-multi-menu__link-text-wrapper">Sustainable Energy</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-and-education/graduate-certificate-programs/sustainability-decision-making"><span class="su-multi-menu__link-text-wrapper">Sustainability Decision-Making</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-and-education/graduate-certificate-programs/graduate-certificate-programs-faqs"><span class="su-multi-menu__link-text-wrapper">FAQs</span></a></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-education/k-12-outreach"><span class="su-multi-menu__link-text-wrapper">K-12 Outreach</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-education/k-12-outreach/geokids"><span class="su-multi-menu__link-text-wrapper">Geokids Program</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv4"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-education/k-12-outreach/geokids/geokids-faqs"><span class="su-multi-menu__link-text-wrapper">Geokids FAQs</span></a></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/admissions-education/k-12-outreach/young-investigators"><span class="su-multi-menu__link-text-wrapper">Young Investigators</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv4"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-education/k-12-outreach/young-investigators/internship-options"><span class="su-multi-menu__link-text-wrapper">Internship Options</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/admissions-education/k-12-outreach/young-investigators/faqs"><span class="su-multi-menu__link-text-wrapper">FAQs</span></a></li></ul></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/postdoctoral-resources"><span class="su-multi-menu__link-text-wrapper">Postdoctoral Resources</span></a></li></ul></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/about-school"><span class="su-multi-menu__link-text-wrapper">The School</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv2"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/school/departments"><span class="su-multi-menu__link-text-wrapper">Departments &amp; Programs</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="https://sustainability-accelerator.stanford.edu/"><span class="su-multi-menu__link-text-wrapper">Sustainability Accelerator</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/about-school/institutes-and-centers"><span class="su-multi-menu__link-text-wrapper">Institutes &amp; Centers</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/solution-areas"><span class="su-multi-menu__link-text-wrapper">Solution Areas</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/school/shared-analytical-facilities-and-research-resources"><span class="su-multi-menu__link-text-wrapper">Shared Analytical Facilities &amp; Research Resources</span></a></li><li class="su-multi-menu__item su-multi-menu__item--parent"><a class="su-multi-menu__link" href="/school/industrial-affiliate-programs"><span class="su-multi-menu__link-text-wrapper">Industrial Affiliates Programs</span></a><ul class="su-multi-menu__menu su-multi-menu__menu-lv3"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/school/industrial-affiliate-programs/research-supported-industrial-affiliates-programs"><span class="su-multi-menu__link-text-wrapper">Research news</span></a></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/about-school/committee-funding-energy-research-and-education-updates"><span class="su-multi-menu__link-text-wrapper">Committee on Funding for Energy Research and Education updates</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/history"><span class="su-multi-menu__link-text-wrapper">History</span></a></li></ul></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/news"><span class="su-multi-menu__link-text-wrapper">News &amp; Events</span></a></li></ul></nav>
+
+  </div>
+
+
+      </section>
+    </header><main class="page-content" id="page-content"><div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-sdss-subtheme-content" class="system-main-block block-system block-sdss-subtheme-content">
+  
+    
+      
+
+<section class="node basic-page node--layout-full">
+      <div class="content">
+    
+
+
+
+
+<div class="jumpstart-ui--one-column">
+    <div  class="main-region">
+      <div class="field-block node-stanford-page-su-page-banner block-layout-builder">
+  
+    
+      
+            <div class="node stanford-page su-page-banner entity-reference-revisions label-hidden"><div class="ptype-stanford-banner">
+<div class="overlay-left ds-entity--paragraph ds-entity--stanford-banner sdss-banner-wrapper--no-headline sdss-banner-wrapper--headline-default sdss-banner-wrapper--height-default">
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=46&amp;paragraph=16506:changed=1727457326&amp;ds_bundle=stanford_banner&amp;ds_view_mode=default&amp;langcode=en" data-contextual-token="80FHdABGruRhxJMqYJ9md9VFFki4M11hwYTJr1_I2es" data-drupal-ajax-container=""></div>
+<div class="su-hero overlay-left">
+
+        <div class="su-hero__media">
+            <div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/breakpoint_2xl_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=TutKHw2Y 1x, /sites/sustainability/files/styles/breakpoint_2xl_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=rh0np7yX 2x" media="screen and (min-width: 1500px)" type="image/webp" width="1500" height="546"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_2xl_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=TutKHw2Y 1x, /sites/sustainability/files/styles/breakpoint_2xl_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=rh0np7yX 2x" media="screen and (min-width: 1200px)" type="image/webp" width="1500" height="546"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_xl_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=_EV-TEgw 1x, /sites/sustainability/files/styles/breakpoint_xl_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=uPRgMvy3 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="436"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_lg_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=EcY_aJbj 1x, /sites/sustainability/files/styles/breakpoint_lg_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=5c0SkiIz 2x" media="screen and (min-width: 768px)" type="image/webp" width="992" height="361"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_md_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=B6f75HoW 1x, /sites/sustainability/files/styles/breakpoint_md_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=OJZi6lZJ 2x" media="screen and (min-width: 576px)" type="image/webp" width="768" height="279"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_sm_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=LhKgC3lK 1x, /sites/sustainability/files/styles/breakpoint_sm_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png.webp?itok=eO0MX2P_ 2x" media="(min-width: 0em)" type="image/webp" width="576" height="209"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_2xl_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=TutKHw2Y 1x, /sites/sustainability/files/styles/breakpoint_2xl_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=rh0np7yX 2x" media="screen and (min-width: 1500px)" type="image/png" width="1500" height="546"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_2xl_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=TutKHw2Y 1x, /sites/sustainability/files/styles/breakpoint_2xl_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=rh0np7yX 2x" media="screen and (min-width: 1200px)" type="image/png" width="1500" height="546"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_xl_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=_EV-TEgw 1x, /sites/sustainability/files/styles/breakpoint_xl_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=uPRgMvy3 2x" media="screen and (min-width: 992px)" type="image/png" width="1200" height="436"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_lg_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=EcY_aJbj 1x, /sites/sustainability/files/styles/breakpoint_lg_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=5c0SkiIz 2x" media="screen and (min-width: 768px)" type="image/png" width="992" height="361"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_md_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=B6f75HoW 1x, /sites/sustainability/files/styles/breakpoint_md_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=OJZi6lZJ 2x" media="screen and (min-width: 576px)" type="image/png" width="768" height="279"/>
+              <source srcset="/sites/sustainability/files/styles/breakpoint_sm_1x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=LhKgC3lK 1x, /sites/sustainability/files/styles/breakpoint_sm_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=eO0MX2P_ 2x" media="(min-width: 0em)" type="image/png" width="576" height="209"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/breakpoint_2xl_2x/public/media/image/_big_ideas-web_banner_b-10-1-2024_0.png?itok=rh0np7yX" width="3000" height="1091" alt="Big Ideas in Sustainability - Hoover Institution and Stanford Doerr School of Sustainability" />
+
+  </picture>
+
+</div>
+      
+</div>
+
+      </div>
+    
+  </div>
+
+</div>
+</div>
+</div>
+      
+  </div>
+
+    </div>
+</div>
+
+
+
+
+            
+<div class="jumpstart-ui--one-column centered-content">
+    <div  class="main-region flex-10-of-12">
+      <div class="field-block node-stanford-page-title block-layout-builder">
+  
+    
+      
+  </div>
+
+    </div>
+</div>
+
+
+
+
+
+<div class="jumpstart-ui--one-column">
+    <div  class="main-region">
+      <div class="jumpstart-ui-skipnav-main-anchor block-jumpstart-ui">
+  
+    
+      <div id="main-content" tabindex="-1" class="visually-hidden focusable">Main content start</div>
+
+  </div>
+<div class="field-block node-stanford-page-su-page-components block-layout-builder">
+  
+    
+      
+      <div class="node stanford-page su-page-components entity-reference-revisions label-hidden">
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout-paragraphs-sdss-bgcolor layout-paragraphs-sdss-bgcolor--green layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><h2>Fireside chat featuring Ajay Banga: Increased prosperity on a livable planet</h2><p>Ajay Banga, president of The World Bank Group, will join Condoleezza Rice, Director of the Hoover Institution and 66th US Secretary of State, Arun Majumdar, Dean of the Stanford Doerr School of Sustainability, and Peter Blair Henry, Class of 1984 Senior Fellow at Hoover, for a conversation about the importance of the World Bank leading "informed risk taking" to catalyze public and private finance to fund investment in development and to accelerate the energy transition.</p><p><strong>Tuesday, October 1, 2024 | 3:30 p.m. to 4:30 p.m. PT</strong></p><p><a class="su-button" href="https://web.cvent.com/event/b25fb0be-464b-4628-b3e3-186f980c16c6/regProcessStep1?rt=Zhwq8UZ6ZkmZbE3Vw-mZMQ">Register to attend on campus</a>&nbsp; <a class="su-button" href="/news/big-ideas-featuring-ajay-banga-increased-prosperity-livable-planet" data-entity-type="node" data-entity-uuid="b29e399f-e409-4f43-80e3-b34d521fa6ba" data-entity-substitution="canonical" title="Big Ideas featuring Ajay Banga: Increased prosperity on a livable planet">Livestream</a></p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><h2 class="text-align-center"><br>Our research</h2><p>Transformative research by our scholars reveals insights into our world and drives ideas to impact.&nbsp;</p><p class="text-align-center"><a class="su-button--secondary" href="https://sustainability.stanford.edu/news">Read about our research and impact</a> <a class="su-button--secondary" href="/news/about-our-planet" data-entity-type="node" data-entity-uuid="e157a9cb-1309-4414-a13a-b356f24f578f" data-entity-substitution="canonical" title="About On Our Planet">Sign up for our monthly newsletter</a></p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-entity paragraph paragraph--type--stanford-entity paragraph--view-mode--default">
+          
+      <div class="su-margin-bottom-5 paragraph stanford-entity su-entity-item entity-reference label-hidden">
+              <div>
+<div class="ds-entity--node ds-entity--stanford-news">
+  <div data-contextual-id="node:node=29461:changed=1727457697&amp;ds_bundle=stanford_news&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="DEn-a_zNjW6EyTKYfCJjYKuH3eLy0H39iqDWx76FyQM" data-drupal-ajax-container=""></div>
+<article class="su-card su-news-vertical-teaser su-news-external"><div class="su-figure__wrapper">
+      <a  class="su-news-vertical-teaser__link" href="https://news.stanford.edu/stories/2024/09/how-water-systems-can-accelerate-renewable-energy-adoption" tabindex="-1" aria-hidden="true">
+        <figure class="su-media su-media--image su-card__media">
+          <div class="su-media__wrapper"><div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/gettyimages-1465176191_1.jpg.webp?itok=S7m0vbkx 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1465176191_1.jpg.webp?itok=JhUmPmHZ 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1465176191_1.jpg.webp?itok=xQcvIJvD 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1465176191_1.jpg.webp?itok=JhUmPmHZ 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1465176191_1.jpg.webp?itok=xQcvIJvD 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/gettyimages-1465176191_1.jpg.webp?itok=S7m0vbkx 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/gettyimages-1465176191_1.jpg.webp?itok=Fj3hdetj 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1465176191_1.jpg.webp?itok=xQcvIJvD 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/gettyimages-1465176191_1.jpg?itok=S7m0vbkx 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1465176191_1.jpg?itok=JhUmPmHZ 2x" media="screen and (min-width: 992px)" type="image/jpeg" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1465176191_1.jpg?itok=xQcvIJvD 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1465176191_1.jpg?itok=JhUmPmHZ 2x" media="screen and (min-width: 768px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1465176191_1.jpg?itok=xQcvIJvD 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/gettyimages-1465176191_1.jpg?itok=S7m0vbkx 2x" media="screen and (min-width: 576px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/gettyimages-1465176191_1.jpg?itok=Fj3hdetj 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1465176191_1.jpg?itok=xQcvIJvD 2x" media="(min-width: 0em)" type="image/jpeg" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1465176191_1.jpg?itok=JhUmPmHZ" width="1920" height="1280" alt="" />
+
+  </picture>
+
+</div>
+      
+</div>
+</div>
+        </figure>
+      </a>
+    </div><div class="su-content__wrapper">
+    <div class="su-news-header"><a  class="su-news-vertical-teaser__link" href="https://news.stanford.edu/stories/2024/09/how-water-systems-can-accelerate-renewable-energy-adoption"><h2>  How water systems can speed up renewable energy adoption
+</h2></a><div class="news-vertical-teaser__pub-date"><time datetime="2024-09-27T12:00:00Z">September 27, 2024</time>
+</div></div><div class="su-card__contents">
+        <div><p>As power grids rely more on renewable energy sources like wind and solar, balancing energy supply and demand becomes more challenging. A new analysis shows how water systems, such as desalination plants and wastewater treatment facilities, could help enhance grid stability and create new revenue streams.</p></div>
+
+      </div>      <div class="news-vertical-teaser__source">
+        <span>Stanford Report</span>
+
+      </div>      <div class="news-vertical-teaser__topics">
+        <ul class="su-list-unstyled"><li><a href="/news/research/energy/power-grid" hreflang="en">Power grid</a></li></ul>
+      </div></div>
+</article>
+</div>
+
+</div>
+              <div>
+<div class="ds-entity--node ds-entity--stanford-news">
+  <div data-contextual-id="node:node=28791:changed=1725984162&amp;ds_bundle=stanford_news&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="lI1sRkNTamXWJJfBKUGuUcB_gsQvyjLL7lL1W7nFvcM" data-drupal-ajax-container=""></div>
+<article class="su-card su-news-vertical-teaser su-news-external"><div class="su-figure__wrapper">
+      <a  class="su-news-vertical-teaser__link" href="https://news.stanford.edu/stories/2024/09/krill-harvesting-threatens-whale-recovery" tabindex="-1" aria-hidden="true">
+        <figure class="su-media su-media--image su-card__media">
+          <div class="su-media__wrapper"><div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg.webp?itok=AefOh1Rv 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg.webp?itok=2YdloZI1 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg.webp?itok=hxifTmNJ 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg.webp?itok=2YdloZI1 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg.webp?itok=hxifTmNJ 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg.webp?itok=AefOh1Rv 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg.webp?itok=HuT8uSuH 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg.webp?itok=hxifTmNJ 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=AefOh1Rv 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=2YdloZI1 2x" media="screen and (min-width: 992px)" type="image/jpeg" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=hxifTmNJ 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=2YdloZI1 2x" media="screen and (min-width: 768px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=hxifTmNJ 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=AefOh1Rv 2x" media="screen and (min-width: 576px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=HuT8uSuH 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=hxifTmNJ 2x" media="(min-width: 0em)" type="image/jpeg" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/240126-oad2-yk-krill-fishing-boat-and-whale-extraordinary-long-format-dsc_7648-1_0.jpg?itok=2YdloZI1" width="1920" height="1280" alt="" />
+
+  </picture>
+
+</div>
+      
+</div>
+</div>
+        </figure>
+      </a>
+    </div><div class="su-content__wrapper">
+    <div class="su-news-header"><a  class="su-news-vertical-teaser__link" href="https://news.stanford.edu/stories/2024/09/krill-harvesting-threatens-whale-recovery"><h2>  Krill harvesting threatens whale recovery
+</h2></a><div class="news-vertical-teaser__pub-date"><time datetime="2024-09-10T12:00:00Z">September 10, 2024</time>
+</div></div><div class="su-card__contents">
+        <div><p>Soaring human demand for krill in the Southern Ocean poses a challenge to the recovery of whale species once hunted nearly to extinction. Stanford researchers identify the growing food conflict and offer solutions.</p></div>
+
+      </div>      <div class="news-vertical-teaser__source">
+        <span>Stanford Report</span>
+
+      </div>      <div class="news-vertical-teaser__topics">
+        <ul class="su-list-unstyled"><li><a href="/news/research/oceans/fisheries-aquaculture" hreflang="en">Fisheries &amp; aquaculture</a></li></ul>
+      </div></div>
+</article>
+</div>
+
+</div>
+              <div>
+<div class="ds-entity--node ds-entity--stanford-news">
+  <div data-contextual-id="node:node=28796:changed=1727458727&amp;ds_bundle=stanford_news&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="CazJAg8_FZglDfx-c8RqUsPdQCO8HFuGq-XvYjE5JRU" data-drupal-ajax-container=""></div>
+<article class="su-card su-news-vertical-teaser su-news-external"><div class="su-figure__wrapper">
+      <a  class="su-news-vertical-teaser__link" href="https://news.stanford.edu/stories/2024/09/methane-emissions-are-rising-faster-than-ever" tabindex="-1" aria-hidden="true">
+        <figure class="su-media su-media--image su-card__media">
+          <div class="su-media__wrapper"><div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/gettyimages-1486629352_0.jpg.webp?itok=WAD4VZoZ 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1486629352_0.jpg.webp?itok=VSFKLVov 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1486629352_0.jpg.webp?itok=ellfZeWI 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1486629352_0.jpg.webp?itok=VSFKLVov 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1486629352_0.jpg.webp?itok=ellfZeWI 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/gettyimages-1486629352_0.jpg.webp?itok=WAD4VZoZ 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/gettyimages-1486629352_0.jpg.webp?itok=mSsexg6Y 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1486629352_0.jpg.webp?itok=ellfZeWI 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/gettyimages-1486629352_0.jpg?itok=WAD4VZoZ 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1486629352_0.jpg?itok=VSFKLVov 2x" media="screen and (min-width: 992px)" type="image/jpeg" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1486629352_0.jpg?itok=ellfZeWI 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1486629352_0.jpg?itok=VSFKLVov 2x" media="screen and (min-width: 768px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1486629352_0.jpg?itok=ellfZeWI 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/gettyimages-1486629352_0.jpg?itok=WAD4VZoZ 2x" media="screen and (min-width: 576px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/gettyimages-1486629352_0.jpg?itok=mSsexg6Y 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/gettyimages-1486629352_0.jpg?itok=ellfZeWI 2x" media="(min-width: 0em)" type="image/jpeg" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/gettyimages-1486629352_0.jpg?itok=VSFKLVov" width="1920" height="1280" alt="" />
+
+  </picture>
+
+</div>
+      
+</div>
+</div>
+        </figure>
+      </a>
+    </div><div class="su-content__wrapper">
+    <div class="su-news-header"><a  class="su-news-vertical-teaser__link" href="https://news.stanford.edu/stories/2024/09/methane-emissions-are-rising-faster-than-ever"><h2>  Methane emissions are rising faster than ever
+</h2></a><div class="news-vertical-teaser__pub-date"><time datetime="2024-09-10T12:00:00Z">September 10, 2024</time>
+</div></div><div class="su-card__contents">
+        <div><p>Methane concentrations in Earth’s atmosphere increased at record speed over the past five years. At least two-thirds of annual methane emissions now come from human activities, including fossil fuel use, agriculture, and landfills and other waste.</p></div>
+
+      </div>      <div class="news-vertical-teaser__source">
+        <span>Stanford Report</span>
+
+      </div>      <div class="news-vertical-teaser__topics">
+        <ul class="su-list-unstyled"><li><a href="/news/research" hreflang="en">Research</a></li></ul>
+      </div></div>
+</article>
+</div>
+
+</div>
+          </div>
+  
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout-paragraphs-sdss-bgcolor layout-paragraphs-sdss-bgcolor--blue layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><h2 class="text-align-center">Apply now</h2><p class="text-align-center"><a class="su-button" href="/admissions" data-entity-type="node" data-entity-uuid="054e86f3-d4ec-4ff0-a8c6-eaafca16f376" data-entity-substitution="canonical" title="Admissions">Admissions</a>&nbsp; &nbsp;<a class="su-button" href="/admissions-and-education/graduate-certificate-programs" data-entity-type="node" data-entity-uuid="b1022d80-91fc-4428-9c2e-34fa4f60f7ff" data-entity-substitution="canonical" title="Sustainability Graduate Certificates">Graduate certificates</a><a class="su-button" href="/node/746">Postdoctoral fellowships</a></p></div>
+      
+      </div>
+  <div class="ptype-stanford-spacer sdss_spacer_minimal paragraph paragraph--type--stanford-spacer paragraph--view-mode--default sdss-spacer sdss-spacer-minimal">
+          
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><p>&nbsp;</p><div class="align-left media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">  <img loading="lazy" src="/sites/sustainability/files/styles/stanford_circle/public/media/image/2022_stanford_schoolofsustainability_9450_1_0.jpg.png?itok=Z0_6ZJmv" width="140" height="140" alt="Arun Majumdar">
+
+
+</div>
+      
+</div>
+<p><strong>Arun Majumdar</strong><br>Inaugural Dean, Stanford Doerr School of Sustainability</p><p class="sdss-block-quote--sm">“Mother Earth is begging us to restore the atmosphere, the oceans, and our biodiversity. For our own sake. For the sake of our children and grandchildren.”</p><p class="plain-text"><a class="su-button" href="/news/opening-remarks-dean-arun-majumdar" data-entity-type="node" data-entity-uuid="543c2f28-338a-405f-b799-b92e3e4ffe73" data-entity-substitution="canonical" title="Opening remarks from Dean Arun Majumdar">Read the full text of Majumdar's opening remarks</a></p><p class="plain-text"><a class="su-button--secondary" href="/our-community/leadership/dean-arun-majumdar" data-entity-type="node" data-entity-uuid="73291c39-7e3b-4eb7-a636-4043fcd43f70" data-entity-substitution="canonical" title="Dean Arun Majumdar">Meet the Dean</a></p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout-paragraphs-sdss-bgcolor layout-paragraphs-sdss-bgcolor--green layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><h2 class="text-align-center">Learn about the school</h2><p>Our distinctive three-part structure<strong>&nbsp;</strong>is designed to&nbsp;amplify global impact.</p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout-paragraphs-sdss-bgcolor layout-paragraphs-sdss-bgcolor--green layout layout--layout-paragraphs-three-column layout--layout-paragraphs-sdss-three-column">
+
+          <div  class="layout__region layout__region--sidebar">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><p><a class="su-button--secondary" href="https://sustainability.stanford.edu/school/departments">Departments and programs generate knowledge</a></p></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><p><a class="su-button--secondary" href="https://sustainability.stanford.edu/about-school/institutes-and-centers">Institutes innovate across disciplines</a></p></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--sidebar">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><p><a class="su-button--secondary" href="https://sustainability-accelerator.stanford.edu">The Accelerator drives policy and technology solutions</a></p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout-paragraphs-sdss-bgcolor layout-paragraphs-sdss-bgcolor--blue layout layout--layout-paragraphs-two-column layout--layout-paragraphs-sdss-two-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-spacer sdss_spacer_default paragraph paragraph--type--stanford-spacer paragraph--view-mode--default sdss-spacer sdss-spacer-default">
+          
+      </div>
+  <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><div class="align-center media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/responsive_large/public/media/image/20220531-172159-8657_0.jpg.webp?itok=VzqZZ3tw 1x" media="screen and (min-width: 1200px)" type="image/webp" width="1024" height="683">
+              <source srcset="/sites/sustainability/files/styles/responsive_medium/public/media/image/20220531-172159-8657_0.jpg.webp?itok=VpyiFwvH 1x" media="screen and (min-width: 992px)" type="image/webp" width="1024" height="683">
+              <source srcset="/sites/sustainability/files/styles/responsive_small/public/media/image/20220531-172159-8657_0.jpg.webp?itok=NxeDG3LA 1x" media="(min-width: 0em)" type="image/webp" width="800" height="534">
+              <source srcset="/sites/sustainability/files/styles/responsive_large/public/media/image/20220531-172159-8657_0.jpg?itok=VzqZZ3tw 1x" media="screen and (min-width: 1200px)" type="image/jpeg" width="1024" height="683">
+              <source srcset="/sites/sustainability/files/styles/responsive_medium/public/media/image/20220531-172159-8657_0.jpg?itok=VpyiFwvH 1x" media="screen and (min-width: 992px)" type="image/jpeg" width="1024" height="683">
+              <source srcset="/sites/sustainability/files/styles/responsive_small/public/media/image/20220531-172159-8657_0.jpg?itok=NxeDG3LA 1x" media="(min-width: 0em)" type="image/jpeg" width="800" height="534">
+                  <img loading="lazy" src="/sites/sustainability/files/styles/responsive_large/public/media/image/20220531-172159-8657_0.jpg?itok=VzqZZ3tw" width="1024" height="683" alt="Group photo of students">
+
+  </picture>
+
+</div>
+      
+</div></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--sidebar">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><h2 class="text-align-center"><span>Our community</span></h2><p><span>Sustainability challenges affect everyone, and we need to include all voices in creating global solutions. We support a diverse community of faculty, students, and staff through our DEI programming, including our </span><a href="/about-school/dei/courses" data-entity-type="node" data-entity-uuid="6e53d90b-1a02-402a-9526-94e507642d88" data-entity-substitution="canonical" title="Courses"><span>courses</span></a><span>, financial aid,&nbsp;and&nbsp;</span><a href="/about-school/dei/community-centers-and-affinity-groups" data-entity-type="node" data-entity-uuid="e1cef434-dc46-41a0-b8ec-ce038e16d5c6" data-entity-substitution="canonical" title="Community centers and affinity groups"><span>affinity groups</span></a><span>. We also hold ourselves accountable by </span><a href="/about-school/dei/about/our-milestones" data-entity-type="node" data-entity-uuid="ae8b9373-965a-4b4d-a222-874258318c0b" data-entity-substitution="canonical" title="Our milestones"><span>tracking our progress</span></a><span>.</span></p><p><a class="su-button--secondary" href="/our-community/dei" data-entity-type="node" data-entity-uuid="61d114e5-5072-441a-9da3-24defc2087b9" data-entity-substitution="canonical" title="Diversity, Equity, and Inclusion"><span>Learn more about our DEI programs</span></a><a class="su-button--secondary" href="/admissions-and-education/student-experience" data-entity-type="node" data-entity-uuid="b413136a-e797-4e41-9c42-fc048a497fb1" data-entity-substitution="canonical" title="The student experience">Learn about the student experience</a></p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-spacer sdss_spacer_reduced paragraph paragraph--type--stanford-spacer paragraph--view-mode--default sdss-spacer sdss-spacer-reduced">
+          
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-lists paragraph paragraph--type--stanford-lists paragraph--view-mode--default">
+          
+            <div class="su-margin-bottom-3 paragraph stanford-lists su-list-headline string label-hidden"><h2>News about our people and programs</h2>
+</div>
+      
+<div class="field field--name-su-list-view field--type-viewfield field--label-hidden">
+  
+    
+        
+<div class="field__item field__item-label-hidden">
+  
+    
+      <div class="views-element-container"><div class="stanford-news--cards stanford-news--cards-any view stanford-news vertical-cards js-view-dom-id-572d75c220c4861f406bec07216f149af407adddb21a814eb6358ce5084cf436">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  
+  <ul class="su-list-unstyled grid-container-3">
+
+          <li>
+<div class="ds-entity--node ds-entity--stanford-news">
+  <div data-contextual-id="node:node=29451:changed=1727455744&amp;ds_bundle=stanford_news&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="H65m8iwGlkMDjz7Vr1p7Csymwnk4GnDk9zZ5L1TJVyI" data-drupal-ajax-container=""></div>
+<article class="su-card su-news-vertical-teaser"><div class="su-figure__wrapper">
+      <a  class="su-news-vertical-teaser__link" href="https://sustainability.stanford.edu/news/unraveling-ties-emissions-and-human-activities" tabindex="-1" aria-hidden="true">
+        <figure class="su-media su-media--image su-card__media">
+          <div class="su-media__wrapper"><div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/steve_davis-profile_0.jpeg.webp?itok=cfJPIdpU 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/steve_davis-profile_0.jpeg.webp?itok=mUweZ58u 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/steve_davis-profile_0.jpeg.webp?itok=-GarCcY_ 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/steve_davis-profile_0.jpeg.webp?itok=mUweZ58u 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/steve_davis-profile_0.jpeg.webp?itok=-GarCcY_ 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/steve_davis-profile_0.jpeg.webp?itok=cfJPIdpU 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/steve_davis-profile_0.jpeg.webp?itok=iTT6BJMO 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/steve_davis-profile_0.jpeg.webp?itok=-GarCcY_ 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/steve_davis-profile_0.jpeg?itok=cfJPIdpU 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/steve_davis-profile_0.jpeg?itok=mUweZ58u 2x" media="screen and (min-width: 992px)" type="image/jpeg" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/steve_davis-profile_0.jpeg?itok=-GarCcY_ 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/steve_davis-profile_0.jpeg?itok=mUweZ58u 2x" media="screen and (min-width: 768px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/steve_davis-profile_0.jpeg?itok=-GarCcY_ 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/steve_davis-profile_0.jpeg?itok=cfJPIdpU 2x" media="screen and (min-width: 576px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/steve_davis-profile_0.jpeg?itok=iTT6BJMO 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/steve_davis-profile_0.jpeg?itok=-GarCcY_ 2x" media="(min-width: 0em)" type="image/jpeg" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/steve_davis-profile_0.jpeg?itok=mUweZ58u" width="1920" height="1280" alt="Steve Davis" />
+
+  </picture>
+
+</div>
+      
+</div>
+</div>
+        </figure>
+      </a>
+    </div><div class="su-content__wrapper">
+    <div class="su-news-header"><a  class="su-news-vertical-teaser__link" href="https://sustainability.stanford.edu/news/unraveling-ties-emissions-and-human-activities"><h2>  Unraveling the ties of emissions and human activities
+</h2></a><div class="news-vertical-teaser__pub-date"><time datetime="2024-09-27T12:00:00Z">September 27, 2024</time>
+</div></div><div class="su-card__contents">
+        <div><p>Steve Davis has taken an unconventional path from philosophy to Earth system science and research showing how decisions related to food, energy, and trade affect climate outcomes.</p></div>
+
+      </div>      <div class="news-vertical-teaser__topics">
+        <ul class="su-list-unstyled"><li><a href="/news/school-news/profiles/faculty-0" hreflang="en">Faculty</a></li></ul>
+      </div></div>
+</article>
+</div>
+
+</li>
+          <li>
+<div class="ds-entity--node ds-entity--stanford-news">
+  <div data-contextual-id="node:node=29401:changed=1727474644&amp;ds_bundle=stanford_news&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="-OzKcFMdkAk8_boJ0c61d_X_Em1Is2-T9NFUkicgISU" data-drupal-ajax-container=""></div>
+<article class="su-card su-news-vertical-teaser"><div class="su-figure__wrapper">
+      <a  class="su-news-vertical-teaser__link" href="https://sustainability.stanford.edu/news/new-faculty-embody-talent-ambition-growth-school" tabindex="-1" aria-hidden="true">
+        <figure class="su-media su-media--image su-card__media">
+          <div class="su-media__wrapper"><div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg.webp?itok=_22SuOxA 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg.webp?itok=YPC7xXfP 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg.webp?itok=UfRNcI39 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg.webp?itok=YPC7xXfP 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg.webp?itok=UfRNcI39 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg.webp?itok=_22SuOxA 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg.webp?itok=ywmqG9KK 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg.webp?itok=UfRNcI39 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=_22SuOxA 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=YPC7xXfP 2x" media="screen and (min-width: 992px)" type="image/jpeg" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=UfRNcI39 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=YPC7xXfP 2x" media="screen and (min-width: 768px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=UfRNcI39 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=_22SuOxA 2x" media="screen and (min-width: 576px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=ywmqG9KK 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=UfRNcI39 2x" media="(min-width: 0em)" type="image/jpeg" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/495a9854_smaller-pc_harry_gregory_0.jpg?itok=YPC7xXfP" width="1920" height="1280" alt="" />
+
+  </picture>
+
+</div>
+      
+</div>
+</div>
+        </figure>
+      </a>
+    </div><div class="su-content__wrapper">
+    <div class="su-news-header"><a  class="su-news-vertical-teaser__link" href="https://sustainability.stanford.edu/news/new-faculty-embody-talent-ambition-growth-school"><h2>  New faculty embody talent, ambition, growth of school
+</h2></a><div class="news-vertical-teaser__pub-date"><time datetime="2024-09-27T12:00:00Z">September 27, 2024</time>
+</div></div><div class="su-card__contents">
+        <div><p>When the school was founded in September 2022, it included a commitment to hire as many as 60 new faculty in critical areas of research. This fall, the school welcomed eight new faculty members who research behavioral science, decision-making, oceans, climate science, materials science, and more.</p></div>
+
+      </div>      <div class="news-vertical-teaser__topics">
+        <ul class="su-list-unstyled"><li><a href="/news/school-news/profiles/faculty-0" hreflang="en">Faculty</a></li></ul>
+      </div></div>
+</article>
+</div>
+
+</li>
+          <li>
+<div class="ds-entity--node ds-entity--stanford-news">
+  <div data-contextual-id="node:node=29416:changed=1727459762&amp;ds_bundle=stanford_news&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="X8eUPh5BHPn62LLqBbFK4FtwNh8jwe0eEuoSDWsCTzs" data-drupal-ajax-container=""></div>
+<article class="su-card su-news-vertical-teaser"><div class="su-figure__wrapper">
+      <a  class="su-news-vertical-teaser__link" href="https://sustainability.stanford.edu/news/big-ideas-featuring-ajay-banga-increased-prosperity-livable-planet" tabindex="-1" aria-hidden="true">
+        <figure class="su-media su-media--image su-card__media">
+          <div class="su-media__wrapper"><div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/ajay-banga_headshot_1_0.jpg.webp?itok=_kjUTvQY 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/ajay-banga_headshot_1_0.jpg.webp?itok=RLnbp98L 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/ajay-banga_headshot_1_0.jpg.webp?itok=-iS2Ja94 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/ajay-banga_headshot_1_0.jpg.webp?itok=RLnbp98L 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/ajay-banga_headshot_1_0.jpg.webp?itok=-iS2Ja94 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/ajay-banga_headshot_1_0.jpg.webp?itok=_kjUTvQY 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/ajay-banga_headshot_1_0.jpg.webp?itok=I618YRI1 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/ajay-banga_headshot_1_0.jpg.webp?itok=-iS2Ja94 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=_kjUTvQY 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=RLnbp98L 2x" media="screen and (min-width: 992px)" type="image/jpeg" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=-iS2Ja94 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=RLnbp98L 2x" media="screen and (min-width: 768px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=-iS2Ja94 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=_kjUTvQY 2x" media="screen and (min-width: 576px)" type="image/jpeg" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=I618YRI1 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=-iS2Ja94 2x" media="(min-width: 0em)" type="image/jpeg" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/ajay-banga_headshot_1_0.jpg?itok=RLnbp98L" width="1920" height="1280" alt="Ajay Banga" />
+
+  </picture>
+
+</div>
+      
+</div>
+</div>
+        </figure>
+      </a>
+    </div><div class="su-content__wrapper">
+    <div class="su-news-header"><a  class="su-news-vertical-teaser__link" href="https://sustainability.stanford.edu/news/big-ideas-featuring-ajay-banga-increased-prosperity-livable-planet"><h2>  Big Ideas featuring Ajay Banga: Increased prosperity on a livable planet
+</h2></a><div class="news-vertical-teaser__pub-date"><time datetime="2024-09-26T12:00:00Z">September 26, 2024</time>
+</div></div><div class="su-card__contents">
+        <div><p>Join us for a livestream of a Big Ideas in Sustainability event featuring Ajay Banga, president of The World Bank Group, beginning at 3:30 p.m. PDT on October 1, 2024.</p></div>
+
+      </div>      <div class="news-vertical-teaser__topics">
+        <ul class="su-list-unstyled"><li><a href="/news/school-news/community/events-0" hreflang="en">Events</a></li></ul>
+      </div></div>
+</article>
+</div>
+
+</li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+    </div>
+
+            <div class="paragraph stanford-lists su-list-button link label-hidden"><a href="/news/school-news/all" class="su-button su-margin-top-5">Read all school news</a></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout-paragraphs-sdss-bgcolor layout-paragraphs-sdss-bgcolor--blue layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><h2 class="text-align-center">Join us</h2><p>There are many ways to join us in our commitment to cultivating deep knowledge and high-impact solutions to pressing planetary challenges.&nbsp;</p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout-paragraphs-sdss-bgcolor layout-paragraphs-sdss-bgcolor--blue layout layout--layout-paragraphs-three-column layout--layout-paragraphs-sdss-three-column">
+
+          <div  class="layout__region layout__region--sidebar">
+        <div class="ptype-stanford-card">
+<div class="ds-entity--paragraph ds-entity--stanford-card sdss-card-wrapper--border-none sdss-card-wrapper--topic sdss-card-wrapper--default">
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=46&amp;paragraph=84426:changed=1727457326&amp;ds_bundle=stanford_card&amp;ds_view_mode=default&amp;langcode=en" data-contextual-token="_vBrH7mj2uaY4FOPdpXxzs7-XqHVqoIBdPLEXk8raFU" data-drupal-ajax-container=""></div>
+
+
+<article  class="su-card ">
+        <h2 class="su-card__headline">Follow our updates</h2>
+        <div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/undergrads-circles_0.png.webp?itok=lHLqV37r 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/undergrads-circles_0.png.webp?itok=JXs3j0ii 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/undergrads-circles_0.png.webp?itok=j3WQBrsr 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/undergrads-circles_0.png.webp?itok=JXs3j0ii 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/undergrads-circles_0.png.webp?itok=j3WQBrsr 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/undergrads-circles_0.png.webp?itok=lHLqV37r 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/undergrads-circles_0.png.webp?itok=OKIGIYfX 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/undergrads-circles_0.png.webp?itok=j3WQBrsr 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/undergrads-circles_0.png?itok=lHLqV37r 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/undergrads-circles_0.png?itok=JXs3j0ii 2x" media="screen and (min-width: 992px)" type="image/png" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/undergrads-circles_0.png?itok=j3WQBrsr 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/undergrads-circles_0.png?itok=JXs3j0ii 2x" media="screen and (min-width: 768px)" type="image/png" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/undergrads-circles_0.png?itok=j3WQBrsr 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/undergrads-circles_0.png?itok=lHLqV37r 2x" media="screen and (min-width: 576px)" type="image/png" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/undergrads-circles_0.png?itok=OKIGIYfX 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/undergrads-circles_0.png?itok=j3WQBrsr 2x" media="(min-width: 0em)" type="image/png" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/undergrads-circles_0.png?itok=JXs3j0ii" width="1920" height="1280" alt="Undergrads follow professor" />
+
+  </picture>
+
+</div>
+      
+</div>
+
+    
+  
+  <section class="su-card__contents">
+                  <span class="su-card__superheadline"></span>
+                  <p>Learn about our advances and impact through email and social media.</p>
+                  <div class="su-card__button"><a  content="[]" href="/follow-us" class="su-link su-button">Follow us</a>
+</div>
+      </section></article>
+
+</div>
+</div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--main">
+        <div class="ptype-stanford-card">
+<div class="ds-entity--paragraph ds-entity--stanford-card sdss-card-wrapper--border-none sdss-card-wrapper--topic sdss-card-wrapper--default">
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=46&amp;paragraph=84431:changed=1727457326&amp;ds_bundle=stanford_card&amp;ds_view_mode=default&amp;langcode=en" data-contextual-token="yhJ6BJ14nKU-EVyy5SW8wUmG1W3w7sepz7ho8_Z0MeA" data-drupal-ajax-container=""></div>
+
+
+<article  class="su-card ">
+        <h2 class="su-card__headline">Get involved</h2>
+        <div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/windmill-circles_1.png.webp?itok=AsX_2b_Y 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/windmill-circles_1.png.webp?itok=PK1a7G63 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/windmill-circles_1.png.webp?itok=kEK9Az30 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/windmill-circles_1.png.webp?itok=PK1a7G63 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/windmill-circles_1.png.webp?itok=kEK9Az30 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/windmill-circles_1.png.webp?itok=AsX_2b_Y 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/windmill-circles_1.png.webp?itok=ZGLXNsLq 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/windmill-circles_1.png.webp?itok=kEK9Az30 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/windmill-circles_1.png?itok=AsX_2b_Y 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/windmill-circles_1.png?itok=PK1a7G63 2x" media="screen and (min-width: 992px)" type="image/png" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/windmill-circles_1.png?itok=kEK9Az30 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/windmill-circles_1.png?itok=PK1a7G63 2x" media="screen and (min-width: 768px)" type="image/png" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/windmill-circles_1.png?itok=kEK9Az30 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/windmill-circles_1.png?itok=AsX_2b_Y 2x" media="screen and (min-width: 576px)" type="image/png" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/windmill-circles_1.png?itok=ZGLXNsLq 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/windmill-circles_1.png?itok=kEK9Az30 2x" media="(min-width: 0em)" type="image/png" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/windmill-circles_1.png?itok=PK1a7G63" width="1920" height="1280" alt="Two people standing on top of a windmill" />
+
+  </picture>
+
+</div>
+      
+</div>
+
+    
+  
+  <section class="su-card__contents">
+                  <span class="su-card__superheadline"></span>
+                  <p>We offer many opportunities to join us in making a difference.</p>
+                  <div class="su-card__button"><a  href="/our-impact/get-involved" class="su-link su-button">Get involved</a>
+</div>
+      </section></article>
+
+</div>
+</div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--sidebar">
+        <div class="ptype-stanford-card">
+<div class="ds-entity--paragraph ds-entity--stanford-card sdss-card-wrapper--border-none sdss-card-wrapper--topic sdss-card-wrapper--default">
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=46&amp;paragraph=84436:changed=1727457326&amp;ds_bundle=stanford_card&amp;ds_view_mode=default&amp;langcode=en" data-contextual-token="T_v8KLHuanxjyykxG22BcU_pfDzPDgZayEMd0ExJWh0" data-drupal-ajax-container=""></div>
+
+
+<article  class="su-card ">
+        <h2 class="su-card__headline">Support our work</h2>
+        <div class="media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">    <picture>
+                  <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/fendrf_lab-circles_1.png.webp?itok=9sIEgqJW 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/fendrf_lab-circles_1.png.webp?itok=cUf09rQb 2x" media="screen and (min-width: 992px)" type="image/webp" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/fendrf_lab-circles_1.png.webp?itok=KMfe4k8m 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/fendrf_lab-circles_1.png.webp?itok=cUf09rQb 2x" media="screen and (min-width: 768px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/fendrf_lab-circles_1.png.webp?itok=KMfe4k8m 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/fendrf_lab-circles_1.png.webp?itok=9sIEgqJW 2x" media="screen and (min-width: 576px)" type="image/webp" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/fendrf_lab-circles_1.png.webp?itok=E93GjtKx 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/fendrf_lab-circles_1.png.webp?itok=KMfe4k8m 2x" media="(min-width: 0em)" type="image/webp" width="480" height="320"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/fendrf_lab-circles_1.png?itok=9sIEgqJW 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/fendrf_lab-circles_1.png?itok=cUf09rQb 2x" media="screen and (min-width: 992px)" type="image/png" width="1200" height="800"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/fendrf_lab-circles_1.png?itok=KMfe4k8m 1x, /sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/fendrf_lab-circles_1.png?itok=cUf09rQb 2x" media="screen and (min-width: 768px)" type="image/png" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/fendrf_lab-circles_1.png?itok=KMfe4k8m 1x, /sites/sustainability/files/styles/card_3_2_1200x800_/public/media/image/fendrf_lab-circles_1.png?itok=9sIEgqJW 2x" media="screen and (min-width: 576px)" type="image/png" width="960" height="640"/>
+              <source srcset="/sites/sustainability/files/styles/card_3_2_480x320_/public/media/image/fendrf_lab-circles_1.png?itok=E93GjtKx 1x, /sites/sustainability/files/styles/card_3_2_960x640_/public/media/image/fendrf_lab-circles_1.png?itok=KMfe4k8m 2x" media="(min-width: 0em)" type="image/png" width="480" height="320"/>
+                  <img loading="lazy" src="/sites/sustainability/files/styles/card_3_2_1920x1280_/public/media/image/fendrf_lab-circles_1.png?itok=cUf09rQb" width="1920" height="1280" alt="Two students working together" />
+
+  </picture>
+
+</div>
+      
+</div>
+
+    
+  
+  <section class="su-card__contents">
+                  <span class="su-card__superheadline"></span>
+                  <p>Your support helps us fund new research, hire faculty, and create solutions.</p>
+                  <div class="su-card__button"><a  content="[]" href="/giving/funding-priorities" class="su-link su-button">Support us</a>
+</div>
+      </section></article>
+
+</div>
+</div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout layout--layout-paragraphs-one-column layout--layout-paragraphs-sdss-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-spacer sdss_spacer_reduced paragraph paragraph--type--stanford-spacer paragraph--view-mode--default sdss-spacer sdss-spacer-reduced">
+          
+      </div>
+  <div class="ptype-stanford-lists paragraph paragraph--type--stanford-lists paragraph--view-mode--default">
+          
+            <div class="su-margin-bottom-3 paragraph stanford-lists su-list-headline string label-hidden"><h2>Upcoming events</h2>
+</div>
+      
+            <div class="su-margin-bottom-3 su-wysiwyg-text paragraph stanford-lists su-list-description text-long label-hidden"><p><a class="su-button--secondary" href="/node/711">See all events</a></p></div>
+      
+<div class="field field--name-su-list-view field--type-viewfield field--label-hidden">
+  
+    
+        
+<div class="field__item field__item-label-hidden">
+  
+    
+      <div class="views-element-container"><div class="view stanford-events cards js-view-dom-id-7d1f2bc174263d30082791aef793791bdfe4131716f3ada85937a985ddc92977">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  
+  <ul class="su-list-unstyled grid-container-3">
+
+          <li>
+<div class="ds-entity--node ds-entity--stanford-event">
+  <div data-contextual-id="node:node=28931:changed=1727524812&amp;ds_bundle=stanford_event&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="p1XogEyFzJA6lXchmxK0uHBweMnw3X5Z_lYpgCsUcv0" data-drupal-ajax-container=""></div><div  class="su-card su-event-card su-event-list-item">
+  <div class="su-event-list-item__date">
+      <div class="su-date-stacked su-date-stacked--no-background" aria-hidden="true">
+        <span class="su-event-start-month">Sep</span>
+        <span class="su-event-start-date">30</span>
+    </div>
+
+      </div>
+
+  <div class="su-event-list-item__details">
+
+    <h2><a  class="su-link su-link--external" href="https://events.stanford.edu/event/branner-library-monthly-book-map-exhibit-volcanoes">Branner Library Monthly Book &amp; Map Exhibit - Naturally Hazardous: Volcanoes</a></h2>      <span class="event-list-item__type"><a href="/events/exhibition" hreflang="en">Exhibition</a></span>      <div class="views-field-su-event-date-time"><span class="date-icon" aria-hidden="true"></span> <div><time datetime="2024-09-30">Monday, September 30, 2024</time>
+</div></div>      <div class="views-field-su-event-location"><span class="map-icon" aria-hidden="true"></span>Mitchell Earth Sciences</div>    <div class="views-field-su-event-address views-field-su-entered-event-address">
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+            </div>
+
+          <div class="views-field-su-event-edit"></div>
+
+  </div>
+</div>
+
+</div>
+
+</li>
+          <li>
+<div class="ds-entity--node ds-entity--stanford-event">
+  <div data-contextual-id="node:node=27911:changed=1727524812&amp;ds_bundle=stanford_event&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="Z1o8WwbEdtYQyvDhkyFwOUL-eYaQBpFEv8GBle4KMqI" data-drupal-ajax-container=""></div><div  class="su-card su-event-card su-event-list-item">
+  <div class="su-event-list-item__date">
+      <div class="su-date-stacked su-date-stacked--no-background" aria-hidden="true">
+        <span class="su-event-start-month">Sep</span>
+        <span class="su-event-start-date">30</span>
+    </div>
+
+      </div>
+
+  <div class="su-event-list-item__details">
+
+    <h2><a  class="su-link su-link--external" href="https://events.stanford.edu/event/championing-sustainability-from-the-boardroom-program">Championing Sustainability from the Boardroom Program</a></h2>      <span class="event-list-item__type"><a href="/events/classseminar" hreflang="en">Class/Seminar</a></span>      <div class="views-field-su-event-date-time"><span class="date-icon" aria-hidden="true"></span> <div><time datetime="2024-09-30">Monday, September 30, 2024</time>
+</div></div>      <div class="views-field-su-event-location"><span class="map-icon" aria-hidden="true"></span>Encina Hall</div>    <div class="views-field-su-event-address views-field-su-entered-event-address">
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+            </div>
+
+          <div class="views-field-su-event-edit"></div>
+
+  </div>
+</div>
+
+</div>
+
+</li>
+          <li>
+<div class="ds-entity--node ds-entity--stanford-event">
+  <div data-contextual-id="node:node=29326:changed=1727222410&amp;ds_bundle=stanford_event&amp;ds_view_mode=stanford_card&amp;langcode=en" data-contextual-token="xfHAhe30K12S-uxe9fEqpCiEoDshj7KOJvAJX1Yb4wk" data-drupal-ajax-container=""></div><div  class="su-card su-event-card su-event-list-item">
+  <div class="su-event-list-item__date">
+      <div class="su-date-stacked su-date-stacked--no-background" aria-hidden="true">
+        <span class="su-event-start-month">Sep</span>
+        <span class="su-event-start-date">30</span>
+    </div>
+
+      </div>
+
+  <div class="su-event-list-item__details">
+
+    <h2><a  class="su-link su-link--external" href="https://events.stanford.edu/event/ese-seminar-scott-mcnally">ESE Seminar - Scott McNally: &quot;Thermochemical Energy Storage as a Replacement for Natural Gas&quot;</a></h2>      <span class="event-list-item__type"><a href="/events/classseminar" hreflang="en">Class/Seminar</a></span>      <div class="views-field-su-event-date-time"><span class="date-icon" aria-hidden="true"></span> <div><time datetime="2024-09-30T12:30:00-07:00">Monday, September 30, 2024 | 12:30pm</time>
+ - <time datetime="2024-09-30T13:20:00-07:00">1:20pm PDT</time>
+</div></div>      <div class="views-field-su-event-location"><span class="map-icon" aria-hidden="true"></span>Green Earth Sciences Building</div>    <div class="views-field-su-event-address views-field-su-entered-event-address">
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+            </div>
+
+          <div class="views-field-su-event-edit"></div>
+
+  </div>
+</div>
+
+</div>
+
+</li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+    </div>
+
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout-paragraphs-sdss-bgcolor layout-paragraphs-sdss-bgcolor--blue layout layout--layout-paragraphs-two-column layout--layout-paragraphs-sdss-two-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><h2><span>Earth. Climate. Society.</span></h2><p><span>The Stanford Doerr School of Sustainability draws on a deep understanding of Earth, climate, and society to create knowledge and scalable solutions, in collaboration with partners worldwide. Together, we strive to create a future where humans and nature thrive in concert and in perpetuity through excellence in research, education, innovation, and service.&nbsp;</span></p><p>&nbsp;</p><p><a class="su-button" href="/our-impact" data-entity-type="node" data-entity-uuid="12deb47a-c6ea-4a98-9553-cd76138c871c" data-entity-substitution="canonical" title="Our impact">Learn how we’ll have an impact</a></p></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--sidebar">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><div class="align-center media-entity-wrapper image">
+  
+  
+            <div class="media image field-media-image label-hidden">  <img loading="lazy" src="/sites/sustainability/files/styles/large/public/media/image/globe_landing_page_lagunita_lines_0.png?itok=gL4uZooz" width="480" height="480" alt="The Earth with teal circles around it">
+
+
+</div>
+      
+</div></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+    </div>
+</div>
+<div class="node_view"></div>
+  </div><!-- /.content --></section><!-- /.node as page -->
+
+  </div>
+
+</main>
+
+<footer id="footer">
+    <div id="block-sdss-subtheme-config-pages-local-footer" class="config-pages-block block-config-pages block-sdss-subtheme-config-pages-local-footer">
+  
+    
+      
+<div class="ds-entity--config-pages ds-entity--stanford-local-footer">
+  <div data-contextual-id="config_pages:config_pages=1:changed=1724280284&amp;ds_bundle=stanford_local_footer&amp;ds_view_mode=default&amp;langcode=en" data-contextual-token="MbQdn1ccfBdOxkNdwuoxFCWrXhXhCgSlfksbN8giccI" data-drupal-ajax-container=""></div><div  class="su-local-footer ">
+      <div class="su-local-footer__header">
+          <div class="su-lockup__logo-wrapper">
+  <a href="https://sustainability.stanford.edu" class="su-lockup__custom-logo-link">
+    <img src="/profiles/sdss/sdss_profile/themes/sdss_subtheme/src/assets/svg/sdss-footer-lockup.svg" alt="Stanford Doerr School of Sustainability" class="su-lockup__custom-logo" />
+  </a>
+  </div>
+
+                
+  </div>
+      <div class="su-local-footer__columns">
+        <div class="su-local-footer__cell1">
+              <div class="sdss-footer--stay-connected">
+            
+            <div class="su-wysiwyg-text config-pages stanford-local-footer su-local-foot-pr-co text-long label-hidden"><p><strong>Stay connected</strong></p><ul><li><a href="/our-impact/get-involved" data-entity-type="node" data-entity-uuid="7be60078-4ff4-43ac-a170-68f0bf3cebea" data-entity-substitution="canonical" title="Get involved">Get involved</a></li><li><a href="/follow-us" data-entity-type="node" data-entity-uuid="3b9e170b-ca1b-41d7-94b3-5085a8d0a4dd" data-entity-substitution="canonical" title="Follow us">Follow us</a></li><li><a href="/node/471">Contact Us</a></li><li><a href="/node/2411">Visit Us</a><br>&nbsp;</li></ul></div>
+      
+  </div>
+
+  
+            <ul class="su-local-footer__social-links">
+            
+        
+                            <li >
+      <a href="https://www.facebook.com/stanforddoerr/" class="su-local-footer__social-facebook" >
+        <i aria-hidden='true'></i>
+        <span>Facebook</span>
+      </a>
+    </li>
+                            <li >
+      <a href="https://www.linkedin.com/company/stanford-school-of-sustainability/" class="su-local-footer__social-linkedin" >
+        <i aria-hidden='true'></i>
+        <span>LinkedIn</span>
+      </a>
+    </li>
+                            <li >
+      <a href="https://www.twitter.com/stanforddoerr/" class="su-local-footer__social-twitter" >
+        <i aria-hidden='true'></i>
+        <span>Twitter</span>
+      </a>
+    </li>
+                            <li >
+      <a href="https://www.instagram.com/stanford.doerr/" class="su-local-footer__social-instagram" >
+        <i aria-hidden='true'></i>
+        <span>Instagram</span>
+      </a>
+    </li>
+                            <li >
+      <a href="https://www.threads.net/@stanford.doerr" class="su-local-footer__social-threads" >
+        <i aria-hidden='true'></i>
+        <span>Threads</span>
+      </a>
+    </li>
+                            <li >
+      <a href="https://www.youtube.com/@stanforddoerr" class="su-local-footer__social-youtube" >
+        <i aria-hidden='true'></i>
+        <span>YouTube</span>
+      </a>
+    </li>
+  
+  
+      </ul>
+              
+    </div>
+        <div class="su-local-footer__cell2">
+                              <nav aria-label="footer primary nav">
+                <h2 class="su-local-footer__list-heading">Quick links</h2>
+                <ul class="su-local-footer__primary-links">
+                                  
+                                                                                                                                                                                                                                                                            <li >
+          <a href="/admissions">Admissions</a>
+        </li>
+                              <li >
+          <a href="/news/events">Upcoming events</a>
+        </li>
+                              <li >
+          <a href="/giving/funding-priorities">Give</a>
+        </li>
+                              <li >
+          <a href="https://careersearch.stanford.edu/jobs/search/14621612">Open staff positions</a>
+        </li>
+                              <li >
+          <a href="https://facultypositions.stanford.edu/en-us/filter/?job-mail-subscribe-privacy=agree&amp;search-keyword=&amp;category=doerr%20school%20of%20sustainability">Open faculty positions</a>
+        </li>
+                              <li >
+          <a href="https://insidesdss.stanford.edu/">Intranet</a>
+        </li>
+                              <li >
+          <a href="/saml_login">Login</a>
+        </li>
+                              <li >
+          <a href="https://stanford.service-now.com/it_services?id=sc_cat_item&amp;sys_id=676f7ee513286b40d3b6b3b12244b0e5">Website feedback</a>
+        </li>
+                                            
+  
+                  </ul>
+      </nav>
+                        <nav aria-label="footer secondary nav">
+                <h2 class="su-local-footer__list-heading">Learn more</h2>
+                <ul class="su-local-footer__secondary-links">
+                                  
+                                                                                                                                                                                                                                                                            <li >
+          <a href="/school/departments">Departments and Programs</a>
+        </li>
+                              <li >
+          <a href="https://woods.stanford.edu">Stanford Woods Institute for the Environment</a>
+        </li>
+                              <li >
+          <a href="https://energy.stanford.edu">Precourt Institute for Energy</a>
+        </li>
+                              <li >
+          <a href="https://sustainability-accelerator.stanford.edu">Sustainability Accelerator</a>
+        </li>
+                              <li >
+          <a href="https://www.stanford.edu/native-peoples-relationship/">Stanford land acknowledgement</a>
+        </li>
+                                            
+  
+                  </ul>
+      </nav>
+                        
+    </div>
+        <div class="su-local-footer__cell3">
+                                          
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+  </div>
+
+
+<div class="su-global-footer su-global-footer--dark">
+  <div class="su-global-footer__container">
+    <div class="su-global-footer__brand">
+<a  id="su-logo" class="su-logo su-global-footer--dark" aria-hidden="true" tabindex="-1" href="https://www.stanford.edu">Stanford<br>University<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a>
+</div>
+    <div class="su-global-footer__content">
+      <nav aria-label="global footer menu">
+        <ul class="su-global-footer__menu su-global-footer__menu--global">
+          <li><a href="https://www.stanford.edu" rel="nofollow">Stanford Home<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://visit.stanford.edu/basics/" rel="nofollow">Maps &amp; Directions<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://www.stanford.edu/search/" rel="nofollow">Search Stanford<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://emergency.stanford.edu" rel="nofollow">Emergency Info<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+        </ul>
+        <ul class="su-global-footer__menu su-global-footer__menu--policy">
+          <li><a href="https://www.stanford.edu/site/terms/" rel="nofollow"
+                 title="Terms of use for sites">Terms of Use<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://www.stanford.edu/site/privacy/" rel="nofollow"
+                 title="Privacy and cookie policy">Privacy<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://uit.stanford.edu/security/copyright-infringement" rel="nofollow"
+                 title="Report alleged copyright infringement">Copyright<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4" rel="nofollow"
+                 title="Ownership and use of Stanford trademarks and images">Trademarks<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://non-discrimination.stanford.edu/" rel="nofollow"
+                 title="Non-discrimination policy">Non-Discrimination<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://www.stanford.edu/site/accessibility" rel="nofollow"
+                 title="Report web accessibility issues">Accessibility<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+        </ul>
+      </nav>
+      <div class="su-global-footer__copyright">
+        <span>&copy; Stanford University.</span>
+        <span>&nbsp; Stanford, California 94305.</span>
+      </div>
+    </div>
+  </div>
+</div> <!-- su-global-footer end -->
+</footer><button id="back-to-top">
+  <span class="fas fa-chevron-up"></span>
+  Back to Top
+</button>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/46","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"","blocklist_classes":"","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-TRQFXJR"]},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyNlOGSqyAMhV-IwiMxUaKyi8CQUNe3X5R7W3THqX8oOXyh5BDBH3bWfyuTcgQnsYZiCJ5hQQozqmYuF-y2kD4CkiY7izGE0aFmGNVYhnMs4Qt-juIsvvIciSGxzlZ1QHhU2uC44mANmcWMxoIarGNMsofINngRIcGYIE70v9K3IrOPuXOWJjQiJluK6Rwq9Gx5fWx2kCBDpOsf6Gav4FH3weXZXxE8JfzILOFAUO54wmJsqd72jwgjPobs3GOxhqcTs0WieOCHkIzeM2reWezLtZSa5Eve9j1Bu6Z5jUjKB4Mv-HGE8Vl2IrX_6KfFpTlC9d9YiqXSt-wLpLZBF6f5rccUyl2hntBFTIoso52L-EQJHtzKtqe_NPHqyhn_XfnV8qGEU70fUVk3l63zF8mvu5QdeI_pBthDMjew2oQ3wA9ONGBx_9rQN5cQ-rZLb6RQhP5W8ctKdlnHS_JCF7QS41wfhWzL4bh8457UZmZ1tFVrk-p9sc73zmuRCVOQ23BQXejBDSFsD0gzF3ujq32sL1crzMFkh7-MAx5S","theme":"sdss_subtheme","theme_token":null},"ajaxTrustedUrl":[],"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"su-link su-link--external","extLabel":" (link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":".localist-widget, #lclst_widget_footer","extCssExplicit":"#page-content, .su-local-footer","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":" (link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"stanford_basic":{"nav_dropdown_enabled":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:7d1f2bc174263d30082791aef793791bdfe4131716f3ada85937a985ddc92977":{"view_name":"stanford_events","view_display_id":"cards","view_args":"","view_path":"\/node\/46","view_base_path":null,"view_dom_id":"7d1f2bc174263d30082791aef793791bdfe4131716f3ada85937a985ddc92977","pager_element":0},"views_dom_id:572d75c220c4861f406bec07216f149af407adddb21a814eb6358ce5084cf436":{"view_name":"stanford_news","view_display_id":"vertical_cards","view_args":"school-news","view_path":"\/node\/46","view_base_path":null,"view_dom_id":"572d75c220c4861f406bec07216f149af407adddb21a814eb6358ce5084cf436","pager_element":0}}},"user":{"uid":0,"permissionsHash":"c3fcb2f449d8c62ea44900eda5091d67145d83c932534172b75efdf5174fade8"}}</script>
+<script src="/sites/sustainability/files/js/js_wRSOqaTU6Zhp51TStFQg0t4qebP_y3XJpXVDKDUNTW4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=sdss_subtheme&amp;include=eJyVVO2WoyAMfSEKj8SJEpUZBA4JdXz7BezU2h533T-Ym9yEfBCH4BkWpDCjGnZZLthVSGL4B0HSZGfxledIDIl1tqoDwqPGwRoyH3WvQBTBDyEZXXxtryOMqHmNSMoHg_LXfKuGnRxTGKxDTby6Qj3Rn_IjJBgTxEkmhJ71E5-7PAo5Mx-S1X9N9pMqt-ByyM7dFmt4ErQS47w19Ngi1U5BhkhT7njCMp-KBP6ws_5bmZQjOPmAn3lM6CImRZbRzkV5Rwke3Mq2JzGGMBYOw6hGno8Qxncs4Qt-RLalDGZMvvQp9OCGEAqSL_KFUSwr2WUdRUy2PLbOoULPltdbreLKLB8j2of524ldI7OPuXOWJjRbCzenlxegeAm6Dy7Pfr9zRmNBGUux8MWGShK1yB4i2-DPogWPH9HOK7BUFu9ucSHVTjkHkx0eVK3lz1h4L10i1T66EQ7j2My6h2TkJtc7LqRCEfo6tpMeTQn_o656_SGtlk_TPp19rbAe-mKG2-u4QOzA-1LK6_0TpiDr8b5cffmzlcDvq3xYtsZsP6TbvrF_AOa8HlI"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?skc30e"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?skc30e"></script>
+<script src="/sites/sustainability/files/js/js_ux3d1zYFW5_Qdgx4SNPaTPEu18Tn4BZrknAgSJUGp9s.js?scope=footer&amp;delta=3&amp;language=en&amp;theme=sdss_subtheme&amp;include=eJyVVO2WoyAMfSEKj8SJEpUZBA4JdXz7BezU2h533T-Ym9yEfBCH4BkWpDCjGnZZLthVSGL4B0HSZGfxledIDIl1tqoDwqPGwRoyH3WvQBTBDyEZXXxtryOMqHmNSMoHg_LXfKuGnRxTGKxDTby6Qj3Rn_IjJBgTxEkmhJ71E5-7PAo5Mx-S1X9N9pMqt-ByyM7dFmt4ErQS47w19Ngi1U5BhkhT7njCMp-KBP6ws_5bmZQjOPmAn3lM6CImRZbRzkV5Rwke3Mq2JzGGMBYOw6hGno8Qxncs4Qt-RLalDGZMvvQp9OCGEAqSL_KFUSwr2WUdRUy2PLbOoULPltdbreLKLB8j2of524ldI7OPuXOWJjRbCzenlxegeAm6Dy7Pfr9zRmNBGUux8MWGShK1yB4i2-DPogWPH9HOK7BUFu9ucSHVTjkHkx0eVK3lz1h4L10i1T66EQ7j2My6h2TkJtc7LqRCEfo6tpMeTQn_o656_SGtlk_TPp19rbAe-mKG2-u4QOzA-1LK6_0TpiDr8b5cffmzlcDvq3xYtsZsP6TbvrF_AOa8HlI"></script>
+
+      </body>
+</html>

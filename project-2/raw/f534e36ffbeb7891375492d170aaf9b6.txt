@@ -1,0 +1,3150 @@
+<!DOCTYPE html>
+
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+    <html lang="en">
+      <head>
+        <meta name="pageKey" content="d_top_companies_hub_home">
+<!----><!---->        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="0.0.393" data-call-tree-id="AAYjLPoi1PKZvOHuVIg6dw==" data-multiproduct-name="directory-ssr-frontend" data-service-name="directory-ssr-frontend" data-browser-id="64d25c8f-3996-4a1a-832d-c5ecdf96bf05" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_top_companies_hub_home;tGR7W7WvQJmKmxo6q7EvAQ==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-dna-member-lix-treatment="control" data-human-member-lix-treatment="control" data-dfp-member-lix-treatment="control">
+
+        <link rel="canonical" href="https://www.linkedin.com/hubs/top-companies/">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
+
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        <title>Discover Top Companies on LinkedIn. See open jobs, employees, locations and more!</title>
+          
+    
+    
+    
+
+    <meta name="description" content="Explore the top companies in United States for the year 2023. LinkedIn’s Top Companies list helps you by highlighting companies that set you up for long-term career success.">
+    <meta property="og:title" content="Discover Top Companies on LinkedIn. See open jobs, employees, locations and more!">
+    <meta property="og:description" content="Explore the top companies in United States for the year 2023. LinkedIn’s Top Companies list helps you by highlighting companies that set you up for long-term career success.">
+    <meta property="og:image" content="https://static.licdn.com/aero-v1/sc/h/en3f1pk3qk4cxtj2j4fff0gtr">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.linkedin.com/hubs/top-companies/">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@LinkedInEditors">
+    <meta name="twitter:title" content="Discover Top Companies on LinkedIn. See open jobs, employees, locations and more!">
+    <meta name="twitter:description" content="Explore the top companies in United States for the year 2023. LinkedIn’s Top Companies list helps you by highlighting companies that set you up for long-term career success.">
+    <meta name="twitter:image" content="https://static.licdn.com/aero-v1/sc/h/en3f1pk3qk4cxtj2j4fff0gtr">
+    <meta name="robots" content="noarchive, max-image-preview:large">
+    <meta name="appId" content="directory-ssr-frontend">
+<!----><!---->
+    <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/directory-ssr-frontend/api/ingraphs/gauge" data-counter-metric-endpoint="/directory-ssr-frontend/api/ingraphs/counter">
+  
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/dqvtcd63cq3tqc9nzk21wkfun">
+      
+<!---->      </head>
+      <body dir="ltr">
+<!----><!----><!---->
+        
+          
+<!---->
+    
+      
+    
+
+    <a href="#main-content" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
+      Skip to main content
+    </a>
+  
+    <header class="header base-detail-page__header px-mobile-container-padding bg-color-background-container global-alert-offset">
+      
+        
+
+    
+    
+    
+    
+
+    <nav class="nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap babymamabear:py-1.5
+        
+        
+         babybear:flex-wrap " aria-label="Primary">
+
+      <a href="/?trk=top-companies-hub-page_nav-header-logo" class="nav__logo-link link-no-visited-state z-1 mr-auto min-h-[52px] flex items-center babybear:z-0 hover:no-underline focus:no-underline active:no-underline
+          " data-tracking-control-name="top-companies-hub-page_nav-header-logo" data-tracking-will-navigate>
+          
+              
+    
+    <span class="sr-only">LinkedIn</span>
+<!---->      <icon class="block text-color-brand w-[102px] h-[26px] " data-test-id="nav-logo" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb"></icon>
+  
+          
+      </a>
+
+<!---->
+        
+    
+    
+    
+    
+    
+    
+    
+    <ul class="top-nav-menu flex items-center babybear:w-full babybear:justify-between babybear:pt-1 justify-start w-max pt-0 overflow-x-auto
+        after:papamamabear:up-down-divider after:papamamabear:!h-[37px]
+         nav__menu babybear:order-last order-3 ml-auto">
+        <li class>
+          
+    <a href="https://www.linkedin.com/pulse/topics/home/?trk=top-companies-hub-page_guest_nav_menu_articles" data-tracking-control-name="top-companies-hub-page_guest_nav_menu_articles" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Articles
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/pub/dir/+/+?trk=top-companies-hub-page_guest_nav_menu_people" data-tracking-control-name="top-companies-hub-page_guest_nav_menu_people" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        People
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/learning/search?trk=top-companies-hub-page_guest_nav_menu_learning" data-tracking-control-name="top-companies-hub-page_guest_nav_menu_learning" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Learning
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/jobs/search?trk=top-companies-hub-page_guest_nav_menu_jobs" data-tracking-control-name="top-companies-hub-page_guest_nav_menu_jobs" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Jobs
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/games?trk=top-companies-hub-page_guest_nav_menu_games" data-tracking-control-name="top-companies-hub-page_guest_nav_menu_games" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/29h8hsjuomfp50lam5ipnc3uh">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Games
+      </span>
+    </a>
+  
+        </li>
+    </ul>
+  
+
+      <div class="nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2
+          ">
+        
+    
+    <a class="nav__button-tertiary btn-md btn-tertiary" href="https://www.linkedin.com/signup/cold-join?session_redirect=%2Fhubs%2Ftop-companies%2F%3Ftrk%3Dhomepage-basic_directory_topCompaniesHubHomeUrl&amp;trk=top-companies-hub-page_nav-header-join" data-tracking-control-name="top-companies-hub-page_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate>
+      Join now
+    </a>
+
+
+        
+  
+  
+
+      
+      <a class="nav__button-secondary btn-md btn-secondary-emphasis" href="https://www.linkedin.com/uas/login?session_redirect=%2Fhubs%2Ftop-companies%2F%3Ftrk%3Dhomepage-basic_directory_topCompaniesHubHomeUrl&amp;fromSignIn=true&amp;trk=top-companies-hub-page_nav-header-signin" data-tracking-control-name="top-companies-hub-page_nav-header-signin" data-tracking-will-navigate>
+          Sign in
+      </a>
+
+
+<!---->      </div>
+
+<!---->
+<!---->    </nav>
+  
+      
+    </header>
+
+    
+<!---->      
+
+<!---->
+    <main class="main papabear:flex papabear:w-content-max-w papabear:mx-auto papabear:pt-desktop-content-top-margin mamabear:pt-desktop-content-top-margin
+        " id="main-content" role="main">
+      <section class="core-rail mx-auto papabear:w-core-rail-width mamabear:max-w-[790px] babybear:max-w-[790px]">
+        
+        
+      
+
+        <div class="details mx-details-container-padding">
+          
+        
+              
+          <div class="top-companies-hub-core-rail">
+<!---->              
+            
+    <section class="core-section-container my-3 top-companies-hub-blurb md:pt-2">
+          
+                <h2 class="text-display-md font-semibold text-color-text babybear:text-xl md:-mt-4">Top Companies in United States, 2023</h2>
+              
+        
+<!---->
+<!---->
+      <div class="core-section-container__content break-words">
+        
+                <p class="text-light font-sans text-lg no-underline babybear:text-md">LinkedIn Top Companies is a ranking of the 50 companies that are investing in their talent and helping people build careers that will set them up for long-term success.</p>
+              
+      </div>
+    </section>
+  
+
+<!---->              
+    
+      <ol>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/amazon" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 1 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_100_100/company-logo_100_100/0/1630640869849/amazon_logo?e=2147483647&amp;v=beta&amp;t=QsC16wgE3EBriPFDlAgtToh2xndFwQWKmR2WcyMG1nk" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Amazon">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#1</span>
+              <span class="pl-.5">Amazon</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Software Development</span>
+                <span class="before:middot"></span>
+                <span>Seattle</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/wellsfargo" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 2 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_100_100/company-logo_100_100/0/1630471638964/wellsfargo_logo?e=2147483647&amp;v=beta&amp;t=D1e-PmlhlUZN0ekIYF0M9XadtGDukrr58ywiHYGlJ_Y" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Wells Fargo">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#2</span>
+              <span class="pl-.5">Wells Fargo</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Financial Services</span>
+                <span class="before:middot"></span>
+                <span>San Francisco</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Wells Fargo &amp; Company (NYSE: WFC) is a diversified, community-based financial services company with approximately $1.9 trillion in assets…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Wells Fargo &amp; Company (NYSE: WFC) is a diversified, community-based financial services company with approximately $1.9 trillion in assets…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/jpmorganchase" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 3 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&amp;v=beta&amp;t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="JPMorganChase">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#3</span>
+              <span class="pl-.5">JPMorganChase</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Financial Services</span>
+                <span class="before:middot"></span>
+                <span>New York</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      With a history tracing its roots to 1799 in New York City, JPMorganChase is one of the world's oldest, largest, and best-known financial…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      With a history tracing its roots to 1799 in New York City, JPMorganChase is one of the world's oldest, largest, and best-known financial…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/bank-of-america" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 4 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQEL1rI2h3XGxg/company-logo_100_100/company-logo_100_100/0/1676325271208/bank_of_america_logo?e=2147483647&amp;v=beta&amp;t=eB9ITURV8Kb7BaN5HJmVlYSlxdBBNffnqiMvUycVxSY" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Bank of America">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#4</span>
+              <span class="pl-.5">Bank of America</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Banking</span>
+                <span class="before:middot"></span>
+                <span>Charlotte</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Bank of America is one of the world's largest financial institutions, serving individuals, small- and middle-market businesses and large…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Bank of America is one of the world's largest financial institutions, serving individuals, small- and middle-market businesses and large…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/alphabet-inc" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 5 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHOWk8aT2QxNQ/company-logo_100_100/company-logo_100_100/0/1631347525519?e=2147483647&amp;v=beta&amp;t=rYGTvLfZQyicwEMRirTuS4pCIFtmAL2pNqyxWd_pggU" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Alphabet Inc.">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#5</span>
+              <span class="pl-.5">Alphabet Inc.</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Construction</span>
+                <span class="before:middot"></span>
+                <span>Mountain View</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Alphabet is a collection of companies, including Google, Verily Life Sciences, GV, Calico, and X.
+
+In October 2015, Alphabet became the…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Alphabet is a collection of companies, including Google, Verily Life Sciences, GV, Calico, and X.
+
+In October 2015, Alphabet became the…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/att" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 6 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQE6Wr9RUG3OuA/company-logo_100_100/company-logo_100_100/0/1631399436556/att_logo?e=2147483647&amp;v=beta&amp;t=9uSrNUFF-_MqEi9zeb6txvZqvh2XZtUQvUa33VifH-M" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="AT&amp;T">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#6</span>
+              <span class="pl-.5">AT&amp;T</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Telecommunications</span>
+                <span class="before:middot"></span>
+                <span>Dallas</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We understand that our customers want an easier, less complicated life.  
+ 
+We’re using our network, labs, products, services, and people…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We understand that our customers want an easier, less complicated life.  
+ 
+We’re using our network, labs, products, services, and people…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/unitedhealth-group" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 7 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQHFsVkm-0t4fA/company-logo_100_100/company-logo_100_100/0/1643414339445/unitedhealth_group_logo?e=2147483647&amp;v=beta&amp;t=IqhRiM1FcQTDPw_LzNVr3Jv1Q8Xk2L8Y3ecHzwDSrWY" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="UnitedHealth Group">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#7</span>
+              <span class="pl-.5">UnitedHealth Group</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Hospitals and Health Care</span>
+                <span class="before:middot"></span>
+<!---->              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      UnitedHealth Group is a health care and well-being company with a mission to help people live healthier lives and help make the health…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      UnitedHealth Group is a health care and well-being company with a mission to help people live healthier lives and help make the health…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/apple" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 8 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_100_100/company-logo_100_100/0/1630637844948/apple_logo?e=2147483647&amp;v=beta&amp;t=p0JNmv2WB0EMMQgvzl9R8TaXgzEaDraGS4MWR0IawjQ" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Apple">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#8</span>
+              <span class="pl-.5">Apple</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Computers and Electronics Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Cupertino</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/thoughtworks" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 9 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQE5QBG-mhja9g/company-logo_100_100/company-logo_100_100/0/1630637271377/thoughtworks_logo?e=2147483647&amp;v=beta&amp;t=LUm7chJ2iGborCoocWf8t0MQSCLuxy9wCzuJIt0puwc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Thoughtworks">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#9</span>
+              <span class="pl-.5">Thoughtworks</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>IT Services and IT Consulting</span>
+                <span class="before:middot"></span>
+                <span>Chicago</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Thoughtworks is a pioneering global technology consultancy, leading the charge in custom software development and technology innovation. We…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Thoughtworks is a pioneering global technology consultancy, leading the charge in custom software development and technology innovation. We…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/kaiser-permanente" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 10 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQHMjIBdoKjOzQ/company-logo_100_100/company-logo_100_100/0/1631316036665?e=2147483647&amp;v=beta&amp;t=dEoOVVrzC6CxeApRgSPwBgXEs0niASID60pqkBwMyiA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Kaiser Permanente">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#10</span>
+              <span class="pl-.5">Kaiser Permanente</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Hospitals and Health Care</span>
+                <span class="before:middot"></span>
+                <span>Oakland</span>
+                <span class="before:middot"></span>
+              <span>Nonprofit</span>
+            </p>
+            
+    <p class="hidden md:block">
+      At the heart of health care, you’ll find Kaiser Permanente. As the nation’s leading not-for-profit, integrated health plan, we make a…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      At the heart of health care, you’ll find Kaiser Permanente. As the nation’s leading not-for-profit, integrated health plan, we make a…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/boeing" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 11 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQG8NhuAoYdTgw/company-logo_100_100/company-logo_100_100/0/1708109812925/boeing_logo?e=2147483647&amp;v=beta&amp;t=c4uOu3iGX-8rJkuPcnFMtQla12AELtm0lSm3JmiB7ZM" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Boeing">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#11</span>
+              <span class="pl-.5">Boeing</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Aviation and Aerospace Component Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Arlington</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      As a leading global aerospace company, Boeing develops, manufactures and services commercial airplanes, defense products and space systems…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      As a leading global aerospace company, Boeing develops, manufactures and services commercial airplanes, defense products and space systems…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/verizon" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 12 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQFcVBjsbfJrBQ/company-logo_100_100/company-logo_100_100/0/1719399854965/verizon_logo?e=2147483647&amp;v=beta&amp;t=BEtOHFkdn8ui08CqQVfDQBF_tsZHzg4Fh1PesTkt8Q8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Verizon">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#12</span>
+              <span class="pl-.5">Verizon</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>IT Services and IT Consulting</span>
+                <span class="before:middot"></span>
+                <span>Basking Ridge</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We get you. 
+You want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We get you. 
+You want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/comcast" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 13 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEZqcKKlfKeXQ/company-logo_100_100/company-logo_100_100/0/1710183636200/comcast_logo?e=2147483647&amp;v=beta&amp;t=DAIR39_UODRZeSpy9BcqDsJfCwCUspywlvLb-y-PHY0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Comcast">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#13</span>
+              <span class="pl-.5">Comcast</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Telecommunications</span>
+                <span class="before:middot"></span>
+                <span>Philadelphia</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Comcast is a global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create,…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Comcast is a global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create,…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/citi" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 14 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_100_100/company-logo_100_100/0/1719257286385/citi_logo?e=2147483647&amp;v=beta&amp;t=E0LjmXX_MaMB3pwg6W_ragjyCPSpChEG51ham_xSNVc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Citi">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#14</span>
+              <span class="pl-.5">Citi</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Financial Services</span>
+                <span class="before:middot"></span>
+                <span>New York</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://ie.linkedin.com/company/accenture" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 15 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQHDbmrSIZ2UdA/company-logo_100_100/company-logo_100_100/0/1723130689960/accenture_logo?e=2147483647&amp;v=beta&amp;t=OuKEs2V69VFKnjgHPeDxsaWvUBO-S7fPlylURMg-d9U" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Accenture">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#15</span>
+              <span class="pl-.5">Accenture</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Business Consulting and Services</span>
+                <span class="before:middot"></span>
+                <span>Dublin 2</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/ibm" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 16 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&amp;v=beta&amp;t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="IBM">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#16</span>
+              <span class="pl-.5">IBM</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>IT Services and IT Consulting</span>
+                <span class="before:middot"></span>
+                <span>Armonk, New York</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      At IBM, we do more than work. We create. We create as technologists, developers, and engineers. We create with our partners. We create with…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      At IBM, we do more than work. We create. We create as technologists, developers, and engineers. We create with our partners. We create with…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/lockheed-martin" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 17 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQHF1YKEZdN4LA/company-logo_100_100/company-logo_100_100/0/1668532986109/lockheed_martin_logo?e=2147483647&amp;v=beta&amp;t=wLdb6lykPTA9zMQUUN5RA4kH8DGngUmLW984UgnZGZQ" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Lockheed Martin">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#17</span>
+              <span class="pl-.5">Lockheed Martin</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Defense and Space Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Bethesda</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We connect customers with integrated solutions &amp; predictive technologies to ensure they stay ahead of emerging threats.
+
+Headquartered in…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We connect customers with integrated solutions &amp; predictive technologies to ensure they stay ahead of emerging threats.
+
+Headquartered in…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/ge" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 18 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQHNSdSY_UJ_rg/company-logo_100_100/company-logo_100_100/0/1688184041602/ge_logo?e=2147483647&amp;v=beta&amp;t=e6VJzilpnDX14Fp0r9VT0csEt1CzTb9xuS6tbDnKl-w" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="GE">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#18</span>
+              <span class="pl-.5">GE</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Industrial Machinery Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Boston</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      A new era is here, and we want you to be a part of it. We will now be sharing our content on our respective GE Aerospace and GE Vernova…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      A new era is here, and we want you to be a part of it. We will now be sharing our content on our respective GE Aerospace and GE Vernova…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/the-walt-disney-company" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 19 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQHScKuaJ_0-WA/company-logo_100_100/company-logo_100_100/0/1712695425017/the_walt_disney_company_logo?e=2147483647&amp;v=beta&amp;t=RNCX8SOfIyb101EpcMeT_VYVIEv4nLPFUGLsBZ8WEjg" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="The Walt Disney Company">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#19</span>
+              <span class="pl-.5">The Walt Disney Company</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Entertainment Providers</span>
+                <span class="before:middot"></span>
+                <span>Burbank</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/northrop-grumman-corporation" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 20 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFnJf3Nn259IA/company-logo_100_100/company-logo_100_100/0/1630610111160/northrop_grumman_corporation_logo?e=2147483647&amp;v=beta&amp;t=K8pfKECf7OSDUwyHLawBryuZsVQ0rLy8IDfwML15vKg" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Northrop Grumman">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#20</span>
+              <span class="pl-.5">Northrop Grumman</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Defense and Space Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Falls Church</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We are a close-knit community of big thinkers collaborating to keep the world safe. Our passion, creativity and expertise bring next-level…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We are a close-knit community of big thinkers collaborating to keep the world safe. Our passion, creativity and expertise bring next-level…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/ups" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 21 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQFX6tdg3bkrBQ/company-logo_100_100/company-logo_100_100/0/1630543904509/ups_logo?e=2147483647&amp;v=beta&amp;t=ZlYNNyZUkJhl218rt_algFrcadJRa9Ht2BdZho6-wss" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="UPS">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#21</span>
+              <span class="pl-.5">UPS</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Truck Transportation</span>
+                <span class="before:middot"></span>
+                <span>Atlanta</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Operating in more than 200 countries and territories, we’re committed to moving our world forward by delivering what matters. Beginning as…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Operating in more than 200 countries and territories, we’re committed to moving our world forward by delivering what matters. Beginning as…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/fedex" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 22 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGD5YgN_Px5rA/company-logo_100_100/company-logo_100_100/0/1706893081795/fedex_logo?e=2147483647&amp;v=beta&amp;t=0MuvRsJMsmctxNbmhfSaTuW9IKKmrxeEkStiCw5kZjo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="FedEx">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#22</span>
+              <span class="pl-.5">FedEx</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Freight and Package Transportation</span>
+                <span class="before:middot"></span>
+                <span>Memphis</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      FedEx connects people and possibilities through our worldwide portfolio of shipping, transportation, e-commerce and digital supply chain…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      FedEx connects people and possibilities through our worldwide portfolio of shipping, transportation, e-commerce and digital supply chain…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/delltechnologies" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 23 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQGKdw9DkNctbQ/company-logo_100_100/company-logo_100_100/0/1725894975812/delltechnologies_logo?e=2147483647&amp;v=beta&amp;t=HE84OKuilgQ--Wv68TV5fQsfl8Tp4Ceb3p62bagdNPU" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Dell Technologies">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#23</span>
+              <span class="pl-.5">Dell Technologies</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Computer Hardware Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Round Rock</span>
+                <span class="before:middot"></span>
+              <span>Privately Held</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Technology drives human progress. This tenet is the core of our business and vision. Our customers and team members are integral to our…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Technology drives human progress. This tenet is the core of our business and vision. Our customers and team members are integral to our…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/edwards-lifesciences" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 24 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQFbybfnFG5CdQ/company-logo_100_100/company-logo_100_100/0/1719838936607/edwards_lifesciences_logo?e=2147483647&amp;v=beta&amp;t=ZR-i5DvoPUm9kJbonEZmov6u9_ZmLgbmZXC6cD9nsxw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Edwards Lifesciences">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#24</span>
+              <span class="pl-.5">Edwards Lifesciences</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Medical Equipment Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Irvine</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Edwards Lifesciences (NYSE: EW), is the global leader in patient-focused medical innovations for structural heart disease, as well as…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Edwards Lifesciences (NYSE: EW), is the global leader in patient-focused medical innovations for structural heart disease, as well as…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://uk.linkedin.com/company/pwc" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 25 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGnGELqq6HXHw/company-logo_100_100/company-logo_100_100/0/1720517867022/pwc_logo?e=2147483647&amp;v=beta&amp;t=2qp_dqB2-gjESyj7M_vppJ_sd-hyZlMLJAR1mHjVGvo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="PwC">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#25</span>
+              <span class="pl-.5">PwC</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>IT Services and IT Consulting</span>
+                <span class="before:middot"></span>
+<!---->              <span>Privately Held</span>
+            </p>
+            
+    <p class="hidden md:block">
+      At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 152 countries with over 327,000…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 152 countries with over 327,000…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/mastercard" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 26 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQGOW4NIyYRRqQ/company-logo_100_100/company-logo_100_100/0/1631340300330?e=2147483647&amp;v=beta&amp;t=xq1ySX9pM18Xr0xQJaRgCbH1ap_xO8Yn0h21FM105Ls" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Mastercard">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#26</span>
+              <span class="pl-.5">Mastercard</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>IT Services and IT Consulting</span>
+                <span class="before:middot"></span>
+                <span>Purchase</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/state_farm" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 27 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGe3IHsGr7hjQ/company-logo_100_100/company-logo_100_100/0/1686247139310/state_farm_logo?e=2147483647&amp;v=beta&amp;t=3smnD6H-fIRb8kORr7P1APy0T8R_lp-eUmyOd4Vxo0g" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="State Farm">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#27</span>
+              <span class="pl-.5">State Farm</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Insurance</span>
+                <span class="before:middot"></span>
+                <span>Bloomington</span>
+                <span class="before:middot"></span>
+              <span>Privately Held</span>
+            </p>
+            
+    <p class="hidden md:block">
+      At State Farm®, our mission is to help people manage the risks of everyday life, recover from the unexpected, and realize their dreams. We…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      At State Farm®, our mission is to help people manage the risks of everyday life, recover from the unexpected, and realize their dreams. We…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/lowe's-home-improvement" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 28 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEhMN8M2HsC7Q/company-logo_100_100/company-logo_100_100/0/1630610782611/lowes_home_improvement_logo?e=2147483647&amp;v=beta&amp;t=y5H3DZDiQ-Dps1uKTReP09vPbje8UZEtMS7YlZiw4gQ" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Lowe's Companies, Inc.">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#28</span>
+              <span class="pl-.5">Lowe's Companies, Inc.</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Retail</span>
+                <span class="before:middot"></span>
+                <span>Mooresville</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving approximately 20 million customers a week in the…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving approximately 20 million customers a week in the…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/fidelity-investments" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 29 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQF6iwa5VSk-PQ/company-logo_100_100/company-logo_100_100/0/1724950881853/fidelity_investments_logo?e=2147483647&amp;v=beta&amp;t=mUOQ9kGrLxoohk0rfG0hiBOvO2BO4oXbw6YGCL8XWVw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Fidelity Investments">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#29</span>
+              <span class="pl-.5">Fidelity Investments</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Financial Services</span>
+                <span class="before:middot"></span>
+                <span>Boston</span>
+                <span class="before:middot"></span>
+              <span>Privately Held</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Fidelity’s mission is to strengthen the financial well-being of our customers and deliver better outcomes for the clients and businesses we…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Fidelity’s mission is to strengthen the financial well-being of our customers and deliver better outcomes for the clients and businesses we…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/intel-corporation" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 30 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_100_100/company-logo_100_100/0/1630663244736/intel_corporation_logo?e=2147483647&amp;v=beta&amp;t=ossYk2TZYS8UvUN3s4WS7ZaXqgKph-ue7DFGNXO4-0U" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Intel Corporation">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#30</span>
+              <span class="pl-.5">Intel Corporation</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Semiconductor Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Santa Clara</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Intel’s mission is to shape the future of technology to help create a better future for the entire world. By pushing forward in fields like…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Intel’s mission is to shape the future of technology to help create a better future for the entire world. By pushing forward in fields like…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/oracle" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 31 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&amp;v=beta&amp;t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Oracle">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#31</span>
+              <span class="pl-.5">Oracle</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>IT Services and IT Consulting</span>
+                <span class="before:middot"></span>
+                <span>Austin</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We’re a cloud technology company that provides organizations around the world with computing infrastructure and software to help them…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We’re a cloud technology company that provides organizations around the world with computing infrastructure and software to help them…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://de.linkedin.com/company/telekom" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 32 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_100_100/company-logo_100_100/0/1722505420199/telekom_logo?e=2147483647&amp;v=beta&amp;t=APFUecChrdeliv81Y3sKmkVk3wqAsUVQ-dcaDOnYUms" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Deutsche Telekom">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#32</span>
+              <span class="pl-.5">Deutsche Telekom</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Telecommunications</span>
+                <span class="before:middot"></span>
+                <span>Bonn</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Welcome to Deutsche Telekom. As one of the world's most valuable brands, we design innovative solutions and products in the areas of…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Welcome to Deutsche Telekom. As one of the world's most valuable brands, we design innovative solutions and products in the areas of…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/eli-lilly-and-company" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 33 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQG9tk5c8FBQUg/company-logo_100_100/company-logo_100_100/0/1719941589682/eli_lilly_and_company_logo?e=2147483647&amp;v=beta&amp;t=dAAxBNYbZCCl6r0uRyJfaAPGTVppTRphsfWoM5W4gJQ" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Eli Lilly and Company">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#33</span>
+              <span class="pl-.5">Eli Lilly and Company</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Pharmaceutical Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Indianapolis</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We're a medicine company turning science into healing to make life better for people around the world. It all started nearly 150 years ago…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We're a medicine company turning science into healing to make life better for people around the world. It all started nearly 150 years ago…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://uk.linkedin.com/company/ernstandyoung" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 34 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&amp;v=beta&amp;t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="EY">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#34</span>
+              <span class="pl-.5">EY</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>IT Services and IT Consulting</span>
+                <span class="before:middot"></span>
+                <span>London</span>
+                <span class="before:middot"></span>
+              <span>Privately Held</span>
+            </p>
+            
+    <p class="hidden md:block">
+      EY exists to build a better working world, helping create long-term value for clients, people and society and build trust in the capital…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      EY exists to build a better working world, helping create long-term value for clients, people and society and build trust in the capital…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/rtx" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 35 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQFITBtnCzFO9w/company-logo_100_100/company-logo_100_100/0/1687169432565/raytheontechnologies_logo?e=2147483647&amp;v=beta&amp;t=a2XLXq-5fSC27cNHdgPCoEUuIgPXXzHhrIfnEB_yeR8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="RTX">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#35</span>
+              <span class="pl-.5">RTX</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Aviation and Aerospace Component Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Arlington</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      RTX is comprised of three market-leading businesses – Collins Aerospace, Pratt &amp; Whitney and Raytheon – working as one to answer the…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      RTX is comprised of three market-leading businesses – Collins Aerospace, Pratt &amp; Whitney and Raytheon – working as one to answer the…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/capital-one" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 36 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_100_100/company-logo_100_100/0/1635782718446/capital_one_logo?e=2147483647&amp;v=beta&amp;t=3vOvEagCN6Oz8iNwzA1s1AyoVUy5mbl-0M0gQjeiKvs" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Capital One">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#36</span>
+              <span class="pl-.5">Capital One</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Financial Services</span>
+                <span class="before:middot"></span>
+                <span>McLean</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      At Capital One, we’re changing banking for good. We were founded on the belief that no one should be locked out of the financial system…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      At Capital One, we’re changing banking for good. We were founded on the belief that no one should be locked out of the financial system…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/us-bank" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 37 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQGOfh16vvXeWg/company-logo_100_100/company-logo_100_100/0/1719256071070/us_bank_logo?e=2147483647&amp;v=beta&amp;t=I6nGeBQZCuDNMx6n7XdjwRrymCqReW359ImM3OvTyN8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="U.S. Bank">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#37</span>
+              <span class="pl-.5">U.S. Bank</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Banking</span>
+                <span class="before:middot"></span>
+                <span>Minneapolis</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      At U.S. Bank, we help millions of clients achieve their goals with a balance of best-in-class technology and human expertise tailored to…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      At U.S. Bank, we help millions of clients achieve their goals with a balance of best-in-class technology and human expertise tailored to…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/ford-motor-company" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 38 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHZnQf3t8fKKg/company-logo_100_100/company-logo_100_100/0/1630670609155/ford_motor_company_logo?e=2147483647&amp;v=beta&amp;t=RJaj5pQAZB9Jvw_djO71CdhBJVBlOH7NLolHoWLOxJQ" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Ford Motor Company">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#38</span>
+              <span class="pl-.5">Ford Motor Company</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Motor Vehicle Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Dearborn</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We don't just make history -- we make the future. Ford put the world on wheels over a century ago, and our teams are re-inventing icons and…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We don't just make history -- we make the future. Ford put the world on wheels over a century ago, and our teams are re-inventing icons and…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/pepsico" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 39 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQES6SfNFl84wA/company-logo_100_100/company-logo_100_100/0/1679328336145/pepsico_logo?e=2147483647&amp;v=beta&amp;t=QX3dz5aBayxwVkBeDfAqXsTrn2sudtvUskrVK9Fr7Hc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="PepsiCo">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#39</span>
+              <span class="pl-.5">PepsiCo</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Food and Beverage Services</span>
+                <span class="before:middot"></span>
+                <span>Purchase</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      PepsiCo is a playground for curious people. We invite thinkers, doers, and changemakers to champion innovation, take calculated risks, and…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      PepsiCo is a playground for curious people. We invite thinkers, doers, and changemakers to champion innovation, take calculated risks, and…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://ch.linkedin.com/company/tetra-pak" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 40 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEH4K23HGR8Eg/company-logo_100_100/company-logo_100_100/0/1630643325145/tetra_pak_logo?e=2147483647&amp;v=beta&amp;t=eZVU_e9iD_hJIUgzM7ZaYdghW08toU40KYhbqUhFjF4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Tetra Pak">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#40</span>
+              <span class="pl-.5">Tetra Pak</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Packaging and Containers Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>CH-1009 PULLY/LAUSANNE</span>
+                <span class="before:middot"></span>
+              <span>Privately Held</span>
+            </p>
+            
+    <p class="hidden md:block">
+      We are specialists in complete solutions for the processing, packaging and distribution of food products. Dairy products, juices and…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      We are specialists in complete solutions for the processing, packaging and distribution of food products. Dairy products, juices and…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/bristol-myers-squibb" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 41 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQHPSJGTVwPgvg/company-logo_100_100/company-logo_100_100/0/1719830772393/bristol_myers_squibb_logo?e=2147483647&amp;v=beta&amp;t=hhBDMiRYNRGj0aZHer8s6CHUxRUhe7w_DUfU0YhAPsI" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Bristol Myers Squibb">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#41</span>
+              <span class="pl-.5">Bristol Myers Squibb</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Pharmaceutical Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Lawrence Township</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      At Bristol Myers Squibb, we work every day to transform patients’ lives through science. That work inspires some of the most interesting…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      At Bristol Myers Squibb, we work every day to transform patients’ lives through science. That work inspires some of the most interesting…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/morgan-stanley" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 42 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=2147483647&amp;v=beta&amp;t=f7aAdfTeMpLPSwCGS8zQ4DtuVYuEuN3OSYQ8ksHvOsI" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Morgan Stanley">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#42</span>
+              <span class="pl-.5">Morgan Stanley</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Financial Services</span>
+                <span class="before:middot"></span>
+                <span>New York</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Morgan Stanley (NYSE: MS) is a leading global financial services firm providing a wide range of investment banking, securities, wealth…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Morgan Stanley (NYSE: MS) is a leading global financial services firm providing a wide range of investment banking, securities, wealth…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/medtronic" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 43 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_100_100/company-logo_100_100/0/1667587833952/medtronic_logo?e=2147483647&amp;v=beta&amp;t=CfH7X45N2jyqCyE8mcJbNSVR8UFEDdrqWblmbxUMiZs" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Medtronic">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#43</span>
+              <span class="pl-.5">Medtronic</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Medical Equipment Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Minneapolis</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      A global healthcare technology leader — boldly attacking the most challenging health problems facing humanity with innovations that…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      A global healthcare technology leader — boldly attacking the most challenging health problems facing humanity with innovations that…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/delta-air-lines" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 44 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQERMNM6nOOmVQ/company-logo_100_100/company-logo_100_100/0/1630612966620/delta_air_lines_logo?e=2147483647&amp;v=beta&amp;t=TndLjeVKyxcex_QkW3Gw0Q_UrMZCddOY1QjubEkvTP0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Delta Air Lines">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#44</span>
+              <span class="pl-.5">Delta Air Lines</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Airlines and Aviation</span>
+                <span class="before:middot"></span>
+                <span>Atlanta</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Delta Air Lines (NYSE: DAL) is the U.S. global airline leader in safety, innovation, reliability and customer experience. Powered by our…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Delta Air Lines (NYSE: DAL) is the U.S. global airline leader in safety, innovation, reliability and customer experience. Powered by our…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/thecorporatefinancegroup" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 45 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEr0qoDLwBPpw/company-logo_100_100/company-logo_100_100/0/1719255765890/thecorporatefinancegroup_logo?e=2147483647&amp;v=beta&amp;t=d4Ix_PbJE2kAnDhmTueljhz4hjHFA1bId_NKu-cqx-w" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="CFGI">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#45</span>
+              <span class="pl-.5">CFGI</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Business Consulting and Services</span>
+                <span class="before:middot"></span>
+                <span>Boston</span>
+                <span class="before:middot"></span>
+              <span>Privately Held</span>
+            </p>
+            
+    <p class="hidden md:block">
+      As a leading global accounting and business advisory firm, CFGI provides solutions to solve clients’ most complex problems, without the…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      As a leading global accounting and business advisory firm, CFGI provides solutions to solve clients’ most complex problems, without the…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://de.linkedin.com/company/siemens" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 46 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&amp;v=beta&amp;t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Siemens">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#46</span>
+              <span class="pl-.5">Siemens</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Automation Machinery Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Munich</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Siemens AG (Berlin and Munich) is a leading technology company focused on industry, infrastructure, transport, and healthcare. From more…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Siemens AG (Berlin and Munich) is a leading technology company focused on industry, infrastructure, transport, and healthcare. From more…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://de.linkedin.com/company/vitesco-technologies" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 47 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQHTFi5N1EY2xg/company-logo_100_100/company-logo_100_100/0/1630565044116/vitesco_technologies_logo?e=2147483647&amp;v=beta&amp;t=DLcia53jWKrI2NsiAGHNWhFXaQxpKy1B1JkP8k46dZI" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Vitesco Technologies">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#47</span>
+              <span class="pl-.5">Vitesco Technologies</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Motor Vehicle Manufacturing</span>
+                <span class="before:middot"></span>
+                <span>Regensburg</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Vitesco Technologies is a leading international developer and manufacturer of state-of-the-art powertrain technologies for sustainable…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Vitesco Technologies is a leading international developer and manufacturer of state-of-the-art powertrain technologies for sustainable…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://www.linkedin.com/company/synchrony-financial" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 48 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQEi8GHJrQT9pg/company-logo_100_100/company-logo_100_100/0/1630544020158/synchrony_financial_logo?e=2147483647&amp;v=beta&amp;t=4MMxUzXsaQZRabhC685BUYFYe096b3J09xHhr2NY70I" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Synchrony">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#48</span>
+              <span class="pl-.5">Synchrony</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Financial Services</span>
+                <span class="before:middot"></span>
+                <span>Stamford</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      At Synchrony, our driving force is to be essential to people's everyday lives by making it easier for the many millions of people who rely…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      At Synchrony, our driving force is to be essential to people's everyday lives by making it easier for the many millions of people who rely…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://au.linkedin.com/company/atlassian" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 49 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQHiRLz23b2ZlA/company-logo_100_100/company-logo_100_100/0/1725661280883/atlassian_logo?e=2147483647&amp;v=beta&amp;t=t_PpN3nm9ZbHFvaWIs0orPd8i_jyJhGwObG8UIPE4bc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Atlassian">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#49</span>
+              <span class="pl-.5">Atlassian</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>Software Development</span>
+                <span class="before:middot"></span>
+                <span>Sydney</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Atlassian is a global software company helping teams around the world unleash their potential. We build tools that help teams collaborate…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Atlassian is a global software company helping teams around the world unleash their potential. We build tools that help teams collaborate…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+          <li class="top-companies-hub-entities my-2">
+            
+    
+      <a href="https://in.linkedin.com/company/tata-consultancy-services" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="top-companies-hub-company-card block container-lined p-2 md:pt-3 !no-underline">
+        
+        
+                <span class="sr-only">list item 50 of 50</span>
+              
+        <div class="flex">
+          
+      <img class="inline-block relative
+          
+          w-12 h-12
+           flex-grow-0 mr-2 rounded-md" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&amp;v=beta&amp;t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="Tata Consultancy Services">
+  
+          <div class="flex-grow">
+            <p class="papabear-text-xl font-bold">
+              <span class="px-[4px] py-[1px] font-normal text-sm bg-amber-30 rounded-sm">#50</span>
+              <span class="pl-.5">Tata Consultancy Services</span>
+            </p>
+            <p class="text-color-text-low-emphasis pb-2 text-sm">
+                <span>IT Services and IT Consulting</span>
+                <span class="before:middot"></span>
+                <span>Mumbai</span>
+                <span class="before:middot"></span>
+              <span>Public Company</span>
+            </p>
+            
+    <p class="hidden md:block">
+      Tata Consultancy Services is an IT services, consulting and business solutions organization that has been partnering with many of the…
+    </p>
+  
+          </div>
+        </div>
+        
+    <p class="md:hidden pt-2">
+      Tata Consultancy Services is an IT services, consulting and business solutions organization that has been partnering with many of the…
+    </p>
+  
+    
+      </a>
+  
+  
+          </li>
+      </ol>
+  
+          </div>
+        
+            
+      
+        </div>
+      </section>
+      <section class="right-rail papabear:w-right-rail-width papabear:ml-column-gutter mamabear:max-w-[790px] mamabear:px-mobile-container-padding babybear:max-w-[790px] babybear:px-mobile-container-padding">
+        
+        
+              
+        <div class="top-companies-hub-right-rail">
+            <h2 class="text-display-md text-color-text -ml-1 mb-2 font-bold md:pl-4">
+              Top Companies in:
+            </h2>
+            
+    
+    
+    <div class="top-companies-hub-nodes ml-3 babybear:max-w-md">
+      
+    
+    
+
+      <div class="show-more-less">
+<!---->
+        <ul data-max-num-to-show="12" class="show-more-less__list show-more-less__list--hide-after-12" data-impression-id="top-companies-hub-page_show-more-less">
+          
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/ar/" data-tracking-control-name="top-companies-hub-page-Argentina-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Argentina
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/au/" data-tracking-control-name="top-companies-hub-page-Australia-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Australia
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/at/" data-tracking-control-name="top-companies-hub-page-Austria-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Austria
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/be/" data-tracking-control-name="top-companies-hub-page-Belgium-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Belgium
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/br/" data-tracking-control-name="top-companies-hub-page-Brazil-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Brazil
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/ca/" data-tracking-control-name="top-companies-hub-page-Canada-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Canada
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/cl/" data-tracking-control-name="top-companies-hub-page-Chile-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Chile
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/cn/" data-tracking-control-name="top-companies-hub-page-China-2021" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                China
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/co/" data-tracking-control-name="top-companies-hub-page-Colombia-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Colombia
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/dk/" data-tracking-control-name="top-companies-hub-page-Denmark-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Denmark
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/eg/" data-tracking-control-name="top-companies-hub-page-Egypt-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Egypt
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/fr/" data-tracking-control-name="top-companies-hub-page-France-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                France
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/de/" data-tracking-control-name="top-companies-hub-page-Germany-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Germany
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/in/" data-tracking-control-name="top-companies-hub-page-India-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                India
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/id/" data-tracking-control-name="top-companies-hub-page-Indonesia-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Indonesia
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/ie/" data-tracking-control-name="top-companies-hub-page-Ireland-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Ireland
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/il/" data-tracking-control-name="top-companies-hub-page-Israel-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Israel
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/it/" data-tracking-control-name="top-companies-hub-page-Italy-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Italy
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/jp/" data-tracking-control-name="top-companies-hub-page-Japan-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Japan
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/ke/" data-tracking-control-name="top-companies-hub-page-Kenya-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Kenya
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/my/" data-tracking-control-name="top-companies-hub-page-Malaysia-2022" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Malaysia
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/mx/" data-tracking-control-name="top-companies-hub-page-Mexico-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Mexico
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/nl/" data-tracking-control-name="top-companies-hub-page-Netherlands-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Netherlands
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/nz/" data-tracking-control-name="top-companies-hub-page-New Zealand-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                New Zealand
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/ng/" data-tracking-control-name="top-companies-hub-page-Nigeria-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Nigeria
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/ph/" data-tracking-control-name="top-companies-hub-page-Philippines-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Philippines
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/pl/" data-tracking-control-name="top-companies-hub-page-Poland-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Poland
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/pt/" data-tracking-control-name="top-companies-hub-page-Portugal-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Portugal
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/qa/" data-tracking-control-name="top-companies-hub-page-Qatar-2021" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Qatar
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/sa/" data-tracking-control-name="top-companies-hub-page-Saudi Arabia-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Saudi Arabia
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/sg/" data-tracking-control-name="top-companies-hub-page-Singapore-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Singapore
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/za/" data-tracking-control-name="top-companies-hub-page-South Africa-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                South Africa
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/es/" data-tracking-control-name="top-companies-hub-page-Spain-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Spain
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/se/" data-tracking-control-name="top-companies-hub-page-Sweden-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Sweden
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/ch/" data-tracking-control-name="top-companies-hub-page-Switzerland-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Switzerland
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/tr/" data-tracking-control-name="top-companies-hub-page-Türkiye-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                Türkiye
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/ae/" data-tracking-control-name="top-companies-hub-page-United Arab Emirates-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                United Arab Emirates
+              </a>
+            </li>
+            <li>
+            <a href="https://www.linkedin.com/hubs/top-companies/gb/" data-tracking-control-name="top-companies-hub-page-United Kingdom-2023" data-tracking-will-navigate class="pill flex w-fit mr-1 mb-1 hover:no-underline">
+                United Kingdom
+              </a>
+            </li>
+        
+        </ul>
+
+            <button class="show-more-less__button show-more-less__more-button show-more-less-button
+                " aria-expanded="false" aria-label="Show more countries" data-tracking-control-name="top-companies-hub-page_show_more">
+                Show more
+              <icon class="show-more-less__button--chevron show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+            </button>
+
+            <button class="show-more-less__button show-more-less__less-button show-more-less-button
+                show-more-less__button--hide" aria-expanded="false" aria-label="Show less countries" data-tracking-control-name="top-companies-hub-page_show_more">
+                Show less
+              <icon class="show-more-less__button--chevron show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+            </button>
+      </div>
+  
+    </div>
+  
+        </div>
+      
+            
+      
+      </section>
+    </main>
+
+<!---->
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer bg-transparent w-full ">
+      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:w-[1128px] papabear:p-0">
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/e12h2cd8ac580qen9qdd0qks8"></icon>
+          <span class="li-footer__copy-text flex items-center">&copy; 2024</span>
+        
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=d_top_companies_hub_home_footer-about" data-tracking-control-name="d_top_companies_hub_home_footer-about" data-tracking-will-navigate>
+          
+          About
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=d_top_companies_hub_home_footer-accessibility" data-tracking-control-name="d_top_companies_hub_home_footer-accessibility" data-tracking-will-navigate>
+          
+          Accessibility
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=d_top_companies_hub_home_footer-user-agreement" data-tracking-control-name="d_top_companies_hub_home_footer-user-agreement" data-tracking-will-navigate>
+          
+          User Agreement
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=d_top_companies_hub_home_footer-privacy-policy" data-tracking-control-name="d_top_companies_hub_home_footer-privacy-policy" data-tracking-will-navigate>
+          
+          Privacy Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_top_companies_hub_home_footer-california-privacy-rights-act" data-tracking-control-name="d_top_companies_hub_home_footer-california-privacy-rights-act" data-tracking-will-navigate>
+          
+            Your California Privacy Choices
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=d_top_companies_hub_home_footer-cookie-policy" data-tracking-control-name="d_top_companies_hub_home_footer-cookie-policy" data-tracking-will-navigate>
+          
+          Cookie Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=d_top_companies_hub_home_footer-copyright-policy" data-tracking-control-name="d_top_companies_hub_home_footer-copyright-policy" data-tracking-will-navigate>
+          
+          Copyright Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=d_top_companies_hub_home_footer-brand-policy" data-tracking-control-name="d_top_companies_hub_home_footer-brand-policy" data-tracking-will-navigate>
+          
+          Brand Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=d_top_companies_hub_home_footer-guest-controls" data-tracking-control-name="d_top_companies_hub_home_footer-guest-controls" data-tracking-will-navigate>
+          
+            Guest Controls
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/professional-community-policies?trk=d_top_companies_hub_home_footer-community-guide" data-tracking-control-name="d_top_companies_hub_home_footer-community-guide" data-tracking-will-navigate>
+          
+          Community Guidelines
+        
+        </a>
+  </li>
+
+        
+<!---->
+          
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
+<!---->
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-[100%] top-auto" role="menu" tabindex="-1">
+          
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="العربية (Arabic)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ar_AE" data-locale="ar_AE" role="menuitem" lang="ar_AE">
+                العربية (Arabic)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="বাংলা (Bangla)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-bn_IN" data-locale="bn_IN" role="menuitem" lang="bn_IN">
+                বাংলা (Bangla)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Čeština (Czech)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-cs_CZ" data-locale="cs_CZ" role="menuitem" lang="cs_CZ">
+                Čeština (Czech)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Dansk (Danish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-da_DK" data-locale="da_DK" role="menuitem" lang="da_DK">
+                Dansk (Danish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Deutsch (German)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-de_DE" data-locale="de_DE" role="menuitem" lang="de_DE">
+                Deutsch (German)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Ελληνικά (Greek)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-el_GR" data-locale="el_GR" role="menuitem" lang="el_GR">
+                Ελληνικά (Greek)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English (English) selected" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link--selected" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                <strong>English (English)</strong>
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Español (Spanish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-es_ES" data-locale="es_ES" role="menuitem" lang="es_ES">
+                Español (Spanish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="فارسی (Persian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fa_IR" data-locale="fa_IR" role="menuitem" lang="fa_IR">
+                فارسی (Persian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Suomi (Finnish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fi_FI" data-locale="fi_FI" role="menuitem" lang="fi_FI">
+                Suomi (Finnish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Français (French)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fr_FR" data-locale="fr_FR" role="menuitem" lang="fr_FR">
+                Français (French)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="हिंदी (Hindi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hi_IN" data-locale="hi_IN" role="menuitem" lang="hi_IN">
+                हिंदी (Hindi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Magyar (Hungarian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hu_HU" data-locale="hu_HU" role="menuitem" lang="hu_HU">
+                Magyar (Hungarian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Indonesia (Indonesian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-in_ID" data-locale="in_ID" role="menuitem" lang="in_ID">
+                Bahasa Indonesia (Indonesian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Italiano (Italian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-it_IT" data-locale="it_IT" role="menuitem" lang="it_IT">
+                Italiano (Italian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="עברית (Hebrew)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-iw_IL" data-locale="iw_IL" role="menuitem" lang="iw_IL">
+                עברית (Hebrew)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="日本語 (Japanese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ja_JP" data-locale="ja_JP" role="menuitem" lang="ja_JP">
+                日本語 (Japanese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="한국어 (Korean)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ko_KR" data-locale="ko_KR" role="menuitem" lang="ko_KR">
+                한국어 (Korean)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="मराठी (Marathi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-mr_IN" data-locale="mr_IN" role="menuitem" lang="mr_IN">
+                मराठी (Marathi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Malaysia (Malay)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ms_MY" data-locale="ms_MY" role="menuitem" lang="ms_MY">
+                Bahasa Malaysia (Malay)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Nederlands (Dutch)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-nl_NL" data-locale="nl_NL" role="menuitem" lang="nl_NL">
+                Nederlands (Dutch)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Norsk (Norwegian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-no_NO" data-locale="no_NO" role="menuitem" lang="no_NO">
+                Norsk (Norwegian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ਪੰਜਾਬੀ (Punjabi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pa_IN" data-locale="pa_IN" role="menuitem" lang="pa_IN">
+                ਪੰਜਾਬੀ (Punjabi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Polski (Polish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pl_PL" data-locale="pl_PL" role="menuitem" lang="pl_PL">
+                Polski (Polish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Português (Portuguese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pt_BR" data-locale="pt_BR" role="menuitem" lang="pt_BR">
+                Português (Portuguese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Română (Romanian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ro_RO" data-locale="ro_RO" role="menuitem" lang="ro_RO">
+                Română (Romanian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Русский (Russian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ru_RU" data-locale="ru_RU" role="menuitem" lang="ru_RU">
+                Русский (Russian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Svenska (Swedish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-sv_SE" data-locale="sv_SE" role="menuitem" lang="sv_SE">
+                Svenska (Swedish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="తెలుగు (Telugu)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-te_IN" data-locale="te_IN" role="menuitem" lang="te_IN">
+                తెలుగు (Telugu)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ภาษาไทย (Thai)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-th_TH" data-locale="th_TH" role="menuitem" lang="th_TH">
+                ภาษาไทย (Thai)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tagalog (Tagalog)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tl_PH" data-locale="tl_PH" role="menuitem" lang="tl_PH">
+                Tagalog (Tagalog)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Türkçe (Turkish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tr_TR" data-locale="tr_TR" role="menuitem" lang="tr_TR">
+                Türkçe (Turkish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Українська (Ukrainian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-uk_UA" data-locale="uk_UA" role="menuitem" lang="uk_UA">
+                Українська (Ukrainian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tiếng Việt (Vietnamese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-vi_VN" data-locale="vi_VN" role="menuitem" lang="vi_VN">
+                Tiếng Việt (Vietnamese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="简体中文 (Chinese (Simplified))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_CN" data-locale="zh_CN" role="menuitem" lang="zh_CN">
+                简体中文 (Chinese (Simplified))
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="正體中文 (Chinese (Traditional))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_TW" data-locale="zh_TW" role="menuitem" lang="zh_TW">
+                正體中文 (Chinese (Traditional))
+            </button>
+          </li>
+<!---->      
+        </ul>
+
+          
+        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+          <span class="language-selector__label-text mr-0.5 break-words">
+            Language
+          </span>
+          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+        </button>
+      
+    </div>
+  
+  
+          
+  </li>
+
+      </ul>
+
+<!---->    </footer>
+  
+  
+  
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/eh08muqvrde4h3hc6koyij5ti" async></script>
+<!---->          
+        
+        <script src="https://static.licdn.com/aero-v1/sc/h/438md5hrng9hh0ssosytl0c9c" async defer></script>
+            
+      
+      </body>
+    </html>
+  
+ 
+  

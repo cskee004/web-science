@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8'/>
+    <meta http-equiv="Content-Language" content="en"/>
+    <meta name='viewport' content='width=device-width, initial-scale=1'/>
+        <!-- METATAGS GO HERE -->
+  <meta data-rh="true" name="apple-mobile-web-app-capable" content="yes"/>
+  <meta data-rh="true" name="apple-mobile-web-app-status-bar-style" content="black"/>
+  <meta data-rh="true" name="theme-color" content="#dedede"/>
+  <meta data-rh="true" property="og:title" content="Associated Press Stylebook">
+  <meta data-rh="true" name="description" content="The AP Stylebook is a writing and editing reference for newsrooms, classrooms and corporate offices worldwide."/>
+  <meta data-rh="true" property="og:title" content="Associated Press Stylebook">
+  <meta data-rh="true" property="og:url" content="https://www.apstylebook.com">
+  <meta data-rh="true" property="og:description" content="The AP Stylebook is a writing and editing reference for newsrooms, classrooms and corporate offices worldwide.">
+  <meta data-rh="true" property="og:site_name" content="Associated Press Stylebook">
+  <meta data-rh="true" property="og:image" content="https://assets.apstylebook.com/assets/production/apo_homepage_big-db60cfce353e1db8624c49fcd633b9792c43da31b94315e5857a1c7700a22d69.png"/>
+  <meta data-rh="true" property="article:content_tier" content="free">
+  <meta data-rh="true" property="twitter:title" content="Associated Press Stylebook">
+  <meta data-rh="true" property="twitter:description" content="The AP Stylebook is a writing and editing reference for newsrooms, classrooms and corporate offices worldwide.">
+  <meta data-rh="true" property="twitter:url" content="https://www.apstylebook.com"/>
+  <meta data-rh="true" name="twitter:card" content="summary_large_image"/>
+  <meta data-rh="true" property="twitter:creator" content="@APStylebook">
+  <meta data-rh="true" property="twitter:site" content="@APStylebook">
+  <meta property="twitter:image" content="https://assets.apstylebook.com/assets/production/apo_homepage_big-db60cfce353e1db8624c49fcd633b9792c43da31b94315e5857a1c7700a22d69.png">
+  <meta data-rh="true" property="fb:profile_id" content="apstylebook">
+  <!-- END METATAGS -->
+
+      <meta name='user_id' content='ANON-1111'/>
+    <title>Associated Press Stylebook</title>
+    <link rel='shortcut icon' href='//media.apstylebook.com/images/apstylebook_2016/favicon.ico' type='image/vnd.microsoft.icon'/>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2KbIghAFCaKiY61amdz8YhnmmR6kl0kz3h5+EU7RuK4gR+tG60WPiLNqslNTb9kL2JtKIBNEA7xWhFjAhplL/g==" />
+    
+
+    <link rel="stylesheet" media="all" href="https://assets.apstylebook.com/assets/production/application-cfa10b728c8b53a8c589ff270e19ed8c86cc8d3a9a26b1ecb29ebdc1d58d7e2b.css" data-turbolinks-track="reload" />
+
+    <script src="https://assets.apstylebook.com/assets/production/application-721e55c7708378390ac8f7b04efca24138cb3648eca2eeb3423d6319b88bd80f.js" data-turbolinks-track="reload"></script>
+      <script src="https://assets.apstylebook.com/assets/production/outbrain-12fdb392165ea2172fa19dce230dd0f6dbc39db964c0e095fa44a8524ec29772.js" data-turbolinks-track="reload"></script>
+      <script src="https://assets.apstylebook.com/assets/production/google_analytics-376edf50aebb530c5251f373c12dc1952ba9cdf10600a3ddacb7209286db12b4.js" data-turbolinks-track="reload"></script>
+
+    <!--    START: CrazyEgg tracking code -->
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0111/6363.js" async="async"></script>
+    <!--    END: CrazyEgg tracking code -->
+
+    <!-- START: GA4 Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZB6RGSPZ32"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZB6RGSPZ32');
+
+
+    </script>
+    <!-- END: GA4 Global site tag (gtag.js) - Google Analytics -->
+  </head>
+  <body class='home index'>
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T72Q6X3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    <div id='wrapper'>
+      
+      <div class='container'>
+        <script>
+  // Add event listener to "More" button
+  $('#toggle-menu').on('click', function() {
+    // Expand the "More" menu
+    $('#sidebar_menu').collapse('show');
+    // Set focus to the first item in the menu
+    $('#sidebar_menu a:first-of-type').focus();
+  });
+</script>
+<nav class='navbar navbar-fixed-top navbar-dark main-navbar'>
+  <div class='container-fluid'>
+  <a href="#content" class="skip-to-content" data-turbolinks='false'>Skip to content</a>
+    <a class="navbar-brand logo" href="/">
+      <img width="83px" height="97px" alt="AP Stylebook" src="https://assets.apstylebook.com/assets/production/ap-logo-7a7071ebdd0eba38c0d42e6f543f1b127383ba743d2655a821047f7871b052df.png" />
+</a>    <a class="navbar-brand float-sm-right" href="/">
+      <span style=""><span class="">AP</span> <span class="navbar-brand-cond">Stylebook</span></span>
+</a>
+<!--     
+      <div class='container'>
+        <div class='row'>
+          <div class='offset-sm-2 col-sm-8'>
+            <div class='alert alert-info'>
+                ALERT: Your
+                expires in
+                 -- click to renew at a 20% discount.
+            </div>
+          </div>
+        </div>
+      </div>
+     -->
+
+    <ul class='auth-id nav navbar-nav float-xs-right'>
+        <li class='nav-item'>
+          <a class="nav-link" href="/users/sign_in">Log in</a>
+        </li>
+        <li class='nav-item'>
+          <a class="nav-link" href="/users/sign_up">Register</a>
+        </li>
+    </ul>
+
+
+    <div class='nav-container'>
+      <ul class='nav navbar-nav float-xs-right'>
+          <li class='nav-item hidden-sm-down'>
+            <a class="nav-link" href="https://store.stylebooks.com?user=guest">Shop</a>
+          </li>
+          <li class='nav-item hidden-sm-down'>
+            <a class="nav-link" href="/help">Help Center</a>
+          </li>
+        <li class='nav-item'>
+          <button class='navbar-toggler' id="toggle-menu" type='button' data-toggle='collapse' data-target='#sidebar_menu' title='Open navigation menu'>More
+          </button>
+        </li>
+      </ul>
+        <form class="form-inline float-xs-left float-sm-right" action="/help" accept-charset="UTF-8" method="get">
+          <div class='input-group-lg input-group'>
+            <input type="text" name="query" id="query" class="form-control" placeholder="Search APStylebook.com" aria-label="Search AP Stylebook" autofocus="autofocus" />
+            <span class='input-group-btn'>
+              <button name="button" type="submit" class="btn btn-search search">
+                <span>Search</span>
+</button>            </span>
+          </div>
+</form>    </div>
+  </div>
+</nav>
+
+        <main class='row' id='content' tabindex='-1'>
+          <div class='col-xs-12'>
+          </div>
+          <div class='row'>
+  <div class='col-md-12'>
+
+    <div class='carousel slide'>
+      <div class='carousel-inner'>
+        <a href="https://store.stylebooks.com/">
+          <img style="width: 100%; height: auto;" alt="The AP Stylebook is a must-have reference." src="https://assets.apstylebook.com/assets/production/website-hero-value-8babb235428308950ea3194309894a8b676754a225d74de2b8be625a74536a7c.jpg" />
+</a>      </div>
+    </div>
+
+  </div>
+</div>
+<div class='row'>
+  <div class='col-md-8'>
+      <div class='row'>
+        <div class='col-xs-12'>
+  <div class='product-block clearfix'>
+    <img class="attachment product image float-sm-right " alt="" src="https://attachments.apstylebook.com/attachments/a737ea654ce08886996aa252c119003a7c9f3b19/store/fill/320/320/ea6e2b3a3fccd07e4aae5cc64000c49a645d7a25278c0aa75067374cee5a/2024_homepage_cover-2.png" />
+    <div class='product-block-content'>
+      <h4 class='text-uppercase text-primary'>
+        The classic, practical spiral-bound edition now is published every other year. 
+      </h4>
+      <h2 class='h1'>AP Stylebook, 57th Edition (spiral-bound print)</h2>
+      <p>The spiral-bound Associated Press Stylebook, 57th Edition, includes new chapters on artificial intelligence and criminal justice, plus a detailed checklist for self-editing. Specialized chapters cover sports, business, punctuation, religion, data journalism, inclusive storytelling, health and science, news values, and polls and surveys. ISBN: 978-0-917360-71-8.</p>
+      <a target="_blank" class="btn btn-primary btn-no-border btn-arrow-primary btn-arrow" aria-label="Learn more about #{product.title}" href="https://store.stylebooks.com/ap-stylebook-57th-edition-print.html">Learn more</a>
+    </div>
+  </div>
+</div>
+
+      </div>
+      <div class='row'>
+        <div class='col-xs-12'>
+  <div class='product-block clearfix'>
+    <img class="attachment product image float-sm-right " alt="" src="https://attachments.apstylebook.com/attachments/5510ff37ef679a30f42bcfe8e47aca25d523a6af/store/fill/320/320/9f7b8605cf8ca4ff0ce0db65a01e83248d870baf66f89aae733f65e5222b/product_apo_homepage_2+copy.png" />
+    <div class='product-block-content'>
+      <h4 class='text-uppercase text-primary'>
+        STYLE GUIDANCE ON YOUR COMPUTER, TABLET AND PHONE
+      </h4>
+      <h2 class='h1'>AP Stylebook Online</h2>
+      <p>This searchable, customizable, regularly updated version of AP Stylebook offers bonus features including Ask the Editor and Topical Guides. Add Merriam-Webster for a more comprehensive resource.</p>
+      <a target="_blank" class="btn btn-primary btn-no-border btn-arrow-primary btn-arrow" aria-label="Learn more about #{product.title}" href="https://store.stylebooks.com/apstylebookonline.html">Learn more</a>
+    </div>
+  </div>
+</div>
+
+      </div>
+      <div class='row'>
+        <div class='col-xs-12'>
+  <div class='product-block clearfix'>
+    <img class="attachment product image float-sm-right " alt="" src="https://attachments.apstylebook.com/attachments/34e198a3072fd8bec4e7174d91f76844890789c2/store/fill/320/320/04f9a16851053b354041347f23a6fec598b30b596896d551b94f6c9928e8/styleguard.png" />
+    <div class='product-block-content'>
+      <h4 class='text-uppercase text-primary'>
+        AP StyleGuard and Lingofy
+      </h4>
+      <h2 class='h1'> AP Style-Checking Tools</h2>
+      <p>Proof the content you create in Microsoft Word, Outlook and today&#39;s web browsers, helping find errors in spelling, usage and AP style. Use our shopping assistant to find the tools that work best for your needs.</p>
+      <a target="_blank" class="btn btn-primary btn-no-border btn-arrow-primary btn-arrow" aria-label="Learn more about #{product.title}" href="https://store.stylebooks.com/apstylechecking.html">Learn more</a>
+    </div>
+  </div>
+</div>
+
+      </div>
+      <div class='row'>
+        <div class='col-xs-12'>
+  <div class='product-block clearfix'>
+    <img class="attachment product image float-sm-right " alt="" src="https://attachments.apstylebook.com/attachments/706cd351b96196f7adce1f670235e875539fc859/store/fill/320/320/4bb696f2e96170065c3778968f69bb905f193c09bb5bb2d10e687431a5d3/workshop-image-a-2-2.png" />
+    <div class='product-block-content'>
+      <h4 class='text-uppercase text-primary'>
+        LEARN AP STYLE DIRECTLY FROM AP’S EDITORS
+      </h4>
+      <h2 class='h1'>AP Stylebook Workshop On Demand</h2>
+      <p>In the on-demand version of the popular AP Stylebook Workshop, you can watch informative, engaging videos at your convenience. You can also read entries on AP Stylebook Online and take quizzes with AP Stylebook Study Guides to support your learning.</p>
+      <a target="_blank" class="btn btn-primary btn-no-border btn-arrow-primary btn-arrow" aria-label="Learn more about #{product.title}" href="https://store.stylebooks.com/ap-stylebook-workshop.html">Learn more</a>
+    </div>
+  </div>
+</div>
+
+      </div>
+      <div class='row'>
+        <div class='col-xs-12'>
+  <div class='product-block clearfix'>
+    <img class="attachment product image float-sm-right " alt="" src="https://attachments.apstylebook.com/attachments/eb1f8e3ba5ff93a3c8bec7dfbf01af0c3a0f2dbb/store/fill/320/320/fbd241b4ed99544f906f4cc27aac0897c802f3b95abafc19f8613550b996/stylequiz_product_2+copy.png" />
+    <div class='product-block-content'>
+      <h4 class='text-uppercase text-primary'>
+        TEST YOUR KNOWLEDGE WITH OUR STUDY GUIDES
+      </h4>
+      <h2 class='h1'>AP Stylebook Study Guides</h2>
+      <p>Build your knowledge and understanding of AP style guidance, whether you&#39;re a new communicator or a seasoned professional. Created in partnership with three experienced AP style instructors, these study guides will step you through quizzes covering key Stylebook topics in both the mechanics of writing and the more complex issues of quality storytelling.</p>
+      <a target="_blank" class="btn btn-primary btn-no-border btn-arrow-primary btn-arrow" aria-label="Learn more about #{product.title}" href="https://store.stylebooks.com/ap-stylebook-study-guides.html">Learn more</a>
+    </div>
+  </div>
+</div>
+
+      </div>
+    <div class='box'>
+      <p class='lead'>Looking for more? <a href="https://store.stylebooks.com?user=guest">See all the AP Stylebook products and choose the right one for you</a></p>
+    </div>
+  </div>
+  <div class='col-md-4' id='right_column'>
+    <div class='card card-inverse card-warning'>
+  <div class='card-header'>
+    <h3 class='text-uppercase'>Log in to your Stylebook account</h3>
+  </div>
+  <div class='card-block card-grey424242'>
+    <div class='card-text'>
+      <form class="new_user" id="new_user" role="form" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="otOMi0FlZy27UAUahNQZxJefokfxXOO/oLBvwjjwoz4YNljDs9QtzeTtPWrbXdQwkzh55he+guSs2cLHsRjClw==" />
+        <div class='form-group'>
+          <label for="user_login">Username or Email Address</label>
+          <input autofocus="autofocus" class="form-control" placeholder="Enter username or email" type="text" name="user[login]" id="user_login" />
+        </div>
+        <div class='form-group'>
+          <label for="user_password">Password</label>
+          <input autocomplete="current-password" class="form-control" placeholder="Your password" type="password" name="user[password]" id="user_password" />
+        </div>
+        <div class='form-check'>
+          <label class="form-check-label" for="user_remember_me">
+            <input name="user[remember_me]" type="hidden" value="0" /><input class="form-check-input" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+            Remember me
+</label>        </div>
+        <input type="submit" name="commit" value="Log in" class="btn btn-warning btn-arrow" style="color: white;" data-disable-with="Log in" />
+</form>      <br/>
+      <p>
+        Forgot your password? To reset, click <a class="card-text" href="/users/password/new">here</a>.
+      </p>
+      <p>
+        Click "remember me" to speed your log in next time.
+      </p>
+    </div>
+  </div>
+</div>
+<div class='card card-grey card-block'>
+  <div class='card-title'>
+    <h3 class='text-uppercase'>Don't Have an Account Yet?</h3>
+    <p class='card-text'>Register to view your products, order status, shipment trackings and manage your account settings.</p>
+  </div>
+  <div class='card-text'>
+    <a class="btn btn-primary" href="/users/sign_up">Register</a>
+  </div>
+</div>
+<div class='col-xs-12 my-2'>
+  <h3 class='text-uppercase'>Sign Up for our Newsletter</h3>
+  <p>Keep up to date on style news. Sign up for our stylish monthly e-newsletter by submitting your email address below.</p>
+  <a class="btn btn-primary" href="/newsletter">Sign Up</a>
+</div>
+<div class='col-xs-12'>
+  <h3><a target="_blank" class="btn btn-no-border btn-arrow-small" href="/bibliography">More Resources</a></h3>
+  <p>Add the publications cited in the AP Stylebook bibliography to your library.</p>
+</div>
+<!--
+<div class='col-xs-12 mb-2'>
+  <h3></h3>
+  <p>Manual de Estilo de la AP is the Spanish-language equivalent of the AP Stylebook Online.</p>
+</div>
+-->
+<div class='col-xs-12'>
+  <!-- TODO Why are we inlining this, it should be loaded from the asset pipeline
+  <script>
+    (function(t,e,n,s){var c,o,i;t.SMCX=t.SMCX||[],e.getElementById(s)||(c=e.getElementsByTagName(n),o=c[c.length-1],i=e.createElement(n),i.type="text/javascript",i.async=!0,i.id=s,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/TejsnF7NnRlAosjJvSv0OSU_2FXZkRRWc3lOSUH4Gt9xm51ySOvKBCnEcmCF_2BYKxQ3.js"].join(""),o.parentNode.insertBefore(i,o))})(window,document,"script","smcx-sdk");
+  </script>
+   -->
+</div>
+
+  </div>
+</div>
+
+          <div class='col-md-3 collapse' id='sidebar_menu' role='navigation' aria-label='Side bar navigation' tabindex='-1'>
+  <div class='card'>
+    <button class='navbar-toggler' data-toggle='collapse' data-target='#sidebar_menu' title='Close menu'>&times;</button>
+    <ul class='nav nav-pills nav-stacked'>
+      <li class='nav-item'><a class="nav-link" href="/">Home</a></li>
+        <li class='nav-item'><a class="nav-link" href="/users/sign_in">Log in to my account</a></li>
+      <hr/>
+        <li class='nav-item'><a class="nav-link" href="https://store.stylebooks.com?user=guest">Browse AP Stylebook products</a></li>
+        <li class='nav-item'><a class="nav-link" href="/blog_posts">AP Style Blog</a></li>
+        <li class='nav-item'><a class="nav-link" href="/news">AP Stylebook news</a></li>
+        <li class='nav-item'><a class="nav-link" href="/suggestions">Suggest a Stylebook change or addition</a></li>
+        <li class='nav-item'><a class="nav-link" href="/ask_the_editors/style_guidance">Ask the Editor: Highlights</a></li>
+          <li class='nav-item'><a class="nav-link" href="/ask_the_editors/last_seven_days">Last seven days of Ask the Editor</a></li>
+        <li class='nav-item'><a class="nav-link" href="/topical_most_recent">Current Topical Guide</a></li>
+        <li class='nav-item'><a class="nav-link" href="/bibliography">Bibliography</a></li>
+        <!-- <li class='nav-item'></li> -->
+        <li class='nav-item'><a class="nav-link" href="/social_media_highlights">Social media highlights</a></li>
+        <li class='nav-item'><a class="nav-link" href="/user_guide">User Guide</a></li>
+        <li class='nav-item'><a class="nav-link" href="https://www.apstylebook.com/help">Help Center</a></li>
+    </ul>
+  </div>
+  <div class='backdrop'></div>
+</div>
+
+
+        </main>
+      </div>
+      <a class="back-to-top" href="#wrapper">Back to Top</a>
+<div class='navbar navbar-dark mt-3' id='footer' role='contentinfo'>
+  <div class='container-fluid'>
+    <div class='row'>
+      <div class='col-md-3'>
+        <ul>
+          <li>
+            <h3>AP Stylebook</h3>
+          </li>
+            <li><a href="https://store.stylebooks.com?user=guest">AP Stylebook products</a></li>
+            <li><a href="https://store.stylebooks.com/compare-products?user=guest">Compare products</a></li>
+            <li><a href="https://www.apstylebook.com/help">Help Center</a></li>
+            <li><a target="_blank" href="https://apnews.com/privacystatement">Privacy Policy</a></li>
+            <li><a href="/terms">Terms and Conditions</a></li>
+        </ul>
+      </div>
+      <div class='col-md-3'>&nbsp;</div>
+
+      <div class='col-md-2'>
+          <ul>
+            <li><h3>The Associated Press</h3></li>
+            <li><a target="_blank" href="https://www.ap.org/about/">Company</a></li>
+            <li><a target="_blank" href="https://www.ap.org/about/media-center/">Media Center</a></li>
+            <li><a target="_blank" href="https://www.ap.org/content/">AP Content</a></li>
+            <li><a target="_blank" href="https://www.ap.org/solutions/">AP Solutions</a></li>
+            <li><a target="_blank" href="https://www.ap.org/who-we-serve/media/ap-planner/">AP Planner</a></li>
+            <li><a target="_blank" href="https://www.ap.org/solutions/platforms/newsroom-platform/">AP Newsroom</a></li>
+            <li><a target="_blank" href="https://www.ap.org/content/archive/">AP Archive</a></li>
+            <li><a target="_blank" href="https://www.ap.org/content/formats/video/">AP Video</a></li>
+            <li><a href="https://www.ap.org/contact-us/">Contact Us</a></li>
+          </ul>
+      </div>
+      <div class='col-md-2'>
+          <ul>
+            <li><h3>More From AP</h3></li>
+            <li><a target="_blank" href="https://apnews.com/">AP News</a></li>
+            <li><a target="_blank" href="https://www.ap.org/books/">AP Books</a></li>
+            <li><a target="_blank" href="https://www.ap.org/solutions/platforms/newsroom-platform/">AP Newsroom</a></li>
+            <li><a target="_blank" href="https://www.ap.org/content/archive/">AP Archive</a></li>
+          </ul>
+      </div>
+      <div class='col-md-2'>
+          <ul>
+            <li><h3>Follow AP Stylebook</h3></li>
+            <li>
+              <a title="Facebook" target="_blank" href="https://www.facebook.com/apstylebook"><i class="fa fa-facebook-square"></i></a>
+              <a title="Twitter" target="_blank" href="https://twitter.com/APStylebook"><i class="fa fa-twitter-square"></i></a>
+              <a title="Linkedin" target="_blank" href="https://www.linkedin.com/company/associated-press-stylebook/"><i class="fa fa-linkedin-square"></i></a>
+              <a title="Instagram" target="_blank" href="https://www.instagram.com/apstylebook/"><i class="fa fa-instagram-square"></i></a>
+              <a title="Pinterest" target="_blank" href="https://www.pinterest.com/APStylebook/"><i class="fa fa-pinterest-square"></i></a>
+            </li>
+          </ul>
+
+        <!-- OneTrust Cookies Settings button start -->
+        <a class='optanon-show-settings'>Cookie Settings</a>
+        <!-- OneTrust Cookies Settings button end -->
+      </div>
+    </div>
+
+    <div class='row pt-1 pb-2'>
+      <div class='col-md-12'>
+        <ul class='nav navbar-nav float-xs-right'>
+          <li class='nav-item '> All contents &copy; 2024 Associated Press All rights reserved.</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- OneTrust Cookies Consent Notice (Staging, apstylebook.com, en-US) start -->
+      <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="1e93a046-46dc-4efb-8862-d6e1a211b0d7" ></script>
+    <script type='text/javascript'>
+      function OptanonWrapper() { }
+    </script>
+    <!-- OneTrust Cookies Consent Notice (Staging, apstylebook.com, en-US) end -->
+
+
+  </div>
+</div>
+
+    </div>
+  </body>
+</html>

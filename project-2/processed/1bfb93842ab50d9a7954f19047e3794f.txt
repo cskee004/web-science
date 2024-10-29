@@ -1,0 +1,2 @@
+Embed events anywhere on the web with our Widget builder .
+Get a personalized list of events in your inbox with our Digest emailer .

@@ -1,0 +1,3034 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="prev" href="https://community.harvard.edu/education" />
+<link rel="up" href="https://community.harvard.edu/initiatives" />
+<link rel="next" href="https://community.harvard.edu/nonprofits" />
+<script src="https://www.googletagmanager.com/gtag/js?id=G-SFXEYPKNXD" async="1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-SFXEYPKNXD');</script>
+<link rel="shortcut icon" href="https://community.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/favicon.png" />
+<meta name="description" content="Harvard is committed to partnerships and collaborations that address the regional and urgent challenge of housing creation and affordability.  Easing Demand on Local HousingHarvard&#039;s extensive residential portfolio ensures a vibrant living-learning campus for students and affiliates while easing the demand for local housing.  99% of Harvard undergraduate students are housed on campus throughout their four years" />
+<meta name="generator" content="OpenScholar for Drupal 7 (http://theopenscholar.org)" />
+<link rel="canonical" href="https://community.harvard.edu/housing" />
+<link rel="shortlink" href="https://community.harvard.edu/node/1035791" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Housing Initiatives" />
+<meta property="og:description" content="Harvard is committed to partnerships and collaborations that address the regional and urgent challenge of housing creation and affordability.  Easing Demand on Local HousingHarvard&#039;s extensive residential portfolio ensures a vibrant living-learning campus for students and affiliates while easing the demand for local housing.  99% of Harvard undergraduate students are housed on campus throughout their four years" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Housing Initiatives" />
+<meta name="twitter:description" content="Harvard is committed to partnerships and collaborations that address the regional and urgent challenge of housing creation and affordability." />
+<meta name="twitter:image" content="https://community.harvard.edu/" />
+<title>Housing Initiatives | Harvard in the Community</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link type="text/css" rel="stylesheet" href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css?m=1722240918" media="all" />
+<link type="text/css" rel="stylesheet" href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/css/css_YnlUIvHP13qgpYEqubzE8JyDwlSxUnVibfnVkSoSDb0.css?m=1722240918" media="all" />
+<link type="text/css" rel="stylesheet" href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/css/css_k2AvcN2-WL1rk4tvr4F4cfWD0ccD6LqtWQzg_y2O_a8.css?m=1722240945" media="all" />
+<link type="text/css" rel="stylesheet" href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/css/css_PTzyfG3PhWWBD9-2EV_Z-RqqVjL4QPaBY6BQzuEvndE.css?m=1722240919" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/css/css_dW-aNNrctRhQNc-KECjtQd0PxuW-h19IEum-TX2MeEk.css?m=1722240918" media="print" />
+<link type="text/css" rel="stylesheet" href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/css/css_uaIDKcYMUK5osSQXuirpr3ZleXtnnpBN-eiECm7N0M0.css?m=1722240918" media="all" />
+  <!--[if lte IE 8]>
+<script type="text/javascript">
+  var os_c = document.createElement;os_c('header');os_c('nav');os_c('section');os_c('article');os_c('aside');os_c('footer');os_c('hgroup');os_c('figure');
+</script>
+  <![endif]-->
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="GBUU5-S9S78-P7UW2-BSS9F-LR483",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"GBUU5-S9S78-P7UW2-BSS9F-LR483";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdndcoqxez7bgzxx6roq-f-6a49a2b2b-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"1393464","ak.ai":parseInt("841065",10),"ak.ol":"0","ak.cr":25,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"13a3f497","ak.r":45983,"ak.a2":n,"ak.m":"","ak.n":"ff","ak.bpcip":"72.218.49.0","ak.cport":59826,"ak.gh":"23.38.126.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727525981","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==YSBHIwL96TkH5vKINu1QQB4/vGJnYqo5RNDrcxQ/2uuLUXfGT/FMFLRyxHUhK6Sfr1ZHviiRwdQW3fOTctkKANPrOtdq8j0firtIFPkuq8DWDXhWLGQAYHCwwDRXqGkp+8uANJsQoikAE436MmTXt5mSAzYYAbsIuawqbfNGnZVX9FhgeuiEiuDD05S0yNRaLh7K/QqGN/O4M7h1zXmqVkGoUE+qfvzS63auo2LzSm67+lBjup2W0NNLD/5smB+Ry1a4OvoGdB6ZC2JrNLz4Yq7Mo5eZf6Ms2BYnoAP5BfbzUAxFbMYwmfheX86XfxVAP3jbjaJ6VUxYvBR8xxsB/Y7K9yuUsPlrVYCpZR2sdPdVXB7XLpCPg0V14l0fJC7wD16u4X5dGdr1uM+RuVBQDrLtEbGp2rgJKHV2FZ93MmI=","ak.pv":"239","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1035791 node-type-page og-context og-context-node og-context-node-1033026 landing housing navbar-on">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable" tabindex="1">Skip to main content</a>
+  </div>
+    <div id="page_wrap" class="page_wrap">
+<!--REGION TO HOUSE RESPONSIVE MENU. OTHER CONTENT CAN'T BE PLACED HERE-->
+<div class="responive-menu-container clearfix">
+  <ul class="mobile-buttons num-links-3"><li class="link-count-mobi-main first"><a href="#"  data-target="#block-os-primary-menu"><span aria-hidden="true" class="icon-menu"></span><span class="move">Main Menu</span></a></li><li class="link-count-mobi-util"><a href="#"  data-target="#block-os-quick-links, #block-os-secondary-menu, #header .os-custom-menu"><span aria-hidden="true" class="icon-plus"></span><span class="move">Utility Menu</span></a></li><li class="link-count-mobi-search last"><a href="#"  data-target="#block-os-search-db-site-search, #block-boxes-solr-search-box"><span aria-hidden="true" class="icon-search3"></span><span class="move">Search</span></a></li></ul></div>
+
+<!--FLEXIBLE ADMIN HEADER FOR USE BY SELECT GROUPS USING OS-->
+	<div id="branding_header">
+		<div  class="branding-container clearfix">
+		  <div class="branding-left"><a href="http://www.harvard.edu/" ><img src="https://community.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/images/harvard-logo.png" width="235" height="32" alt="University Logo" /></a></div><div class="branding-right"><a href="http://www.harvard.edu/" >HARVARD.EDU</a></div>		</div>
+	</div>
+
+<div id="page" class="container page os_pages-section-1033516 header-main header-right content-top content-left content-right content-bottom footer">
+	<div id="page-wrapper">
+
+		
+					<!--header regions beg-->
+			<header id="header" class="clearfix" role="banner">
+			 <div id="header-container">
+				 <div id="header-panels" class="at-panel gpanel panel-display three-col clearfix">
+					  					  <div class="region region-header-second"><div class="region-inner clearfix"><div id="block-boxes-1689118856" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1689118856"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1689118856' class='boxes-box'><div class="boxes-box-content"><div id="file-1226376" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">GA4 Tracking Code</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TS5KL65NW5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TS5KL65NW5');
+</script></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-1505328739" class="block block-boxes block-boxes-os_boxes_html header-logo no-title"  module="boxes" delta="1505328739"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1505328739' class='boxes-box'><div class="boxes-box-content"><a href="https://hwpi.harvard.edu/comm" title=""><img height="111" width="400" style="width: 400px; height: 111px;" alt="Harvard in the Community" title="Harvard in the Community" class="media-element file-default file-os-files-medium" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_medium/public/comm/files/harvard_inthe_community_rgb-400.png?m=1515603938&amp;itok=LBv9WJod" /></a></div></div></div>
+  </div></div></div></div>					  					  <div class="region region-header-third"><div class="region-inner clearfix"><div id="block-boxes-1505403206" class="block block-boxes block-boxes-os_boxes_html signup no-title"  module="boxes" delta="1505403206"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1505403206' class='boxes-box'><div class="boxes-box-content"><p>
+	<a href="https://community.harvard.edu/newsletter" title="">Stay updated on news &amp; events</a>
+</p>
+</div></div></div>
+  </div></div><div id="block-boxes-1503078734" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1503078734"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1503078734' class='boxes-box'><div class="boxes-box-content"><div id="file-882571" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">1a999a828aff8a8659722cf3eb28e635</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Open+Sans:400,400italic,700,700italic:latin', 'Lato:300,400,500,600,700:latin', 'Oswald:300,400,500,600,700:latin', 'Montserrat:300,400,500,600,700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>					  				 </div>
+			  </div>
+		  </header>
+      <!--header regions end-->
+		
+				  <!--main menu region beg-->
+		  <div id="menu-bar" class="nav region-menu-bar clearfix"><nav id="block-os-primary-menu" class="block block-os no-title menu-wrapper menu-bar-wrapper clearfix"  module="os" delta="primary-menu">  
+  
+  <ul class="nice-menu nice-menu-down nice-menu-primary-menu" id="nice-menu-primary-menu"><li class="menu-109266 menuparent  menu-path-node-1033531  first   odd  "><a href="https://community.harvard.edu/about"  title="">About</a><span class="open-submenu"></span><ul><li class="menu-132566 menu-path-node-1045931  first   odd  "><a href="https://community.harvard.edu/our-team" >Our Team</a></li><li class="menu-132568 menu-path-node-1062801   even   last "><a href="https://community.harvard.edu/newsletter" >Newsletter</a></li></ul></li><li class="menu-109262 menu-path-node-1033521   even  "><a href="https://community.harvard.edu/events"  title="">Events</a></li><li class="menu-109260 menuparent  menu-path-node-1033516   odd   active-trail"><a href="https://community.harvard.edu/initiatives"  title="" class="active">Initiatives</a><span class="open-submenu"></span><ul><li class="menu-124248 menu-path-node-1035811  first   odd  "><a href="https://community.harvard.edu/arts-culture" >Arts &amp; Culture</a></li><li class="menu-884996 menu-path-https--communityharvardedu-college-and-career-awareness   even  "><a href="https://community.harvard.edu/college-and-career-awareness" >College and Career Awareness</a></li><li class="menu-124251 menu-path-node-1035781   odd  "><a href="https://community.harvard.edu/community-initiatives"  title="">Community Initiatives</a></li><li class="menu-124254 menu-path-node-1035816   even  "><a href="https://community.harvard.edu/community-partnerships" >Community Partnerships</a></li><li class="menu-124256 menu-path-node-1035786   odd  "><a href="https://community.harvard.edu/economic-impact"  title="">Economic &amp; Social Impact</a></li><li class="menu-124261 menu-path-node-1035791   even   active-trail"><a href="https://community.harvard.edu/housing"  title="" class="active active">Housing Initiatives</a></li><li class="menu-124265 menu-path-node-1035806   odd  "><a href="https://community.harvard.edu/sustainability" >Sustainability</a></li><li class="menu-221527 menu-path-node-1117512   even   last "><a href="https://community.harvard.edu/nonprofits"  title="">Public Service &amp; Nonprofits</a></li></ul></li><li class="menu-141547 menu-path-node-1071866   even  "><a href="https://community.harvard.edu/reports" >Reports</a></li><li class="menu-491945 menu-path-https--communityharvardedu-stories-impact   odd  "><a href="https://community.harvard.edu/stories-impact" >Stories of Impact</a></li><li class="menu-791591 menu-path-https--communityharvardedu-blog   even   last "><a href="https://community.harvard.edu/blog" >Blog</a></li></ul>
+
+  </nav></div>		  <!--main menu region end-->
+		
+    
+		<div id="columns" class="clearfix">
+			<div class="hg-container">
+				<div id="content-column" role="main">
+					<div class="content-inner">
+					  <div class="breadcrumb"><a href="https://community.harvard.edu/" >HOME</a> <span>&#47;</span> <a href="https://community.harvard.edu/initiatives" >INITIATIVES</a> <span>&#47;</span> </div>
+													              <a name="main-content"></a>
+															<header id="main-content-header">
+									<a name="main-content"></a>
+                    <h1 id="page-title" ng-non-bindable="">
+                      Housing Initiatives                    </h1>
+                </header>
+														
+															<!--front panel regions beg-->
+								<div id="content-panels" class="at-panel gpanel panel-display content clearfix">
+									<div class="region region-content-top"><div class="region-inner clearfix"><div id="block-os-pages-main-content" class="block block-os-pages no-title"  module="os_pages" delta="main_content"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><article id="node-1035791" class="node node-page article clearfix" role="article">
+  
+  
+  
+  <div class="node-content" ng-non-bindable="">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><p>
+	Harvard is committed to partnerships and collaborations that address the regional and urgent challenge of housing creation and affordability.
+</p>
+
+<p>
+	<strong>Easing Demand on Local Housing</strong><br />Harvard's extensive residential portfolio ensures a vibrant living-learning campus for students and affiliates while easing the demand for local housing.
+</p>
+
+<p>
+	<strong>99%</strong> of Harvard undergraduate students are housed on campus throughout their four years
+</p>
+
+<p>
+	<strong>8,700</strong> units and <strong><span>∼</span>15,000</strong> beds across campus devoted to housing Harvard affiliates
+</p>
+
+<p>
+	<strong>500</strong> new housing units being constructed at 175 North Harvard Street, Allston
+</p>
+</div></div></div>  </div>
+
+  
+  
+  </article>
+</div>
+  </div></div></div></div>									<div class="region region-content-first"><div class="region-inner clearfix"><section id="block-boxes-1565614971" class="block block-boxes block-boxes-os_boxes_columns band"  module="boxes" delta="1565614971"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Harvard Local Housing Collaborative</h2>
+  
+  <div class="block-content content"><div id='boxes-box-1565614971' class='boxes-box'><div class="boxes-box-content"><!-- Two column 33-66 -->
+  <div class="at-panel gpanel panel-display two-33-66 clearfix">
+        <div class="region region-two-33-66-first"><div class="region-inner clearfix"><div id="block-boxes-1565615687" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1565615687"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1565615687' class='boxes-box'><div class="boxes-box-content"><div id="file-1026038" class="file file-image file-image-jpeg">
+
+          <h2 class="element-invisible"><a href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/comm/files/080817_brye_0011.jpeg?m=1565615653">Kids walk by a house</a></h2>
+      
+  
+  <div class="content">
+    <img class="image-style-os-files-xxlarge" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/comm/files/080817_brye_0011.jpeg?m=1565615829&amp;itok=SaEQ1sL_" width="1244" height="829" alt="Kids walk by a house" title="Kids walk by a house" />  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-two-33-66-second"><div class="region-inner clearfix"><div id="block-boxes-1565615487" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1565615487"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1565615487' class='boxes-box'><div class="boxes-box-content"><p>
+	Launched in 2000, the Harvard Local Housing Collaborative seeks to create and preserve affordable housing, build, and revitalize healthy communities, and create economic opportunities for low- and middle- income residents in Greater Boston. Harvard supports the initiative through a $20 million low-interest, flexible loan program in partnership with three nonprofit community developers and local community development corporations. Low-interest financing is key to enabling the critical and early stages of affordable housing development.
+</p>
+
+<p>
+	7,000+ units of affordable housing created or preserved in the past 20 years
+</p>
+
+<p>
+	180+     affordable housing development projects in Greater Boston
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	<a href="https://hrvd.me/b48" title="">Read more about the fund in the <em>Harvard Gazette</em>.</a>
+</p>
+</div></div></div>
+  </div></div></div></div>      </div>
+</div></div></div>
+  </div></section><section id="block-boxes-1565617001" class="block block-boxes block-boxes-os_boxes_columns"  module="boxes" delta="1565617001"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">How the fund works</h2>
+  
+  <div class="block-content content"><div id='boxes-box-1565617001' class='boxes-box'><div class="boxes-box-content"><!-- Two column 33-66 -->
+  <div class="at-panel gpanel panel-display two-33-66 clearfix">
+        <div class="region region-two-33-66-first"><div class="region-inner clearfix"><div id="block-boxes-1565616846" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1565616846"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1565616846' class='boxes-box'><div class="boxes-box-content"><p>
+	Since 2000, $20 million has revolved more than twice allowing the investment of over $40 million in Harvard financing that has helped leverage over $1.3 billion in housing development across more than 180 projects in Boston and Cambridge.
+</p>
+
+<h2>
+	Nonprofit Housing Partners
+</h2>
+
+<ul>
+	<li>
+		<p>
+			<a href="http://www.lisc.org/boston/">Local Initiatives Support Corporation (LISC)</a>
+		</p>
+	</li>
+	<li>
+		<p>
+			<a href="https://bluehubcapital.org/">BlueHub Capital</a>
+		</p>
+	</li>
+	<li>
+		<p>
+			<a href="https://www.cambridgema.gov/CDD/housing/housingtrust">Cambridge Affordable Housing Trust</a>
+		</p>
+	</li>
+</ul>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-two-33-66-second"><div class="region-inner clearfix"><div id="block-boxes-1565616745" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1565616745"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1565616745' class='boxes-box'><div class="boxes-box-content"><div id="file-1026040" class="file file-image file-image-jpeg">
+
+          <h2 class="element-invisible"><a href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/comm/files/hlhc_twitter.jpg?m=1565616717">how the fund works</a></h2>
+      
+  
+  <div class="content">
+    <img class="image-style-os-files-xxlarge" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/comm/files/hlhc_twitter.jpg?m=1565616766&amp;itok=2PBrz0I_" width="1365" height="768" alt="How the fund works" title="How the fund works" />  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>      </div>
+</div></div></div>
+  </div></section><section id="block-boxes-1565619789" class="block block-boxes block-boxes-os_boxes_columns band"  module="boxes" delta="1565619789"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Harvard Local Housing Collaborative Projects 2000-2019</h2>
+  
+  <div class="block-content content"><div id='boxes-box-1565619789' class='boxes-box'><div class="boxes-box-content"><!-- Two column 66-33 -->
+  <div class="at-panel gpanel panel-display two-66-33 clearfix">
+        <div class="region region-two-66-33-first"><div class="region-inner clearfix"><div id="block-boxes-1565620321" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1565620321"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1565620321' class='boxes-box'><div class="boxes-box-content"><p>
+	<img height="1200" width="1200" alt="Harvard local housing collaborative impact map" title="Harvard local housing collaborative impact map" class="media-element file-default file-os-files-xxlarge" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/comm/files/hlhc_insta.jpg?m=1565620153&amp;itok=_50GkJ9X" />
+</p>
+
+<p>
+	<i>Data sourced from LISC, BlueHub Capital, and Cambridge Affordable Housing Trust</i>
+</p>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-two-66-33-second"><div class="region-inner clearfix"><div id="block-boxes-1565625329" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1565625329"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1565625329' class='boxes-box'><div class="boxes-box-content"><h2>
+	<span>7000+ affordable units across 180+ projects</span>
+</h2>
+
+<p>
+	Allston-Brighton, 11
+</p>
+
+<p>
+	Charlestown, 1
+</p>
+
+<p>
+	Dorchester, 57
+</p>
+
+<p>
+	Downtown Boston, 4
+</p>
+
+<p>
+	East Boston, 11
+</p>
+
+<p>
+	Fenway, 4
+</p>
+
+<p>
+	Jamaica Plain, 16
+</p>
+
+<p>
+	Mattapan, 5
+</p>
+
+<p>
+	Mission Hill, 1
+</p>
+
+<p>
+	Roxbury, 40
+</p>
+
+<p>
+	South Boston, 5
+</p>
+
+<p>
+	Boston (Other), 5
+</p>
+
+<p>
+	Cambridge, 33
+</p>
+
+<p>
+	Somerville, 6
+</p>
+
+<p>
+	Watertown, 1
+</p>
+
+<p>
+	 
+</p>
+</div></div></div>
+  </div></div></div></div>      </div>
+</div></div></div>
+  </div></section></div></div>									<div class="region region-content-second"><div class="region-inner clearfix"><section id="block-boxes-1507132079" class="block block-boxes block-boxes-os_boxes_columns"  module="boxes" delta="1507132079"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">HLHC Supported Projects </h2>
+  
+  <div class="block-content content"><div id='boxes-box-1507132079' class='boxes-box'><div class="boxes-box-content"><!-- Three column 25-25-50 -->
+  <div class="at-panel gpanel panel-display three-25-25-50 clearfix">
+        <div class="region region-three-25-25-50-first"><div class="region-inner clearfix"><div id="block-boxes-1507132193" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1507132193"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1507132193' class='boxes-box'><div class="boxes-box-content"><div id="file-912141" class="file file-image file-image-jpeg">
+
+          <h2 class="element-invisible"><a href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/comm/files/hsg_harvard_125_printshop_0262.jpg?m=1507827255">125 Harvard St</a></h2>
+      
+  
+  <div class="content">
+    <img class="image-style-os-files-xxlarge" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/comm/files/hsg_harvard_125_printshop_0262.jpg?m=1718124692&amp;itok=o7h-nNaJ" width="245" height="334" alt="125 Harvard St" title="125 Harvard St" />  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-three-25-25-50-second"><div class="region-inner clearfix"><div id="block-boxes-1507828636" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1507828636"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1507828636' class='boxes-box'><div class="boxes-box-content"><div id="file-912166" class="file file-image file-image-jpeg">
+
+          <h2 class="element-invisible"><a href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/comm/files/windsor_street.jpg?m=1507828620">Windsor Street Condos</a></h2>
+      
+  
+  <div class="content">
+    <img class="image-style-os-files-xxlarge" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/comm/files/windsor_street.jpg?m=1718124876&amp;itok=8xYGj1sY" width="246" height="334" alt="Windsor Street Condos" title="Windsor Street Condos" /><div class="field field-name-os-file-description field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><figure class="clearfix field-item even">Windsor St. Condominiums</figure></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-three-25-25-50-third"><div class="region-inner clearfix"><div id="block-boxes-1507132138" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1507132138"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1507132138' class='boxes-box'><div class="boxes-box-content"><p>
+	Print Shop, LEED Gold Certified, Cambridge<br />Transforming a former industrial site into 24 green, affordable units.
+</p>
+
+<p>
+	424-430 Windsor Street, Cambridge<br />Transforming a church into 14 affordable homeownership units.
+</p>
+
+<p>
+	64 Beach Street, Boston<br />Preserving long-term affordable housing.
+</p>
+
+<p>
+	 
+</p>
+</div></div></div>
+  </div></div></div></div>      </div>
+</div></div></div>
+  </div></section><section id="block-boxes-1507828355" class="block block-boxes block-boxes-os_boxes_columns"  module="boxes" delta="1507828355"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable=""> Supporting Affordable Housing in Allston </h2>
+  
+  <div class="block-content content"><div id='boxes-box-1507828355' class='boxes-box'><div class="boxes-box-content"><!-- Two column 66-33 -->
+  <div class="at-panel gpanel panel-display two-66-33 clearfix">
+        <div class="region region-two-66-33-first"><div class="region-inner clearfix"><div id="block-boxes-1718189974" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1718189974"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1718189974' class='boxes-box'><div class="boxes-box-content"><div id="file-1314211" class="file file-image file-image-jpeg">
+
+          <h2 class="element-invisible"><a href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/comm/files/housing_partnerships-chart-jpeg.jpg?m=1718190592">housing_partnerships-chart-jpeg.jpg</a></h2>
+      
+  
+  <div class="content">
+    <img class="image-style-os-files-xxlarge" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/comm/files/housing_partnerships-chart-jpeg.jpg?m=1718190611&amp;itok=AKj6Tm-P" width="1125" height="675" alt="chart of housing partnerships" title="" />  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-two-66-33-second"><div class="region-inner clearfix"><div id="block-boxes-1507828310" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1507828310"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1507828310' class='boxes-box'><div class="boxes-box-content"><p>
+	Harvard is committed to several initiatives aimed at creating and preserving affordable and diverse housing options in Allston-Brighton. These efforts include substantial financial contributions, land donations for affordable homeownership, and partnerships with the local community.
+</p>
+
+<p>
+	 
+</p>
+</div></div></div>
+  </div></div></div></div>      </div>
+</div></div></div>
+  </div></section></div></div>									<div class="region region-content-bottom"><div class="region-inner clearfix"><section id="block-boxes-1565619436" class="block block-boxes block-boxes-os_boxes_columns band"  module="boxes" delta="1565619436"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Allston Housing Initiatives</h2>
+  
+  <div class="block-content content"><div id='boxes-box-1565619436' class='boxes-box'><div class="boxes-box-content"><!-- Two column 66-33 -->
+  <div class="at-panel gpanel panel-display two-66-33 clearfix">
+        <div class="region region-two-66-33-first"><div class="region-inner clearfix"><div id="block-boxes-1565619331" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1565619331"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1565619331' class='boxes-box'><div class="boxes-box-content"><p>
+	<strong>All Bright Homeownershp Program</strong><br />A first-of-its-kind partnership between Allston Brighton Community Development Corporation (ABCDC), Harvard University, and the City of Boston designed to improve homeownership stabilization for local residents.
+</p>
+
+<p>
+	<b>$14.7M </b>               in funding leveraged by ABCDC since the start of the program<br /><b>20 </b>                        properties purchased since the start of the program<br /><b>25 </b>                        units sold since the start of the program
+</p>
+
+<p>
+	<b><span>-------------------------------------------------------------------------------------------------<br />90 Antwerp Street and 65 Seattle Street in Allston</span></b><br />20 deed-restricted homeownership units with 12 affordable units enabled through Harvard donated land. Building on the success of 90 Antwerp Street development, Harvard announced the donation of a one-acre parcel at 65 Seattle Street in Allston.
+</p>
+
+<p>
+	<strong>------------------------------------------------------------------------------------------------</strong><br /><b>Enterprise Research Campus: Affordable Housing Commitments </b><br />The approval of the first phase of Harvard’s Enterprise Research Campus (ERC) in Allston created new affordable housing opportunities:
+</p>
+
+<p>
+	<b>$25M</b>    in Harvard funding to enable affordable housing in Allston-Brighton<br /><b>25%      </b>of all residential units in Phase A will be affordable<br /><b>20%</b>      of units in future phases of ERC development will be affordable<br /><a href="https://news.harvard.edu/gazette/story/2022/07/green-light-for-first-phase-of-enterprise-research-campus/">Green light for first phase of Harvard’s Enterprise Research Campus</a>
+</p>
+
+<p>
+	 
+</p>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-two-66-33-second"><div class="region-inner clearfix"><div id="block-boxes-1565619407" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1565619407"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1565619407' class='boxes-box'><div class="boxes-box-content"><div id="file-912306" class="file file-image file-image-jpeg">
+
+          <h2 class="element-invisible"><a href="https://community.harvard.edu/sites/hwpi.harvard.edu/files/comm/files/a_b_sign.jpg?m=1507831142">Allston Brighton Sign</a></h2>
+      
+  
+  <div class="content">
+    <img class="image-style-os-files-xxlarge" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_xxlarge/public/comm/files/a_b_sign.jpg?m=1565619463&amp;itok=LwRzjmGd" width="438" height="292" alt="Allston Brighton Sign" title="Allston Brighton Sign" />  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>      </div>
+</div></div></div>
+  </div></section></div></div>								</div>
+								<!--front panel regions end-->
+													
+											</div>
+				</div>
+
+				
+				
+			</div>
+		</div>
+		<!--footer region beg-->
+		<footer id="footer" class="clearfix" role="contentinfo">
+		<!-- Three column 3x33 Gpanel -->
+		
+			<div class="at-panel gpanel panel-display footer clearfix">
+												<div class="region region-footer"><div class="region-inner clearfix"><div id="block-boxes-1504103430" class="block block-boxes block-boxes-os_boxes_columns no-title"  module="boxes" delta="1504103430"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1504103430' class='boxes-box'><div class="boxes-box-content"><!-- Three column 3x33 Gpanel -->
+  <div class="at-panel gpanel panel-display three-3x33 clearfix">
+        <div class="region region-three-33-first"><div class="region-inner clearfix"><div id="block-boxes-1504103292" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1504103292"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1504103292' class='boxes-box'><div class="boxes-box-content"><h6>
+	<img height="47" width="262" alt="HPAC" class="media-element file-default file-os-files-medium" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_medium/public/comm/files/logo_footer.png?m=1515603937&amp;itok=-TP_yqXb" title="" /><br />114 Mount Auburn Street<br />6th Floor<br />Cambridge, MA 02138<br />T (617) 495-1585 | F (617) 495-0754 
+</h6>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-three-33-second"><div class="region-inner clearfix"><div id="block-boxes-1504102752" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1504102752"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1504102752' class='boxes-box'><div class="boxes-box-content"><h6>
+	Connect with @HarvardLocal
+</h6>
+
+<p>
+	<a href="https://twitter.com/HarvardLocal" title=""><img height="32" width="32" alt="twit icon" class="media-element file-default file-os-files-small" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_small/public/comm/files/twitter_icon_1.png?m=1515603938&amp;itok=E5Wo0D9k" title="" /></a><a href="https://www.instagram.com/harvardlocal" title=""><img height="32" width="32" alt="insta icon" class="media-element file-default file-os-files-small" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_small/public/comm/files/insta_icon.png?m=1515603938&amp;itok=K3oRRl_O" title="" /></a><a href="mailto:community@harvard.edu"><img height="32" width="32" alt="mail icon" class="media-element file-default file-os-files-small" src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_small/public/comm/files/mail_icon.png?m=1515603938&amp;itok=b1pJ1unp" title="" /></a><br /> 
+</p>
+
+<p>
+	 
+</p>
+</div></div></div>
+  </div></div></div></div>    <div class="region region-three-33-third"><div class="region-inner clearfix"><section id="block-boxes-solr-search-box" class="block block-boxes block-boxes-os_search_solr_search_box"  module="boxes" delta="solr_search_box"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable=""> </h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-solr_search_box' class='boxes-box'><div class="boxes-box-content"><form class="search-block-form" action="/housing" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." ng-non-bindable="" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-a0EbwAPS5wS1D7cUhHl-sS3yZ_9zBvore3I_wV8I87Y" />
+<input type="hidden" name="form_id" value="os_solr_search_box___solr_search_box" />
+</div></div></form></div></div></div>
+  </div></section></div></div>      </div>
+</div></div></div>
+  </div></div></div></div>								<div class="region region-footer-bottom"><div class="region-inner clearfix"><div id="block-boxes-1503066801" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1503066801"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1503066801' class='boxes-box'><div class="boxes-box-content"><div id="file-1282181" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">f52f0439d56a66342bb0282f57683da6</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><style>
+.region.region-footer-first p a {
+    color: #000!important;
+}
+
+#content-column .block {
+    border-top: 0;
+}
+.landing.nonprofits div#columns {
+    background-image: url(https://community.harvard.edu/files/comm/files/massachusetts-nonprofits.jpg?m=1520371759);
+}
+.front .iconcol h2 a,
+.front .iconcol p a {
+    text-decoration: none !important;
+    color: #424242;
+}
+div#block-boxes-1504103430 {
+    color: #fff;
+}
+.search-results article {
+    margin: 10px 5px 0 5px!important;
+}
+.search-results .event-start {
+    margin: 25px 25px 0 25px;
+}
+.sustainability .region.region-content-bottom {
+    background-color: #fff!important;
+}
+.events article {
+    margin: 10px 5px 0 5px!important;
+}
+.landing.arts .cards .boxes-box .boxes-box-content .boxes-box-content div {
+    background-color: #fff;
+    min-height: 190px;
+}
+.landing #content-panels h2.block-title, .not-front #content-panels h2.block-title, .cards h2.block-title {
+    color: #000;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-size: 120px 1px;
+    background-position: center bottom;
+    padding-bottom: 30px!important;
+    letter-spacing: .5px!important;
+    margin-bottom: 30px!important;
+    font-size: 30px;
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: normal;
+    max-width: 768px;
+    margin: auto;
+}
+.page-calendar #content-column .content-inner {
+    padding: 0 25px;
+}
+section#block-boxes-solr-search-box {
+    margin-top: 5px;
+}
+.inversed img {
+    -webkit-filter: invert(70%);
+    filter: invert(70%);
+}
+.front .region.region-content-second {
+    border-top: 1px solid #ccc!important;
+    display: block;
+}
+@media (min-width:1009px){
+.page-node-1035816.landing h1#page-title {
+    margin: -130px 20px 100px 20px;
+ }
+}
+section#block-boxes-os-events-upcoming .block-content {
+    padding: 0 25px;
+}
+.sidebar h1.node-title {
+    font-size: 16px!important;
+    line-height: normal!important;
+}
+section#block-boxes-1507666318 {
+    max-width: 768px;
+}
+.not-front #content-panels .eventscol .region h2.block-title {
+    background-image: none;
+    padding: 0;
+    margin: 0!important;
+    font-size: 22px;
+    text-align: left;
+}
+.os-poster{
+display:none;
+}
+.ipad .videotext {
+    margin-top: -270px;
+    padding-bottom: 55px;
+    margin-bottom: 90px!important;
+}
+.ipad .os-poster{
+display:block!important;
+}
+.ipad #video_container {
+    max-height: 400px;
+    background-image: url("https://hwpi.harvard.edu/files/comm/files/poster.jpg?m=1507664421")!important;
+    background-repeat: no-repeat!important;
+    background-size: 100%!important;
+}
+
+#video_container {
+max-height:400px
+}
+.landing .region-content-second .block .block-inner a.os-button {
+    color: #89959F;
+}
+.landing.reports h1#page-title {
+    font-size: 75px;
+    /*margin: -155px 20px 100px 20px;*/
+    margin: -92px 20px 85px 20px;
+    line-height: 85px;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+    margin-bottom: 80px;
+    max-width: 680px;
+}
+.front .region.region-content-second {
+    padding-bottom: 45px;
+}
+section#block-boxes-1502307879 h2.block-title{
+    color: #000;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-size: 120px 1px;
+    background-position: center bottom;
+    padding-bottom: 20px!important;
+    letter-spacing: .5px!important;
+    margin-bottom: 30px!important;
+    font-size: 30px;
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+}
+.region.region-content-second a.os-button {
+    color: #000!important;
+}
+.region.region-content-bottom .region-inner {
+    padding: 0!important;
+}
+#footer {
+    background: none #2A3451;
+    color: #A9A9A9;
+    font-family: Open Sans,sans-serif!important;
+}
+.landing #footer {
+    padding: 0 0 50px 0;
+}
+.landing .region-content-second .node-event .field-name-field-event-location {
+    color: #666;
+    font-size: 16px;
+    line-height: 24px;
+}
+.events article .field.field-name-body.field-type-text-with-summary.field-label-hidden.view-mode-teaser {
+    font-size: 16px;
+    line-height: 24px;
+}
+.events .region-content-first {
+    padding: 45px 0px;
+}
+.events section#block-boxes-1507666318 .region-two-50-first {
+    margin-top: 51px;
+}
+.landing a.more-link {
+    margin-top: 25px!important;
+}
+div#boxes-box-1507139197 h3 a.os-button {
+	border-color: #1e1e1e;
+	color: #1e1e1e;
+}
+
+section#block-boxes-1503662185 h3 span {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/arrow.png?m=1507044757);
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-position: center left;
+    margin-left: 0;
+}
+.inthenews .block-inner{
+max-width:1170px;
+margin:auto!important;
+}
+.inthenews {
+    width: 100%!important;
+    background-color: #f4f4f4;
+    max-width: 100%!important;
+    margin-top: -50px!important;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    margin-bottom: 35px!important;
+}
+.events .two-66-33 > .region-two-66-33-second {
+    width: 28%;
+}
+
+#content-panels .eventscol .region.region-two-66-33-second h2.block-title {
+    font-size: 18px!important;
+    padding-bottom: 15px!important;
+    margin-bottom: 20px!important;
+    text-align: left;
+    background-position: left bottom;
+    background-size: 50px 1px;
+}
+.events .two-66-33 > .region-two-66-33-first {
+    width: 72%;
+}
+.events .block-boxes-os_boxes_columns .region {
+    margin: 0;
+}
+.eventscol .region.region-two-66-33-second {
+    background-color: #E7E6E4;
+    margin-top: 35px;
+}
+
+.eventscol .region.region-two-66-33-second .region-inner {
+    padding:25px;;
+}
+.introtext {
+    background-color: #fff;
+    margin: auto!important;
+    max-width: 768px;
+}
+/*
+.events .events .event-start {
+    margin: 25px 0 0 25px;
+}
+*/
+.events h1#page-title {
+    font-size: 85px;
+    letter-spacing: -.8px;
+    line-height: 105px;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+    margin-top: 120px;
+    margin-bottom: 150px;
+    margin-left: auto!important;
+    max-width: 350px;
+    margin-right: auto!important;
+    display: flex!important;
+}
+.eventscol {
+    max-width: 1170px;
+    margin: auto;
+    width: 98%;
+}
+/*
+div#block-boxes-1506370471 {
+    background-color: #fff;
+    margin: 35px 35px 0 35px;
+}
+div#boxes-box-1506370471 {
+    color: #000;
+     padding:35px;
+}
+*/
+.onecol {
+    margin: auto;
+    width: 98%;
+    max-width: 768px;
+}
+.not-front h3 a.os-button {
+    color: #89959F;
+    text-transform: uppercase;
+    text-decoration: none!important;
+    font-size: 16px;
+    font-weight: 300;
+    border: 2px solid #89959F;
+    padding: 10px 25px;
+    border-radius: 3px;
+    background-color: #fff;
+}
+.cards h2[style] {
+    text-align: left!important;
+}
+.landing .region.region-content-second h2.block-title {
+    color: #fff!important;
+}
+.node-type-person #content-column .node-person .pic-bio {
+    border-top: 0;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+figure[style] {
+    width: 100%!important;
+}
+.sidebar .feed_item a.title {
+    font-size: 20px;
+    margin-top: 0!important;
+    display: inline-block;
+    padding-bottom: 0px!important;
+    margin-bottom: 10px!important;
+    line-height: 24px;
+}
+.sidebar .item-list li {
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.sidebar .feed_item {
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.more-link {
+    padding-right: 0;
+}
+.more-link:after {
+    display: none;
+}
+.node-type-person #content-column .node-person h2.block-title {
+    background: transparent;
+    color: #666;
+    font-size: 24px;
+    line-height: 16px;
+    padding: 20px 0;
+    font-weight: 300;
+    text-transform: none;
+    letter-spacing: 0;
+}
+.node-type-person section#main-content {
+    width: 100%;
+    max-width: 1170px;
+    margin: auto;
+}
+div#block-boxes-1506347564
+div#block-boxes-1506370471{
+ width:980px !important;
+}
+div#block-boxes-1506347564 p,
+div#block-boxes-1506370471 p {
+    font-size: 22px;
+    line-height: 36px;
+}
+.landing.reports .region.region-content-top .region-inner,
+.events .region.region-content-top .region-inner {
+    max-width: 1200px;
+    margin: auto;
+    padding: 25px 0!important;
+    width: 100%;
+}
+section#block-boxes-solr-search-box h2 {
+    display: none;
+}
+.front .events {
+    max-width: 1440px !important;
+    margin: 0 auto !important;
+    width: 100%!important;
+}
+.front .events article {
+    margin: 0;
+}
+.sidebar span.date {
+    font-size: 16px;
+}
+.page-news div#page {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/newshero.jpg?m=1506352552);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.sidebar .description {
+    margin: 5px 0;
+    line-height: normal!important;
+    font-size: 16px !important;
+    color: #666 !important;
+}
+.sidebar a.title {
+    font-size: 20px;
+    margin-top: 25px!important;
+    display: inline-block;
+    padding-bottom: 0px!important;
+    margin-bottom: 10px!important;
+    line-height: 24px;
+}
+h1.node-title {
+    font-size: 24px;
+}
+.field .field-label {
+    font-weight: 300!important;
+}
+#columns a.node-readmore{
+display:none;
+}
+.page-news .view .node-teaser {
+    padding: 35px;
+}
+.landing .region-content-second .events span.date-display-single {
+    color: #666;
+}
+.landing .region.region-content-second .events .field-name-field-event-location h2 {
+    display: none;
+}
+#columns .events a.node-readmore {
+    display: none;
+}
+.landing #content-panels .events h2.block-title {
+    color: #fff!important;
+}
+
+.landing .region-content-second .events.block .block-inner a {
+    color: #000;
+}
+.landing .region.region-content-second .events {
+    color: #000;
+}
+
+ul.nice-menu ul {
+    top: 2.2em !important;
+}
+
+.cards .boxes-box-content h2 {
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    padding-top: 15px;
+    font-weight: 400!important;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    padding-bottom: 10px;
+    background-size: 50px 1px;
+    margin-bottom: 20px;
+    line-height: 28px;
+    letter-spacing: -.5px;
+}
+#columns .cards p a {
+    text-decoration: none!important;
+    color: #000;
+}
+div#boxes-box-1505403206 {
+    padding-top: 10px;
+}
+.region-header-third {
+    width: 210px;
+    margin-left: -210px;
+    text-align: right;
+}
+.region-header-third p a {
+    color: #a51c30!important;
+}
+.region-header-third p {
+    text-align: left;
+    line-height: 20px;
+    font-size: 20px;
+    border-left: 2px solid #a51c30;
+    padding-left: 15px;
+    font-weight: bold;
+}
+#menu-bar nav, #menu-bar #block-os-primary-menu {
+    padding-left: 95px;
+}
+#menu-bar ul.nice-menu ul li a {
+    color: #fff!important;
+}
+#menu-bar ul.nice-menu ul li {
+font-size:18px!important;
+}
+.not-front section#block-boxes-1503662185 .block-inner{
+padding-left:0;
+}
+#menu-bar ul.nice-menu a.active, #menu-bar ul.nice-menu a:hover {
+    color: #FFF!important;
+}
+.events .view .date-nav-wrapper .date-heading h3,
+.page-news  .view .date-nav-wrapper .date-heading h3 {
+    font-size: 1em;
+}
+.events .region.region-sidebar-second.sidebar,
+.page-news .region.region-sidebar-second.sidebar {
+    top: 224px;
+    position: relative;
+margin-bottom:224px;
+}
+.page-news div#content-panels {
+    margin-top: -100px;
+}
+.events div#content-panels {
+  background-color: #fff;
+}
+.events #columns,
+.page-news #columns {
+    margin-top: 90px;
+}
+.events .breadcrumb,
+.page-news .breadcrumb {
+    display: none;
+}
+
+.page-news h1#page-title {
+    font-size: 85px;
+    letter-spacing: -.8px;
+    line-height: 105px;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+    margin-bottom: 75px;
+    margin-left: 35px;
+}
+.events .event-content {
+    padding: 25px 25px 25px 35px;
+}
+.events .event-start {
+    margin: 25px 25px 0 25px;
+}
+.events article,
+.page-news article,
+.page-browse-events .search-results article {
+    background-color: #fff;
+}
+.page-browse-events .search-results article .event-content {
+    padding: 25px 25px 25px 35px;
+}
+/*
+.events div#page {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/hero-homepage.jpg?m=1505752810);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+*/
+.events div#columns {
+  background-image: url(https://hwpi.harvard.edu/files/comm/files/events-hero.jpg?m=1507753983);
+ /*background-image: url(https://hwpi.harvard.edu/files/comm/files/hero-homepage.jpg?m=1505752810);*/
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100%;
+  display: block;
+  margin-top: 0;
+}
+
+div#boxes-box-1505403206 a {
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #000;
+}
+.front .region.region-content-bottom {
+    padding: 35px 0;
+}
+div#boxes-box-1505328739 img {
+    width: 250px!important;
+    height: auto!important;
+}
+.event-start .event-start {
+    background: url(https://hwpi.harvard.edu/files/comm/files/event-shield2.png?m=1505408427) no-repeat scroll 0 0 transparent;
+}
+.front .events span.date-display-single{
+color:#000;
+}
+.front .events a {
+    color: #000 !important;
+}
+.front .region.region-content-first {
+
+    background-color: #f4f4f4;
+    margin-top: -65px!important;
+    padding-top: 45px;
+    background-image: url(https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2017/04/11/221114_1322355.jpg.1500x1000_q95_crop-smart_upscale.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: soft-light;
+margin-left:auto;
+margin-right:auto;
+}
+#menu-bar {
+    border-top: 3px solid #f5f5f5;
+}
+.cards .boxes-box-content h2 a,
+.cards .boxes-box-content h2 a{
+text-decoration:none!important;
+color:#000!important
+}
+.cards .block-boxes:hover{
+    background-color: #f3f3f1;
+}
+.cards .block-boxes:hover h2{
+    background-color: #f3f3f1!important;
+}
+.cards {
+    width: 97%;
+    max-width: 1200px!important;
+    margin: auto;
+}
+.cards .boxes-box-content p {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #333;
+}
+
+
+.front .events .field-name-field-event-location{
+color: #fff !important;
+}
+.front .events article{
+border: none !important;
+}
+.cards .block-boxes {
+    background-color: transparent;
+    padding-bottom: 20px;
+}
+#menu-bar ul.nice-menu .menuparent.over > a, #menu-bar ul.nice-menu .menuparent a:hover, #menu-bar ul.nice-menu .menuparent a.active {
+    background-color: #bac5c6;
+}
+.front .content-left.content-right.content-bottom .region-content-second .region-inner {
+    padding: 0;
+}
+.landingcol .block-boxes .boxes-box {
+    box-shadow: 1px 0.5px 2px #000;
+    color: #fff;
+    background: none repeat scroll 0 0 rgba(255,255,255,0.85);
+    max-height: 450px;
+}
+#columns .landingcol p {
+    padding: 0 25px!important;
+    color: #000;
+    font-size: 18px;
+}
+.landing .events {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.front .region-content-second .landingcol a.os-button {
+    padding: 1px 20px;
+    background-color: #fff;
+    color: #666;
+    border: 1px solid #999;
+    border-radius: 3px;
+}
+.front .boxes-box-content.os-sv-list-pager-processed article {
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+section#block-boxes-1502307879 h2.block-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 52px;
+    margin-bottom: 35px;
+}
+section#block-boxes-1502307879 {
+    width: 98%;
+    max-width: 1200px;
+    margin: 45px auto;
+}
+
+
+div#block-boxes-1502297171 {
+    margin-top: -25px;
+}
+.landingcol h2.block-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 32px!important;
+    line-height: 52px!important;
+    margin-bottom: 35px;
+color:#fff;
+}
+
+.front .landingcol {
+    width: 98%;
+    max-width: 1170px;
+    margin: auto;
+}
+.front .region.region-content-second {
+    background-color: #fff;
+    padding: 25px 0;
+}
+.iconcol h2.block-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 52px;
+    margin-bottom: 35px;
+}
+.iconcol {
+    width: 98%;
+    margin: auto;
+    padding: 0;
+    max-width: 1170px;
+}
+.videotext p {
+    padding: 0 35px;
+}
+h3 a.os-button {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none!important;
+    font-size: 16px;
+    font-weight: 300;
+    border: 2px solid #fff;
+    padding: 10px 25px;
+    border-radius: 3px;
+}
+.videotext .boxes-box-content h2 {
+    color: #fff;
+    font-weight: 300!important;
+    padding-top: 35px;
+    font-size: 46px;
+    line-height: 56px;
+}
+.videotext {
+    text-align: center;
+    color: #fff;
+    width: 98%;
+    max-width: 768px!important;
+    margin-top: -270px;
+    background: none repeat scroll 0 0 rgba(30,30,30,0.62);
+    padding-bottom: 55px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 130px!important;
+}
+div#block-boxes-1504880661 .block-inner {
+    margin-top: 0;
+}
+.front div#columns {
+    width: 100%;
+    margin-top: 0;
+}
+.landing section#block-boxes-1503070489 {
+    max-width: 2000px!important;
+}
+.landing.arts .region.region-content-second .region-inner {
+    max-width: 2000px!important;
+}
+div#boxes-box-1503070489 h1 {
+    font-weight: 300!important;
+}
+section#block-boxes-1503662185 .block-inner {
+    padding-left: 55px;
+}
+.landing .region-content-second .block .block-inner .block-inner {
+    padding: 0;
+}
+#footer .footer-login {
+    box-shadow: none;
+    color: #ccc;
+    font-weight: 400;
+    padding: 8px 11px 0 18px;
+    text-decoration: none;
+    text-shadow: none;
+    border-left: none;
+}
+#footer .footer-login:after{
+display:none;
+}
+
+#columns .landingcol p {
+    padding: 0 25px!important;
+    color: #000;
+}
+
+.landingcol p:first-of-type {
+    padding: 0!important;
+}
+.landingcol .boxes-box-content h2.block-title {
+    font-size: 16px;
+    font-weight: 400!important;
+    margin-bottom: 0;
+}
+.landingcol .boxes-box img {
+    padding: 0;
+    width: 100%!important;
+height:auto!important;
+}
+.bannerpage .landingcol h2.block-title {
+    text-align: left;
+    text-transform: uppercase;
+font-size:20px;
+margin-bottom:10px;
+}
+.landingcol.secondrow .block-boxes .boxes-box {
+    background-color: #1395BA;
+}
+.landingcol.thirdrow .block-boxes .boxes-box {
+    background-color: #0D3C55;
+}
+.secondrow, .thirdrow {
+    margin-top: -65px!important;
+}
+
+.landingcol h2 a {
+    color: #fff;
+    text-decoration: none!important;
+    border-bottom: 1px dotted #ccc;
+}
+.landingcol h2 {
+    padding: 25px 25px 0 25px;
+
+}
+.landingcol a.os-button {
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: none;
+    background-color: #81ab5b;
+    padding: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none!important;
+    display: inline-block;
+}
+.landingcol a.os-button:hover {
+    background-color: #03425D;
+}
+.landing .region-content-second .block .block {
+    background: none;
+}
+a.title {
+    font-size: 24px;
+    margin-top: 25px!important;
+    display: inline-block;
+    padding-bottom: 0px!important;
+    margin-bottom: 10px!important;
+}
+.event-content .node-header h1.node-title {
+    margin-bottom: 0;
+    font-size: 24px;
+line-height:normal;
+}
+.landing .region-content-second .block .block-inner .description {
+    color: #fff!important;
+}
+.landing .region-content-second .block .block-inner a {
+    color: #fff;
+}
+.landing .region-content-second .block .block-inner {
+    padding: 45px;
+}
+.hpfeaturecol .block-boxes {
+    background-color: #fff;
+    box-shadow: 1px 0.5px 2px #ccc;
+}
+#layout_16_9_below .slide-copy {
+    height: 190px;
+}
+
+.slide-copy {
+    -moz-box-sizing: border-box;
+    background: #fff;
+    clear: both;
+    color: #000;
+    padding: 2% 3%;
+}
+.hpfeaturecol.featured h2.block-title {
+    padding-top: 50px!important;
+    margin-top: 20px!important;
+    color: #293352!important;
+    text-shadow: none!important;
+    font-weight: 300;
+}
+.hpfeaturecol .block-boxes-os_slideshow_box p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.hpfeaturecol .block-boxes-os_slideshow_box h2 {
+    margin-bottom: 20px!important;
+    line-height: 28px!important;
+    background-color: #fff!important;
+    margin-top: -35px;
+    display: block!important;
+    border-top: 6px solid #901C2E;
+    position: relative;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    letter-spacing: -.5px;
+    font-weight: 400!important;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-position: 20px bottom;
+    padding-bottom: 10px;
+    background-size: 50px 1px;
+}
+
+.hpfeaturecol h2.block-title {
+    color: #666;
+    font-size: 26px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    text-align: center!important;
+    line-height: normal;
+}
+.landing .region.region-content-first {
+    background-color: #EFEEEB;
+}
+section#block-boxes-1503070489 {
+    padding-top: 25px;
+}
+.landing section#block-boxes-1503662185 .item-list li a {
+    color: #fff;
+}
+
+section#block-boxes-1503070940 {
+    background-color: #90B1DA;
+    padding: 45px 0;
+}
+
+.landing .content-left.content-right.content-bottom .region-content-first .region-inner, 
+.landing  .content-left.content-right.content-bottom .region-content-second .region-inner, 
+.landing .content-left.content-right .region-content-first .region-inner, 
+.landing .content-left.content-bottom .region-content-first .region-inner, 
+.landing .content-right.content-bottom .region-content-second .region-inner {
+    padding-right: 0;
+}
+
+section#block-boxes-1503070940 .block-inner {
+    max-width: 980px;
+    margin: auto;
+    width: 90%;
+}
+.landing .block-boxes-os_boxes_columns {
+max-width:1170px;
+    width: 98%;
+    margin: auto;
+}
+.landing .region.region-content-bottom .region-inner {
+    max-width: 100%!important;
+}
+section#block-boxes-1503070395,
+section#block-boxes-1503070569 {
+    padding: 0 35px;
+}
+.landing .content-left.content-right.content-bottom .region-content-second .region-inner, .content-left.content-right .region-content-second .region-inner{
+padding-left:0px;
+}
+section#block-boxes-1503070489,
+.landing .region-content-second .block {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/bgk2.png?m=1504132010);
+}
+.landing.sustainability .region.region-content-second {
+    background-color: #666;
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/skyline.jpg?m=1504131503);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 35px 0;
+}
+body.page-node-revisions ul.action-links a, input.form-submit, a.button, .ui-dialog.ap-settings-form button, .ui-dialog.ap-settings-form input[type="button"], .ui-dialog.ap-settings-form input[type="submit"], a#edit-cancel, a.form-cancel {
+    cursor: pointer;
+    padding: 5px 12px;
+    margin-bottom: 1em;
+ 
+    color: #fff;
+    text-align: center;
+    font-weight: normal;
+    font-size: 1.077em;
+    font-family: "Lucida Grande",Verdana,sans-serif;
+    border: 1px solid #293352;
+    border-bottom: 1px solid #293352;
+    border-left-color: #293352;
+    border-right-color: #293352;
+    background: #293352;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    padding: 8px 15px;
+    float: right;
+}
+.form-type-select .form-select {
+    background: #FFF;
+    min-width: 100%;
+    padding: 10px;
+    font-size: 16px;
+
+}
+#columns a.node-readmore {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: -.5px;
+}
+.landing #content-panels .region-content-second .region.region-two-66-33-second h2.block-title, .landing #content-panels .region-content-second .region.region-two-66-33-first h2.block-title {
+    font-size: 18px!important;
+    padding-bottom: 0!important;
+    background-image: none;
+    text-align: left;
+}
+.event-start .event-start span {
+    color: #666;
+}
+.landing .region-content-second a.more-link,
+.landing .region-content-first a.more-link {
+color: #000;
+    text-transform: uppercase;
+    text-decoration: none!important;
+    font-size: 16px;
+    font-weight: 300;
+    border: 2px solid #89959F;
+    padding: 5px 15px;
+    border-radius: 3px;
+    background-color: #fff;
+
+}
+.landing .region-content-second a.more-link:after,
+.landing .region-content-first a.more-link:after {
+    background:none;
+}
+.landing h1#page-title {
+    font-size: 85px;
+    margin: -1500px 20px 100px 20px;
+    letter-spacing: -.8px;
+    line-height: 105px;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+    margin-bottom: 150px;
+}
+
+.landing .region.region-content-top,
+.events .region.region-content-top {
+    background: #bac5c6;
+    display: block!important;
+    top: 0px;
+    position: relative;
+    margin-bottom: -25px;
+}
+#boxes-box-site_info, #boxes-box-site_info a {
+    font-family: "Lato",sans-serif;
+    font-size: 32px;
+    letter-spacing: -.8px;
+}
+#header-container .block-boxes-os_boxes_site_info {
+    min-height: 100px;
+
+}
+.og-context-node-1033026 .region.region-content-first{
+    background: #fff !important;
+}
+@media(min-width: 769px){
+.landing .slider {
+    padding: 0px 80px;
+}
+.landing .slider .boxes-box-content h2:nth-child(2) {
+    font-size: 32px;
+    line-height: 44px;
+    font-weight: 300 !important;
+}
+.landing .slider .boxes-box-content h2:nth-child(1) {
+    font-size: 30px;
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+    color: #FA6546;
+    margin-bottom:40px;
+}
+.landing .slider .boxes-box-content h2:nth-child(1) {
+    font-size: 30px;
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+    color: #FA6546;
+}
+.landing .slider .os-button{
+   background-color: #FA6546;
+    border-color: #FA6546;
+    border: 1px solid transparent;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    padding: 10px 20px 11px;
+    user-select: none;
+    color: #FFF;
+}
+.landing .slider .os-button a:hover{
+   background-color: #E33E1E;
+}
+.landing .slider .os-button a:visited{
+  color: #FFF;
+ }
+}
+.landing div#block-os-pages-main-content h2 {
+    font-weight: 300;
+    line-height: 38px;
+}
+div#boxes-box-1503070940 iframe {
+    width: 100%;
+}
+.tweet-authorphoto {
+    display: none;
+}
+.boxes-box-content h2 {
+    color: #424242;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 26px;
+    font-family: "Montserrat",sans-serif;
+    font-weight: bold!important;
+}
+div#block-boxes-1502998080 img {
+    padding: 0;
+    width: 80px;
+}
+.content-left.content-right .region-content-first .region-inner, .front .content-left.content-bottom .region-content-first .region-inner, .front .content-right.content-bottom .region-content-second .region-inner, .front .content-left.content-right.content-bottom .region-content-second .region-inner {
+    border-right: 0!important;
+}
+.landing .region.region-content-first {
+    padding: 45px 0;
+}
+.front .content-left.content-right.content-bottom #content-panels .region-content-first, .front .content-left.content-right.content-bottom #content-panels .region-content-second, .front .content-left.content-right.content-bottom #content-panels .region-content-bottom {
+    width: 100%;
+}
+#header-container, #menu-bar nav, #menu-bar #block-os-primary-menu {
+    width: 90%!important;
+}
+
+div#boxes-box-1502812550 img {
+    width: 200px;
+    margin-top: 5px;
+}
+#header-container .block-boxes-os_boxes_site_info .block-inner {
+    display: block;
+    vertical-align: middle;
+    padding-top: 25px;
+}
+div#boxes-box-1502998118 {
+    max-width: 768px;
+    margin: auto;
+}
+section#block-boxes-1503071565 .block-content {
+    margin-top: -20px!important;
+}
+.content-left.content-right .region-content-first .region-inner, .front .content-left.content-bottom .region-content-first .region-inner, .front .content-right.content-bottom .region-content-second .region-inner, .front .content-left.content-right.content-bottom .region-content-second .region-inner {
+    border-right: 0;
+}
+.landing .region-content-second span.date-display-single  {
+    color: #fff;
+}
+.landing .region-content-second .event-content a {
+    color: #fff;
+}
+
+.landing #content-panels .region-content-second h2.block-title, .not-front #content-panels h2.block-title, .front. events h2.block-title {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/titlebot_wh.jpg?m=1503083540);
+    background-repeat: no-repeat;
+    background-size: 180px 1px;
+    background-position: center bottom;
+    padding-bottom: 30px!important;
+    letter-spacing: .5px!important;
+    margin-bottom: 30px!important;
+    font-size: 30px;
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+    color: #fff;
+}
+.landing .region.region-content-second {
+    background-color: #666;
+    background-image: url(https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2017/04/11/221114_1322355.jpg.1500x1000_q95_crop-smart_upscale.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+   color: #fff;
+padding:35px 0;
+}
+.landing.education .region.region-content-second {
+    background-color: #666;
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/bgbanner1.jpg?m=1504129586);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+   color: #fff;
+padding:35px 0;
+}
+.landing .region.region-content-second  h2 {
+color:#fff;
+}
+h1.node-title {
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+}
+.not-front #content-column {
+    font-size: 18px;
+    line-height: 30px;
+    color: #444;
+
+}
+
+#footer h2.block-title {
+    color: #000;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-size: 180px 1px;
+    background-position: center bottom;
+    padding-bottom: 30px!important;
+    letter-spacing: .5px!important;
+    margin-bottom: 30px!important;
+    font-size: 30px;
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 65px!important;
+}
+
+body, .ui-dialog * {
+    font-family: "Open Sans",sans-serif;
+}
+.node-title, .page-search .title a, #content-column .block.block-boxes-os_boxes_manual_list .links.inline a, .more-link, .page-search #content-column p, .not-front #content-column p, .links a, #footer ul.menu a, .view-os-events .views-field-colorbox {
+    font-family: "Open Sans",sans-serif;
+}
+.landing header#main-content-header {
+    text-align: center;
+}
+.events #page-title {
+    font-family: "Montserrat",sans-serif;
+    font-weight: 600!important;
+    text-transform: uppercase;
+    border: 2px solid #fff;
+    display: inline-block!important;
+    text-align: center!important;
+    padding: 10px 20px;
+}
+.landing #page-title {
+    font-family: "Montserrat",sans-serif;
+    font-weight: 600!important;
+    text-transform: uppercase;
+    border: 2px solid #fff;
+    display: inline-block!important;
+    text-align: center!important;
+    padding: 10px 20px;
+}
+.page-news #page-title {
+    font-family: "Montserrat",sans-serif;
+    font-weight: 600!important;
+    text-transform: uppercase;
+    border: 2px solid #fff;
+    display: inline-block!important;
+    text-align: center!important;
+    padding: 10px 20px;
+}
+.landing .region.region-footer-bottom {
+    background-color: #1D1D1D;
+    width: 100%;
+    color: #fff;
+}
+.landing .region.region-footer {
+    background-color: #293352;
+    color: #fff;
+    padding: 45px 0;
+}
+.landing .region.region-footer .region-inner {
+    max-width: 1170px;
+    margin: auto;
+}
+.landing .region.region-footer-first .region-inner,
+.landing .region.region-footer-bottom .region-inner {
+    max-width: 1170px;
+    margin: auto;
+}
+.landing #footer .gpanel{
+width:100%;
+}
+.landing .footer.footer-right .region-footer, 
+.landing .footer-left.footer .region-footer {
+    width: 100%;
+    padding-bottom:50px;
+}
+.landing #footer .block-inner{
+padding:0!important;
+}
+.landing #footer {
+    background: none #fff;
+    top: 140px;
+    position: relative;
+    color: #000;
+}
+
+.landing .footer.footer-right .region-footer-third, .footer-left.footer .region-footer-first {
+    width: 100%;
+}
+.tweet-media_url {
+    display: none;
+}
+#box-1502998167-page, .front #box-1502307879-page {
+    display: grid;
+    display: -ms-grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    -ms-grid-columns: repeat(auto-fit, minmax(170px, 1fr));
+    grid-gap: 0;
+max-width: 1200px;
+    margin: auto;
+}
+
+.landing .region.region-content-top .region-inner,
+.events .region.region-content-top .region-inner {
+    max-width: 980px;
+    margin: -20px auto auto;
+    padding: 45px 0!important;
+}
+.landing .breadcrumb {
+    display: none;
+}
+.landing .content-inner {
+   top: 200px;
+}
+.landing.about div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/about-landing.jpg?m=1504124147);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.initiatives div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/initiatives-landing.jpg?m=1504126005);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.team div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/our-team-landing.jpg?m=1507655378);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.arts div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/arts-landing.jpg?m=1504730962);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.community-benefits div#columns {
+    background-image: url(https://community.harvard.edu/sites/hwpi.harvard.edu/files/comm/files/winter-vacay-banner.jpg?m=1706883733);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.community-partnerships div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/community-partnerships-landing.jpg?m=1504728115);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.economic div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/economic-landing.jpg?m=1504729023);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.education div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/education-landing.jpg?m=1504878575);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.housing div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/housing-landing.jpg?m=1507837795);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.sustainability div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/sustainability-landing.jpg?m=1504879195);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing div#columns {
+
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+.landing.newsletter div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/newsletter-landing.jpg?m=1507149317);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+
+.landing.reports div#columns {
+    background-image: url(https://hwpi.harvard.edu/files/comm/files/reports-landing.jpg?m=1507754520);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    display: block;
+    margin-top: 0;
+}
+
+#header {
+    background: #fff;
+}
+#branding_header .branding-container{
+display:none;
+}
+.landing .content-left.content-bottom #content-panels .region-content-first, 
+.landing .content-left.content-bottom #content-panels .region-content-bottom, 
+.landing .content-left.content-right #content-panels .region-content-first, 
+.landing .content-left.content-right #content-panels .region-content-second, 
+.landing .content-right.content-bottom #content-panels .region-content-second, 
+.landing .content-right.content-bottom #content-panels .region-content-bottom {
+    width: 100%;
+}
+
+.landing .region.region-content-bottom .region-inner, .landing .region.region-content-first .region-inner, .landing .region.region-content-second .region-inner, .landing .region.region-content-bottom .region-inner {
+    max-width: 1170px!important;
+    margin: 0 auto!important;
+    width: 100%;
+}
+.section-nav .menu-depth-1 > a {
+    text-transform: none;
+  
+}
+.section-nav .menu-depth-1 > a {
+    background-color: #89959F !important;
+}
+#boxes-box-os_pages_section_nav, .section-nav ul.menu li a {
+    border-color: transparent;
+    font-weight: bold;
+    color: #444;
+    font-size: 16px;
+    line-height: normal;
+}
+.section-nav ul.menu li {
+    list-style: none;
+    background-color: transparent;
+    text-align: left;
+}
+.sidebar .region-inner .block-content {
+    padding: 0;
+}
+.not-front.one-sidebar #columns {
+    width: 100%;
+    max-width: 1170px;
+}
+#search-block-form .container-inline .form-item .form-text {
+    background-color: #8F182A;
+    color: #fff;
+    font-family: Open Sans,sans-serif!important;
+    padding-left: 12px!important;
+}
+#search-block-form .container-inline .form-item .form-text {
+    border-color: #8F182A;
+}
+#search-block-form .container-inline .form-item .form-text {
+    background-color: #8F182A;
+}
+.block-os-search-solr {
+    max-width: 395px;
+    margin-top: -52px;
+}
+.not-front .region.region-content-bottom {
+    background-color: #E7E6E4;
+    padding: 35px 0;
+}
+.ui-tabs ul.ui-tabs-nav li.ui-tabs-active {
+    background: #89959F !important;
+}
+.ui-tabs .ui-tabs-panel {
+    padding: 35px;
+}
+.ui-tabs .ui-tabs-panel {
+    background-image: none;
+    border: none;
+    border-top: 0;
+    margin-top: 0;
+    background-color: #fff;
+}
+.not-front.no-sidebars .breadcrumb,.not-front.no-sidebars #main-content-header {
+    margin: 0 auto;
+    max-width: 1170px;
+    font-family: Open Sans,sans-serif!important;
+}
+
+.not-front .region.region-content-bottom .region-inner {
+    max-width: 100%!important;
+    margin: 0 auto!important;
+}
+.not-front.page-node #content-column .content-inner {
+    padding: 10px 0;
+}
+.not-front #columns{
+width:100%;
+}
+
+div#boxes-box-1419266737 li {
+    margin-bottom: 20px;
+}
+.not-front #layout_16_9_side .slide-copy h2 {
+    text-shadow: 0 1px 0 rgba(37,37,37,0.75);
+    color: #fff;
+    font-family: "Oswald",sans-serif!important;
+    font-size: 36px;
+}
+.front .block-boxes-os_taxonomy_fbt.navigation ul li  a{
+    cursor: pointer;
+    font-family: "Whitney SSm A","Whitney SSm B",sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    color: #fff;
+    background: #455365;
+    position: relative;
+    text-align: left;
+    font-size: 16px;
+    margin: 0;
+    border: 1px solid #9facbd!important;
+    display: block;
+    padding: 12px 20px 12px 34px;
+    letter-spacing: 1px;
+    transition: 300ms all;
+}
+.front .block-boxes-os_taxonomy_fbt.navigation ul li {
+    border: 7px solid #455365;
+    margin-bottom: 5px;
+    list-style: none;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    transition: 300ms all;
+    display: inline-block;
+}
+.front .block-boxes-os_taxonomy_fbt.navigation ul {
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+#layout_3_1_overlay .slide-copy h2, #layout_3_1_overlay .slide-copy h2 a {
+    margin-bottom: 0;
+    font-size: 50px;
+    font-weight: bold!important;
+    line-height: 50px;
+    letter-spacing: -.8px;
+    color: #fff;
+}
+div#boxes-box-1419266035 p {
+    margin-bottom: 45px;
+}
+#footer a {
+    color: #ccc;
+}
+
+.sidebar {
+    background-color: #E7E6E4;
+}
+.events .sidebar .region-inner .block-content,
+.page-news .sidebar .region-inner .block-content {
+padding:0 35px;
+}
+.sidebar .region-inner .block-content {
+padding:0;
+}
+
+.sidebar {
+    font-family: Open Sans,sans-serif;
+}
+ .sidebar .block h2.block-title {
+    background: none repeat scroll 0 0 #89959F;
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 16px;
+    padding: 20px 25px;
+    font-weight: 300;
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+div#block-boxes-1419266035 h2 a {
+    color: #fff;
+}
+div#block-boxes-1419266035 {
+    margin-top: 25px;
+}
+.branding img {
+    margin-left: -30px;
+    width: 250px!important;
+    height: auto!important;
+}
+div#boxes-box-1499797491 p a {
+    font-size: 16px;
+    letter-spacing: -.8px!important;
+    font-family: Open Sans, sans-serif;
+    color: #fff;
+}
+div#boxes-box-1419266035 h2 {
+    font-size: 50px!important;
+    font-weight: normal!important;
+    color: #fff;
+}
+#columns a.node-readmore {
+    border-bottom: none;
+    font-size: 20px;
+    font-weight: normal;
+    float: none;
+    padding-right: 11px;
+    position: relative;
+}
+#columns a.node-readmore:after {
+    background: none;
+}
+
+
+h1#page-title {
+    font-size: 65px;
+    margin: 0 0 20px;
+    font-weight: 500;
+    letter-spacing: -.8px;
+    line-height: 65px;
+}
+div#branding_footer {
+    background-color: #000;
+    padding-top: 45px;
+    font-family: Open Sans,sans-serif!important;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+div#branding_header {
+    background-color: #A51C30;
+}
+
+div#block-boxes-1418239820 {
+    margin-top: -40px;
+}
+#menu-bar {
+    background: #fff;
+    padding: 0;
+}
+
+
+div#boxes-box-1419266035 h2 {
+    font-size: 50px!important;
+    font-weight: normal!important;
+}
+.content-left.content-right .region-content-first .region-inner, .front .content-left.content-bottom .region-content-first .region-inner, .front .content-right.content-bottom .region-content-second .region-inner, .front .content-left.content-right.content-bottom .region-content-second .region-inner {
+    border-right: 1px solid #ccc;
+}
+.credits .boxes-box-content li {
+    font-size: 16px!important;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+.intro p {
+    font-size: 24px;
+    line-height: 32px;
+}
+.intro {
+    margin-top: 55px;
+border-bottom:4px solid #cacaca;
+    background-color: #fff;
+}
+.intro .block-inner{
+padding:35px;
+}
+#layout_3_1_overlay .slide img {
+    width: 100%;
+}
+
+#menu-bar ul.nice-menu a {
+    font-family: "Lato",sans-serif;
+    font-size: 20px;
+    letter-spacing: -.5px;
+    font-weight: 500;
+}
+
+
+#menu-bar ul.nice-menu a {
+    font-family: "Open Sans",sans-serif;
+    font-size: 20px;
+    color: #215990!important;
+    padding: 8px 23px!important;
+    letter-spacing: -.5px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.front #content-column .block, .node-person .block-inner, .comment-wrapper {
+    border-top: none;
+}
+
+#page-title{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 600!important;
+}
+
+body {
+    font-size: 20px;
+    line-height: 28px;
+    min-height: inherit;
+}
+html, body {
+    background: #EFEEEB;
+}
+
+.branding {
+    width: 100%!important;
+}
+.logo img{
+width:400px;
+}
+.region-header-second .block:first-child p:last-child {
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.region-header-second .block:first-child p:last-child a, .region-header-second .block:first-child p:last-child a:visited {
+    color: #ccc;
+}
+.branding-left, .branding-right {
+    display: none;
+}
+.branding p {
+    display: inline;
+}
+.branding {
+    left: 0;
+    position: absolute;
+    top: -28px;
+    width: 100%;
+}
+@media (max-width:1200px){
+.videotext {
+    margin-top: -240px;
+    padding-bottom: 55px;
+    margin-bottom: 90px!important;
+}
+}
+@media (max-width: 1008px) {
+.page-browse-events #main-content-header {
+    margin-top: -350px;
+    margin-bottom: -80px;
+}
+.cards .media-element[style] {
+    display: block !important;
+    float: none !important;
+    max-width: 100% !important;
+    width: 200px!important;
+    height: auto!important;
+}
+.landing div#columns {
+    background-size: 150%!important;
+}
+.region.region-content-top .region-inner {
+    margin-bottom: -50px!important;
+}
+.landing .region.region-content-top, .events .region.region-content-top {
+    background: #bac5c6;
+    display: block!important;
+    top: -48px;
+    position: relative;
+    margin-bottom: -25px;
+}
+.landing.reports h1#page-title{
+    margin: -155px 20px 100px 20px;
+}
+.page-browse-events div#content-column .content-inner,
+.node-type-event div#content-column .content-inner,
+.sidebar-second div#content-column .content-inner {
+    padding: 0 25px!important;
+}
+.os-poster{
+display:block;
+}
+.ipad .os-poster{
+display:block!important;
+}
+video{
+display:none;
+}
+
+div#boxes-box-1507063992 .boxes-box-content {
+    padding: 25px;
+}
+div#boxes-box-1504102752 a {
+    float: left;
+    margin-right: 15px;
+}
+h3 a.os-button {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none!important;
+    font-size: 14px;
+    font-weight: 300;
+    border: 2px solid #fff;
+    padding: 5px 15px;
+    border-radius: 3px;
+}
+.front .content-left.content-right.content-bottom .region-content-bottom .region-inner, .content-left.content-right.content-bottom .region-content-second .region-inner, .content-left.content-right .region-content-second .region-inner, .front .content-left.content-bottom .region-content-bottom .region-inner, .front .content-right.content-bottom .region-content-bottom .region-inner {
+    padding-left: 0;
+}
+.not-front h3 a.os-button {
+    color: #89959F;
+    text-transform: uppercase;
+    text-decoration: none!important;
+    font-size: 12px;
+    font-weight: 300;
+    border: 2px solid #89959F;
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: #fff;
+}
+li.link-count-mobi-search.last {
+    display: none;
+}
+#menu-bar ul.nice-menu a {
+
+    color: #fff!important;
+
+}
+.landing.about div#columns{
+background-size: auto 600px;
+}
+div#boxes-box-1504103430 .region {
+    width: 90%;
+    margin: auto!important;
+}
+
+
+.block-os-search-solr {
+    margin-top: 0;
+}
+#box-1502998167-page, .front #box-1502307879-page {
+    display: block;
+}
+.landing .region-content-second .block .block-inner {
+    padding: 45px 0;
+}
+.landing .region.region-content-first .region-inner,
+.landing .region.region-content-second .region-inner,
+.landing .region.region-content-bottom .region-inner,
+.landing .region.region-content-top .region-inner,
+.events .region.region-content-top .region-inner {
+    width: 98%;
+}
+
+
+.landing .region.region-content-top .region-inner,
+.events .region.region-content-top .region-inner {
+    margin: -120px auto auto auto;
+}
+.hg-container {
+    -moz-box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0 0!important;
+}
+.landing h1#page-title {
+    font-size: 65px;
+    line-height: 95px;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+    margin-bottom: 280px;
+    max-width: 600px;
+    width: 95%;
+}
+.cards .boxes-box-content h2 {
+    line-height: 22px;
+    letter-spacing: -.8px;
+    font-size: 14px;
+}
+#box-1502998167-page, .front #box-1502307879-page {
+    display: block;
+}
+.videotext {
+    margin-top: -150px;
+    padding-bottom: 20px;
+    margin-bottom: 50px!important;
+}
+div#boxes-box-1504882522 p {
+    font-size: 16px;
+    line-height: normal;
+}
+.videotext .boxes-box-content h2 {
+    color: #fff;
+    font-weight: 300!important;
+    padding-top: 35px;
+    font-size: 26px;
+    line-height: 46px;
+}
+.region-header-second .block:first-child img {
+    margin-left: 0;
+    position: relative;
+    z-index: 2;
+    width: 300px!important;
+}
+.region-header-second .block:first-child p:last-child {
+    display: none;
+}
+}
+@media (max-width:768px){
+section#block-boxes-1502307879 h2.block-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: normal;
+
+}
+.field.field-name-field-date.field-type-datetime.field-label-hidden.view-mode-sidebar_teaser {
+    margin-left: 70px;
+}
+.events .event-content {
+    padding: 0 25px 25px 35px;
+}
+div#boxes-box-1507139197 h3 a.os-button {
+    border-color: #1e1e1e;
+    color: #1e1e1e;
+    display: block;
+    margin-top: 35px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.event-content .node-header h1.node-title {
+    margin-bottom: 0;
+    font-size: 18px;
+    line-height: normal;
+}
+.landing #content-panels h2.block-title, .not-front #content-panels h2.block-title {
+    margin-bottom: 30px!important;
+}
+.landing h1#page-title{
+top:55px;
+}
+.landing div#columns {
+    background-size: 200%!important;
+}
+.landing #content-panels h2.block-title, .not-front #content-panels h2.block-title, .cards h2.block-title {
+    color: #000;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-size: 120px 1px;
+    background-position: center bottom;
+    padding-bottom: 30px!important;
+    letter-spacing: .5px!important;
+    margin-bottom: 0px!important;
+    font-size: 22px;
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: normal;
+}
+.sidebar .node-event .field-name-field-date {
+    margin-bottom: 7px;
+    margin-left: 70px;
+}
+.sidebar .event-content .node-header h1.node-title {
+    margin-bottom: 0;
+    font-size: 22px!important;
+}
+.node-event .node-content, .node-event .clearfix, #content .node-event .event-content .node-content .field-name-field-event-location {
+    margin-left: 0!important;
+}
+.cards .boxes-box {
+    padding: 0 25px;
+}
+.events h1#page-title {
+  font-size: 35px!important;
+  line-height: normal;
+  max-width: 400px!important;
+  width: 76%;
+  position: relative;
+  margin-top:32px;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
+.events .region-content-top .block-boxes-os_boxes_html p {
+    font-size: 1em !important;
+    padding: 25px;
+ }
+.events .region.region-content-first .eventscol .block-inner > h2.block-title {
+    padding-top: 45px;
+ }
+h1#page-title {
+    font-size: 45px;
+    margin: 0 0 20px;
+    font-weight: 500;
+    letter-spacing: -.8px;
+    line-height: 45px;
+}
+.one-sidebar.sidebar-second #content-column .content-inner {
+    width: 90%!important;
+}
+.cards .boxes-box {
+    padding: 0 25px;
+}
+.not-front h3 a.os-button {
+    color: #89959F;
+    text-transform: uppercase;
+    text-decoration: none!important;
+    font-size: 12px;
+    font-weight: 300;
+    border: 2px solid #89959F;
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: #fff;
+    display: block;
+    text-align: center;
+}
+.landing .region.region-content-top, .events .region.region-content-top {
+    background: #bac5c6;
+    display: block!important;
+    top: 0;
+    position: relative;
+    margin-bottom: -25px;
+}
+.ipad .videotext {
+    margin-top: -240px;
+}
+.ipad #video_container {
+    max-height: 400px;
+    background-image: none!important;
+    background-repeat: no-repeat!important;
+    background-size: 100%!important;
+}
+.videotext .boxes-box-content h2 {
+    color: #fff;
+    font-weight: 300!important;
+    padding-top: 35px;
+    font-size: 26px;
+    line-height: 36px;
+    margin-top: 30px;
+}
+.landing.reports {
+    padding-left: 15px !important;
+}
+.landing.reports h1#page-title {
+    font-size: 75px;
+    margin: -155px 20px 100px 20px;
+    line-height: normal;
+}
+.iconcol h2.block-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 32px;
+    margin-bottom: 0;
+}
+.iconcol .block-inner .block-inner {
+    padding: 0;
+}
+.iconcol .block-inner {
+    padding: 0 85px;
+}
+.cards .boxes-box-content {
+    padding: 0;
+}
+.events .event-start {
+    padding-top: 1px;
+}
+.landing div#block-os-pages-main-content .block-inner {
+    padding: 25px;
+}
+.landing .region.region-content-second .block-inner {
+    padding: 25px!important;
+}
+.cards .boxes-box-content h2 {
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    padding-top: 15px;
+    font-weight: 400!important;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-position: center bottom!important;
+    padding-bottom: 10px;
+    background-size: 50px 1px;
+    margin-bottom: 20px;
+    line-height: 28px;
+    letter-spacing: -.5px;
+    text-align: center;
+}
+.cards .boxes-box-content h2 {
+    line-height: 22px;
+    letter-spacing: -.8px;
+    font-size: 24px;
+}
+.region-header-second h3, .region-header-second img {
+    padding-left: 0;
+}
+h2 {
+    font-size: 1em;
+}
+.landing .content-inner {
+    top: 80px;
+}
+div#block-views-os-events-block-1,
+section#block-boxes-1503662185,
+#block-boxes-1506360789,
+#block-boxes-1506360861 {
+    width: 92%!important;
+    margin: auto;
+}
+.landing h1#page-title{
+    font-size: 35px!important;
+    line-height: normal;
+    max-width: 400px!important;
+    width: 76%;
+    position: relative;
+}
+.events h1#page-title{
+    font-size: 35px!important;
+    line-height: normal;
+    max-width: 400px!important;
+    width: 76%;
+    position: relative;
+    margin-top: 32px; 
+    display: block !important;
+}
+section#block-boxes-1507728371 h2 {
+    padding-left: 15px !important;
+}
+div#boxes-box-1506370471 p,
+div#boxes-box-1506347564 p{
+    font-size: 1em;
+    padding: 25px;
+}
+.events #block-boxes-1503339562 a.more-link {
+    margin-right: 25px;
+}
+}
+@media (max-width: 600px) {
+h3 a.os-button {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none!important;
+    font-size: 9px;
+    font-weight: bold;
+    border: 1px solid #fff;
+    padding: 5px 15px;
+    border-radius: 3px;
+}
+.iconcol img {
+    width: 80px;
+}
+.front .region.region-content-first {
+
+    padding-top: 15px;
+}
+.videotext {
+    margin-top: -115px;
+    padding-bottom: 0;
+    margin-bottom: 60px!important;
+}
+.videotext .boxes-box-content h2 {
+    color: #fff;
+    font-weight: 300!important;
+    padding-top: 25px;
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.front div#columns {
+    margin-top: 0!important;
+}
+.region-header-second .block:first-child img, .branding img {
+    min-width: 300px;
+}
+}
+@media (max-width: 520px) {
+.landing h1#page-title {
+    font-size: 25px!important;
+    line-height: normal;
+ 
+}
+body {
+    font-size: 14px;
+    line-height: 18px;
+    min-height: inherit;
+}
+.videotext .boxes-box-content h2 {
+    color: #fff;
+    font-weight: 300!important;
+    padding-top: 25px;
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.region-header-second .block:first-child img, .branding img {
+    min-width: 230px;
+}
+.header-logo {
+margin-bottom:30px;
+}
+.iconcol .block-inner {
+    padding: 0 25px;
+}
+div#block-boxes-1507139197 {
+    margin-top: -65px;
+}
+.front .region.region-content-bottom {
+    padding: 0;
+}
+.cards .boxes-box-content h2 {
+    line-height: 22px;
+    letter-spacing: -.8px;
+    font-size: 18px;
+.landing #content-panels h2.block-title, .not-front #content-panels h2.block-title, .cards h2.block-title {
+    color: #000;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-size: 60px 1px;
+    background-position: center bottom;
+    padding-bottom: 10px!important;
+    letter-spacing: .5px!important;
+    margin-bottom: 0!important;
+    font-size: 20px;
+    font-weight: 600!important;
+    font-family: "Lato",sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+.front .region.region-content-first {
+    margin-bottom: -95px!important;
+}
+.boxes-box-content h2 {
+    color: #424242;
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: normal;
+    font-family: "Montserrat",sans-serif;
+    font-weight: bold!important;
+.front .region.region-content-second {
+    background-color: #fff;
+    padding: 0;
+}
+.node-event .node-header {
+    margin: -97px 0 10px 70px !important;
+}
+body {
+    font-size: 16px;
+    line-height: 22px;
+}
+.event-content .node-header h1.node-title {
+    margin-bottom: 0;
+    font-size: 18px;
+}
+.events .event-start {
+    margin: 0 15px 0 25px;
+}
+section#block-boxes-1502307879 h2.block-title {
+    color: #000;
+    background-image: url(https://chge.hsph.harvard.edu/files/chge/files/titlebot.png?m=1493830200);
+    background-repeat: no-repeat;
+    background-size: 60px 1px;
+    background-position: center bottom;
+    padding-bottom: 5px!important;
+    letter-spacing: .5px!important;
+    margin-bottom: 10px!important;
+    font-size: 18px!important;
+    font-weight: 400!important;
+    font-family: "Lato",sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+.iconcol h2.block-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 32px;
+    margin-bottom: 0;
+}
+.iconcol .block-inner .block-inner {
+    padding: 0;
+}
+.iconcol .block-inner {
+    padding: 0 35px;
+}
+.cards .boxes-box {
+    padding: 15px;
+}
+.region-header-second .block:first-child img {
+    min-width: 200px;
+}
+}
+@media (max-width: 420px) {
+.landing h1#page-title {
+    font-size: 25px!important;
+    line-height: normal;
+ 
+}
+.videotext .boxes-box-content h2 {
+    color: #fff;
+    font-weight: 300!important;
+    padding-top: 35px;
+    font-size: 16px;
+    line-height: normal;
+    margin-top: 15px;
+    margin-bottom: 0;
+    width: 98%;
+}
+.front div#columns {
+    margin-top: 0!important;
+}
+.videotext {
+    margin-top: -95px;
+    padding-bottom: 0;
+    margin-bottom: 50px!important;
+}
+div#boxes-box-1505328739 img {
+    width: 180px!important;
+    height: auto!important;
+}
+.region-header-second .block:first-child img {
+    min-width: 160px;
+}
+}
+@media (max-width:400px){
+.landing h1#page-title {
+    font-size: 25px!important;
+    line-height: normal;
+}
+.videotext .boxes-box-content h2{
+padding-top:15px;
+}
+}
+</style></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-1504814775" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1504814775"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1504814775' class='boxes-box'><div class="boxes-box-content"><div id="file-894631" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">0ac8162ccb88704604875e803db6317d</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+/* Thanks to CSS Tricks for pointing out this bit of jQuery
+http://css-tricks.com/equal-height-blocks-in-rows/
+It's been modified into a function called at page load and then each time the page is resized. One large modification was to remove the set height before each new calculation. */
+
+equalheight = function(container){
+
+var currentTallest = 0,
+     currentRowStart = 0,
+     rowDivs = new Array(),
+     $el,
+     topPosition = 0;
+ $(container).each(function() {
+
+   $el = $(this);
+   $($el).height('auto')
+   topPostion = $el.position().top;
+
+   if (currentRowStart != topPostion) {
+     for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+       rowDivs[currentDiv].height(currentTallest);
+     }
+     rowDivs.length = 0; // empty the array
+     currentRowStart = topPostion;
+     currentTallest = $el.height();
+     rowDivs.push($el);
+   } else {
+     rowDivs.push($el);
+     currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+  }
+   for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+     rowDivs[currentDiv].height(currentTallest);
+   }
+ });
+}
+
+$(window).load(function() {
+  equalheight('.landingcol .boxes-box-content');
+  equalheight('.hpcol3 .boxes-box');
+ equalheight('.cards .block-boxes-os_boxes_html');
+
+
+
+});
+
+
+$(window).resize(function(){
+  equalheight('.landingcol .boxes-box-content');
+  equalheight('.hpcol3 .boxes-box');
+equalheight('.cards .block-boxes-os_boxes_html');
+});
+
+</script></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-1508873210" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1508873210"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1508873210' class='boxes-box'><div class="boxes-box-content"><div id="file-920181" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">0ffe5b3668d7f763cf3ea72dffd4c7da</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><script type="text/javascript">
+
+//Time on Page Tracking
+setTimeout("_gaq.push(['_trackEvent', '30 Seconds on Page', 'Read']);", 30000);
+setTimeout("_gaq.push(['_trackEvent', '60 Seconds on Page', 'Read']);", 60000);
+
+//Advanced Scroll Tracking
+
+//function cScrollEvent() {
+// ... give time for script to load, then type.
+//jQuery( document ).ready(function($) {
+var runned = false;
+var fty = $(document).height() * .5;
+var rfty = Math.round(fty);
+console.log(rfty);
+
+$( window ).scroll( function() {
+if ( $( document ).scrollTop() >= rfty && runned == false ) {
+_gaq.push(['_trackEvent', 'Scrolled 50%', 'Scroll']);
+runned = true;
+  }
+  });
+</script></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>			</div>
+
+		<!--footer region end-->
+    <div id="powerby-login">
+  	<a href="/user?destination=housing%3Fadmin_panel%3D1%26login%3D1"  class="footer-login">Admin Login</a>    </div>
+  </footer>
+  </div>
+</div><!--page area ends-->
+
+<div id="extradiv"></div>
+
+  <!--FLEXIBLE ADMIN FOOTER FOR USE BY SELECT GROUPS USING OS-->
+  <div id="branding_footer">
+		<div class="branding-container">
+	    <div class="copyright"><span class="harvard-copyright">Copyright &copy; 2024 The President and Fellows of Harvard College</span>  | <a href="https://accessibility.harvard.edu/" >Accessibility</a> | <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" >Digital Accessibility</a> | <a href="https://www.harvard.edu/copyright-issue/" >Report Copyright Infringement</a></div>		</div>
+  </div>
+
+</div><!-- /page_wrap -->
+
+  <script src="https://community.harvard.edu/profiles/openscholar/libraries/respondjs/respond.min.js?shsffw"></script>
+<script src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/js/js_s7yA-hwRxnKty__ED6DuqmTMKG39xvpRyrtyCrbWH4M.js?m=1722241266"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"hwpi_modern","theme_token":"rngI2CLvxjDlJhtATxEdgi41bklNYb--AhPNPlxbb7E"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/hwpi.harvard.edu\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"jcarousel":{"ajaxPath":"https:\/\/community.harvard.edu\/jcarousel\/ajax\/views"},"urlIsAjaxTrusted":{"\/housing":true,"https:\/\/community.harvard.edu\/search\/site":true},"spaces":{"id":"1033026","path":"Harvard in the Community"},"os_ga":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|docx?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xlsx?|xml|z|zip","trackNavigation":1},"nice_menus_options":{"delay":800,"speed":"slow"},"ogContext":{"groupType":"node","gid":"1033026"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});</script>
+<script src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/js/js_u0roDb2tjDPmu_YLW2X5ykM7iXnIJ1h2-fFpqhVKGYA.js?m=1722241266"></script>
+<script src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/js/js_otaDgI6X9qs_TZpSfGeRC805JCdKpSrl2gwWLs_jt9E.js?m=1722241266"></script>
+<script>window.CKEDITOR_BASEPATH = '/profiles/openscholar/libraries/ckeditor/'</script>
+<script src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/js/js_LiusrpwJT3Sg0H0ZmGojUVryUYFnHLCv1UjzLbWcgsw.js?m=1722241266"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/js/js_Gn6CPUOXDTurT1_dttEf_0ILEDturfDpbAqZFd3d6g4.js?m=1722241266"></script>
+<script src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/js/js_TF0j_xSQPq-6QP1Il7NFw8ppuW60PTAxM0BwHtQXBsA.js?m=1722241266"></script>
+<script src="https://community.harvard.edu/sites/hwpi.harvard.edu/files/js/js_qluyoBMkmyevXrrhnKB_2ie6cLJ7DL5g_0nHm6hyXwA.js?m=1722241266"></script>
+</body>
+</html>

@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="next" href="https://hr.harvard.edu/search-jobs" />
+<script src="https://www.googletagmanager.com/gtag/js?id=G-SFXEYPKNXD" async="1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-SFXEYPKNXD');</script>
+<link rel="shortcut icon" href="https://hr.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/favicon.png" />
+<meta name="generator" content="OpenScholar for Drupal 7 (http://theopenscholar.org)" />
+<link rel="canonical" href="https://hr.harvard.edu/jobs" />
+<link rel="shortlink" href="https://hr.harvard.edu/node/146371" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Jobs" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Jobs" />
+<meta name="twitter:image" content="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/humanresources/files/logo-copy.png?m=1486791548" />
+<title>Jobs | Harvard Human Resources</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link type="text/css" rel="stylesheet" href="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css?m=1722240918" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/css/css_It1s6A8aP62etHWwu5vdiJfrBJ2NzD9-Vm2UNwOvfrE.css?m=1722240919" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/css/css_Akkb6R_Qe3QFp7jZ9-c4CN_6-hQNRvFr6sM2hY9GGfY.css?m=1722241166" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/css/css_Qmrq3IXnkVW7_US56j1FLt4hSsh51KyfJPwR8bU_jYo.css?m=1722240918" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/css/css_dW-aNNrctRhQNc-KECjtQd0PxuW-h19IEum-TX2MeEk.css?m=1722240918" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/css/css_uaIDKcYMUK5osSQXuirpr3ZleXtnnpBN-eiECm7N0M0.css?m=1722240918" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/jul-14-zip/css/hr2.css?shsffw" media="all" />
+  <!--[if lte IE 8]>
+<script type="text/javascript">
+  var os_c = document.createElement;os_c('header');os_c('nav');os_c('section');os_c('article');os_c('aside');os_c('footer');os_c('hgroup');os_c('figure');
+</script>
+  <![endif]-->
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="GBUU5-S9S78-P7UW2-BSS9F-LR483",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"GBUU5-S9S78-P7UW2-BSS9F-LR483";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdndcoqxez7bgzxx6rpq-f-005cf2ac5-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"1393464","ak.ai":parseInt("841065",10),"ak.ol":"0","ak.cr":21,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"13a3fc21","ak.r":45983,"ak.a2":n,"ak.m":"b","ak.n":"ff","ak.bpcip":"72.218.49.0","ak.cport":59831,"ak.gh":"23.38.126.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727525983","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==khioS5e6OlIcAJaWszCCH5klhCi+ieEm1Mv0GbQ7aaHrdmH95SIOMUlTwKl5e/9aGQMHSJzfqoTLG5QmB5h3JiSqpVyyO7eZTx+Kfy42OTDNmR1um+ZPFHt5ninonJPj9lAGqjWB1y3sGYsFelGfkGBGnEhS5z+SPgjj6wJwZDTD69tocQ6QbgqYoK6N7EyaeaaXvXRLLIY5R4YJyqjOj7EEtJhAq0YgjXZcFvgSvWbxZRmh2kiAYQaQLRCTOClZZe1130hxn0B7lUgaxabnbc1m9xfukwU3kA+/BffvjNji9iVCNKhMYoQ32cmsB/FyfAubpANj4AGl2Pv7dVDJCD0dseHvexuyOruCx2LE8wI+nGtk0pmYeCgjQR5tz8HZ7HnbTUnNNkUflB7crdYaBlOFfScySLdMCCoQBW8jD7A=","ak.pv":"239","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-146371 node-type-page og-context og-context-node og-context-node-129141 navbar-on">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable" tabindex="1">Skip to main content</a>
+  </div>
+    <div id="page_wrap" class="page_wrap">
+<!--REGION TO HOUSE RESPONSIVE MENU. OTHER CONTENT CAN'T BE PLACED HERE-->
+<div class="responive-menu-container clearfix">
+  <ul class="mobile-buttons num-links-3"><li class="link-count-mobi-main first"><a href="#"  data-target="#block-os-primary-menu"><span aria-hidden="true" class="icon-menu"></span><span class="move">Main Menu</span></a></li><li class="link-count-mobi-util"><a href="#"  data-target="#block-os-quick-links, #block-os-secondary-menu, #header .os-custom-menu"><span aria-hidden="true" class="icon-plus"></span><span class="move">Utility Menu</span></a></li><li class="link-count-mobi-search last"><a href="#"  data-target="#block-os-search-db-site-search, #block-boxes-solr-search-box"><span aria-hidden="true" class="icon-search3"></span><span class="move">Search</span></a></li></ul></div>
+
+<!--FLEXIBLE ADMIN HEADER FOR USE BY SELECT GROUPS USING OS-->
+	<div id="branding_header">
+		<div  class="branding-container clearfix">
+		  <div class="branding-left"><a href="http://www.harvard.edu/" ><img src="https://hr.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/images/harvard-logo.png" width="235" height="32" alt="University Logo" /></a></div><div class="branding-right"><a href="http://www.harvard.edu/" >HARVARD.EDU</a></div>		</div>
+	</div>
+
+<div id="page" class="container page os_pages-section-146371 header-main header-right content-top content-left content-right footer-left footer footer-right">
+	<div id="page-wrapper">
+
+		
+					<!--header regions beg-->
+			<header id="header" class="clearfix" role="banner">
+			 <div id="header-container">
+				 <div id="header-panels" class="at-panel gpanel panel-display three-col clearfix">
+					  					  <div class="region region-header-second"><div class="region-inner clearfix"><div id="block-boxes-1685128495" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1685128495"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1685128495' class='boxes-box'><div class="boxes-box-content"><div id="file-1213836" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">72a1f7f6e071e66b3c32803c6a42b3cb</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62292BBCFC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-62292BBCFC');
+</script></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-1389630886" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1389630886"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1389630886' class='boxes-box'><div class="boxes-box-content"><p>
+	<a href="/" title=""><img height="79" width="450" alt="HARVie  Harvard Information For Employees logo" class="media-element file-default file-os-files-large" src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_large/public/humanresources/files/logo-harvie.png?m=1513374930&amp;itok=S3YI56t7" title="" /></a>
+</p>
+</div></div></div>
+  </div></div></div></div>					  					  <div class="region region-header-third"><div class="region-inner clearfix"><div id="block-os-secondary-menu" class="block block-os no-title"  module="os" delta="secondary-menu"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><ul class="nice-menu nice-menu-down nice-menu-secondary-menu" id="nice-menu-secondary-menu"><li class="menu-6677 menu-path-front  first   odd  "><a href="https://hr.harvard.edu/" >Home</a></li><li class="menu-69529 menu-path-https--peoplesoftharvardedu   even  "><a href="https://peoplesoft.harvard.edu" >PeopleSoft</a></li><li class="menu-4445 menu-path-https--outingsandinningsharvardedu   odd  "><a href="https://outingsandinnings.harvard.edu"  title="">O&amp;I</a></li><li class="menu-179559 menu-path-https--harviesclassifiedsharvardedu-home-signin   even  "><a href="https://harviesclassifieds.harvard.edu/home/signin" >Classifieds</a></li><li class="menu-17334 menu-path-https--trainingportalharvardedu-   odd  "><a href="https://trainingportal.harvard.edu/"  title="">Training Portal</a></li><li class="menu-211786 menu-path-node-1030496   even   last "><a href="https://hr.harvard.edu/contingent-workforce" >Contingent Workforce</a></li></ul>
+</div>
+  </div></div><div id="block-boxes-solr-search-box" class="block block-boxes block-boxes-os_search_solr_search_box no-title"  module="boxes" delta="solr_search_box"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-solr_search_box' class='boxes-box'><div class="boxes-box-content"><form class="search-block-form" action="/jobs" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." ng-non-bindable="" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-_2y8gwQhEoWMRNrXJgEVfP3R99qR7BefKrU7OMKMtz4" />
+<input type="hidden" name="form_id" value="os_solr_search_box___solr_search_box" />
+</div></div></form></div></div></div>
+  </div></div><div id="block-boxes-1571681990" class="block block-boxes block-boxes-os_boxes_media googlesearch no-title"  module="boxes" delta="1571681990"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1571681990' class='boxes-box'><div class="boxes-box-content"><div id="file-1035486" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">573afce095134b6b933403ff00bbab3c</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><script type="text/javascript">
+
+  (function() {
+
+    var cx = '016214244976944238400:swlhprle83u';
+
+    var gcse = document.createElement('script');
+
+    gcse.type = 'text/javascript';
+
+    gcse.async = true;
+
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+
+    var s = document.getElementsByTagName('script')[0];
+
+    s.parentNode.insertBefore(gcse, s);
+
+  })();
+
+</script>
+
+<gcse:search linktarget="_parent"></gcse:search></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>					  				 </div>
+			  </div>
+		  </header>
+      <!--header regions end-->
+		
+				  <!--main menu region beg-->
+		  <div id="menu-bar" class="nav region-menu-bar clearfix"><nav id="block-os-primary-menu" class="block block-os no-title menu-wrapper menu-bar-wrapper clearfix"  module="os" delta="primary-menu">  
+  
+  <ul class="nice-menu nice-menu-down nice-menu-primary-menu" id="nice-menu-primary-menu"><li class="menu-5047 menuparent  menu-path-node-146371  first   odd   active-trail"><a href="https://hr.harvard.edu/jobs"  title="Harvard Jobs" class="active active">Jobs</a><span class="open-submenu"></span><ul><li class="menu-41550 menuparent  menu-path-node-169411  first   odd  "><a href="https://hr.harvard.edu/search-jobs" >Search Jobs</a><span class="open-submenu"></span><ul><li class="menu-41572 menu-path-node-169416  first   odd  "><a href="https://hr.harvard.edu/how-apply-job" >How to Apply for a Job</a></li><li class="menu-41574 menu-path-node-662461   even  "><a href="https://hr.harvard.edu/temporary-employment" >Temporary Employment</a></li><li class="menu-333178 menu-path-node-1163595   odd   last "><a href="https://hr.harvard.edu/career-mobility" >Career Mobility</a></li></ul></li><li class="menu-41554 menuparent  menu-path-node-169421   even  "><a href="https://hr.harvard.edu/why-harvard" >Why Harvard</a><span class="open-submenu"></span><ul><li class="menu-41576 menu-path-node-169426  first   odd  "><a href="https://hr.harvard.edu/our-mission-and-culture" >Our Mission and Culture</a></li><li class="menu-41564 menu-path-node-169446   even  "><a href="https://hr.harvard.edu/jobs-total-rewards"  title="">Our Total Rewards</a></li><li class="menu-41579 menu-path-node-169431   odd  "><a href="https://hr.harvard.edu/harvards-schools-and-departments" >Harvard&#039;s Schools and Departments</a></li><li class="menu-41592 menu-path-node-266256   even  "><a href="https://hr.harvard.edu/jobs-diversity-inclusion" >Diversity &amp; Inclusion</a></li><li class="menu-41581 menu-path-node-266121   odd  "><a href="https://hr.harvard.edu/innovation" >Innovation</a></li><li class="menu-41583 menu-path-node-266126   even   last "><a href="https://hr.harvard.edu/sustainability" >Sustainability</a></li></ul></li><li class="menu-94875 menuparent  menu-path-node-1017371   odd   last "><a href="https://hr.harvard.edu/talent-acquisition-outreach"  title="">Talent Acquisition and Outreach</a><span class="open-submenu"></span><ul><li class="menu-41593 menu-path-node-266266  first   odd  "><a href="https://hr.harvard.edu/job-search-resources-military-community"  title="">Job Search Resources for the Military Community</a></li><li class="menu-896555 menu-path-node-1550346   even  "><a href="https://hr.harvard.edu/dod-skillbridge-program" >DOD SkillBridge Program</a></li><li class="menu-9276 menu-path-node-246651   odd  "><a href="https://hr.harvard.edu/summer-youth-employment-program" >Summer Youth Employment Program</a></li><li class="menu-214071 menu-path-node-1125092   even   last "><a href="https://hr.harvard.edu/administrative-fellows-program"  title="">Administrative Fellowship Program</a></li></ul></li></ul></li><li class="menu-4452 menuparent  menu-path-node-129206   even  "><a href="https://hr.harvard.edu/totalrewards"  title="Total Rewards">Total Rewards</a><span class="open-submenu"></span><ul><li class="menu-5523 menuparent  menu-path-node-170446  first   odd  "><a href="https://hr.harvard.edu/compensation"  title="">Compensation</a><span class="open-submenu"></span><ul><li class="menu-9256 menu-path-node-265761  first   odd  "><a href="https://hr.harvard.edu/salary-ranges" >Salary Ranges</a></li><li class="menu-16024 menu-path-node-818141   even  "><a href="https://hr.harvard.edu/job-changes" >Job Changes</a></li><li class="menu-67187 menu-path-node-981861   odd   last "><a href="https://hr.harvard.edu/admin-prof-job-descriptions"  title="">Administrative and Professional Job Descriptions</a></li></ul></li><li class="menu-944867 menuparent  menu-path-node-1604641   even  "><a href="https://hr.harvard.edu/open-enrollment-2025" >Open Enrollment 2025</a><span class="open-submenu"></span><ul><li class="menu-944869 menu-path-node-1604651  first   odd   last "><a href="https://hr.harvard.edu/open-enrollment-2025/retiree-open-enrollment" >Retiree Open Enrollment</a></li></ul></li><li class="menu-16010 menuparent  menu-path-node-823756   odd  "><a href="https://hr.harvard.edu/health-welfare-benefits" >Health &amp; Welfare Benefits</a><span class="open-submenu"></span><ul><li class="menu-16012 menu-path-node-823431  first   odd  "><a href="https://hr.harvard.edu/medical" >Medical</a></li><li class="menu-16014 menu-path-node-822701   even  "><a href="https://hr.harvard.edu/dental" >Dental</a></li><li class="menu-16016 menu-path-node-822626   odd  "><a href="https://hr.harvard.edu/vision" >Vision</a></li><li class="menu-7181 menu-path-node-129226   even  "><a href="https://hr.harvard.edu/flexible-spending-accounts"  title="">Flexible Spending Accounts</a></li><li class="menu-7180 menu-path-node-129216   odd  "><a href="https://hr.harvard.edu/disability"  title="">Disability and Life Insurance</a></li><li class="menu-16018 menu-path-node-822666   even  "><a href="https://hr.harvard.edu/reimbursement-programs" >Reimbursement Programs</a></li><li class="menu-16020 menu-path-node-823456   odd  "><a href="https://hr.harvard.edu/retiree-health" >Retiree Health</a></li><li class="menu-7183 menu-path-node-170916   even  "><a href="https://hr.harvard.edu/life-events" >Life Events</a></li><li class="menu-16022 menu-path-node-681716   odd   last "><a href="https://hr.harvard.edu/vendor-contacts" >Vendor Contacts</a></li></ul></li><li class="menu-15861 menuparent  menu-path-node-819691   even  "><a href="https://hr.harvard.edu/retirement" >Retirement</a><span class="open-submenu"></span><ul><li class="menu-16026 menu-path-node-819736  first   odd  "><a href="https://hr.harvard.edu/retirement-programs" >Retirement Programs</a></li><li class="menu-16028 menu-path-node-819811   even  "><a href="https://hr.harvard.edu/employee-funded-retirement-programs" >Employee-funded Retirement Programs</a></li><li class="menu-16030 menu-path-node-819966   odd  "><a href="https://hr.harvard.edu/investment-options" >Investment Options</a></li><li class="menu-16032 menu-path-node-820001   even  "><a href="https://hr.harvard.edu/retirement-education-planning-resources" >Retirement Education &amp; Planning Resources</a></li><li class="menu-476506 menu-path-node-1298683   odd   last "><a href="https://hr.harvard.edu/preparing-retirement" >Preparing for Retirement</a></li></ul></li><li class="menu-5525 menuparent  menu-path-node-170461   odd  "><a href="https://hr.harvard.edu/paid-time"  title="">Paid Time Off</a><span class="open-submenu"></span><ul><li class="menu-9257 menu-path-node-266046  first   odd  "><a href="https://hr.harvard.edu/holiday-calendar"  title="">Holiday Calendar</a></li><li class="menu-9258 menu-path-node-266056   even  "><a href="https://hr.harvard.edu/leaves-absence" >Leaves of absence</a></li><li class="menu-570944 menu-path-node-1226474   odd  "><a href="https://hr.harvard.edu/ma-pfml" >Massachusetts Paid Family and Medical Leave</a></li><li class="menu-759020 menu-path-node-1437150   even   last "><a href="https://hr.harvard.edu/recharge-harvard" >Recharge Harvard</a></li></ul></li><li class="menu-5526 menu-path-node-170466   even  "><a href="https://hr.harvard.edu/tuition-assistance"  title="">Tuition Assistance</a></li><li class="menu-5856 menu-path-node-129241   odd  "><a href="https://hr.harvard.edu/commuting-transportation" >Commuting and Transportation</a></li><li class="menu-5858 menuparent  menu-path-node-129236   even  "><a href="https://hr.harvard.edu/employee-discounts"  title="">Employee Discounts and Perks</a><span class="open-submenu"></span><ul><li class="menu-5857 menu-path-node-170886  first   odd   last "><a href="https://hr.harvard.edu/fitness-wellness" >Fitness &amp; Wellness</a></li></ul></li><li class="menu-5554 menuparent  menu-path-node-170816   odd   last "><a href="https://hr.harvard.edu/employee-recognition"  title="">Employee Recognition</a><span class="open-submenu"></span><ul><li class="menu-10877 menu-path-node-604901  first   odd  "><a href="https://hr.harvard.edu/service-recognition" >Service Recognition</a></li><li class="menu-9270 menu-path-node-246591   even  "><a href="https://hr.harvard.edu/harvard-heroes-program" >Harvard Heroes Program</a></li><li class="menu-158424 menu-path-node-1066736   odd   last "><a href="https://hr.harvard.edu/retirement-gifts" >Retirement Gifts</a></li></ul></li></ul></li><li class="menu-4464 menuparent  menu-path-node-129296   odd  "><a href="https://hr.harvard.edu/learning-development"  title="Learning &amp; Development">Learning &amp; Development</a><span class="open-submenu"></span><ul><li class="menu-5859 menu-path-node-129321  first   odd  "><a href="https://hr.harvard.edu/training-courses"  title="">Courses | How to Register</a></li><li class="menu-590131 menu-path-node-1387704   even  "><a href="https://hr.harvard.edu/managing-now" >Managing Now</a></li><li class="menu-332379 menuparent  menu-path-node-1163288   odd  "><a href="https://hr.harvard.edu/professional-development" >Professional Development</a><span class="open-submenu"></span><ul><li class="menu-4465 menu-path-node-129301  first   odd  "><a href="https://hr.harvard.edu/harvard-bridge-program"  title="Harvard Bridge Program">Harvard Bridge Program</a></li><li class="menu-332381 menu-path-node-1163290   even  "><a href="https://hr.harvard.edu/hipp-program" >Harvard Internal Professional Pathways</a></li><li class="menu-67241 menu-path-node-983961   odd  "><a href="https://hr.harvard.edu/senior-administrator-fellowships-exec-ed"  title="">Harvard Senior Administrator Fellowships for Professional and Lifelong Learning</a></li><li class="menu-5861 menu-path-node-129311   even  "><a href="https://hr.harvard.edu/leadership-development"  title="">Leadership Development</a></li><li class="menu-332383 menu-path-node-1163296   odd   last "><a href="https://hr.harvard.edu/universal-manager-training-program" >Universal Manager Training Program</a></li></ul></li><li class="menu-5860 menu-path-node-129316   even  "><a href="https://hr.harvard.edu/organizational-development"  title="">Organizational Development Consulting</a></li><li class="menu-332389 menu-path-node-1163302   odd  "><a href="https://hr.harvard.edu/executive-coaching"  title="">Executive Coaching</a></li><li class="menu-41560 menuparent  menu-path-node-169441   even  "><a href="https://hr.harvard.edu/career-development" >Career Development</a><span class="open-submenu"></span><ul><li class="menu-94861 menu-path-node-1017346  first   odd  "><a href="https://hr.harvard.edu/elements-successful-career" >Elements of a successful career</a></li><li class="menu-41595 menu-path-node-266271   even  "><a href="https://hr.harvard.edu/resources-internal-candidates"  title="">Career Connections</a></li><li class="menu-94862 menu-path-node-1017356   odd  "><a href="https://hr.harvard.edu/networking" >Networking</a></li><li class="menu-94864 menu-path-node-1017361   even   last "><a href="https://hr.harvard.edu/applying-job-internal-candidate" >Applying for a job as an internal candidate</a></li></ul></li><li class="menu-332393 menuparent  menu-path-node-1163304   odd  "><a href="https://hr.harvard.edu/our-mission-and-offerings" >Our Mission and Offerings</a><span class="open-submenu"></span><ul><li class="menu-158690 menu-path-node-1096131  first   odd   last "><a href="https://hr.harvard.edu/cwd-stories" >CWD Stories</a></li></ul></li><li class="menu-11259 menu-path-node-650056   even   last "><a href="https://hr.harvard.edu/performance-management" >Performance Management</a></li></ul></li><li class="menu-4460 menuparent  menu-path-node-129276   even  "><a href="https://hr.harvard.edu/worklife"  title="Work/Life">Work/Life</a><span class="open-submenu"></span><ul><li class="menu-5480 menu-path-node-169816  first   odd  "><a href="https://hr.harvard.edu/employee-assistance-program"  title="">Employee Assistance Program</a></li><li class="menu-4462 menuparent  menu-path-node-129286   even  "><a href="https://hr.harvard.edu/childcare"  title="">Caring for Children</a><span class="open-submenu"></span><ul><li class="menu-9261 menu-path-node-267391  first   odd  "><a href="https://hr.harvard.edu/finding-child-care"  title="">Finding Child Care</a></li><li class="menu-9262 menu-path-node-267411   even  "><a href="https://hr.harvard.edu/back-up-care-babysitters"  title="">Back-up Care, Babysitters</a></li><li class="menu-9263 menu-path-node-171001   odd  "><a href="https://hr.harvard.edu/schools-and-after-school-programs"  title="">School-Aged Children</a></li><li class="menu-713891 menu-path-node-1423926   even  "><a href="https://hr.harvard.edu/disability-resources" >Disability Resources</a></li><li class="menu-9265 menu-path-node-267556   odd  "><a href="https://hr.harvard.edu/camps-and-school-vacation-options" >Camps and School Vacation Options</a></li><li class="menu-9266 menu-path-node-171006   even  "><a href="https://hr.harvard.edu/financial-assistance"  title="">Financial Assistance for Child Care</a></li><li class="menu-11973 menu-path-node-687036   odd  "><a href="https://hr.harvard.edu/adoption-resources" >Adoption Resources</a></li><li class="menu-9267 menu-path-node-171011   even   last "><a href="https://hr.harvard.edu/lactation-support"  title="">Lactation Support, Parenting Supports</a></li></ul></li><li class="menu-162079 menuparent  menu-path-node-1102181   odd  "><a href="https://hr.harvard.edu/mindfulness" >Mindfulness</a><span class="open-submenu"></span><ul><li class="menu-490471 menu-path-node-1297692  first   odd   last "><a href="https://hr.harvard.edu/happier-app"  title="">Happier app</a></li></ul></li><li class="menu-5482 menuparent  menu-path-node-169841   even  "><a href="https://hr.harvard.edu/caring-elders-and-other-adults"  title="">Caring for Elders and Other Adults</a><span class="open-submenu"></span><ul><li class="menu-32255 menu-path-node-842321  first   odd   last "><a href="https://hr.harvard.edu/senior-care-planning" >Senior Care Planning</a></li></ul></li><li class="menu-70386 menu-path-node-954701   odd  "><a href="https://hr.harvard.edu/flexwork"  title="">Flexwork at  Harvard</a></li><li class="menu-4461 menuparent  menu-path-node-129281   even  "><a href="https://hr.harvard.edu/caring-yourself"  title="Caring for Yourself">Caring for Yourself</a><span class="open-submenu"></span><ul><li class="menu-11903 menu-path-node-685291  first   odd  "><a href="https://hr.harvard.edu/lbgtqia-issuesconcerns" >LBGTQIA Issues/Concerns</a></li><li class="menu-11905 menu-path-node-685351   even  "><a href="https://hr.harvard.edu/domestic-violence" >Domestic Violence</a></li><li class="menu-11901 menu-path-node-685431   odd   last "><a href="https://hr.harvard.edu/military-support"  title="">Military Support</a></li></ul></li><li class="menu-5553 menuparent  menu-path-node-170821   odd  "><a href="https://hr.harvard.edu/connected-caring-community"  title="">Connected &amp; Caring Community</a><span class="open-submenu"></span><ul><li class="menu-9274 menu-path-node-246641  first   odd  "><a href="https://hr.harvard.edu/campus-volunteer-opportunities" >Campus Volunteer Opportunities</a></li><li class="menu-9275 menu-path-node-246646   even  "><a href="https://hr.harvard.edu/community-connections-campus" >Community Connections on Campus</a></li><li class="menu-9277 menu-path-node-195951   odd   last "><a href="https://hr.harvard.edu/solving-workplace-problems" >Solving Workplace Problems</a></li></ul></li><li class="menu-943272 menu-path-node-1599801   even   last "><a href="https://hr.harvard.edu/mental-health-resources" >Mental Health Resources</a></li></ul></li><li class="menu-68685 menuparent  menu-path-node-983682   odd   last "><a href="https://hr.harvard.edu/policies-forms-contracts" >Policies, Forms &amp; Contracts</a><span class="open-submenu"></span><ul><li class="menu-5853 menu-path-node-196006  first   odd  "><a href="https://hr.harvard.edu/university-policies" >University Policies</a></li><li class="menu-11825 menu-path-node-606826   even  "><a href="https://hr.harvard.edu/staff-personnel-manual" >Staff Personnel Manual</a></li><li class="menu-815243 menu-path-node-1468381   odd  "><a href="https://hr.harvard.edu/employee-notices" >Employee Notices</a></li><li class="menu-843755 menu-path-node-1493351   even  "><a href="https://hr.harvard.edu/out-state-employment" >Out Of State Employment</a></li><li class="menu-11433 menu-path-node-145686   odd  "><a href="https://hr.harvard.edu/forms-documents"  title="">Forms &amp; Documents</a></li><li class="menu-5855 menuparent  menu-path-node-196016   even  "><a href="https://hr.harvard.edu/union-contracts" >Union Contracts</a><span class="open-submenu"></span><ul><li class="menu-11423 menu-path-node-607536  first   odd   last "><a href="https://hr.harvard.edu/huctw-generic-job-descriptions" >HUCTW Generic Job Descriptions </a></li></ul></li><li class="menu-782899 menu-path-node-1443243   odd   last "><a href="https://hr.harvard.edu/infectious-diseases-public-health-emergencies" >Infectious Diseases-Public Health Emergencies</a></li></ul></li></ul>
+
+  </nav></div>		  <!--main menu region end-->
+		
+    
+		<div id="columns" class="clearfix">
+			<div class="hg-container">
+				<div id="content-column" role="main">
+					<div class="content-inner">
+					  <div class="breadcrumb"><a href="https://hr.harvard.edu/" >HOME</a> <span>&#47;</span> </div>
+													              <a name="main-content"></a>
+															<header id="main-content-header">
+									<a name="main-content"></a>
+                    <h1 id="page-title" ng-non-bindable="">
+                      Jobs                    </h1>
+                </header>
+														
+															<!--front panel regions beg-->
+								<div id="content-panels" class="at-panel gpanel panel-display content clearfix">
+									<div class="region region-content-top"><div class="region-inner clearfix"><div id="block-boxes-1392394023" class="block block-boxes block-boxes-os_slideshow_box no-title"  module="boxes" delta="1392394023"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1392394023' class='boxes-box'><div class="boxes-box-content">
+<div id="layout_16_9_overlay">
+	<div class="slide">
+  <ul class="rslides">
+    
+<li>
+  <a href="https://hr.harvard.edu/how-apply-job" ><img class="image-style-os-slideshow-169-820" src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_slideshow_16%3A9_820/public/humanresources/files/jobs-howtoapply.jpg?m=1721159241&amp;itok=BpXoV5qb" width="820" height="461" alt="Woman on her computer" title="Woman on her computer" /></a>      <div class="caption slide-copy">
+      <h2><a href="https://hr.harvard.edu/how-apply-job" >Reach Your Potential</a></h2>      <p><a href="https://hr.harvard.edu/how-apply-job" >Learn about the application process at Harvard.</a></p>    </div>
+  </li>
+
+
+
+<li>
+  <a href="https://hr.harvard.edu/temporary-employment" ><img class="image-style-os-slideshow-169-820" src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_slideshow_16%3A9_820/public/humanresources/files/temporaryemployment-slide.jpg?m=1598645087&amp;itok=CuzXx_6m" width="820" height="461" alt="Man at home at his desk on his ipad" title="Man at home at his desk on his ipad" /></a>      <div class="caption slide-copy">
+      <h2><a href="https://hr.harvard.edu/temporary-employment" >Interested in flexible employment opportunities?</a></h2>      <p><a href="https://hr.harvard.edu/temporary-employment" >Working on assignment at Harvard in a temporary role is a great way to get to know the University and gain valuable experience.</a></p>    </div>
+  </li>
+
+
+
+<li>
+  <a href="https://hr.harvard.edu/tuition-assistance" ><img class="image-style-os-slideshow-169-820" src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_slideshow_16%3A9_820/public/humanresources/files/jobs-tuitionassistance.jpg?m=1721160165&amp;itok=8CocJfP_" width="820" height="461" alt="Man smiling in a college classroom" title="Man smiling in a college classroom" /></a>      <div class="caption slide-copy">
+      <h2><a href="https://hr.harvard.edu/tuition-assistance" >Education - at the Heart of the Harvard Experience</a></h2>      <p><a href="https://hr.harvard.edu/tuition-assistance" >Tuition assistance supports your education at Harvard or another school.</a></p>    </div>
+  </li>
+
+
+
+<li>
+  <a href="https://hr.harvard.edu/jobs-total-rewards" ><img class="image-style-os-slideshow-169-820" src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_slideshow_16%3A9_820/public/humanresources/files/howtogetanewjob2-slide.jpg?m=1654806177&amp;itok=ye9YI-mT" width="820" height="461" alt="View of Harvard from across the bridge" title="View of Harvard from across the bridge" /></a>      <div class="caption slide-copy">
+      <h2><a href="https://hr.harvard.edu/jobs-total-rewards" >Totally Rewarding</a></h2>      <p><a href="https://hr.harvard.edu/jobs-total-rewards" >Competitive pay, excellent benefits and unbeatable paid time off! </a></p>    </div>
+  </li>
+
+  </ul>
+  
+  
+<!--
+<ul id="rslides-controls">
+</ul>
+--></div>
+</div></div></div></div>
+  </div></div></div></div>									<div class="region region-content-first"><div class="region-inner clearfix"><section id="block-boxes-1392395734" class="block block-boxes block-boxes-os_boxes_html styledboxes"  module="boxes" delta="1392395734"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Why Harvard?</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1392395734' class='boxes-box'><div class="boxes-box-content"><p>
+	<img height="92" width="245" alt="Harvard" class="media-element file-default file-os-files-medium" src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_medium/public/humanresources/files/harvard.png?m=1515603567&amp;itok=8UhxCwPT" title="" />
+</p>
+
+<h3>
+	<a href="humanresources/our-mission-and-culture">Our Mission and Culture</a>
+</h3>
+
+<h3>
+	<a href="humanresources/innovation">Innovation</a>
+</h3>
+
+<h3>
+	<a href="humanresources/sustainability">Sustainability</a>
+</h3>
+</div></div></div>
+  </div></section><section id="block-boxes-1393254161" class="block block-boxes block-boxes-os_boxes_html"  module="boxes" delta="1393254161"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Harvard Careers</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1393254161' class='boxes-box'><div class="boxes-box-content"><h3>
+	<a href="https://hr.harvard.edu/how-apply-job" title="">How to Apply for a Job</a>
+</h3>
+
+<h3>
+	<a href="https://hr.harvard.edu/search-jobs" title="">Search Job Listings</a>
+</h3>
+
+<h3>
+	<a href="https://hr.harvard.edu/jobs-total-rewards" title="">Our Total Rewards</a>
+</h3>
+</div></div></div>
+  </div></section></div></div>									<div class="region region-content-second"><div class="region-inner clearfix"><section id="block-boxes-1393256488" class="block block-boxes block-boxes-os_boxes_html"  module="boxes" delta="1393256488"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Resources for Job Seekers</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1393256488' class='boxes-box'><div class="boxes-box-content"><h3>
+	<a href="https://hr.harvard.edu/job-search-resources-military-community" title="">Veterans</a>
+</h3>
+
+<h3>
+	<a href="https://hr.harvard.edu/jobs-diversity-inclusion" title="">Diversity &amp; Inclusion</a>
+</h3>
+
+<h3>
+	<a href="humanresources/resources-internal-candidates">Internal Job Seekers</a>
+</h3>
+
+<h3>
+	<a href="humanresources/salary-ranges">Salary Ranges and Position Grades for Staff Jobs</a>
+</h3>
+</div></div></div>
+  </div></section></div></div>																	</div>
+								<!--front panel regions end-->
+													
+											</div>
+				</div>
+
+				
+								  <!--sidebar second region beg-->
+				  <div class="region region-sidebar-second sidebar"><div class="region-inner clearfix"><div id="block-boxes-os-pages-section-nav" class="block block-boxes block-boxes-os_boxes_sectionnav section-nav no-title"  module="boxes" delta="os_pages_section_nav"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-os_pages_section_nav' class='boxes-box'><div class="boxes-box-content"><ul class="menu clearfix"><li class="first last expanded active-trail active-trail menu-depth-1 menu-item-55091"><a href="https://hr.harvard.edu/jobs"  class="active-trail active active">Jobs</a><ul class="menu clearfix"><li class="first collapsed menu-depth-2 menu-item-55096"><a href="https://hr.harvard.edu/search-jobs" >Search Jobs</a></li><li class="collapsed menu-depth-2 menu-item-55106"><a href="https://hr.harvard.edu/why-harvard" >Why Harvard</a></li><li class="last collapsed menu-depth-2 menu-item-165581"><a href="https://hr.harvard.edu/talent-acquisition-outreach" >Talent Acquisition and Outreach</a></li></ul></li></ul></div></div></div>
+  </div></div><div id="block-boxes-1530282975" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1530282975"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1530282975' class='boxes-box'><div class="boxes-box-content"><p>
+	<a href="https://www.forbes.com/best-employers/" target="_blank"><img height="116" width="140" style="float: left;" alt="Forbes Best Large Employers" class="media-element file-default file-os-files-small" src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_small/public/humanresources/files/forbesbestlargeemployers.jpg?m=1613489914&amp;itok=58IP9PKc" title="" /></a>
+</p>
+
+<p>
+	Harvard University has been named one of <a href="https://www.forbes.com/best-employers/" target="_blank">America's Best Large Employers</a> for 2021!
+</p>
+</div></div></div>
+  </div></div><section id="block-boxes-1646149240" class="block block-boxes block-boxes-os_boxes_html"  module="boxes" delta="1646149240"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Contact Us</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1646149240' class='boxes-box'><div class="boxes-box-content"><p>
+	<strong><a href="https://hr.harvard.edu/talent-acquisition-outreach" title="">Talent Acquisition and Outreach</a></strong><br />Email: <a href="mailto:employment@harvard.edu">employment@harvard.edu</a>
+</p>
+</div></div></div>
+  </div></section><section id="block-boxes-1397238658" class="block block-boxes block-boxes-os_boxes_html"  module="boxes" delta="1397238658"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Social</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1397238658' class='boxes-box'><div class="boxes-box-content"><h3>
+	<a href="https://www.linkedin.com/showcase/harvard-university-talent-and-careers-connection">Follow us on LinkedIn</a>
+</h3>
+
+</div></div></div>
+  </div></section><section id="block-boxes-1402497118" class="block block-boxes block-boxes-os_sv_list_box"  module="boxes" delta="1402497118"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Frequently Asked Questions</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1402497118' class='boxes-box'><div class="boxes-box-content"><div id='box-1402497118-page' data-page='0' data-delta='1402497118' class='os-sv-list os_sv_list_box sv-list-faq sv-list-view-full sv-list-layout-list sv-grid-3'><article id="node-1225165" class="node node-faq node-sticky article clearfix" role="article" target="_top">
+  
+      <header class="toggle node-header">
+              <h1 class="node-title" rel="nofollow" ng-non-bindable="">
+          <a href="https://hr.harvard.edu/faq/can-i-edit-my-job-application-once-submitted" rel="bookmark" target="_top">Can I edit my job application once submitted?</a>
+        </h1>
+          </header>
+  
+  
+  <div class="os-slider node-content" ng-non-bindable="">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">No. Once an application has been submitted, it cannot be updated or edited.</div></div></div><div class="field field-name-og-vocabulary field-type-entityreference field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">See also: <a href="https://hr.harvard.edu/department/jobs"  target="_top">Jobs</a><span>,</span> <a href="https://hr.harvard.edu/subject/application-process"  target="_top">Application Process</a></div></div></div>  </div>
+
+  
+  
+  </article>
+</div><a href="https://hr.harvard.edu/jobs/faqs"  class="more-link">More</a></div></div></div>
+  </div></section></div></div>				  <!--sidebar second region end-->
+        
+			</div>
+		</div>
+		<!--footer region beg-->
+		<footer id="footer" class="clearfix" role="contentinfo">
+		<!-- Three column 3x33 Gpanel -->
+		
+			<div class="at-panel gpanel panel-display footer clearfix">
+								<div class="region region-footer-first"><div class="region-inner clearfix"><section id="block-boxes-1392322255" class="block block-boxes block-boxes-os_boxes_html"  module="boxes" delta="1392322255"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Administrator Tools</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1392322255' class='boxes-box'><div class="boxes-box-content"><p>
+	<a href="http://trm.brassring.com/harvard" target="_blank">Harvard Careers (HR Users)</a><br /><a href="https://hu.us.fieldglass.cloud.sap/SSOLogin?SSOParams=company%3DHU%3B%3B" target="_blank" title="">Fieldglass</a><br /><a href="http://fss.finance.harvard.edu/applications" target="_blank">Oracle | Financial Systems</a><br /><a href="https://qlik.huit.harvard.edu/qlikview/" target="_blank">HR Analytics</a><br /><a href="https://hrpractitioners.harvard.edu/" target="_blank" title="">HR Intranet</a>
+</p>
+</div></div></div>
+  </div></section></div></div>				<div class="region region-footer"><div class="region-inner clearfix"><section id="block-boxes-1392322313" class="block block-boxes block-boxes-os_boxes_html"  module="boxes" delta="1392322313"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Employee Tools</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1392322313' class='boxes-box'><div class="boxes-box-content"><p>
+	<a href="https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25240&amp;siteid=5341" target="_blank">Harvard Careers</a> (Job Openings/Applications)<br /><a href="https://presents.accp.voya.com/Content/Delivers/harvard/" target="_blank" title="">Voya Financial</a><br /><a href="https://harvardeap.kgreer.com" target="_blank" title="">Employee Assistance Program</a><br /><a href="http://www.directory.harvard.edu" target="_blank">Harvard Directory</a><br /><a href="https://key.harvard.edu/" target="_blank">HarvardKey</a><br /><a href="https://trainingportal.harvard.edu" target="_blank">Harvard Training Portal</a><br /><a href="https://auth.tiaa.org/sp/startSSO.ping?PartnerIdpId=https%3A%2F%2Ffed.huit.harvard.edu%2Fidp%2Fshibboleth&amp;vsid=https://tiaa-cref/ProdHarvard&amp;TargetResource=https://shared.tiaa.org/private/partaccounts/accountHome/home" target="_blank" title="">Harvard University Retirement Center (HURC)</a><br /><a href="https://harviesclassifieds.harvard.edu/home/signin" target="_blank">HARVie Classifieds &amp; Conversations</a><br /><a href="https://linkedinlearning.harvard.edu/" target="_blank">LinkedIn Learning</a><br /><a href="https://www.express-scripts.com/" target="_blank" title="">Express Scripts</a> (Pharmacy Benefit)<br /><a href="https://key-idp.iam.harvard.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=urn:federation:metlife" target="_blank" title="">MetLife Dental Portal</a><br /><a href="http://outlook.com/harvard.edu" target="_blank">Outlook Web App</a><br /><a href="https://harvard.zoom.us/" target="_blank" title="">Zoom at Harvard</a><br /><a href="http://www.commuterchoice.harvard.edu/mbta">Transit Ordering Platform</a><br /><a href="https://www.benstrat.com/harvard/" target="_blank" title="">Tuition Program (TAP/TRP) Self Service</a><br /><a href="https://peoplesoft.harvard.edu" target="_blank">PeopleSoft</a><br /><a href="https://harvardtotalrewards.ehr.com/" target="_blank">My Harvard Total Rewards</a><br /><a href="https://link.harvard.edu/?ref=harvie" target="_blank" title="">Harvard Link</a>
+</p>
+</div></div></div>
+  </div></section></div></div>				<div class="region region-footer-third"><div class="region-inner clearfix"><div id="block-boxes-1392322414" class="block block-boxes block-boxes-os_boxes_html no-title"  module="boxes" delta="1392322414"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1392322414' class='boxes-box'><div class="boxes-box-content"><p>
+	<a href="https://hr.harvard.edu/calendar" title="">Events</a><br /><a href="https://hr.harvard.edu/faq">FAQs</a><br /><a href="mailto:HHRWebmaster@harvard.edu" target="_blank">Contact Us</a><br /><a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy">Digital Accessibility Policy</a>
+</p>
+</div></div></div>
+  </div></div></div></div>				<div class="region region-footer-bottom"><div class="region-inner clearfix"><div id="block-boxes-1449249093" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1449249093"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1449249093' class='boxes-box'><div class="boxes-box-content"><div id="file-554206" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">f8f975513d145b5b186c7391342120dd</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><style>
+ul.nice-menu-down li ul li ul {
+    margin-left: -10px!important;
+}
+.region.region-content-top {
+    min-height: 375px;
+}
+
+</style></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-1515423088" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1515423088"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1515423088' class='boxes-box'><div class="boxes-box-content"><div id="file-962801" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">29291d311b8d0d7b58f139512eaa3694</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+/* Thanks to CSS Tricks for pointing out this bit of jQuery
+http://css-tricks.com/equal-height-blocks-in-rows/
+It's been modified into a function called at page load and then each time the page is resized. One large modification was to remove the set height before each new calculation. */
+
+equalheight = function(container){
+
+var currentTallest = 0,
+     currentRowStart = 0,
+     rowDivs = new Array(),
+     $el,
+     topPosition = 0;
+ $(container).each(function() {
+
+   $el = $(this);
+   $($el).height('auto')
+   topPostion = $el.position().top;
+
+   if (currentRowStart != topPostion) {
+     for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+       rowDivs[currentDiv].height(currentTallest);
+     }
+     rowDivs.length = 0; // empty the array
+     currentRowStart = topPostion;
+     currentTallest = $el.height();
+     rowDivs.push($el);
+   } else {
+     rowDivs.push($el);
+     currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+  }
+   for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+     rowDivs[currentDiv].height(currentTallest);
+   }
+ });
+}
+
+$(window).load(function() {
+  equalheight('.styledboxes');
+});
+
+
+$(window).resize(function(){
+  equalheight('.styledboxes');
+});
+
+</script></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-1571682050" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1571682050"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1571682050' class='boxes-box'><div class="boxes-box-content"><div id="file-1035487" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">fc9a13032bacb87c40ba60137dc06d7c</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><style>
+.gcsc-find-more-on-google-magnifier {
+    fill: #1b4977;
+}
+.gcsc-find-more-on-google {
+    color: #1b4977;
+}
+.gs-image-box.gs-web-image-box.gs-web-image-box-landscape {
+    width: 0;
+}
+.gs-web-image-box-landscape img.gs-image {
+    display: none;
+}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {
+    color: #1b4977;
+
+}
+.region-header-third .googlesearch .gsc-thumbnail-inside {
+    text-align: left;
+}
+.googlesearch .gs-webResult.gs-result a.gs-title:link b,
+.googlesearch .gs-webResult.gs-result a.gs-title:link{
+color: #4384C4!important;
+}
+.googlesearch .gsc-search-button-v2, .googlesearch .gsc-search-button-v2:hover, .googlesearch .gsc-search-button-v2:focus {
+    border-color: #666666;
+    background-color: #4384C4;
+    background-image: none;
+    filter: none;
+}
+.googlesearch form tbody {
+    border-top: 0;
+}
+::-webkit-input-placeholder { color:transparent; }
+
+:-moz-placeholder { /* Firefox 18- */ color:transparent; }
+
+::-moz-placeholder { /* Firefox 19+ */ color:transparent; }
+
+:-ms-input-placeholder { color:transparent; }
+
+div#block-boxes-solr-search-box {
+    display: none;
+}
+.googlesearch input#gsc-i-id1[style] {
+    background: none!important;
+}
+.googlesearch #gsc-i-id1 {
+    left: 0;
+    position: relative;
+}
+.googlesearch #gsc-i-id1 {
+    height: 17px;
+    margin-right: 0;
+    padding: 3px 0 2px 5px;
+    width: 155px;
+}
+.googlesearch table.gsc-search-box .gsc-input-box td {
+    vertical-align: top;
+    padding-top: 0;
+}
+
+.googlesearch table.gsc-search-box td {
+    vertical-align: top;
+}
+.googlesearch .gsib_a {
+    width: 100%;
+    padding: 2px 6px 0!important;
+}
+.googlesearch .gsc-input-box {
+    height: 25px;
+}
+.googlesearch table.gsc-search-box td {
+    vertical-align: top;
+}
+
+.googlesearch .gsc-search-box-tools .gsc-search-box .gsc-input {
+    padding-right: 0;
+}
+.googlesearch table.gsc-search-box {
+    left: 3px;
+    position: relative;
+}
+.googlesearch .gsc-control-cse {
+    background-color: #ffffff!important;
+    border-color: #ffffff!important;
+}
+@media (max-width:1008px){
+.googlesearch {
+    left: inherit;
+}
+.region-header-third .block-boxes-os_boxes_media.open {
+    background-color: #1E1E1E;
+    display: block!important;
+    padding: 17px 0 5px 12px!important;
+    position: absolute;
+    right: 10px;
+    top: 41px;
+    width: 305px!important;
+}
+.googlesearch{
+display:none;
+}
+}
+@media (max-width: 950px){
+.region-header-third .block-boxes-os_boxes_media.open {
+    background-color: #1E1E1E;
+    display: block!important;
+    padding: 17px 0 5px 12px!important;
+    position: absolute;
+    right: 10px;
+    top: 41px;
+    width: 305px!important;
+}
+.region-header-third .block-boxes-os_boxes_media {
+    display: none;
+}
+}
+</style></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-1541095815" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1541095815"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1541095815' class='boxes-box'><div class="boxes-box-content"><div id="file-1000796" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">fullstory</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><script>
+window['_fs_debug'] = false;
+window['_fs_host'] = 'fullstory.com';
+window['_fs_org'] = 'FS6KK';
+window['_fs_namespace'] = 'FS';
+(function(m,n,e,t,l,o,g,y){
+    if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+    g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
+    o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+    y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+    g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
+    g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+    g.consent=function(a){g("consent",!arguments.length||a)};
+    g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+    g.clearUserCookie=function(){};
+})(window,document,window['_fs_namespace'],'script','user');
+</script></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div><div id="block-boxes-1676572318" class="block block-boxes block-boxes-os_boxes_media no-title"  module="boxes" delta="1676572318"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id='boxes-box-1676572318' class='boxes-box'><div class="boxes-box-content"><div id="file-1179036" class="file file-html file-html-embed">
+
+          <h2 class="element-invisible"><a href="">dfa6784aed17d44b3f3b2b7b1d451246</a></h2>
+      
+  
+  <div class="content">
+    <div class="file-info"></div><div class="field field-name-field-html-code field-type-text-long field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><style>
+	
+	#page-title, .node-title, .page-search .title a, #content-column .block.block-boxes-os_boxes_manual_list .links.inline a, .not-front #content-column ul li, .not-front #content-column ol li, .more-link, .page-search #content-column p, .not-front #content-column p, .links a, #footer ul.menu a, .boxes-box-content h2, .section-nav a, #content-column h2, #content-column h3, #content-column h4, #content-column .field-name-body {
+    font-weight: normal;
+}
+ 
+.node-type-page .breadcrumb, .breadcrumb, .breadcrumb a {
+    font-weight: normal;
+}
+
+	
+	</style></div></div></div>  </div>
+
+  
+</div>
+</div></div></div>
+  </div></div></div></div>			</div>
+
+		<!--footer region end-->
+    <div id="powerby-login">
+  	<a href="/user?destination=jobs%3Fadmin_panel%3D1%26login%3D1"  class="footer-login">Admin Login</a>    </div>
+  </footer>
+  </div>
+</div><!--page area ends-->
+
+<div id="extradiv"></div>
+
+  <!--FLEXIBLE ADMIN FOOTER FOR USE BY SELECT GROUPS USING OS-->
+  <div id="branding_footer">
+		<div class="branding-container">
+	    <div class="copyright"><span class="harvard-copyright">Copyright &copy; 2024 The President and Fellows of Harvard College</span>  | <a href="https://accessibility.harvard.edu/" >Accessibility</a> | <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" >Digital Accessibility</a> | <a href="https://www.harvard.edu/copyright-issue/" >Report Copyright Infringement</a></div>		</div>
+  </div>
+
+</div><!-- /page_wrap -->
+
+  <script src="https://hr.harvard.edu/profiles/openscholar/libraries/respondjs/respond.min.js?shsffw"></script>
+<script src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/js/js_s7yA-hwRxnKty__ED6DuqmTMKG39xvpRyrtyCrbWH4M.js?m=1722241266"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"hwpi_classic","theme_token":"v1PTYQ8_lIObqS9T3VyuJ6-C3g630eUiR5zh_P8enkw","jquery_version":"1.8"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/hwpi.harvard.edu\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"jcarousel":{"ajaxPath":"https:\/\/hr.harvard.edu\/jcarousel\/ajax\/views"},"urlIsAjaxTrusted":{"\/jobs":true,"https:\/\/hr.harvard.edu\/search\/site":true},"os_slideshow":{"boxes-box-1392394023":{"pager":true,"nav":true,"timeout":5700,"speed":"700","random":0}},"spaces":{"id":"129141","path":"Harvard Human Resources"},"os_ga":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|docx?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xlsx?|xml|z|zip","trackNavigation":1},"nice_menus_options":{"delay":800,"speed":"slow"},"ogContext":{"groupType":"node","gid":"129141"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});</script>
+<script src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/js/js_2vNg5_WvZWXCdCshi8V-sBy2VfoVkU407An0HODwCrc.js?m=1722241510"></script>
+<script src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/js/js_IR_QH_C78QTRQTSY0G7T-5lbqVDcwSR58lP8L_-T5n0.js?m=1722241395"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script>window.CKEDITOR_BASEPATH = '/profiles/openscholar/libraries/ckeditor/'</script>
+<script src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/js/js_rtAjIRj6IjyxsFd4Q4f0Z1JQHyZvoUqB6nA2D3JkYwk.js?m=1722242999"></script>
+<script src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/js/js_TF0j_xSQPq-6QP1Il7NFw8ppuW60PTAxM0BwHtQXBsA.js?m=1722241266"></script>
+<script src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/js/js_qluyoBMkmyevXrrhnKB_2ie6cLJ7DL5g_0nHm6hyXwA.js?m=1722241266"></script>
+<script src="https://hr.harvard.edu/sites/hwpi.harvard.edu/files/jul-14-zip/js/hr2.js?shsffw"></script>
+</body>
+</html>

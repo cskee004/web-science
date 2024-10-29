@@ -1,0 +1,1704 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script src="/sites/default/files/hotjar/hotjar.script.js?skfm92"></script>
+<meta name="description" content="Harvard Library’s flagship location, Widener Library offers inspiring study spaces, miles of stacks to explore, and friendly librarians ready to help." />
+<link rel="canonical" href="https://library.harvard.edu/libraries/widener" />
+<meta property="og:site_name" content="Harvard Library" />
+<meta property="og:type" content="library" />
+<meta property="og:url" content="https://library.harvard.edu/libraries/widener" />
+<meta property="og:title" content="Widener Library" />
+<meta property="og:description" content="Harvard Library’s flagship location, Widener Library offers inspiring study spaces, miles of stacks to explore, and friendly librarians ready to help." />
+<meta property="og:image" content="https://library.harvard.edu/sites/default/files/2018-06/4Q3A1805%20%281%29darker.jpg" />
+<meta property="og:image:alt" content="Students study inside the Loker Reading Room in Widener Library" />
+<meta itemprop="name" content="Widener Library" />
+<meta itemprop="description" content="Harvard Library’s flagship location, Widener Library offers inspiring study spaces, miles of stacks to explore, and friendly librarians ready to help." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Harvard Library - Widener Library" />
+<meta name="twitter:site" content="@harvardlibrary" />
+<meta name="twitter:url" content="https://library.harvard.edu/libraries/widener" />
+<meta name="twitter:image:alt" content="Students study inside the Loker Reading Room in Widener Library" />
+<meta name="twitter:image" content="https://library.harvard.edu/sites/default/files/2018-06/4Q3A1805%20%281%29darker.jpg" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/harvard/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/default/files/google_tag/ga4/google_tag.script.js?skfm92" defer></script>
+
+    <title>Widener Library | Harvard Library</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_-3CVcbhcjrD8hpPmJzPL_9K_4PEBIq4p7YF1BaPJIA4.css?delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Lora:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_B_vRC4kly_77UEmaji62uAL5P1OVymz5fNeMSXfBArg.css?delta=2&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+
+    
+  </head>
+  <body class="path-node page-node-type-library">
+        <a href="#hl__main-id" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSHSDQ5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <section class="region">
+      
+  </section>
+
+
+  
+  <section class="hl__header region js-header">
+    <nav class="hl__header__container" aria-label="main">
+      <div class="hl__header__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library Homepage">
+            <img class="hl__image " alt="Harvard Library Homepage" height="82" width="110" src="/themes/custom/harvard/assets/images/logo-final.svg">
+          </a>
+        </section>
+      </div>
+
+      <div class="hl__header__menu">
+        <section class="hl__main-nav js-main-nav">
+          <button class="hl__hamburger-button js-hamburger-button" type="button" aria-label="open or close the Main Navigation">
+            <span class="hl__hamburger-button__icon"></span>
+          </button>
+          <div class="hl__main-nav__wrapper">
+            <div class="hl__main-nav__container">
+                
+
+<div class="hl__main-nav__menu">
+          <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-1">
+        Help with...
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-1">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/services-tools" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1326"><span>All Services, Tools & Catalogs</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-library-alum" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1416"><span>Alumni Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/borrow-renew-and-return-library-materials" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1306"><span>Borrowing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/get-support-research-publishing" class="hl__link-tag" title="Get Remote Support for Research &amp; Publishing" data-ga-link="Header Nav" data-drupal-link-system-path="node/9426"><span>Research & Publishing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://library.harvard.edu/services-tools/scan-deliver" class="hl__link-tag" data-ga-link="Header Nav"><span>Scan & Deliver</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/teach-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1356"><span>Teaching</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-2">
+        Collections
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-2">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/explore-collections" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/341"><span>Explore Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://curiosity.lib.harvard.edu/" class="hl__link-tag" data-ga-link="Header Nav"><span>Curated Digital Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-librarys-special-collections-and-archives" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1311"><span>How to Use Special Collections & Archives</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/how-choose-search-tool" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/11134"><span>How to Choose a Search Tool</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/exhibits" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1441"><span>What's on Exhibit</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-3">
+        Events &amp; News
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-3">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://libcal.library.harvard.edu/calendar/main" title="Upcoming Events" class="hl__link-tag" data-ga-link="Header Nav"><span>Events</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/about/news" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/116"><span>News</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-4">
+        Visit &amp; About
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-4">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/libraries" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/171"><span>Locations & Hours</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visitor-access" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/3186"><span>Visitor Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/spaces" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="spaces"><span>Find a Space</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/confronting-anti-black-racism" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10946"><span>Confronting Anti-Black Racism</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/grants-fellowships" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1586"><span>Grants & Fellowships</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/staff" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1466"><span>Staff Profiles</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/about-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10241"><span>About Harvard Library</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+  
+</div>
+
+
+
+  
+
+<div class="hl__main-nav__utility-nav">
+  <section class="hl__utility-nav js-utility-nav">
+                                                                                    <div class="js-utility-nav-item hl__utility-nav__link js-utility-nav-item--hollis">
+                                                  <a href="https://hollis.harvard.edu/primo-explore/account?vid=HVD2&amp;section=overview&amp;lang=en_US" data-icon="user" data-show-title="yes" data-item-type="link" data-item-label="hollis" class="hl__utility-nav__item" title="Sign in to HOLLIS">              <span class="hl__utility-nav__icon hl__utility-nav__item--hollis" aria-hidden="true">
+                <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="user-icon" style="pointer-events:none">
+      <title id="user-icon">Sign in to HOLLIS</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-1156.000000, -35.000000)">
+      <g transform="translate(1065.000000, 1.000000)">
+        <g transform="translate(91.000000, 34.000000)" fill="#1E1E1E" fill-rule="nonzero">
+          <path d="M17.5774327,20 C18.8046827,20 19.8251827,18.9925 19.5558077,17.795125 C18.5516827,13.333125 14.5650577,11.875 9.79980771,11.875 C5.03454521,11.875 1.04763271,13.333125 0.0435327056,17.795125 C-0.225904794,18.9925 0.794582706,20 2.02188271,20 L17.5774327,20 Z"></path>
+          <path d="M14.7996827,5 C14.7996827,7.761375 12.5610577,10 9.79968271,10 C7.03823271,10 4.79965771,7.761375 4.79965771,5 C4.79965771,2.238575 7.03823271,0 9.79968271,0 C12.5610577,0 14.7996827,2.238575 14.7996827,5 Z"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+
+              </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hollis ">MyHOLLIS</span>
+                          </a>
+              </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--ask">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--ask" id="hl__utility-nav__button-2" title="Ask a Librarian, contact us with your question" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--ask" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" role="img" aria-labelledby="ask-icon" style="pointer-events:none">
+      <title id="ask-icon">Ask a Librarian, contact us with your question</title>
+    <g>
+    <g transform="translate(-34 -74)"><path d="M41 81h-2v2h2zm4 0h-2v2h2zm4 0h-2v2h2zm3-7a2 2 0 0 1 2 2v18l-4-4H36a2 2 0 0 1-2-2V76c0-1.1.9-2 2-2z"></path>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--ask ">Ask</span>
+                                    </button>
+                      <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__dropdown-tray">
+      <div class="hl__dropdown-tray__container">
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--searchbox">
+          <h2 class="hl__comp-heading">Ask <span class="hl__dropdown-tray__heading--lora">a Librarian</span></h2>
+          <section class="hl__single-input-form  ">
+            <form class="hl__single-input-form__form" action="https://ask.library.harvard.edu/search" method="GET" autocomplete="off">
+              <label class="hl__label hl__label--inline" for="text-input">Ask a librarian</label>
+              <div class="hl__single-input-form__input-group">
+                                  <input class="hl__input hl__input--inline js-is-required" name="q" id="text-input" type="text" placeholder="Try &quot;printer help&quot; or &quot;Zotero&quot;" data-type="text" required="" autocomplete="off">
+                                <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label="">
+                  Go
+                </button>
+              </div>
+            </form>
+          </section>
+        </div>
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--links">
+          <div class="hl__linked-list hl__linked-list--no-bullets ">
+            <h2 class="hl__comp-heading  ">More help options</h2>
+            <ul class="hl__linked-list__items">
+                              <li class="hl__linked-list__item">
+                  <a href="/services-tools/library-liaisons" class="hl__link-tag">Find my subject liaison</a>
+                </li>
+                              <li class="hl__linked-list__item">
+                  <a href="https://harvard.az1.qualtrics.com/jfe/form/SV_09DXHPBmaMSnqdL" class="hl__link-tag">Request a research appointment</a>
+                </li>
+                          </ul>
+          </div>
+          <!-- "Library.Harvard Chat Widget" embedded from ask.library.harvard.edu -->
+          <!-- update styles in sprinshare interface -->
+          <div id="hl__chat-button">
+            <div id="libchat_90b85bdd1489a074045c2519ad2fc1a5" class="hl__chat-button">
+              <p class="hl__chat-button__placeholder">Let's chat!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+                                            </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--hours">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--hours" id="hl__utility-nav__button-3" title="Library locations and hours" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--hours" aria-hidden="true">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="clock-icon" style="pointer-events:none">
+      <title id="clock-icon">Library locations and hours</title>
+    <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hours ">Hours</span>
+                                    </button>
+                                <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+                  <section class="hl__featured-libraries">
+      <div class="hl__featured-libraries__container">
+        <div class="hl__featured-libraries__today">
+          <h2>
+            <span class="hl__highlighted-text">Saturday, Sep 28, 2024</span>
+          </h2>
+        </div>
+                  <ul class="hl__featured-libraries__items">
+              <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/widener" class="hl__link-tag"><span>Widener Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">9am - 5pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/lamont" class="hl__link-tag"><span>Lamont Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">11am - 10pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/cabot" class="hl__link-tag"><span>Cabot Science Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">12pm - 10pm</span>
+</div>
+
+  </li>
+
+                          <li class="hl__featured-libraries__item hl__featured-libraries__item--more">
+                <h3 class="hl__featured-libraries__all"><span>see all locations</span></h3>
+                <div class="hl__featured-libraries__see-more">
+              <span class="hl__featured-libraries__more-icon">
+                <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+              </span>
+                  <span class="hl__featured-libraries__more-link">
+                      <a href="/libraries?active_filter=1" class="hl__link-tag hl__link-tag--with-arrow" #title="See more library hours"><span>Hours for all 25&plus; locations</span></a>
+
+                  </span>
+                </div>
+              </li>
+                      </ul>
+              </div>
+    </section>
+  
+
+      </div>
+</div>
+                                  </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--search">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--search" id="hl__utility-nav__button-4" title="Search" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--search" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17" role="img" aria-labelledby="search-icon" style="pointer-events:none">
+      <title id="search-icon">Search</title>
+    <g>
+    <g transform="translate(-158 -656)"><path d="M170.15 666.7l4.85 4.85-1.45 1.45-4.86-4.85v-.77l-.26-.27a6.32 6.32 0 1 1 .68-.68l.27.26zm-5.83 0a4.37 4.37 0 1 0 .01-8.74 4.37 4.37 0 0 0-.01 8.73z"></path></g>
+  </g>
+</svg>
+
+            </span>
+                                    </button>
+                                          <div class="hl__utility-nav__dropdown js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small js-utility-nav-back-button" aria-label="close dropdown menu" tabindex="-1"><span class="hl__button__text">back</span></button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__single-input-form hl__single-input-form--clear js-search-dropdown">
+      <form class="hl__single-input-form__form" action="/search" method="GET" autocomplete="off">
+        <label class="hl__label hl__label--hidden" for="utility-nav-search-input">Search website or HOLLIS catalog</label>
+        <div class="hl__single-input-form__input-group">
+          <input class="hl__input hl__input--inline js-is-required" name="keywords" id="utility-nav-search-input" type="text" placeholder="" data-type="text" required="" autocomplete="off" />
+          <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label=""><span class="hl__button__text">Search</span></button>
+        </div>
+        <div class="hl__single-input-form__dropdown">
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in website" id="search-website-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>website (library.harvard)</span>
+            </a>
+          </div>
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in library catalog" id="search-hollis-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>library catalog &amp; articles (HOLLIS)</span>
+            </a>
+          </div>
+        </div>
+      </form>
+    </section>
+    <div class="hl__utility-nav__helper-text">
+      <section class="hl__rich-text">
+        <p>Search website or HOLLIS catalog</p>
+      </section>
+    </div>
+  </div>
+</div>
+                        </div>
+      
+  </section>
+</div>
+
+
+
+            </div>
+          </div>
+        </section>
+      </div>
+    </nav>
+  </section>
+  <div class="hl__header__sticky-gap"></div>
+
+
+<main id="hl__main-id" class="hl__full-template hl__library-details" tabindex="-1">
+
+  
+        <section class="hl__full-template__pre-content hl__library-details__pre-content region">
+      <div id="block-breadcrumbs" data-block-plugin-id="system_breadcrumb_block">
+            <nav role="navigation" aria-labelledby="system-breadcrumb"  class="hl__breadcrumb hl__breadcrumb--light">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+
+    <ul class="hl__breadcrumb__items">
+                        <li class="hl__breadcrumb__item">
+            <a href="/"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Home">Home</a>
+          </li>
+                                <li class="hl__breadcrumb__item">
+            <a href="/libraries"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Locations &amp; Hours">Locations &amp; Hours</a>
+          </li>
+                  </ul>
+  </nav>
+
+      </div>
+
+  
+    
+
+<section  class="hl__page-header hl__page-header--light">
+  <div class="hl__page-header__container">
+    <div class="hl__page-header__page-title">
+        <h1 class="hl__page-title"><span>Widener Library</span>
+</h1>
+    </div>
+    <div class="hl__page-header__sub-text">
+        <div class="hl__sub-text"></div>
+    </div>
+  </div>
+</section>
+
+  <div class="hl__library-details__bg-overlay hl__library-details__bg-overlay--dark"></div>
+
+<style>
+  .hl__library-details__pre-content {
+    background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_narrow/public/2018-06/4Q3A1805%20%281%29darker.jpg?h=1df0533a&itok=AmmJC-kP');
+  }
+
+  @media (min-width: 800px) {
+    .hl__library-details__pre-content {
+      background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_wide/public/2018-06/4Q3A1805%20%281%29darker.jpg?h=1df0533a&itok=L-kTNLUn');
+    }
+  }
+</style>
+
+
+
+
+
+
+    
+  <div class="hl__library-details__jump-links">
+    <div class="hl__jump-links js-jump-links hl__jump-links--primary">
+                                                                                                        <div class="hl__jump-links__navigation">
+        <nav class="hl__jump-links__items" aria-label="in-page">
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#using-the-library" class="hl__link-tag"><span>Using the Library</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#whats-happening" class="hl__link-tag"><span>What&#039;s Happening</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#collections" class="hl__link-tag"><span>Collections</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#history" class="hl__link-tag"><span>History</span></a>
+            </div>
+                  </nav>
+      </div>
+    </div>
+  </div>
+
+
+
+  </section>
+
+  
+    <section class="hl__full-template__main-content region">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-harvard-content" data-block-plugin-id="system_main_block">
+  
+    
+      
+<article>
+  
+
+  <div class="hl__library-details__info">
+    <a name="library-info" id="library-info"></a>
+     <section class="hl__library-info">
+      <div class="hl__library-info__container ">
+        <div class="hl__library-info__hours">
+          <section class="hl__library-hours">
+            <div class="hl__library-hours__icon">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+                <g>
+                  <g transform="translate(-188 -510)">
+                    <g>
+                      <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+                    </g>
+                    <g>
+                      <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+                    </g>
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <div class="hl__library-hours__today">
+              Today: 9am - 5pm
+            </div>
+                        <div class="hl__library-hours__see-all">
+                <a href="/libraries?active_filter=1&amp;library=widener&amp;weeks=1" class="hl__link-tag hl__link-tag--with-arrow" title="See all hours for Widener Library" data-ga-link="Text Link: In-Line Arrow"><span>See All Hours</span></a>
+
+            </div>
+                      </section>
+        </div>
+                <div class="hl__library-info__summary">
+          <h2 class="hl__comp-heading  ">Highlights</h2>
+          <div class="hl__library-info__highlights">
+            <section class="hl__rich-text  ">
+              <p>  Harvard Library’s flagship location, Widener Library offers inspiring study spaces, miles of stacks to explore, and friendly librarians ready to help.
+</p>
+              <ul>
+      <li>450 languages collected</li>
+      <li>6 million+ items digitized</li>
+      <li>Home to a Gutenberg Bible</li>
+      <li>Host of CS50 &amp; HUM10 classes</li>
+  </ul>
+
+            </section>
+          </div>
+                    <div class="hl__library-info__access">
+            <section class="hl__rich-text  ">
+                                Open to Harvard ID holders, who may bring up to four guests. 
+
+                                            <div class="hl__rich-text__see-all-link">
+                    <a href="/visitor-access" class="hl__link-tag hl__link-tag--with-arrow" data-ga-link="Text Link: In-Line Arrow"><span>Full access policy</span></a>
+
+                </div>
+                          </section>
+          </div>
+        </div>
+                  <div class="hl__library-info__cta hl__library-info__cta--social">
+            <section class="hl__pattern-cta hl__pattern-cta--small">
+              <div class="hl__pattern-cta__container">
+                <div class="hl__pattern-cta__text">
+                  <div class="hl__pattern-cta__title">Follow Widener Library</div>
+                  <div class="hl__pattern-cta__description">You can find us on Instagram and Twitter</div>
+                </div>
+                <div class="hl__pattern-cta__links">
+                  <div class="hl__pattern-cta-icon"><a class="hl__icon-link" href="https://www.instagram.com/harvard.library/" title="follow us on Instagram"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 15 15"><defs><path id="vqi3a2" d="M1331.5 1577.6a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8zm-4 7.4a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm0-6.35a3.85 3.85 0 1 1 0 7.7 3.85 3.85 0 0 1 0-7.7zm0-3.65c2.04 0 2.3 0 3.1.05 2.72.12 4.23 1.64 4.35 4.36.04.8.05 1.05.05 3.09s0 2.3-.05 3.1c-.12 2.72-1.64 4.23-4.36 4.36-.8.03-1.05.04-3.09.04s-2.3 0-3.1-.04c-2.72-.13-4.23-1.64-4.36-4.37-.03-.8-.04-1.05-.04-3.09s0-2.3.05-3.1c.12-2.72 1.63-4.23 4.36-4.36.8-.03 1.05-.04 3.09-.04zm0 1.35c-2 0-2.24 0-3.03.05-2.04.09-2.98 1.05-3.08 3.07-.03.8-.04 1.03-.04 3.03 0 2 0 2.24.05 3.03.09 2.01 1.03 2.98 3.07 3.08.79.03 1.03.04 3.03.04 2 0 2.24 0 3.03-.04 2.04-.1 2.98-1.06 3.08-3.08.03-.79.04-1.03.04-3.03 0-2 0-2.24-.05-3.03-.09-2.02-1.04-2.98-3.07-3.07-.79-.04-1.03-.05-3.03-.05z"></path></defs><g><g transform="translate(-1320 -1575)"><use fill="#E1306C" xlink:href="#vqi3a2"></use></g></g></svg></a></div><div class="hl__pattern-cta-icon"><a class="hl__icon-link" href="https://twitter.com/harvardlibrary" title="follow us on Twitter"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="17" viewBox="0 0 20 17"><defs><path id="7gyva" d="M1386.63 1059.5c.87-.5 1.5-1.25 1.74-2.25a8.2 8.2 0 0 1-2.62 1 4.36 4.36 0 0 0-3-1.25c-2.13 0-4 1.88-4 4.13 0 .37 0 .62.13.87a11.5 11.5 0 0 1-8.5-4.25c-.38.63-.5 1.25-.5 2.13a4.1 4.1 0 0 0 1.87 3.37c-.63 0-1.25-.25-1.88-.5 0 2 1.38 3.63 3.26 4-.38.13-.76.13-1.13.13-.25 0-.5 0-.75-.13.5 1.63 2 2.88 3.88 2.88a7.95 7.95 0 0 1-5.13 1.74h-1a12.2 12.2 0 0 0 6.25 1.88c7.5 0 11.63-6.25 11.63-11.63v-.5a7.27 7.27 0 0 0 2.12-2.24c-.75.37-1.5.5-2.38.62z" /></defs><g><g transform="translate(-1369 -1057)"><use fill="#1da1f2" xlink:href="#7gyva" /></g></g></svg></a></div>                </div>
+              </div>
+            </section>
+          </div>
+
+                <div class="hl__library-info__sidebar js-accordion">
+          <div class="hl__library-info__contact">
+            <section class="hl__contact-info">
+              <h2 class="hl__comp-heading  ">Contact</h2>
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                  <div class="hl__contact-info__address">    <span class="address-line1">1 Harvard Yard</span>
+ <br />
+
+      Cambridge,
+    <span class="administrative-area">MA</span>
+ <span class="postal-code">02138</span>
+
+</div>
+                  <div class="hl__contact-info__directions">
+                    <span class="hl__contact-info__icon" aria-hidden="true"> <svg height="17" viewbox="0 0 12 17" width="12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M994 1676c3.32 0 6 2.66 6 5.95 0 4.46-6 11.05-6 11.05s-6-6.59-6-11.05a5.97 5.97 0 0 1 6-5.95zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4z" id="jpn3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-988 -1676)">
+            <use fill="silver" xlink:href="#jpn3a">
+            </use>
+        </g>
+    </g>
+</svg>
+</span>
+                    <a class="hl__link-tag" href="https://www.google.com/maps/place/Widener+Library/@42.3734309,-71.116519,15z/data=!4m2!3m1!1s0x0:0xd094748bb4eaa34a?sa=X&amp;ved=0ahUKEwiGqe2b3bDbAhVM54MKHUc5BtYQ_BIIsAEwDg" title="Get directions to Widener Library">
+                      <span>Directions</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="hl__contact-info">
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                                      <ul class="hl__contact-info__items hl__contact-info__items--email">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="12px" viewBox="0 0 15 12"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-845.000000, -677.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M57.5,165 L45.5,165 C44.675,165 44.0075,165.675 44.0075,166.5 L44,175.5 C44,176.325 44.675,177 45.5,177 L57.5,177 C58.325,177 59,176.325 59,175.5 L59,166.5 C59,165.675 58.325,165 57.5,165 L57.5,165 Z M58,168.428571 L52,172 L46,168.428571 L46,167 L52,170.571429 L58,167 L58,168.428571 L58,168.428571 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <span class="hl__contact-info__email"><a href="mailto:widren@fas.harvard.edu" class="hl__link-tag">  <span class="hl__visually-hidden">email:</span>
+  <span>widren@fas.harvard.edu</span>
+</a></span>
+                      </li>
+                    </ul>
+                                                        <ul class="hl__contact-info__items hl__contact-info__items--phone">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="15px" viewBox="0 0 15 15"
+     version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-846.000000, -702.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M48.0166667,196.491667 C49.2166667,198.85 51.15,200.775 53.5083333,201.983333 L55.3416667,200.15 C55.5666667,199.925 55.9,199.85 56.1916667,199.95 C57.125,200.258333 58.1333333,200.425 59.1666667,200.425 C59.625,200.425 60,200.8 60,201.258333 L60,204.166667 C60,204.625 59.625,205 59.1666667,205 C51.3416667,205 45,198.658333 45,190.833333 C45,190.375 45.375,190 45.8333333,190 L48.75,190 C49.2083333,190 49.5833333,190.375 49.5833333,190.833333 C49.5833333,191.875 49.75,192.875 50.0583333,193.808333 C50.15,194.1 50.0833333,194.425 49.85,194.658333 L48.0166667,196.491667 L48.0166667,196.491667 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <a href="tel: 617-495-2413" class="hl__contact-info__phone">  <span class="hl__contact-info__label hl__visually-hidden">Phone number</span>
+   617-495-2413
+</a>
+                      </li>
+                    </ul>
+                                  </div>
+              </div>
+            </section>
+          </div>
+          <div class="js-accordion-content">
+            <div class="hl__library-info__links">
+              <section class="hl__contact-info">
+                <div class="hl__contact-info__list">
+                  <div class="hl__contact-info__section">
+                                      </div>
+                </div>
+              </section>
+              <div class="hl__library-info__links-buttons">
+                                    <a href="/staff?active_filter=1&amp;library=186" class="hl__library-info__contact-buttons hl__button hl__button--small" title="View Widener Staff">View Widener Staff</a>
+
+                              </div>
+            </div>
+                          <div class="hl__library-info__connect">
+              <section class="hl__icon-list">
+                                  <div class="hl__icon-list__label">Connect with Widener Library</div>
+                                <ul class="hl__icon-list__items">
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="https://twitter.com/harvardlibrary" title="Twitter">
+                        <span role="presentation">
+                          <svg height="12" viewbox="0 0 15 12" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1333.22 1552.85a2.62 2.62 0 0 0 1.31-1.67 6.2 6.2 0 0 1-1.97.74 3.3 3.3 0 0 0-2.25-.92c-1.6 0-3 1.38-3 3.05 0 .27 0 .46.1.64a8.67 8.67 0 0 1-6.38-3.14 2.8 2.8 0 0 0-.37 1.57c0 1.02.56 1.94 1.4 2.5-.47 0-.93-.19-1.4-.37a3 3 0 0 0 2.43 2.95c-.28.1-.56.1-.84.1-.19 0-.38 0-.56-.1a3.03 3.03 0 0 0 2.9 2.12 6.02 6.02 0 0 1-3.84 1.3h-.75c1.4.83 3 1.38 4.69 1.38a8.6 8.6 0 0 0 8.72-8.58v-.37a5.4 5.4 0 0 0 1.59-1.67c-.56.28-1.13.37-1.78.47z" id="1es3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1320 -1551)">
+            <use fill="silver" xlink:href="#1es3a">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="https://www.instagram.com/harvard.library/" title="Instagram">
+                        <span role="presentation">
+                          <svg height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1331.5 1577.6a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8zm-4 7.4a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm0-6.35a3.85 3.85 0 1 1 0 7.7 3.85 3.85 0 0 1 0-7.7zm0-3.65c2.04 0 2.3 0 3.1.05 2.72.12 4.23 1.64 4.35 4.36.04.8.05 1.05.05 3.09s0 2.3-.05 3.1c-.12 2.72-1.64 4.23-4.36 4.36-.8.03-1.05.04-3.09.04s-2.3 0-3.1-.04c-2.72-.13-4.23-1.64-4.36-4.37-.03-.8-.04-1.05-.04-3.09s0-2.3.05-3.1c.12-2.72 1.63-4.23 4.36-4.36.8-.03 1.05-.04 3.09-.04zm0 1.35c-2 0-2.24 0-3.03.05-2.04.09-2.98 1.05-3.08 3.07-.03.8-.04 1.03-.04 3.03 0 2 0 2.24.05 3.03.09 2.01 1.03 2.98 3.07 3.08.79.03 1.03.04 3.03.04 2 0 2.24 0 3.03-.04 2.04-.1 2.98-1.06 3.08-3.08.03-.79.04-1.03.04-3.03 0-2 0-2.24-.05-3.03-.09-2.02-1.04-2.98-3.07-3.07-.79-.04-1.03-.05-3.03-.05z" id="vqi3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1320 -1575)">
+            <use fill="silver" xlink:href="#vqi3a">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="http://widenerlibrary.tumblr.com/" title="Tumblr">
+                        <span role="presentation">
+                          <svg height="15" viewbox="0 0 9 15" width="9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1331.93 1640.07c-.5.54-1.7.91-2.76.93h-.12c-3.57 0-4.35-2.6-4.35-4.12v-4.22h-1.4a.3.3 0 0 1-.3-.3v-1.98c0-.21.13-.4.33-.47 1.84-.64 2.41-2.23 2.5-3.43.02-.32.2-.48.47-.48h2.1c.17 0 .3.13.3.3v3.37h2.45c.17 0 .3.13.3.29v2.4a.3.3 0 0 1-.3.28h-2.46v3.9c0 .99.65 1.26 1.05 1.26.39-.01.77-.13.96-.2.14-.06.26-.1.38-.07.1.02.17.1.21.23l.65 1.88c.06.15.1.32 0 .43" id="36qta">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1323 -1626)">
+            <use fill="silver" xlink:href="#36qta">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                                  </ul>
+              </section>
+            </div>
+                      </div>
+          <div class="hl__library-info__more-info">
+            <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more contact information">
+              <span class="hl__link-tag__toggle-text">Less contact information</span> <span>More contact information</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+        <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="using-the-library" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Using the Library
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_how_tos-3116" tabindex="-1">
+        <section class="hl__staggered-type-list">
+      <header class="hl__staggered-type-list__header">
+                          <div class="hl__staggered-type-list__description">
+            <section  class="hl__rich-text">
+              
+            </section>
+          </div>
+              </header>
+      <div class="hl__staggered-type-list__list-wrapper">
+        <div class="hl__staggered-type-list__list">
+            <a class="hl__type-promo" href="/how-to/borrow-renew-and-return-library-materials" title="Borrow, Renew, and Return Library Materials" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/usp-askus-complete01.jpg?h=59a16682&itok=A5mzCY2c')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Borrow, Renew, and Return Library Materials</h3>
+          <div class="hl__type-promo__description">
+          Connect with the library materials you need to get your work done.
+
+      </div>
+      </div>
+</a>
+
+  <a class="hl__type-promo" href="/how-to/use-harvard-library-alum" title="Use Harvard Library as an Alum" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/shutterstock_183529466.jpg?h=19f108c5&itok=HpcYgEsA')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Use Harvard Library as an Alum</h3>
+          <div class="hl__type-promo__description">
+          Access a growing number of electronic resources available to alumni and find out how to visit libraries.
+
+      </div>
+      </div>
+</a>
+
+
+        </div>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-17610" tabindex="-1">
+        <section class="hl__show-more-text"><div  id="showMoreText17610"><section class="hl__rich-text"><h3>Accessibility of Widener Library&nbsp;</h3><ul><li>The Mass Ave. entrance to Widener Library is accessible by automatic door. You can access all floors of the building via elevator.</li><li>There is an accessible workstation with Zoomtext and JAWS software installed in Room 180 on the first floor. The Atkins Reading Room on the second floor has an adjustable height desk.</li><li>There is an accessible, all-gender restroom on the ground floor of Widener Library, near the Mass Ave entrance.There are two accessible single-use, all-gender restrooms on the 2nd floor.&nbsp;&nbsp;</li></ul><p>Contact Widener Access Services staff member, Francesca Giacchino, <a href="mailto:fgiacch@fas.harvard.edu">fgiacch@fas.harvard.edu</a>, with questions about accessibility of elevators, study spaces, and restrooms.</p></section></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_services-2556" tabindex="-1">
+        <section class="hl__category-teaser-grid"><h3  class="hl__comp-heading">  Services &amp; Tools
+</h3><div class="hl__category-teaser-grid__description"><section  class="hl__rich-text"></section></div><div class="hl__category-teaser-grid__grid"><a class="hl__category-teaser" href="https://ask.library.harvard.edu/index.php" title="Ask a Librarian "><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Ask a Librarian </span><span class="hl__link-tag__external-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20"><g><g transform="translate(-906 -1005)"><path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path></g></g></svg></span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Get immediate help during our live chat hours, or submit a question.
+
+      </section></div></div></a><a class="hl__category-teaser" href="/services-tools/research-consultations" title="Research Consultations"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Research Consultations</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Get personalized guidance from one of our library specialists online or in-person—no question is too small.
+
+      </section></div></div></a><a class="hl__category-teaser" href="http://nrs.harvard.edu/urn-3:hul.ois:databases" title="Database Search"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="59" height="74" viewBox="0 0 59 74"><path fill-rule="evenodd" d="M15.0029446,39.0583559 C12.6597224,31.3633515 14.518336,22.6567971 20.6052471,16.5752284 C27.3364897,9.84405918 37.2687363,8.28910797 45.5016425,11.873021 L35.074658,22.2998918 C33.6741505,23.700384 33.6741505,25.9743263 35.074658,27.3749548 L41.6248557,33.9250811 C43.0253632,35.3255733 45.2993303,35.3255733 46.6999741,33.9250811 L57.1269585,23.4982103 C60.7109107,31.731163 59.1559425,41.6624834 52.4246999,48.3943342 C46.3378843,54.4810834 37.6357339,56.3449527 29.9413272,53.9965755 L1.55763687,82.3799563 C-1.93579284,85.8733479 -7.60203357,85.8733479 -11.0900101,82.3799563 L-13.3799277,80.0900637 C-16.8733574,76.6019888 -16.8733574,70.9359462 -13.3799277,67.4425546 L15.0029446,39.0583559 Z" transform="translate(0 -10)"></path></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Tool
+</div><h3 class="hl__category-teaser__title"><span>Database Search</span><span class="hl__link-tag__external-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20"><g><g transform="translate(-906 -1005)"><path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path></g></g></svg></span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          A catalog to find the specialized search engine that has what you need—identifying and connecting to the best databases for your research topic.
+
+      </section></div></div></a><a class="hl__category-teaser" href="https://hollis.harvard.edu" title="HOLLIS"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="59" height="74" viewBox="0 0 59 74"><path fill-rule="evenodd" d="M15.0029446,39.0583559 C12.6597224,31.3633515 14.518336,22.6567971 20.6052471,16.5752284 C27.3364897,9.84405918 37.2687363,8.28910797 45.5016425,11.873021 L35.074658,22.2998918 C33.6741505,23.700384 33.6741505,25.9743263 35.074658,27.3749548 L41.6248557,33.9250811 C43.0253632,35.3255733 45.2993303,35.3255733 46.6999741,33.9250811 L57.1269585,23.4982103 C60.7109107,31.731163 59.1559425,41.6624834 52.4246999,48.3943342 C46.3378843,54.4810834 37.6357339,56.3449527 29.9413272,53.9965755 L1.55763687,82.3799563 C-1.93579284,85.8733479 -7.60203357,85.8733479 -11.0900101,82.3799563 L-13.3799277,80.0900637 C-16.8733574,76.6019888 -16.8733574,70.9359462 -13.3799277,67.4425546 L15.0029446,39.0583559 Z" transform="translate(0 -10)"></path></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Tool
+</div><h3 class="hl__category-teaser__title"><span>HOLLIS</span><span class="hl__link-tag__external-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20"><g><g transform="translate(-906 -1005)"><path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path></g></g></svg></span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          HOLLIS is Harvard Library&#039;s catalog. Search HOLLIS for books, articles, media and more.
+
+      </section></div></div></a></div><div class="hl__category-teaser-grid__see-all"><a href="/services-tools" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See All Library Services &amp; Tools</span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="fancy_links-3256" tabindex="-1">
+      <section class="hl__fancy-link-list "><h3 class="hl__comp-heading">  Widener Resources
+</h3><div class="hl__fancy-link-list__description"><section class="hl__rich-text"></section></div><div class="hl__fancy-link-list__grid"><a href="https://library.harvard.edu/sites/default/files/2022-10/Widener%20Call%20Number%20Map%202022.pdf" class="hl__fancy-link hl__fancy-link--external" title="Widener Library Call Number Locations (PDF)"><span class="hl__fancy-link__text">Widener Library Call Number Locations (PDF)</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://harvard.az1.qualtrics.com/jfe/form/SV_5sy1xFu8wO2mlxP" class="hl__fancy-link hl__fancy-link--external" title="Request a Study Carrel"><span class="hl__fancy-link__text">Request a Study Carrel</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-2561" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="whats-happening" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  What&#039;s Happening
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_exhibitions-14591" tabindex="-1">
+        <section class="hl__featured-events">
+              <header class="hl__featured-events__header hl__featured-events__header--left">
+                      <h3 class="hl__comp-heading hl__comp-heading--left ">  Virtual Exhibit
+</h3>
+                  </header>
+      
+      <div class="hl__featured-events__content hl__featured-events__content--1">
+          
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/inside-widener-library" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/080918_features_5103.jpg?itok=5i8Fr-RS)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Inside Widener Library</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  Harvard&#039;s famous Widener Library
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Through Saturday, Feb 15, 2025
+              </span>
+    </div>
+  </div>
+</a>
+
+
+      </div>
+
+      
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_events-6531" tabindex="-1">
+                  <section class="hl__event-grid hl__event-grid--triple">
+                    <div class="hl__event-grid__container">
+            <h3 class="hl__comp-heading">  Upcoming Events
+</h3>
+            <div class="hl__event-grid__events">
+                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/12414585" title="See details about &quot;Widener Library Tour&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">Widener Library Tour</h3>
+                    <div class="hl__event-teaser__type">Library Tour</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Thursday, Oct 3, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        2:00 PM
+                                                  - 3:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Widener Library
+                      </div>
+                                      </div>
+                </a>
+                                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/12898617" title="See details about &quot;Developing and Delivering Interview Questions&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">Developing and Delivering Interview Questions</h3>
+                    <div class="hl__event-teaser__type">Workshop</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Thursday, Oct 10, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        1:30 PM
+                                                  - 3:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Widener Library
+                      </div>
+                                      </div>
+                </a>
+                                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/12414586" title="See details about &quot;Widener Library Tour&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">Widener Library Tour</h3>
+                    <div class="hl__event-teaser__type">Library Tour</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Thursday, Oct 10, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        2:00 PM
+                                                  - 3:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Widener Library
+                      </div>
+                                      </div>
+                </a>
+                                          </div>
+                          <div class="hl__event-grid__see-all">
+                  <a href="/events" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See All Library Events</span></a>
+
+              </div>
+                      </div>
+        </section>
+        </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="recent_news-10441" tabindex="-1">
+        <section class="hl__teaser-grid">
+      <div class="hl__teaser-grid__container">
+        <h3 class="hl__comp-heading">Recent News</h3>
+
+                <div>
+  
+  
+  
+
+  
+  
+  
+
+  <section class="hl__teaser-grid ">
+  <div class="hl__teaser-grid__container">
+    <div class="hl__teaser-grid__grid">
+              
+<a  data-ga-link="Featured Stories" class="hl__teaser-link" href="/about/news/2024-07-23/17-books-soak-summer" title="17 Books to Soak Up This Summer ">
+  
+  <div class="hl__teaser-link__container">
+          <div class="hl__teaser-link__image">
+        <img class="hl__image" alt="sunrise graphic with covers of books in the body of the sun" src="https://library.harvard.edu/sites/default/files/styles/extra_large_600_x_600/public/screenshot-2024-07-11-at-11.50.47_am_0.jpg?itok=lNGWuXfx" width="107" height="190" />
+      </div>
+        <div class="hl__teaser-link__details">
+      <div class="hl__teaser-link__subject hl__teaser-link__subject--with-date"></div>
+      <div class="hl__teaser-link__date">  <time datetime="2024-07-22T12:00:00Z">July 22, 2024</time>
+
+</div>
+      <h4 class="hl__teaser-link__title"><span>17 Books to Soak Up This Summer </span>
+</h4>
+      <div class="hl__teaser-link__description">
+        <section class="hl__rich-text">
+          <p>  Harvard Library staff recommendations cover romance, fantasy, sci-fi, mystery, memoir, music, politics, history 
+</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</a>
+
+              
+<a  data-ga-link="Featured Stories" class="hl__teaser-link" href="/about/news/2024-06-18/yard-libraries-reimagined" title="The Yard Libraries, Reimagined">
+  
+  <div class="hl__teaser-link__container">
+          <div class="hl__teaser-link__image">
+        <img class="hl__image" alt="a group of people standing in a futuristic imagining of Pusey Library" src="https://library.harvard.edu/sites/default/files/styles/extra_large_600_x_600/public/hm_ja24_page_52_image_0001_0.jpg?itok=aIMNwS07" width="107" height="190" />
+      </div>
+        <div class="hl__teaser-link__details">
+      <div class="hl__teaser-link__subject hl__teaser-link__subject--with-date"></div>
+      <div class="hl__teaser-link__date">  <time datetime="2024-07-01T12:00:00Z">July 1, 2024</time>
+
+</div>
+      <h4 class="hl__teaser-link__title"><span>The Yard Libraries, Reimagined</span>
+</h4>
+      <div class="hl__teaser-link__description">
+        <section class="hl__rich-text">
+          <p>  An ambitious plan for the next century of learning 
+</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</a>
+
+          </div>
+  </div>
+</section>
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+       
+              </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-2576" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="collections" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Collections
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-2596" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                              <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="/collections/charlie-archive" title="Read more about Charlie Archive" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/423380403.jpg?h=e54d7d27&amp;itok=rVZGqlcA')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Charlie Archive</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Charlie Archive</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Documents the vigorous debate about fundamental political and ethical issues that followed the 2015 terrorist attacks on the French satirical magazine Charlie Hebdo.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/images-colonialism" title="Read more about Images of Colonialism" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/9734512.jpg?h=520a603e&amp;itok=bxfKPwrq')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Images of Colonialism</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Images of Colonialism</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  These late-19th- and early-20th-century trade cards and illustrations offer insight into European perspectives on the colonial experience.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/czech-and-slovak-samizdat-collection-1968-1990" title="Read more about Czech and Slovak Samizdat Collection: 1968–1990" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/samizdat_original_flyer._hradec_kralove._august_26_19681.jpg?h=db74a744&amp;itok=c9pGn6rv')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Czech and Slovak Samizdat Collection: 1968–1990</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Czech and Slovak Samizdat Collection: 1968–1990</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Documenting the political events in Czechoslovakia from the Prague Spring to the Velvet Revolution.
+</div>
+      </div>
+</a>
+
+                                                                                                                                                                                                                                                    </div>
+
+                      <div class="hl__overlay-promo-grid__grid hl__overlay-promo-grid__grid--accordion-content js-accordion-content" style="display: none;" id="paragraph-accordion-2596">
+                
+    
+
+<a
+   href="/collections/charlie-archive" title="Read more about Charlie Archive" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/423380403.jpg?h=e54d7d27&amp;itok=rVZGqlcA')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Charlie Archive</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Charlie Archive</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Documents the vigorous debate about fundamental political and ethical issues that followed the 2015 terrorist attacks on the French satirical magazine Charlie Hebdo.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/images-colonialism" title="Read more about Images of Colonialism" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/9734512.jpg?h=520a603e&amp;itok=bxfKPwrq')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Images of Colonialism</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Images of Colonialism</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  These late-19th- and early-20th-century trade cards and illustrations offer insight into European perspectives on the colonial experience.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/czech-and-slovak-samizdat-collection-1968-1990" title="Read more about Czech and Slovak Samizdat Collection: 1968–1990" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/samizdat_original_flyer._hradec_kralove._august_26_19681.jpg?h=db74a744&amp;itok=c9pGn6rv')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Czech and Slovak Samizdat Collection: 1968–1990</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Czech and Slovak Samizdat Collection: 1968–1990</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Documenting the political events in Czechoslovakia from the Prague Spring to the Velvet Revolution.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/judaica-collection" title="Read more about Judaica Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/435220319.jpg?h=d09b6c17&amp;itok=SqpzzgNS')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Judaica Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Judaica Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Documents the life and culture of the Jewish people, with particular comprehensive coverage of life and culture in the State of Israel.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/judaica-digital-collection" title="Read more about Judaica Digital Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/JPCDISUN30374.jpg?h=307aaf77&amp;itok=z6ZUtPLT')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Judaica Digital Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Judaica Digital Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Judaica Collection&#039;s many digital materials document the life and culture of the Jewish people, with particular focus on life and culture in Israel.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/latin-american-spanish-and-portuguese-collections" title="Read more about Latin American, Spanish and Portuguese Collections" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Latin American, Spanish and Portuguese Collections</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Latin American, Spanish and Portuguese Collections</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  This Widener Library collection includes a broad array of materials for study and research on Latin American, Spanish, Portuguese and Caribbean topics.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/modern-greek-collections" title="Read more about Modern Greek Collections" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Modern Greek Collections</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Modern Greek Collections</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard Library&#039;s Modern Greek Collection contains materials in the humanities and social sciences mostly published in Greece and Cyprus.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/pamphlets-harvard-college-library" title="Read more about Pamphlets from the Harvard College Library" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/12320342_crop_0.jpg?h=38e5e287&amp;itok=af8pudWG')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Pamphlets from the Harvard College Library</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Pamphlets from the Harvard College Library</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Tens of thousands of pamphlets covering diverse and eclectic topics.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/slavic-poster-collection" title="Read more about Slavic Poster Collection" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/slavic-posters.jpg?h=0463e080&amp;itok=iGe9Hp2x')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Slavic Poster Collection</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Slavic Poster Collection</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Over 1,500 posters from various Slavic countries dating from the late 20th century through the present day.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/south-and-southeast-asian-collections" title="Read more about South and Southeast Asian Collections" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/18744992_0.jpg?h=0a9c48b9&amp;itok=nY-bUNgW')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>South and Southeast Asian Collections</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>South and Southeast Asian Collections</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Widener Library&#039;s South and Southeast Asia Collections include materials in many languages and formats.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/sub-saharan-african-collection-widener" title="Read more about Sub-Saharan African Collection at Widener" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Sub-Saharan African Collection at Widener</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Sub-Saharan African Collection at Widener</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Materials deal with all aspects of African experience and culture in African nations south of the Sahara. 
+</div>
+      </div>
+</a>
+
+
+            </div>
+          
+                      <div class="hl__overlay-promo-grid__see-all">
+              <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more items" aria-expanded="false"  aria-controls="paragraph-accordion-2596">
+                <span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span>
+              </a>
+            </div>
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-2586" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="history" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  History
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-2601" tabindex="-1">
+        <section class="hl__show-more-text js-show-more-text"><div  class="hl__show-more-text__content js-show-more-text-content" id="showMoreText2601"><section class="hl__rich-text"><p>The Harry Elkins Widener Memorial Library is Harvard University's flagship library.</p><p>Built with a gift from Eleanor Elkins Widener, the library is a memorial to her son, Harry, Class of 1907. Harry was an enthusiastic young bibliophile who perished aboard the&nbsp;<em>Titanic</em>.</p><p>It had been Harry's plan to donate his personal collection to the University once it provided a suitable alternative to the outdated and inadequate library then located in Gore Hall. Mrs. Widener fulfilled her son's dream by building a facility of monumental proportions, with over 50 miles of shelves and the capacity to hold over three million volumes.<br>
+&nbsp;</p><p>The library opened in 1915, but Harvard's collections continued to grow at an astounding rate. By the late 1930s, Widener's shelves were at capacity. Space was at a premium for staff and patrons as well as books, which led the administration to begin a lengthy decentralization process.</p><p>Over time Harvard built several new libraries to house its increasingly specialized collections. By redistributing books to new libraries, space opened up in Widener, but it was gradually given over to the growing staff hired to attend to the collections.</p><p>In addition to the physical challenges associated with housing and maintaining an ever growing collection, the 20th century also saw technological advancements that affected Widener--from electrical wiring to a computerized card catalog to sophisticated research workstations.</p><p>Widener Library ushered in the new millennium in the midst of its greatest change since opening in 1915. From 1999 to 2004, the building underwent extensive renovations to ensure the long-term preservation and security of collections, and to increase user space.</p><p>For more in-depth information about Widener's history, see:</p><ul><li>The online exhibition&nbsp;<a href="https://library.harvard.edu/onlineexhibits/widener/index.html">History of the Harry Elkins Widener Memorial Collection</a></li><li><em><a href="http://id.lib.harvard.edu/aleph/009439943/catalog">Widener: Biography of a Library</a></em>&nbsp;by Matthew Battles, Harvard University Press, 2004</li></ul></section></div><div class="hl__show-more-text__controls" aria-hidden="true"><a class="hl__link-tag hl__link-tag--with-arrow js-show-more-text-link" href="#" title="" aria-expanded="false" aria-controls="showMoreText2601"><span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="content_block-14056" tabindex="-1">
+        <section  class="hl__illustrated-content">
+              <div class="hl__illustrated-content__bg hl__illustrated-content__bg--narrow" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/paragraph_background_narrow/public/080918_features_5329_1.jpg?h=29b9274a&itok=jgIc8ZLv')"></div>
+        <div class="hl__illustrated-content__bg hl__illustrated-content__bg--wide" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/paragraph_background_wide/public/080918_features_5329_1.jpg?h=29b9274a&itok=lvgsJbG3')"></div>
+        <div class="hl__illustrated-content__overlay"></div>
+      
+      <div class="hl__illustrated-content__container">
+                  <div class="hl__illustrated-content__title">
+            <h2 class="hl__comp-heading hl__comp-heading--center">  Virtual Tour
+</h2>
+          </div>
+        
+                  <div class="hl__illustrated-content__description">
+            <section class="hl__rich-text ">
+              <p>  Gaze up at the skylights of the Loker Reading Room, wander through the stacks, examine the bookshelves holding Harry Widener’s personal collection—explore Widener Library up close and virtually. 
+</p>
+            </section>
+          </div>
+        
+                  <div class="hl__illustrated-content__cta">
+              <a href="https://my.matterport.com/show/?m=fs3gQv7n1QG" class="hl__button hl__button--secondary" title="Visit link for &quot;Take the tour&quot;"><span class="hl__button__text">Take the tour</span></a>
+
+          </div>
+              </div>
+    </section>
+  </div>
+
+
+</article>
+
+  </div>
+
+  </section>
+
+
+        <section class="hl__full-template__post-content region">
+    <div id="block-newslettersignupblock" data-block-plugin-id="newsletter_signup_block">
+  
+    
+      <section class="hl__single-input-form"><form class="newsletter-signup hl__single-input-form__form" data-drupal-selector="newsletter-signup" action="/libraries/widener" method="post" id="newsletter-signup" accept-charset="UTF-8">
+  <label class="hl__label hl__label--inline" data-drupal-selector="edit-title" for="edit-email-address" id="edit-title">Stay in the know</label><div class="hl__single-input-form__input-group">
+<input placeholder="Email Address" class="hl__input hl__input--inline js-is-required form-email required" data-twig-suggestion="newsletter_signup_email" data-drupal-selector="edit-email-address" type="email" id="edit-email-address" name="email_address" value="" maxlength="254" required="required" aria-required="true" />
+
+<button class="hl__button hl__button--small hl__button--inline button js-form-submit form-submit" data-twig-suggestion="newsletter_signup_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Sign up" data-ga-link="Form: Email Full-Width">
+  Sign up  
+</button></div><input autocomplete="off" data-drupal-selector="form-pglgdk10cn1x-fxtqbat8chbrezpzyikni1qr5gldw8" type="hidden" name="form_build_id" value="form-PgLGdK10CN1X_fxtQBAt8cHBRezpZyIkNi1qR5gLdW8" />
+<input data-drupal-selector="edit-newsletter-signup" type="hidden" name="form_id" value="newsletter_signup" />
+
+</form>
+</section>
+  </div>
+
+  </section>
+
+  </main>
+
+  <footer role="contentinfo">
+    <section>  <section class="region hl__footer">
+    <div class="hl__footer__container">
+      <div class="hl__footer__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library">
+            <img class="hl__image" alt="Harvard Library Logo" height="24" width="270" src="/themes/custom/harvard/assets/images/logo-large.svg">
+          </a>
+        </section>
+      </div>
+
+        
+<div class="hl__footer__links">
+                <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 1 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/support-library" class="hl__link-tag" data-drupal-link-system-path="node/5341"><span>Giving to the Library</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://provost.harvard.edu/" class="hl__link-tag"><span>Office of the Provost</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollis.harvard.edu/" class="hl__link-tag"><span>HOLLIS</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollisarchives.lib.harvard.edu/" class="hl__link-tag"><span>HOLLIS for Archival Discovery</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="http://nrs.harvard.edu/urn-3:hul.ois:databases" class="hl__link-tag"><span>Databases</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+          <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 2 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/library-newsletters-social-media" class="hl__link-tag" data-drupal-link-system-path="node/10856"><span>Newsletters/Social</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://staff.library.harvard.edu" class="hl__link-tag"><span>Staff Portal</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://library.harvard.edu/accessibility" class="hl__link-tag"><span>Library Accessibility</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://nrs.harvard.edu/urn-3:hul.ois:reportaproblem" class="hl__link-tag"><span>Report a Problem</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+      
+</div>
+
+
+
+
+      <div class="hl__footer__content">
+        <div class="hl__footer__top-links">
+          <div class="hl__footer__quick-links">
+
+            <div class="hl__linked-list hl__linked-list--no-bullets ">
+              <ul class="hl__linked-list__items">
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="https://accessibility.harvard.edu/" title="Read our accessibility"><span>Accessibility</span></a>
+                </li>
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="/privacy-terms-use-copyright-information/" title="Read our Privacy Policy"><span>Privacy</span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="hl__footer__license">
+          <div class="hl__footer__cc-icon">
+            <img class="hl__image " alt="Creative Commons license" height="31" width="88" src="/themes/custom/harvard/assets/images/cc-88x31.png">
+          </div>
+          <div class="hl__footer__cc-text">Creative Commons Attribution 4.0 International License</div>
+        </div>
+        <div class="hl__footer__message">
+          <section class="hl__rich-text hl__rich-text--small ">
+            <p>Except where otherwise noted, this work is subject to a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, which allows anyone to share and adapt our material as long as proper attribution is given. For details and exceptions, see the <a href="https://osc.hul.harvard.edu/programs/copyright/ccby">Harvard Library Copyright Policy</a> &copy;2024 Presidents and Fellows of Harvard College.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+  </footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_LwjaQiGzOrCwzVrRBti8K86MznwJk7GyLWx7kaTRtmo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=90b85bdd1489a074045c2519ad2fc1a5"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=055503cc8dd52ad22b42fb2afdf10da9"></script>
+
+  </body>
+</html>

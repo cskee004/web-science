@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+    
+    
+    
+    
+    
+
+    
+    <html lang="en">
+      <head>
+        <meta name="pageKey" content="d_games-guest-game-launch">
+<!----><!---->        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="0.0.368" data-call-tree-id="AAYjLPiwYT7ufiD0tGmlBg==" data-multiproduct-name="games-ssr-frontend" data-service-name="games-ssr-frontend" data-browser-id="155ecac8-e5c6-429d-86e2-7619357e39d2" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_games-guest-game-launch;FyLeI0mgShmaWHPLR9ebxA==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-logout-url="/uas/logout" data-dna-member-lix-treatment="control" data-human-member-lix-treatment="control" data-dfp-member-lix-treatment="control">
+
+        <link rel="canonical" href="https://www.linkedin.com/games/pinpoint">
+<!----><!---->
+<!---->
+<!---->
+          <meta property="al:android:url" content="https://www.linkedin.com/games/pinpoint">
+          <meta property="al:android:package" content="com.linkedin.android">
+          <meta property="al:android:app_name" content="LinkedIn">
+          <meta property="al:ios:url" content="https://www.linkedin.com/games/pinpoint">
+          <meta property="al:ios:app_store_id" content="288429040">
+          <meta property="al:ios:app_name" content="LinkedIn">
+
+<!---->
+          <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
+
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        <title>Pinpoint</title>
+        <meta name="description" content="Uncover the hidden connection in this thought-provoking word pattern game.">
+        <meta property="og:title" content="Pinpoint">
+        <meta property="og:description" content="Uncover the hidden connection in this thought-provoking word pattern game.">
+        <meta property="og:url" content="https://www.linkedin.com/games/view/pinpoint/desktop">
+        <meta property="og:image" content="https://static.licdn.com/aero-v1/sc/h/912q4on3aajd7dagltsdlhssa">
+        <meta name="robots" content="noarchive">
+      	<meta property="og:type" content="website">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@linkedin">
+        <meta name="twitter:title" content="Pinpoint">
+        <meta name="twitter:description" content="Uncover the hidden connection in this thought-provoking word pattern game.">
+        <meta name="twitter:image" content="https://static.licdn.com/aero-v1/sc/h/912q4on3aajd7dagltsdlhssa">
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/9ged7p9mx3tb3cckah6z0rvri">
+      
+<!---->      </head>
+      <body dir="ltr">
+<!----><!----><!---->
+        
+        <div class="game-launch-page__iframe-container">
+          <iframe class="game-launch-page__iframe w-full" src="https://www.linkedin.com/games/view/pinpoint/desktop" title="games"></iframe>
+        </div>
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/eh08muqvrde4h3hc6koyij5ti" async></script>
+<!---->          
+        <script src="https://static.licdn.com/aero-v1/sc/h/6mujlup7zckg15aqps26pazif" async defer></script>
+      
+      </body>
+    </html>
+  
+  

@@ -1,0 +1,1353 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5ZQK9WH');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta charset="utf-8" />
+<meta name="description" content="Explore the many ways you can give to Harvard or your School through our vehicles such as planned gifts, stock, and donor advised funds." />
+<meta name="keywords" content="Give, Giving, Donate, Harvard University, Harvard Alumni, Make a Gift, Support, Alumni Affairs and Development, AA&amp;D, Donation" />
+<link rel="canonical" href="https://alumni.harvard.edu/giving/givenow" />
+<link rel="icon" href="/sites/default/files/harvard_shield_1.png" />
+<meta property="og:site_name" content="Harvard Alumni" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://alumni.harvard.edu/giving/givenow" />
+<meta property="og:title" content="Give Online" />
+<meta property="og:description" content="Explore the many ways you can give to Harvard or your School through our vehicles such as planned gifts, stock, and donor advised funds." />
+<meta property="og:image" content="https://alumni.harvard.edu/themes/custom/ahedu2020/images/HAA_Programs_events_social.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@HarvardAlumni" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Give Online | Harvard Alumni</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_NfpSuei7C4rho9rikzDN6ZrAG7zwZqXY30RO2LMkc-U.css?delta=0&amp;language=en&amp;theme=ahedu2020&amp;include=eJxNy0EOwBAQRuELKeJCzUwIkikTPwu3b3e1_V4eNmZ6HBOSoZLiCj54x71PzEF6WJbOJBfmltryEYTvrqmBGozSoPx9BS6OpST2F7uaLpaK73wBHKMsMA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_OxdC6TsxRdbXJ2QWp5WjJTH6kpCeTk78azwGV5MoTSo.css?delta=1&amp;language=en&amp;theme=ahedu2020&amp;include=eJxNy0EOwBAQRuELKeJCzUwIkikTPwu3b3e1_V4eNmZ6HBOSoZLiCj54x71PzEF6WJbOJBfmltryEYTvrqmBGozSoPx9BS6OpST2F7uaLpaK73wBHKMsMA" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_lAvCsJXadX431SnrjsgZBFRjqCaEekr163FhoAJt6lE.css?delta=3&amp;language=en&amp;theme=ahedu2020&amp;include=eJxNy0EOwBAQRuELKeJCzUwIkikTPwu3b3e1_V4eNmZ6HBOSoZLiCj54x71PzEF6WJbOJBfmltryEYTvrqmBGozSoPx9BS6OpST2F7uaLpaK73wBHKMsMA" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Libre+Baskerville:300,400,700" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_TWV0Etm1Io_7PBEuM5kKuOsf65LzyhIfcSHCWiaGWMM.css?delta=5&amp;language=en&amp;theme=ahedu2020&amp;include=eJxNy0EOwBAQRuELKeJCzUwIkikTPwu3b3e1_V4eNmZ6HBOSoZLiCj54x71PzEF6WJbOJBfmltryEYTvrqmBGozSoPx9BS6OpST2F7uaLpaK73wBHKMsMA" />
+
+    
+    
+      
+  </head>
+  <body class="path-node page-node-type-page">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZQK9WH"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+  </a>
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        
+    
+<div class="layout-container">
+    <div class="top-bar">
+    <div class="container">
+      <a href="https://community.alumni.harvard.edu" class="public-user-only">Community Login</a>
+      <a href="/help/site-access/registration" class="public-user-only">Register</a>
+      <a class="community-user-only" href="https://community.alumni.harvard.edu">My Community</a>
+      <a class="community-user-only" href="https://community.alumni.harvard.edu/logout">Logout</a>
+    </div>
+  </div>
+
+  <header role="banner" class="layout-header">
+      
+    <nav class="navbar p-0 shadow-sm" id="navbar-top" aria-labelledby="navbar-top">
+      <div class="container tab-trap-container">
+        <div class="nav-wrap">
+          <div class="navbar-brand">
+            <a href="/" title="Harvard Alumni" rel="home">
+              <img src="/themes/custom/ahedu2020/images/Harvard_Alumni_Lockup.png" alt="Harvard Alumni" width="240" />
+            </a>
+          </div>
+          <div class="d-none d-lg-block primary-menu-wrap">
+                <div>
+        
+              <ul class="menu">
+                    <li class="menu-item menu-item--collapsed">
+        <a href="/community" data-drupal-link-system-path="node/17">Community</a>
+              </li>
+                <li class="menu-item menu-item--collapsed menu-item--active-trail">
+        <a href="/giving" data-drupal-link-system-path="node/19">Giving</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/programs-events" data-drupal-link-system-path="node/20">Programs &amp; Events</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/travel/trips" data-drupal-link-system-path="node/452674">Travel</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/college" data-drupal-link-system-path="node/42">College</a>
+              </li>
+                <li class="menu-item">
+        <a href="/schools" data-drupal-link-system-path="node/1077">Graduate Schools</a>
+              </li>
+        </ul>
+  
+
+
+
+  </div>
+
+          </div>
+          <button class="expand-menu-toggler collapsed" data-bs-toggle="collapse" data-bs-target=".expand-menu" aria-label="Menu toggle">
+            <svg class="burger-glass" viewBox="0 0 50 50">
+              <use xlink:href="#burger-glass"></use>
+            </svg>
+            <svg class="close-icon" viewBox="-35 -35 120 120">
+              <use xlink:href="#close"></use>
+            </svg>
+          </button>
+        </div>
+        <div class="expand-menu collapse">
+          <div class="container">
+            <hr />
+            <div class="row">
+              <div class="col-lg-4">
+                <div class="community-user-only">
+                  
+                  <div class="person-info">
+                    <div class="profile-info">
+                      <div class="text-wrap">
+                        <div class="name"></div>
+                        <div class="location"></div>
+                        <div class="links">
+                          <a href="https://community.alumni.harvard.edu/person">Edit Profile</a>
+                          <a href="https://community.alumni.harvard.edu/forum/newmessage">Post a Message</a>
+                        </div>
+                      </div>
+
+                      <div class="image-wrap">
+                        <img alt="person" src="/themes/custom/ahedu2020/images/default_profile_image.png" width="50" />
+                      </div>
+                    </div>
+                    <div class="degrees"></div>
+                    <div class="questions">
+                        Have questions? <a href="https://community.alumni.harvard.edu/contact-us">Contact the <abbr title="Harvard Alumni Association">HAA</abbr></a>.
+                      </div>
+                   
+                  </div><!--/.person-info-->
+                  
+                </div>
+
+                <div class="public-user-only mt-4 mt-lg-0">
+                  <h2 class="h4">Looking for a classmate?</h2>
+                  <p>
+                    <a href="https://community.alumni.harvard.edu/">Login with HarvardKey</a> to search the Alumni Directory, Class Notes, Message Boards, and more. New to the community?
+                    <a href="/help/site-access/registration">Register today</a> and claim your key!
+                  </p>
+                </div>
+
+                <h2 class="h4 mt-4">Quick Search</h2>
+
+                <form class="quick-search" action="/search/" method="get"><input aria-label="Search" placeholder="Search" type="search" name="q" /><button class="search-icon" type="submit">Search</button></form>
+                <div class="help-text">
+                  * Results displayed are from the public alumni site only. Quick search does not include names from the Alumni Directory.
+                </div>
+
+              </div>
+              <div class="col-lg-8 ace-edit-expand-menu">
+                    <div>
+    <div id="block-expandmenu" class="block block-block-content block-block-contentfb22e3df-5dc4-4859-9043-3ed49ccb78ea">
+  
+    
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="row">
+<div class="col-lg-3 mt-4 mt-lg-0 pl-lg-5 pr-lg-3">
+<h2 class="h4"><a href="/community">Community</a></h2>
+
+<ul class="d-none d-lg-block">
+	<li><a href="https://community.alumni.harvard.edu/person" class="community-site-link">My Profile</a></li>
+	<li><a href="https://community.alumni.harvard.edu/forum/messageboard" class="community-site-link">Message Board</a></li>
+	<li><a href="https://community.alumni.harvard.edu/classnotes/" class="community-site-link">Alumni Class Notes</a></li>
+	<li><a href="/community/clubs-sigs">Clubs &amp; SIGs</a></li>
+	<li><a href="/community/volunteer">Volunteer</a></li>
+	<li><a href="/community/harvard-looks-forward">Harvard Looks Forward</a></li>
+	<li><a href="/community/stories">Stories</a></li>
+	<li><a href="/community/careers-networking">Careers &amp; Networking</a></li>
+	<li><a href="/community/alumni-services">Alumni Services</a></li>
+	<li><a href="/community/harvard-board-nominations">Harvard Board Nominations</a></li>
+	<li><a href="/community/about-haa" aria-label="about the h a a">About the HAA</a></li>
+	<li><a href="/help">Help</a></li>
+</ul>
+</div>
+
+<div class="col-lg-3 mt-2 mt-lg-0 pl-lg-3 pr-lg-3">
+<h2 class="h4"><a href="/giving">Giving</a></h2>
+
+<ul class="d-none d-lg-block">
+	<li><a href="/giving/givenow">Give Online</a></li>
+	<li><a href="/giving/planned-giving">Planned Giving</a></li>
+	<li><a href="/giving/stocks-matching-gifts">Stocks &amp; Matching Gifts</a></li>
+	<li><a href="/giving/bequests">Bequests</a></li>
+	<li><a href="/giving/gift-policy-guide">Gift Policy Guide</a></li>
+	<li><a href="/giving/faq">FAQ</a></li>
+</ul>
+</div>
+
+<div class="col-lg-3 mt-2 mt-lg-0 pl-lg-3 pr-lg-3">
+<h2 class="h4"><a href="/programs-events">Programs &amp; Events</a></h2>
+
+<ul class="d-none d-lg-block">
+	<li><a href="/programs-events/">All Events</a></li>
+	<li><a href="/programs-events/featured-programs">Featured Programs</a></li>
+	<li><a href="/programs-events/harvard-alumni-online-learning">Online Learning</a></li>
+</ul>
+
+<h2 class="h4 pt-2 pt-lg-0"><a href="/travel/trips">Travel</a></h2>
+
+<ul class="d-none d-lg-block">
+	<li><a href="/travel/trips">Trips</a></li>
+	<li><a href="/travel/talks">Travel Talks Lecture Series</a></li>
+	<li><a href="/travel/leaders">Travel Leaders</a></li>
+	<li><a href="/travel/modes-of-travel">Modes of Travel</a></li>
+	<li><a href="/travel/activity-level-ratings">Activity Level Ratings</a></li>
+	<li><a href="/travel/resources">Travel Resources</a></li>
+	<li><a href="/travel/signup">Join Our Mailing List</a></li>
+</ul>
+</div>
+
+<div class="col-lg-3 mt-2 mt-lg-0 pl-lg-3 pr-lg-3">
+<h2 class="h4"><a href="/college">College</a></h2>
+
+<ul class="d-none d-lg-block">
+	<li><a href="/college/college-giving/hcf">Harvard College Fund</a></li>
+	<li><a href="/college/college-giving/parents">Parent Engagement Programs</a></li>
+        <li><a href="/college/gsf">Graduate School Fund</a></li>
+	<li><a href="/college/college-giving/gift-planning">Gift Planning</a></li>
+        <li><a href="/college/seniors">College Seniors</a></li>
+	<li><a href="/college/undergraduates">Undergraduates</a></li>
+	<li><a href="/college/classes">Classes</a></li>
+	<li><a href="/reunions/register">Reunions</a></li>
+	<li><a href="/haa-crimson-society">HAA Crimson Society</a></li>
+	<li><a href="/college/class-reports">Class Reports</a></li>
+	<li><a href="/college/chief-marshal">Chief Marshal</a></li>
+	<li><a href="/college/volunteer-fundraising">Volunteer Fundraising</a></li>
+	<li><a href="/college/alumni-volunteers">Alumni Volunteers</a></li>
+</ul>
+
+<h2 class="h4 pt-2 pt-lg-0"><a href="/schools">Graduate Schools</a></h2>
+</div>
+</div></div>
+      
+  </div>
+
+  </div>
+
+              </div>
+            </div>
+          </div>
+        </div><!--/.expand-menu-->
+      </div>
+    </nav>
+      
+  </header>
+    <main>
+    <a id="main-content" tabindex="-1"></a>              <div class="page-header">
+          <div class="backdrop-gradient"></div>
+          <div class="container">
+            <div class="breadcrumb-wrap">  <div>
+    <div id="block-ahedu2020-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="https://alumni.harvard.edu/giving">Giving</a>
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+  </div>
+</div>
+              
+            <h1 class="page-title">Give Online</h1>
+                              <div class="content">
+                    <p class="lead">Thank you for your support. Explore giving options below including <a href="/giving/givenow#schools">individual schools</a>, <a href="/giving/givenow#affiliates">affiliates</a>, funds, <a href="/giving/stocks-matching-gifts">stock</a>, or donor advised funds. Plan a gift for the future by learning about <a href="/giving/planned-giving">planned giving</a> and <a href="/giving/bequests">bequests</a>.</p>
+
+<p><a class="btn btn-primary mb-2 mr-2" href="#schools">Give to a School</a><a class="btn btn-primary mr-2 mb-2" href="#affiliates">Give to the University or Affiliates</a></p>
+                </div>
+                        </div>
+        </div>
+      
+      
+
+      
+    <div class="container">
+      <div class="row">
+                  <div class="layout-sidebar-first col-md-3">
+            <div class="navbar navbar-expand-md">
+              <div class="navbar-toggler white collapsed" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
+                <div><span id="submenu-name"></span> Menu</div>
+                <a href="#" class="icon submenu-toggler">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <div class="menu-wrap shadow-sm">
+                      <div>
+    <nav aria-labelledby="block-mainmenu-2-menu" id="block-mainmenu-2" class="block block-menu navigation menu--main">
+            
+  <h2  class="h4 block-title visually-hidden" id="block-mainmenu-2-menu">Main menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/giving" data-drupal-link-system-path="node/19">Giving Overview</a>
+              </li>
+                <li class="menu-item menu-item--active-trail">
+        <a href="/giving/givenow" data-drupal-link-system-path="node/1028" class="is-active" aria-current="page">Give Online</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/giving/planned-giving" data-drupal-link-system-path="node/69">Planned Giving</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/giving/planned-giving/pay-income" data-drupal-link-system-path="node/70">Gifts That Pay You Income</a>
+              </li>
+                <li class="menu-item">
+        <a href="/giving/planned-giving/lead-trusts" data-drupal-link-system-path="node/125">Lead Trusts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/giving/planned-giving/assets-you-can-give" data-drupal-link-system-path="node/75">Assets You Can Give</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/giving/planned-giving/resources" data-drupal-link-system-path="node/138">Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="/giving/planned-giving/staff" data-drupal-link-system-path="node/149">Meet the Staff</a>
+              </li>
+                <li class="menu-item">
+        <a href="/giving/planned-giving/contact-planned-giving" data-drupal-link-system-path="node/1124">Contact Planned Giving</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/giving/stocks-matching-gifts" data-drupal-link-system-path="node/1027">Stocks &amp; Matching Gifts</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/giving/bequests" data-drupal-link-system-path="node/1033">Bequests</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/giving/bequests/types" data-drupal-link-system-path="node/1066">Types of Bequests</a>
+              </li>
+                <li class="menu-item">
+        <a href="/giving/bequests/how-to-make" data-drupal-link-system-path="node/1067">How to Make a Bequest</a>
+              </li>
+                <li class="menu-item">
+        <a href="/giving/bequests/benefits" data-drupal-link-system-path="node/1068">Benefits of a Bequest</a>
+              </li>
+                <li class="menu-item">
+        <a href="/giving/bequests/future-use" data-drupal-link-system-path="node/1069">Future Use</a>
+              </li>
+                <li class="menu-item">
+        <a href="/giving/bequests/advisor-info" data-drupal-link-system-path="node/1070">Attorney &amp; Advisor Info</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/giving/gift-policy-guide" data-drupal-link-system-path="node/443791">Gift Policy Guide</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/giving/tax-information" data-drupal-link-system-path="node/456138">Tax Information</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/giving/faq" data-drupal-link-system-path="node/1029">FAQ</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                </div>
+              </div><!--/.navbar-collapse-->
+            </div>
+          </div>
+        
+        <div class="layout-content col-md-9">
+            
+          <div class="row">
+            <div class="col-md-12">
+                  <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-mainpagecontent" class="block block-system block-system-main-block">
+  
+    
+      <article data-history-node-id="1028" class="node node--type-page node--view-mode-full">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-body field--type-text-long field--label-hidden field__item"><p class="lead">To learn more about planned gifts and bequests, contact <a href="/giving/planned-giving/contact-planned-giving">University Planned Giving</a>.</p>
+
+<p class="lead">Many employers sponsor matching gift programs and will match contributions made to Harvard by their employees. To find out if you&nbsp;or your spouse’s company has a matching gift program, use our <a href="http://www.matchinggifts.com/harvard-iframe/">online search tool</a>.</p>
+
+<h2>Contact Us</h2>
+
+<p class="lead">For assistance, contact Alumni and Development Services at&nbsp;<a href="mailto:ads@harvard.edu">ads@harvard.edu</a>&nbsp;or (617) 495-1750.</p></div>
+      
+  </div>
+
+</article>
+
+  </div>
+<div id="block-giveonlineexpandmenuschools" class="block block-block-content block-block-content52d635c4-0e36-4e32-9d42-9bc0b4388ed9">
+  
+    
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="full-bleed-wrap bg-white mt-5 pt-5 pb-5">
+<div class="container">
+<p><a id="schools" name="schools"></a></p>
+
+<h2 class="h1 mb-5">Give to a School</h2>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/hbs_shield.png"> Business School</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16040805">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseExample" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseExample">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to Harvard Business School) to:</p>
+
+<p>Harvard Business School<br>
+P.O. Box 412275<br>
+Boston, MA 02241-2275</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://www.alumni.hbs.edu/Pages/default.aspx">HBS Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://www.alumni.hbs.edu/giving/how-to-give/ways-to-give-today/Pages/default.aspx#wire-transfer">Wire Transfer</a> <a class="list-group-item list-group-item-action no-line" href="https://www.alumni.hbs.edu/giving/how-to-give/ways-to-give-today/Pages/default.aspx#stock">Stock Transfer</a> <a class="list-group-item list-group-item-action no-line" href="https://www.alumni.hbs.edu/giving/how-to-give/ways-to-give-today/Pages/default.aspx#DAF">Donor Advised Fund</a> <a class="list-group-item list-group-item-action no-line" href="https://www.alumni.hbs.edu/giving/how-to-give/ways-to-give-today/Pages/default.aspx#ira">IRA</a> <a class="list-group-item list-group-item-action no-line" href="https://www.alumni.hbs.edu/giving/how-to-give/ways-to-give-today/Pages/default.aspx#international">Tax-deductible giving from France, Germany, India, and the United Kingdom </a><a class="list-group-item list-group-item-action no-line" href="https://www.alumni.hbs.edu/giving/how-to-give/planned-giving/Pages/default.aspx">Planned Giving</a> <a class="list-group-item list-group-item-action no-line" href="https://www.alumni.hbs.edu/giving/how-to-give/faq/Pages/default.aspx">Giving FAQ</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/college_shield.png"> College</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16040771">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseCOL" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseCOL">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to President and Fellows of Harvard College) to:</p>
+
+<p>Harvard University<br>
+PO Box 419209<br>
+Boston, MA 02241-9209</p>
+
+<p><em>In the check's memo section, please designate the&nbsp;allocation of the gift.</em></p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="/college">College Alumni</a> <a class="list-group-item list-group-item-action no-line" href="/college/college-giving/hcf">Harvard College Fund</a> <a class="list-group-item list-group-item-action no-line" href="/college/college-giving/hcf/annual-giving">Learn More About Giving</a> <a class="list-group-item list-group-item-action no-line" href="/college/college-giving/gift-planning">Gift Planning</a> <a class="list-group-item list-group-item-action no-line" href="/giving/faq">Giving FAQ</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/hds_shield.png"> Divinity School</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/13122822">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseHDS" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseHDS">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to Harvard Divinity School) to:</p>
+
+<p>Harvard University<br>
+PO Box 419209<br>
+Boston, MA 02241-9209</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://hds.harvard.edu/alumni-friends">HDS Alumni &amp; Friends</a> <a class="list-group-item list-group-item-action no-line" href="https://hds.harvard.edu/alumni-friends/giving">Give Online</a> <a class="list-group-item list-group-item-action no-line" href="https://hds.harvard.edu/alumni-friends/giving">Learn More About Giving</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/extension_shield.png"> Extension School</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/15323758">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseDCE" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseDCE">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Gifts &amp; Donations</h4>
+
+<p>Your gifts and donations allow Harvard Extension School to continue serving students and graduates with world-class education, wide-reaching events, and resources for a lifetime.</p>
+
+<h4>Need help with your donation?</h4>
+
+<p>Contact Jill Felicio at <a href="mailto:jill_felicio@harvard.edu">jill_felicio@harvard.edu</a><br>
+or 617-998-9631.</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://alumni.extension.harvard.edu/">Harvard Extension School Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://community.alumni.harvard.edu/give/15323758">Give to the Harvard Extension School</a> <a class="list-group-item list-group-item-action no-line" href="https://community.alumni.harvard.edu/give/15323758">Give to the Shinagel Scholarship Fund</a> <a class="list-group-item list-group-item-action no-line" href="https://ww2.matchinggifts.com/harvard-iframe">Learn About Matching Gifts</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/gsd_shield.png"> Graduate School of Design</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/9295031">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseGSD" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseGSD">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to Harvard GSD) to:</p>
+
+<p><strong>USPS mailing address:</strong><br>
+Harvard GSD<br>
+PO Box 419209<br>
+Boston, MA 02241-9209</p>
+
+<p><strong>FedEx and UPS mailing address:</strong><br>
+Bank of America Lockbox Services<br>
+President &amp; Fellows of Harvard College Box 419209<br>
+2 Morrissey Blvd<br>
+MA5-527-02-07<br>
+Dorchester, MA 02125</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://alumni.gsd.harvard.edu/">GSD Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://alumni.gsd.harvard.edu/invest/ways-to-give-to-the-gsd/">Ways to Give</a> <a class="list-group-item list-group-item-action no-line" href="https://alumni.gsd.harvard.edu/giving-opportunities">Areas to Support</a> <a class="list-group-item list-group-item-action no-line" href="https://plannedgiving.gsd.harvard.edu/">Planned Giving</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/gse_shield.png"> Graduate School of Education</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/13066245">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseGSE" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseGSE">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to HGSE Fund) to:</p>
+
+<p>HGSE DBA<br>
+President and Fellows of Harvard College<br>
+PO Box 419209<br>
+Boston, MA 02241-9209</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Call the Harvard University Office of the Recording Secretary<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://www.gse.harvard.edu/alumni">HGSE Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://www.gse.harvard.edu/alumni/giving">Giving to HGSE</a> <a class="list-group-item list-group-item-action no-line" href="https://www.gse.harvard.edu/alumni/societies">1920 Society</a> <a class="list-group-item list-group-item-action no-line" href="https://community.alumni.harvard.edu/give/13066245">Give Online</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/seas_shield.png"> Harvard John A. Paulson School of Engineering &amp; Applied Sciences</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/15323800">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseSEAS" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseSEAS">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://www.seas.harvard.edu/alumni">SEAS Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://community.alumni.harvard.edu/give/15323800">Give Online</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/gsas_shield.png"> Harvard Kenneth C. Griffin Graduate School of Arts &amp; Sciences</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16039782">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseGSAS" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseGSAS">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Gifts &amp; Donations</h4>
+
+<p>Gifts of all sizes to the Graduate School Fund directly support the recruitment and training of our outstanding graduate students, who will become the intellectual leaders of their generation and advance human knowledge and understanding.</p>
+
+<h4>Need help with your donation?</h4>
+
+<p>Contact Stephanie Skedros at <a href="mailto:stephanie_skedros@harvard.edu">stephanie_skedros@harvard.edu</a><br>
+or 617-495-1629.</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://gsas.harvard.edu/alumni-association">GSAS Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://community.alumni.harvard.edu/give/16039782">Give Online</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/hsph_shield.png"> Harvard T.H. Chan School of Public Health</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16038344">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseSPH" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseSPH">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to Harvard T.H. Chan School of Public Health) to:</p>
+
+<p><strong>USPS mailing address:</strong><br>
+Harvard T.H. Chan School of Public Health DBA<br>
+President and Fellows of Harvard College<br>
+P.O. Box 419209<br>
+Boston, MA 02241-9209</p>
+
+<p><strong>FedEx and UPS mailing address:</strong><br>
+Bank of America Lockbox Services<br>
+President &amp; Fellows of Harvard College Box 419209<br>
+2 Morrissey Blvd<br>
+MA5-527-02-07<br>
+Dorchester, MA &nbsp;02125<br>
+Bank of America Lockbox Services is SL1</p>
+
+<p><em>Please include a note with your full name, address, and phone number.</em></p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://alumni.sph.harvard.edu">School of Public Health Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://www.hsph.harvard.edu/giving/how-to-make-a-gift/">How to Make a Gift</a> <a class="list-group-item list-group-item-action no-line" href="https://www.hsph.harvard.edu/giving/how-to-make-a-gift/#bank">Wire Transfer</a> <a class="list-group-item list-group-item-action no-line" href="https://www.hsph.harvard.edu/giving/how-to-make-a-gift/#assets">Gifts of Stock</a> <a class="list-group-item list-group-item-action no-line" href="https://www.hsph.harvard.edu/giving/how-to-make-a-gift/#matching">Matching Gifts</a> <a class="list-group-item list-group-item-action no-line" href="https://plannedgiving.sph.harvard.edu/">Donor Advised Funds</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/ksg_shield.png"> Kennedy School</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16039598">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseHKS" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseHKS">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to President and Fellows of Harvard College) to:</p>
+
+<p>Harvard Kennedy School<br>
+PO Box 419209<br>
+Boston, MA 02241-9209</p>
+
+<p><em>Please allocate your gift to the Harvard Kennedy School Fund in the memo section.</em></p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://www.hks.harvard.edu/alumni">HKS Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://www.hks.harvard.edu/alumni/give-back/why-hks-fund">Why the HKS Fund?</a> <a class="list-group-item list-group-item-action no-line" href="https://www.hks.harvard.edu/alumni/give-back/how-give">How to Give</a> <a class="list-group-item list-group-item-action no-line" href="https://www.hks.harvard.edu/alumni/give-back/giving-programs">Giving Programs</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/sites/default/files/2021-12/HLS_Shield_1.png"> Law School</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/42050898?appealcode=HLSOT">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseHLS" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseHLS">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to Harvard Law School Annual Fund) to:</p>
+
+<p><strong>USPS mailing address:</strong><br>
+Harvard Law School<br>
+Donor Services<br>
+PO Box 412840<br>
+Boston, MA 02241-2840</p>
+
+<p><strong>FedEx, UPS or DHL mailing address:</strong><br>
+Bank Of America Lockbox Services<br>
+Harvard Law School Box 412840<br>
+2 Morrissey Blvd<br>
+MA5-527-02-07<br>
+Dorchester, MA 02125<br>
+Phone: 617 929-0043</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://hls.harvard.edu/alumni/">HLS Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://hls.harvard.edu/alumni/giving-to-hls/">Giving to HLS</a> <a class="list-group-item list-group-item-action no-line" href="https://hls.harvard.edu/alumni/harvard-law-school-annual-fund/">Annual Fund</a> <a class="list-group-item list-group-item-action no-line" href="https://hls.harvard.edu/alumni/giving-to-hls/planned-giving/">Planned Giving</a> <a class="list-group-item list-group-item-action no-line" href="https://hls.harvard.edu/alumni/how-to-make-your-gift/">How to Make Your Gift</a> <a class="list-group-item list-group-item-action no-line" href="https://hls.harvard.edu/alumni/how-to-make-your-gift/international-gifts-by-country/">International Gifts</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/hms_shield.png"> Medical School</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/50398038?appealcode=M2135&amp;utm_source=appeal&amp;utm_medium=website&amp;utm_campaign=hms_appeal_unv-grad-school-directory&amp;utm_content=alumni_engagement_general_2021-03-16">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseHMS" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseHMS">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to Harvard Medical School) to:</p>
+
+<p>Harvard Medical School<br>
+Alumni Affairs and Development<br>
+P.O. Box 419720<br>
+Boston, MA 02241-9720</p>
+
+<p><em>Please include a note with your full name, address, and phone number.</em>&nbsp;</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Harvard Medical School<br>
+617-384-8500</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://alumni.hms.harvard.edu/">HMS Alumni</a> <a class="list-group-item list-group-item-action no-line" href="https://alumni.hms.harvard.edu/give">Give</a> <a class="list-group-item list-group-item-action no-line" href="https://alumni.hms.harvard.edu/give/reunion-giving">Reunion Giving</a> <a class="list-group-item list-group-item-action no-line" href="https://alumni.hms.harvard.edu/give/planned-giving">Planned Giving</a> <a class="list-group-item list-group-item-action no-line" href="https://alumni.hms.harvard.edu/give/leadership-giving">Leadership Giving</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/radcliffe_shield.png"> Radcliffe Institute</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/15443926">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseRAD" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseRAD">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to Radcliffe Institute for Advanced Study) to:</p>
+
+<p><strong>USPS mailing address:</strong><br>
+Radcliffe Institute for Advanced Study<br>
+P.O. Box 419209<br>
+Boston, MA 02241-9209</p>
+
+<p><strong>FedEx and&nbsp;UPS mailing address:</strong><br>
+Bank of America Lockbox Services<br>
+President &amp; Fellows of Harvard College Box 419209<br>
+2 Morrissey Blvd.<br>
+MA5-527-02-07<br>
+Dorchester, MA 02125</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://www.radcliffe.harvard.edu/giving/ways-to-give">Ways to Give</a> <a class="list-group-item list-group-item-action no-line" href="https://www.radcliffe.harvard.edu/giving/ways-to-give#maximize-your-impact">Maximize your Impact</a> <a class="list-group-item list-group-item-action no-line" href="https://www.radcliffe.harvard.edu/giving/ways-to-give#frequently-asked-questions">FAQs</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/shield_dental.png"> School of Dental Medicine</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group" role="group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16038959">Give Now</a> <a class="btn btn-outline-secondary btn-toggle collapsed" data-bs-toggle="collapse" data-toggle="collapse" href="#collapseSDM" role="button">More Giving Options</a></div>
+</div>
+</div>
+
+<div class="collapse" id="collapseSDM">&nbsp;
+<div class="card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-6">
+<h4>Check</h4>
+
+<p>Send check (payable to Harvard School of Dental Medicine) to:</p>
+
+<p><strong>USPS mailing address:</strong><br>
+President and Fellows of Harvard College<br>
+P.O. Box 419209<br>
+Boston, MA 02241-9209</p>
+
+<p><strong>FedEx and&nbsp;UPS mailing address:</strong><br>
+Bank of America Lockbox Services<br>
+President &amp; Fellows of Harvard College Box 419209<br>
+2 Morrissey Blvd.<br>
+MA5-527-02-07<br>
+Dorchester, MA 02125</p>
+
+<h4>Credit Card (by phone)</h4>
+
+<p>Alumni &amp; Development Services<br>
+617-495-1750</p>
+</div>
+
+<div class="col-sm-6">
+<div class="list-group list-group-flush"><a class="list-group-item list-group-item-action no-line" href="https://hsdm.harvard.edu/alumni-and-giving">HSDM Alumni &amp; Giving</a> <a class="list-group-item list-group-item-action no-line" href="https://hsdm.harvard.edu/campaign-harvard-school-dental-medicine">Impact of Giving</a> <a class="list-group-item list-group-item-action no-line" href="https://hsdm.harvard.edu/giving">Ways to Give</a></div>
+</div>
+</div>
+</div>
+
+<hr></div>
+</div>
+</div>
+</div></div>
+      
+  </div>
+<div id="block-giveonlineexpandmenuaffiliates" class="block block-block-content block-block-content3b637b0f-3c5b-4e44-bbd8-b9dbd004acb8">
+  
+    
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="full-bleed-wrap mt-3 pt-5 pb-5">
+<div class="container">
+<a name="affiliates" id="affiliates"></a><h2 class="h1 mb-5 mt-5">Give to the University and Affiliates</h2>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png">  Harvard University</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16040850">Give Now</a> <a class="btn btn-outline-secondary" href="/giving" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Climate and Sustainability</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/88969296">Give Now</a> <a class="btn btn-outline-secondary" href="https://www.harvard.edu/climate-and-sustainability/" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Social Alternative Fund</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/10851479">Give Now</a> <a class="btn btn-outline-secondary" href="/giving/social-alternative-fund" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Arnold Arboretum</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/15716169">Give Now</a> <a class="btn btn-outline-secondary" href="https://arboretum.harvard.edu/support/" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Harvard Art Museums</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/13243053">Give Now</a> <a class="btn btn-outline-secondary" href="https://www.harvardartmuseums.org/support" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Harvard Athletics</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/15716515">Give Now</a> <a class="btn btn-outline-secondary" href="http://www.gocrimson.com/information/support/index" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Harvard Library</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/10907678">Give Now</a> <a class="btn btn-outline-secondary" href="https://library.harvard.edu/support-library" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Harvard Museums of Science &amp; Culture</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16038521">Give Now</a> <a class="btn btn-outline-secondary" href="http://hmsc.harvard.edu/pages/donate" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Harvard University Health Services</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/65401554">Give Now</a> <a class="btn btn-outline-secondary" href="https://huhs.harvard.edu/" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Nieman Foundation</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/16040850?fund=140-304661RG0001">Give Now</a> <a class="btn btn-outline-secondary" href="http://nieman.harvard.edu/about/make-a-gift" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Villa I Tatti</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/14690263">Give Now</a> <a class="btn btn-outline-secondary" href="http://itatti.harvard.edu/support-us" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Harvard Stem Cell Institute</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/10907682">Give Now</a> <a class="btn btn-outline-secondary" href="http://hsci.harvard.edu/" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> HarvardX</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/15502574">Give Now</a> <a class="btn btn-outline-secondary" href="http://harvardx.harvard.edu/" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Memorial Church</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/10909873">Give Now</a> <a class="btn btn-outline-secondary" href="http://memorialchurch.harvard.edu/donate" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="col-sm-6">
+<h3 class="w-shield-50"><img alt src="/themes/custom/ahedu2020/images/Shields/affiliates-veritas-shield.png"> Wyss Institute</h3>
+</div>
+
+<div class="col-sm-6 text-left text-md-right">
+<div class="btn-group"><a class="btn btn-primary" href="https://community.alumni.harvard.edu/give/86646946">Give Now</a> <a class="btn btn-outline-secondary" href="https://wyss.harvard.edu/collaboration/giving-at-the-wyss" role="button">Learn More</a></div>
+</div>
+</div>
+
+<hr>
+</div>
+</div></div>
+      
+  </div>
+
+  </div>
+
+
+                
+
+            </div>
+                        </div>
+                          <div class="content-bottom-feature-wrap">
+                                          <div class="paragraph paragraph--type--ah-custom-html full-bleed-wrap bg-white pt-t mt-5 paragraph--view-mode--full">
+          
+      </div>
+
+                                </div>
+            
+                    </div>
+      </div><!--/.row-->
+    </div><!--/.container-->
+
+      
+      
+
+  </main>
+
+  <footer class="footer" role="contentinfo">
+      
+        <div class="container footer-nav-wrap">
+      <div class="row">
+        <div class="col-lg-4">
+              <div>
+    <div id="block-footerleftcolhtml" class="block block-block-content block-block-content61a48aee-f9c6-42a2-bd54-72ea45749b21">
+  
+      <h2 class="block-title h4">Social Media</h2>
+    
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="social-links"><a class="threads" href="https://www.threads.net/@harvardalumni"><i class="bi bi-threads"></i> Threads</a> <a class="youtube" href="https://www.youtube.com/HarvardAlumni"><i class="bi bi-youtube"></i> Youtube</a> <a class="facebook" href="https://www.facebook.com/harvardalumniassoc/"><i class="bi bi-facebook"></i> Facebook</a> <a class="linkedin" href="https://www.linkedin.com/company/harvard-alumni-assoc"><i class="bi bi-linkedin"></i> LinkedIn</a> <a class="instagram" href="https://www.instagram.com/harvardalumni/"><i class="bi bi-instagram"></i> Instagram</a></div>
+</div>
+      
+  </div>
+
+  </div>
+
+        </div>
+        <div class="col-lg-4">
+              <div>
+    <nav aria-labelledby="block-d8footermenugethelp-menu" id="block-d8footermenugethelp" class="block block-menu navigation menu--menu-footer-menu-help">
+      
+  <h2  class="h4 block-title" id="block-d8footermenugethelp-menu">Get Help</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://community.alumni.harvard.edu/contact-us" title="">Contact the alumni service desk</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/site-access/registration" title="" data-drupal-link-system-path="node/1187">Claim your HarvardKey</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/directory-search" title="" data-drupal-link-system-path="node/1178">Get help searching the alumni directory</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/contacts-links" title="" data-drupal-link-system-path="node/1186">View all contacts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help" title="" data-drupal-link-system-path="node/1175">View all help pages</a>
+              </li>
+                <li class="menu-item">
+        <a href="/community/about-haa/staff" data-drupal-link-system-path="node/124">View the HAA Staff Directory</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+        </div>
+        <div class="col-lg-4">
+              <div>
+    <nav aria-labelledby="block-d8footermenuaboutthissite-menu" id="block-d8footermenuaboutthissite" class="block block-menu navigation menu--menu-footer-menu-about-site">
+      
+  <h2  class="h4 block-title" id="block-d8footermenuaboutthissite-menu">About This Site</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" title="">Accessibility</a>
+              </li>
+                <li class="menu-item">
+        <a href="/privacy" title="" data-drupal-link-system-path="node/4">Privacy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/terms" title="" data-drupal-link-system-path="node/3">Terms of Use</a>
+              </li>
+                <li class="menu-item">
+        <a href="/feedback" data-drupal-link-system-path="node/1199">Feedback</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.harvard.edu/" title="">Go to Harvard.edu</a>
+              </li>
+                <li class="menu-item">
+        <a href="/user/login" title="" data-drupal-link-system-path="user/login">Admin Profile</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+          
+    <div class="container">
+              <div class="copyright"> &copy; 2024 The President and Fellows of Harvard College</div>
+          </div>
+  </footer>
+
+</div>
+  </div>
+
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1028","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"clientside_validation_jquery":{"validate_all_ajax_forms":1,"force_validate_on_blur":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"user":{"uid":0,"permissionsHash":"2e1e17f2f70fd6ae85dbebbf5f81f99a513890bf6d6b9e1601d79ed5b4a0223f"}}</script>
+<script src="/sites/default/files/js/js_TQEhHgvMbNI0LFYuccVAmlZ0jHWi7_qH-XxeHZLZxFg.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=ahedu2020&amp;include=eJxLzEhNKTUyMDLQT8rPLykuKUos0EmEi6Xn5Ccl5ugWl1TmZOalAwBXKw-n"></script>
+
+    <svg display="none" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+        <symbol id="arrow-right">
+          <polyline fill="none" stroke-width="2" points="1 4 13 4 13 16" transform="rotate(45 7 10)"/>
+        </symbol>
+        <symbol id="burger-glass">
+          <g class="burger-glass__g" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="2" transform="translate(9 17)">
+            <circle cx="24" cy="6" r="5"/>
+            <path d="M28 10L33 15.293788M0 15L22.0227155 15M0 10L14 10M0 5L14 5"/>
+          </g>
+        </symbol>
+        <symbol id="close">
+          <line class="cls-1" x1="1.77" y1="1.77" x2="51.77" y2="51.77"/><line class="cls-1" x1="51.77" y1="1.77" x2="1.77" y2="51.77"/>
+        </symbol>
+        <symbol id="close2">
+          <g>
+            <path d="M256.010 204.645l100.118-100.146 51.344 51.33-100.118 100.146-51.344-51.329z" />
+            <path d="M155.827 407.483l-51.344-51.358 100.161-100.132 51.344 51.358-100.161 100.132z" />
+            <path d="M407.498 356.112l-51.373 51.358-100.118-100.146 51.373-51.358 100.118 100.146z" />
+            <path d="M104.502 155.857l51.337-51.351 100.153 100.125-51.337 51.351-100.153-100.125z" />
+            <path d="M255.983 307.36l-51.351-51.365 51.365-51.351 51.351 51.365-51.365 51.351z" />
+          </g>
+        </symbol>
+      </defs>
+    </svg>
+  </body>
+</html>

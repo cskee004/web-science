@@ -1,0 +1,5186 @@
+<!DOCTYPE html>
+
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+    <html lang="en">
+      <head>
+        <meta name="pageKey" content="d_learning_topics_guest">
+<!----><!---->        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="2.0.2157" data-call-tree-id="AAYjLPk7MblpcrV/AoDzCg==" data-multiproduct-name="learning-guest-frontend" data-service-name="learning-guest-frontend" data-browser-id="7ec3b36a-c7ce-48b4-8737-4740a28e8c75" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:learning_topics_guest;HpZ02YD7TcWvEHohwe4qKQ==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0">
+
+        <link rel="canonical" href="https://www.linkedin.com/learning/topics/graphic-design">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        
+    
+
+    <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/444zstxv7s91nepfm5et6ofge">
+    <title>Graphic Design Online Training Courses | LinkedIn Learning, formerly Lynda.com</title>
+    <meta name="robots" content="noarchive, max-image-preview:large">
+    <meta name="description" content="Our Graphic Design online training courses from LinkedIn Learning (formerly Lynda.com) provide you with the skills you need, from the fundamentals to advanced tips. Browse our wide selection of Graphic Design classes to find exactly what you’re looking for.">
+    <meta property="og:site_name" content="LinkedIn">
+    <meta name="twitter:site" content="@LI_Learning">
+    <meta name="twitter:card" content="summary">
+    <meta name="litmsProfileName" content="learning-guest-frontend">
+    <meta property="og:title" content="Graphic Design Online Training Courses | LinkedIn Learning, formerly Lynda.com">
+    <meta name="twitter:title" content="Graphic Design Online Training Courses | LinkedIn Learning, formerly Lynda.com">
+    <meta property="og:description" content="Our Graphic Design online training courses from LinkedIn Learning (formerly Lynda.com) provide you with the skills you need, from the fundamentals to advanced tips. Browse our wide selection of Graphic Design classes to find exactly what you’re looking for.">
+    <meta name="twitter:description" content="Our Graphic Design online training courses from LinkedIn Learning (formerly Lynda.com) provide you with the skills you need, from the fundamentals to advanced tips. Browse our wide selection of Graphic Design classes to find exactly what you’re looking for.">
+      <meta property="og:image" content="https://static.licdn.com/aero-v1/sc/h/50i85klb0hydcf45ieglfsw4w">
+      <meta property="og:image:alt" content="Woman looking through LinkedIn Learning course icons">
+      <meta name="twitter:image" content="https://static.licdn.com/aero-v1/sc/h/50i85klb0hydcf45ieglfsw4w">
+      <meta name="twitter:image:alt" content="Woman looking through LinkedIn Learning course icons">
+    <meta property="og:url" content="https://www.linkedin.com/learning/topics/graphic-design">
+    <meta property="og:type" content="website">
+    <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/learning-guest/api/ingraphs/gauge" data-counter-metric-endpoint="/learning-guest/api/ingraphs/counter">
+  
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/7y2i2cpjc9m634ntvaj0h6a48">
+      
+<!---->      </head>
+      <body dir="ltr">
+<!----><!----><!---->
+        
+        
+    
+    <div class="base-serp-page">
+        
+    
+
+    <a href="#main-content" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
+      Skip to main content
+    </a>
+  
+      <header class="base-serp-page__header global-alert-offset sticky-header">
+          
+
+    
+    
+    
+    
+
+    <nav class="nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap babymamabear:py-1.5
+         nav--minified-mobile 
+        
+        " aria-label="Primary">
+
+      <a href="https://www.linkedin.com/learning/?trk=learning-topics_nav-header-logo" class="nav__logo-link link-no-visited-state z-1 mr-auto min-h-[52px] flex items-center babybear:z-0 hover:no-underline focus:no-underline active:no-underline
+           babymamabear:mr-3" data-tracking-control-name="learning-topics_nav-header-logo" data-tracking-will-navigate>
+          
+                
+          
+            
+
+    
+    
+
+    <div class="learning-logo">
+      <icon class="learning-logo__inbug onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4zqr0f9jf98vi2nkijyc3bex2"></icon>
+      <span class="learning-logo__text" aria-hidden="true">Learning</span>
+      <span class="sr-only">LinkedIn Learning</span>
+    </div>
+  
+          
+      
+            
+      </a>
+
+        
+
+    
+    
+    
+    
+    
+
+    <section class="search-bar relative flex flex-grow h-[40px] bg-cool-gray-20 min-w-0 max-w-full mx-4 rounded-sm babymamabear:mx-0 babymamabear:mb-1.5 babymamabear:bg-color-transparent babymamabear:w-full babymamabear:flex babymamabear:flex-wrap
+         search-bar--minified-mobile" data-current-search-type="LEARNING">
+      <button class="search-bar__placeholder papabear:hidden text-input w-full mt-1.5 !pl-[14px] border-1 border-solid border-color-border-faint rounded-[2px] h-[40px] max-h-[40px] flex items-center overflow-hidden cursor-text" data-tracking-control-name="learning-topics_search-switcher-opener">
+        <icon class="text-color-icon w-3 h-3 mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/397vrsk6op88l4981ji1xe1qt"></icon>
+        <div class="search-bar__full-placeholder font-sans text-md text-color-text max-w-[calc(100%-40px)] text-left whitespace-nowrap overflow-hidden text-ellipsis">
+<!----><!---->              Graphic Design
+<!---->        </div>
+        <span class="sr-only">Expand search</span>
+      </button>
+      
+    
+
+      
+        
+
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="switcher-tabs__trigger-and-tabs babymamabear:flex">
+        <button aria-expanded="false" class="switcher-tabs__placeholder flex !h-full !py-0 !pl-2 !pr-1.5 border-r-1 border-solid border-r-color-border-faint babymamabear:hidden
+            tab-md papabear:tab-vertical papabear:justify-start cursor-pointer" data-tracking-control-name="learning-topics_switcher-tabs-placeholder" aria-describedby="switcher-description">
+          <span class="switcher-tabs__placeholder-text m-auto"></span>
+          <icon class="switcher-tabs__caret-down-filled onload pointer-events-none block my-auto min-h-[24px] min-w-[24px] h-[24px] babymamabear:hidden" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv"></icon>
+        </button>
+        <div id="switcher-description" class="hidden">This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. </div>
+<!---->        <div class="switcher-tabs hidden z-[1] w-auto min-w-[160px] mb-1.5 py-1 absolute top-[48px] left-0 border-solid border-1 border-color-border-faint papabear:container-raised babymamabear:static babymamabear:w-[100vw] babymamabear:h-[48px] babymamabear:p-0 overflow-y-hidden overflow-x-auto md:overflow-x-hidden">
+          <ul class="switcher-tabs__list flex flex-1 items-stretch papabear:flex-col" role="tablist">
+                  <li class="switcher-tabs__tab h-[44px] babymamabear:basis-1/2" role="presentation">
+                    <button aria-controls="jobs-search-panel" aria-selected="false" class="switcher-tabs__button w-full h-full
+                        tab-md papabear:tab-vertical papabear:justify-start cursor-pointer
+                        " data-switcher-type="JOBS" data-tracking-control-name="learning-topics_switcher-tabs-jobs-search-switcher" id="job-switcher-tab" role="tab">
+                        Jobs
+                    </button>
+                  </li>
+                  <li class="switcher-tabs__tab h-[44px] babymamabear:basis-1/2" role="presentation">
+                    <button aria-controls="people-search-panel" aria-selected="false" class="switcher-tabs__button w-full h-full
+                        tab-md papabear:tab-vertical papabear:justify-start cursor-pointer
+                        " data-switcher-type="PEOPLE" data-tracking-control-name="learning-topics_switcher-tabs-people-search-switcher" id="people-switcher-tab" role="tab">
+                        People
+                    </button>
+                  </li>
+                  <li class="switcher-tabs__tab h-[44px] babymamabear:basis-1/2" role="presentation">
+                    <button aria-controls="learning-search-panel" aria-selected="true" class="switcher-tabs__button w-full h-full
+                        tab-md papabear:tab-vertical papabear:justify-start cursor-pointer
+                        tab-selected" data-switcher-type="LEARNING" data-tracking-control-name="learning-topics_switcher-tabs-learning-search-switcher" id="learning-switcher-tab" role="tab">
+                        Learning
+                    </button>
+                  </li>
+          </ul>
+
+            <button aria-label="Close" class="switcher-tabs__cancel-btn papabear:hidden block w-6 h-6 m-auto text-color-text-low-emphasis" data-tracking-control-name="learning-topics_switcher-tabs-cancel-search-switcher" type="button">
+              <icon class="switcher-tabs__cancel-icon block w-3 h-3 m-auto onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+            </button>
+        </div>
+    </div>
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="PEOPLE" aria-labelledby="people-switcher-tab" id="people-search-panel" role="tabpanel">
+      <form class="base-search-bar__form w-full flex babymamabear:mx-mobile-container-padding babymamabear:flex-col" role="search" action="/pub/dir" data-tracking-control-name="learning-topics_people-search-bar_base-search-bar-form">
+        
+          
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="First Name" autocomplete="on" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-topics_people-search-bar_first-name_dismissable-input" maxlength="500" name="firstName" placeholder="First Name" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-topics_people-search-bar_first-name_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+          
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="Last Name" autocomplete="on" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-topics_people-search-bar_last-name_dismissable-input" maxlength="500" name="lastName" placeholder="Last Name" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-topics_people-search-bar_last-name_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+      
+        <input name="trk" value="learning-topics_people-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babymamabear:invisible babymamabear:ml-[-9999px] babymamabear:w-[1px] babymamabear:h-[1px]" aria-label="Search" data-tracking-control-name="learning-topics_people-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="JOBS" aria-labelledby="job-switcher-tab" id="jobs-search-panel" role="tabpanel">
+      <form class="base-search-bar__form w-full flex babymamabear:mx-mobile-container-padding babymamabear:flex-col" role="search" action="/jobs/search" data-tracking-control-name="learning-topics_jobs-search-bar_base-search-bar-form">
+        
+        
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input keywords-typeahead-input text-input">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-keywords-typeahead-list" aria-haspopup="listbox" aria-label="Search job titles or companies" autocomplete="off" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-topics_dismissable-input" id="job-search-bar-keywords" maxlength="500" name="keywords" placeholder="Search job titles or companies" role="combobox" value="Graphic Design" type="search">
+      
+<!---->      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full babybear:bottom-0 babybear:overflow-y-auto">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-new-hover hover:border-y-2 hover:border-solid hover:border-color-container-primary" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="job-search-bar-keywords-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-topics_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+<!---->        
+
+    
+    
+    
+
+    <code id="i18n_aria_live_text_no-suggestions" style="display: none"><!--"No suggestions found"--></code>
+    <code id="i18n_aria_live_text_one-suggestion" style="display: none"><!--"One Suggestion. Use up and down keys to navigate"--></code>
+    <code id="i18n_aria_live_text_multiple-suggestions" style="display: none"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code>
+
+    
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 typeahead-input location-typeahead-input">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-location-typeahead-list" aria-haspopup="listbox" aria-label="Location" autocomplete="off" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-topics_dismissable-input" id="job-search-bar-location" maxlength="500" name="location" placeholder="Location" role="combobox" value="Williamsburg, VA" type="search">
+      
+<!---->      <div class="typeahead-input__dropdown container-lined absolute top-[calc(100%+3px)] left-0 w-full rounded-b-md rounded-t-none z-[10] overflow-hidden max-w-none babybear:min-w-full babybear:bottom-0 babybear:overflow-y-auto">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item py-1.5 px-2 hover:cursor-pointer hover:bg-color-surface-new-hover hover:border-y-2 hover:border-solid hover:border-color-container-primary" role="option">
+            <span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list w-full" id="job-search-bar-location-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-topics_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        <input name="geoId" value="101648567" type="hidden">
+      
+        <input name="trk" value="learning-topics_jobs-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babymamabear:invisible babymamabear:ml-[-9999px] babymamabear:w-[1px] babymamabear:h-[1px]" aria-label="Search" data-tracking-control-name="learning-topics_jobs-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar w-full h-full" data-searchbar-type="LEARNING" aria-labelledby="learning-switcher-tab" id="learning-search-panel" role="tabpanel">
+      <form class="base-search-bar__form w-full flex babymamabear:mx-mobile-container-padding babymamabear:flex-col" role="search" action="/learning/search" data-tracking-control-name="learning-topics_learning-search-bar_base-search-bar-form">
+        
+        
+      
+    
+
+    <section class="dismissable-input text-input !pr-3 bg-color-transparent flex items-center h-[40px] min-w-0 relative babybear:w-full babybear:mb-1 search-input">
+      <input aria-label="Search skills, subjects, or software" autocomplete="on" class="dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary" data-tracking-control-name="learning-topics_learning-search-bar_keywords_dismissable-input" maxlength="500" name="keywords" placeholder="Search skills, subjects, or software" value="Graphic Design" type="search">
+      
+        <button class="dismissable-input__button text-color-text h-[40px] min-w-[24px] w-[24px] -mr-2 opacity-0 transition-opacity duration-[0.1s] disabled:invisible focus:opacity-100" data-tracking-control-name="learning-topics_learning-search-bar_keywords_dismissable-input-clear" type="button">
+          <label class="sr-only">Clear text</label>
+          <icon class="dismissable-input__button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon>
+        </button>
+    </section>
+  
+  
+        <input class="nav__search-uoo" name="upsellOrderOrigin" type="hidden">
+        
+      
+        <input name="trk" value="learning-topics_learning-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn block basis-[40px] flex-shrink-0 cursor-pointer babymamabear:invisible babymamabear:ml-[-9999px] babymamabear:w-[1px] babymamabear:h-[1px]" aria-label="Search" data-tracking-control-name="learning-topics_learning-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload mx-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cb5bsr4tsn2r4sjg9e3ls4tjl"></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+<!---->        <div aria-live="polite" class="search-bar__live-text sr-only" role="status"></div>
+      
+  
+    </section>
+  
+
+<!---->
+      <div class="nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2
+           babymamabear:min-w-[50px] ">
+        
+    
+    <a class="nav__button-tertiary btn-md btn-tertiary" href="http://www.linkedin.com/learning/subscription/products?courseSlug=graphic-design&amp;destRedirectURL=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Ftopics%2Fgraphic-design&amp;trk=learning-topics_nav-header-join&amp;upsellTrk=lil_upsell_nav_subscription" data-tracking-control-name="lil_upsell_nav_subscription" data-tracking-impression-name="lil_upsell_nav_subscription" data-test-live-nav-primary-cta data-tracking-will-navigate>
+      Start free trial
+    </a>
+
+
+        
+  
+  
+
+      
+      <a class="nav__button-secondary btn-md btn-secondary-emphasis" href="https://www.linkedin.com/learning-login/?redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Ftopics%2Fgraphic-design%3Ftrk%3Dhomepage-basic_learning-cta&amp;fromSignIn=true&amp;trk=learning-topics_nav-header-signin" data-tracking-control-name="learning-topics_nav-header-signin" data-tracking-will-navigate>
+          Sign in
+      </a>
+
+
+          <a aria-label="Sign in" class="nav__link-person papabear:hidden mamabear:hidden" data-tracking-control-name="learning-topics_nav-header-signin" data-tracking-will-navigate href="https://www.linkedin.com/learning-login/?redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Ftopics%2Fgraphic-design%3Ftrk%3Dhomepage-basic_learning-cta&amp;fromSignIn=true&amp;trk=learning-topics_nav-header-signin">
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt>
+  
+          </a>
+      </div>
+
+<!---->
+<!---->    </nav>
+  
+      </header>
+
+        <section class="base-serp-page__filters-bar">
+          <div class="base-serp-page__filters">
+            
+        
+            
+    
+    
+    
+    
+    
+    
+
+    <div class="search-filters">
+<!---->      
+    
+    
+
+    <div class="filters filters--desktop">
+      <form class="filters__form" id="learning-filters" action="https://www.linkedin.com/learning/topics/graphic-design" data-tracking-control-name="learning-topics_filters">
+        
+            <input name="trk" value="homepage-basic_learning-cta" type="hidden">
+          <input name="didUpdateFilters" value="true" type="hidden">
+        
+        <ul class="filters__list">
+            
+            
+    
+    
+    
+
+      <li class="filter">
+        
+    <div class="dropdown-to-modal filter__dropdown-to-modal">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            
+            
+    
+    
+    
+
+    <button class="filter-button pill flex items-center !min-h-0
+         filter-button--selected pill-checked filter__dropdown-to-modal-trigger" aria-label="Sort By filter. Best Match filter is currently applied. Clicking this button displays all Sort By filter options." data-tracking-control-name="learning-topics_sortBy" aria-expanded="false" type="button">
+        
+        Best Match
+      <icon data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv" class="filter-button__icon h-3 w-2"></icon>
+    </button>
+  
+          
+          
+
+        <div class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" tabindex="-1">
+          
+            
+<!---->            
+    
+
+    <div class="filter-values-container">
+      <div class="filter-values-container__filter-values" aria-label="Sort By filter options" role="group">
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="sortBy-0" form="learning-filters" name="sortBy" checked value="RELEVANCE" type="radio">
+    <label for="sortBy-0">
+        Best Match
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="sortBy-1" form="learning-filters" name="sortBy" value="POPULARITY" type="radio">
+    <label for="sortBy-1">
+        View Count
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="sortBy-2" form="learning-filters" name="sortBy" value="RECENCY" type="radio">
+    <label for="sortBy-2">
+        Newest
+    </label>
+  </div>
+
+      </div>
+    </div>
+  
+              
+  <button class="filter__submit-button" form="learning-filters" data-tracking-control-name="learning-topics_sortBy" type="submit">
+    Done
+  </button>
+
+          
+          
+        </div>
+
+<!---->    </div>
+  
+    </div>
+  
+      </li>
+  
+        
+              
+    
+    
+    
+
+      <li class="filter">
+        
+    <div class="dropdown-to-modal filter__dropdown-to-modal">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            
+            
+    
+    
+    
+
+    <button class="filter-button pill flex items-center !min-h-0
+         filter__dropdown-to-modal-trigger" aria-label="Level filter. Clicking this button displays all Level filter options." data-tracking-control-name="learning-topics_filters_difficultyLevel" aria-expanded="false" type="button">
+        Level
+<!---->      <icon data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv" class="filter-button__icon h-3 w-2"></icon>
+    </button>
+  
+          
+          
+
+        <div class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" tabindex="-1">
+          
+            
+<!---->            
+    
+
+    <div class="filter-values-container">
+      <div class="filter-values-container__filter-values" aria-label="Level filter options" role="group">
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="difficultyLevel-0" form="learning-filters" name="difficultyLevel" value="BEGINNER" type="radio">
+    <label for="difficultyLevel-0">
+        Beginner (8,050)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="difficultyLevel-1" form="learning-filters" name="difficultyLevel" value="INTERMEDIATE" type="radio">
+    <label for="difficultyLevel-1">
+        Intermediate (9,192)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="difficultyLevel-2" form="learning-filters" name="difficultyLevel" value="ADVANCED" type="radio">
+    <label for="difficultyLevel-2">
+        Advanced (452)
+    </label>
+  </div>
+
+      </div>
+    </div>
+  
+              
+  <button class="filter__submit-button" form="learning-filters" data-tracking-control-name="learning-topics_filters_difficultyLevel" type="submit">
+    Done
+  </button>
+
+          
+          
+        </div>
+
+<!---->    </div>
+  
+    </div>
+  
+      </li>
+  
+              
+    
+    
+    
+
+      <li class="filter">
+        
+    <div class="dropdown-to-modal filter__dropdown-to-modal">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            
+            
+    
+    
+    
+
+    <button class="filter-button pill flex items-center !min-h-0
+         filter__dropdown-to-modal-trigger" aria-label="Type filter. Clicking this button displays all Type filter options." data-tracking-control-name="learning-topics_filters_entityType" aria-expanded="false" type="button">
+        Type
+<!---->      <icon data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv" class="filter-button__icon h-3 w-2"></icon>
+    </button>
+  
+          
+          
+
+        <div class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" tabindex="-1">
+          
+            
+<!---->            
+    
+
+    <div class="filter-values-container">
+      <div class="filter-values-container__filter-values" aria-label="Type filter options" role="group">
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="entityType-0" form="learning-filters" name="entityType" value="COURSE" type="radio">
+    <label for="entityType-0">
+        Course (471)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="entityType-1" form="learning-filters" name="entityType" value="VIDEO" type="radio">
+    <label for="entityType-1">
+        Video (12,313)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="entityType-2" form="learning-filters" name="entityType" value="LEARNING_PATH" type="radio">
+    <label for="entityType-2">
+        Learning Path (29)
+    </label>
+  </div>
+
+      </div>
+    </div>
+  
+              
+  <button class="filter__submit-button" form="learning-filters" data-tracking-control-name="learning-topics_filters_entityType" type="submit">
+    Done
+  </button>
+
+          
+          
+        </div>
+
+<!---->    </div>
+  
+    </div>
+  
+      </li>
+  
+              
+    
+    
+    
+
+      <li class="filter">
+        
+    <div class="dropdown-to-modal filter__dropdown-to-modal">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            
+            
+    
+    
+    
+
+    <button class="filter-button pill flex items-center !min-h-0
+         filter__dropdown-to-modal-trigger" aria-label="Time to complete filter. Clicking this button displays all Time to complete filter options." data-tracking-control-name="learning-topics_filters_durationV2" aria-expanded="false" type="button">
+        Time to complete
+<!---->      <icon data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv" class="filter-button__icon h-3 w-2"></icon>
+    </button>
+  
+          
+          
+
+        <div class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" tabindex="-1">
+          
+            
+<!---->            
+    
+
+    <div class="filter-values-container">
+      <div class="filter-values-container__filter-values" aria-label="Time to complete filter options" role="group">
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="durationV2-0" form="learning-filters" name="durationV2" value="BETWEEN_0_TO_10_MIN" type="radio">
+    <label for="durationV2-0">
+        &lt; 10 mins (11,842)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="durationV2-1" form="learning-filters" name="durationV2" value="BETWEEN_10_TO_30_MIN" type="radio">
+    <label for="durationV2-1">
+        10 - 30 mins (323)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="durationV2-2" form="learning-filters" name="durationV2" value="BETWEEN_30_TO_60_MIN" type="radio">
+    <label for="durationV2-2">
+        30 - 60 mins (116)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="durationV2-3" form="learning-filters" name="durationV2" value="BETWEEN_1_TO_2_HOURS" type="radio">
+    <label for="durationV2-3">
+        1 - 2 hours (156)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="durationV2-4" form="learning-filters" name="durationV2" value="BETWEEN_2_TO_3_HOURS" type="radio">
+    <label for="durationV2-4">
+        2 - 3 hours (64)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="durationV2-5" form="learning-filters" name="durationV2" value="MORE_THAN_3_HOURS" type="radio">
+    <label for="durationV2-5">
+        3+ hours (92)
+    </label>
+  </div>
+
+      </div>
+    </div>
+  
+              
+  <button class="filter__submit-button" form="learning-filters" data-tracking-control-name="learning-topics_filters_durationV2" type="submit">
+    Done
+  </button>
+
+          
+          
+        </div>
+
+<!---->    </div>
+  
+    </div>
+  
+      </li>
+  
+              
+    
+    
+    
+
+      <li class="filter">
+        
+    <div class="dropdown-to-modal filter__dropdown-to-modal">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            
+            
+    
+    
+    
+
+    <button class="filter-button pill flex items-center !min-h-0
+         filter__dropdown-to-modal-trigger" aria-label="Software filter. Clicking this button displays all Software filter options." data-tracking-control-name="learning-topics_filters_softwareNames" aria-expanded="false" type="button">
+        Software
+<!---->      <icon data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7asbl4deqijhoy3z2ivveispv" class="filter-button__icon h-3 w-2"></icon>
+    </button>
+  
+          
+          
+
+        <div class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" tabindex="-1">
+          
+            
+<!---->            
+    
+
+    <div class="filter-values-container">
+      <div class="filter-values-container__filter-values" aria-label="Software filter options" role="group">
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-0" form="learning-filters" name="softwareNames" value="InDesign" type="radio">
+    <label for="softwareNames-0">
+        InDesign (3,180)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-1" form="learning-filters" name="softwareNames" value="Photoshop" type="radio">
+    <label for="softwareNames-1">
+        Photoshop (1,859)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-2" form="learning-filters" name="softwareNames" value="Illustrator" type="radio">
+    <label for="softwareNames-2">
+        Illustrator (1,331)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-3" form="learning-filters" name="softwareNames" value="Creative Cloud" type="radio">
+    <label for="softwareNames-3">
+        Creative Cloud (469)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-4" form="learning-filters" name="softwareNames" value="Free courses to help you build AI skills" type="radio">
+    <label for="softwareNames-4">
+        Free courses to help you build AI skills (422)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-5" form="learning-filters" name="softwareNames" value="After Effects" type="radio">
+    <label for="softwareNames-5">
+        After Effects (387)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-6" form="learning-filters" name="softwareNames" value="Premiere Pro" type="radio">
+    <label for="softwareNames-6">
+        Premiere Pro (239)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-7" form="learning-filters" name="softwareNames" value="Canva" type="radio">
+    <label for="softwareNames-7">
+        Canva (224)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-8" form="learning-filters" name="softwareNames" value="Adobe Acrobat" type="radio">
+    <label for="softwareNames-8">
+        Adobe Acrobat (178)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-9" form="learning-filters" name="softwareNames" value="Midjourney" type="radio">
+    <label for="softwareNames-9">
+        Midjourney (178)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-10" form="learning-filters" name="softwareNames" value="Stable Diffusion" type="radio">
+    <label for="softwareNames-10">
+        Stable Diffusion (120)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-11" form="learning-filters" name="softwareNames" value="ChatGPT" type="radio">
+    <label for="softwareNames-11">
+        ChatGPT (105)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-12" form="learning-filters" name="softwareNames" value="DALL-E" type="radio">
+    <label for="softwareNames-12">
+        DALL-E (102)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-13" form="learning-filters" name="softwareNames" value="Microsoft Office" type="radio">
+    <label for="softwareNames-13">
+        Microsoft Office (90)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-14" form="learning-filters" name="softwareNames" value="Microsoft 365" type="radio">
+    <label for="softwareNames-14">
+        Microsoft 365 (85)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-15" form="learning-filters" name="softwareNames" value="Adobe XD" type="radio">
+    <label for="softwareNames-15">
+        Adobe XD (80)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-16" form="learning-filters" name="softwareNames" value="PowerPoint" type="radio">
+    <label for="softwareNames-16">
+        PowerPoint (71)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-17" form="learning-filters" name="softwareNames" value="Bing Chat" type="radio">
+    <label for="softwareNames-17">
+        Bing Chat (18)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-18" form="learning-filters" name="softwareNames" value="Office Online" type="radio">
+    <label for="softwareNames-18">
+        Office Online (15)
+    </label>
+  </div>
+
+          
+  
+
+  <div class="filter-values-container__filter-value">
+    <input id="softwareNames-19" form="learning-filters" name="softwareNames" value="Zoom" type="radio">
+    <label for="softwareNames-19">
+        Zoom (15)
+    </label>
+  </div>
+
+      </div>
+    </div>
+  
+              
+  <button class="filter__submit-button" form="learning-filters" data-tracking-control-name="learning-topics_filters_softwareNames" type="submit">
+    Done
+  </button>
+
+          
+          
+        </div>
+
+<!---->    </div>
+  
+    </div>
+  
+      </li>
+  
+        </ul>
+      </form>
+
+<!---->    </div>
+  
+    </div>
+  
+          
+      
+          </div>
+        </section>
+
+      
+        
+            
+
+    
+    
+    
+    
+    
+      <div class="enterprise-nav">
+        <div class="enterprise-nav__content-wrapper">
+          <p id="enterprise-nav-solutions" class="enterprise-nav__content" tabindex="-1">
+            Solutions for:
+          </p>
+            <a href="https://learning.linkedin.com/for-entire-companies?src=li-learning-nav&trk=learning-topics_enterprise-nav" aria-labelledby="enterprise-nav-solutions business-nav-business" class="enterprise-nav__content" data-tracking-control-name="learning-topics_enterprise-nav" data-tracking-will-navigate="true" id="business-nav-business">Business</a>
+            <a href="https://learning.linkedin.com/for-higher-education?src=li-learning-nav&trk=learning-topics_enterprise-nav" aria-labelledby="enterprise-nav-solutions business-nav-education" class="enterprise-nav__content" data-tracking-control-name="learning-topics_enterprise-nav" data-tracking-will-navigate="true" id="business-nav-education">Higher Education</a>
+            <a href="https://learning.linkedin.com/for-governments?src=li-learning-nav&trk=learning-topics_enterprise-nav" aria-labelledby="enterprise-nav-solutions business-nav-government" class="enterprise-nav__content" data-tracking-control-name="learning-topics_enterprise-nav" data-tracking-will-navigate="true" id="business-nav-government">Government</a>
+            <a href="/learning/subscription/teams?veh=lil_upx&src=li-learning-nav&trk=learning-topics_enterprise-nav" aria-labelledby="enterprise-nav-solutions business-nav-buy" class="enterprise-nav__content" data-test-live-enterprise-upsell="true" data-tracking-control-name="learning-topics_enterprise-nav" data-tracking-will-navigate="true" data-tracking-impression-name="lil_upsell_learning-topics_enterprise-nav_teambuy" id="business-nav-buy">Buy for my team</a>
+        </div>
+      </div>
+  
+          
+      
+
+      <div class="base-serp-page__content">
+        
+        <main id="main-content" class="serp-page__results" role="main">
+            <section class="serp-page__search-header">
+              
+            
+    
+
+    <ol class="breadcrumb__list">
+      
+  <li class="breadcrumb__item">
+    <a class="breadcrumb__link" href="https://www.linkedin.com/learning/browse?trk=learning-topics_breadcrumb" data-tracking-control-name="learning-topics_breadcrumb" data-tracking-will-navigate>All topics</a>
+  </li>
+
+        
+  <li class="breadcrumb__item">
+    <a class="breadcrumb__link" href="https://www.linkedin.com/learning/topics/creative?trk=learning-topics_breadcrumb" data-tracking-control-name="learning-topics_breadcrumb" data-tracking-will-navigate>Creative</a>
+  </li>
+
+    </ol>
+
+    
+    
+    <script type="application/ld+json">
+      {"@context":"http://schema.org/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"All topics","item":"https://www.linkedin.com/learning/browse"},{"@type":"ListItem","position":2,"name":"Creative","item":"https://www.linkedin.com/learning/topics/creative"}]}
+    </script>
+  
+  
+  
+
+            
+    <section class="core-section-container my-3">
+          <h1 class="core-section-container__main-title main-title">
+            <b>Graphic Design</b> Online Training Courses
+          </h1>
+
+<!---->
+<!---->
+      <div class="core-section-container__content break-words">
+        
+                <p>
+                  Graphic design is the art and practice of creating visuals that convey messages, emotions, and ideas. Whether you are a beginner or a professional, you can find courses here to help you develop your craft. Learn about the core principles, tools, and techniques of graphic design, as well as how to apply your skills to various projects, such as logos, posters, websites, and animations.
+                </p>
+              
+      </div>
+    </section>
+  
+
+            
+    
+    
+    
+
+      
+    <section class="core-section-container my-3">
+<!---->
+<!---->
+<!---->
+      <div class="core-section-container__content break-words">
+        
+          
+<!---->
+
+    
+    
+    
+    
+    
+    
+    
+
+    <section class="slide-list relative  trending-courses">
+      <header class="slide-list__header mb-1.5">
+              <h2 class="slide-list__heading font-bold mb-0.5 text-color-text text-lg">Trending courses</h2>
+<!---->      </header>
+
+
+          <div class="slide-list__nav">
+            <div class="slide-list__nav-wrap absolute flex h-full items-center top-0 z-1 slide-list__nav-wrap--prev left-[-20px]">
+              <div class="previous-slide-list__a11y-notification sr-only hidden" role="alert">
+                No more previous content
+              </div>
+              <button data-tracking-control-name="learning-topics_trending-courses_slide_list_prev_button" class="slide-list__nav-button btn-sm btn-overlay cursor-pointer disabled:hidden" aria-label="Trending courses previous slide" data-direction="prev" disabled>
+                <icon class="slide-list__nav-icon flex items-center justify-center pointer-events-none h-3 rtl:-scale-x-100 rtl:translate-x-[7px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig"></icon>
+              </button>
+            </div>
+          </div>
+
+        <div class="relative overflow-hidden ">
+              <ul class="slide-list__list items-stretch flex list-none transition-all duration-slow ease-standard ">
+                
+              <li class="trending-courses__list-item">
+                
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <a href="https://www.linkedin.com/learning/figure-drawing-tonal-rendering?trk=learning-topics_trending-courses_related-content-card" target="_self" data-tracking-control-name="learning-topics_trending-courses_related-content-card" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline base-card--link related-content-card w-[228px] block relative
+        
+        related-content-card--link absolute z-[1] top-0 bottom-0 left-0 right-0 hover:no-underline focus:no-underline" aria-label="Figure Drawing: Tonal Rendering, 1h 30m, 6,925,005 viewers">
+        
+
+<!---->
+      
+        
+    <div class="related-entity-media relative block
+        w-[228px] h-[134px] rounded-[2px]">
+      <img class="related-entity-media__img w-full h-full object-cover rounded-[2px]" alt="Figure Drawing: Tonal Rendering" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQEZVh_xl-Cu_Q/learning-public-crop_288_512/learning-public-crop_288_512/0/1595287769974?e=2147483647&amp;v=beta&amp;t=LvlxFSEi6ofSv7fyfQForlDALDCph-ypIbBgxRLkPDk">
+        <div class="related-entity-media__duration duration">
+          
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        1h 30m
+  
+        </div>
+<!---->    </div>
+  
+
+        <p class="related-content-card__identifier font-sans text-xs font-bold text-color-text-low-emphasis uppercase leading-[20px]">
+          
+            Course
+          
+        </p>
+
+      <div class="related-content-card__info flex flex-col mt-1">
+        <h3 class="related-content-card__title font-sans text-[18px] font-bold text-color-text line-clamp-2">
+          Figure Drawing: Tonal Rendering
+        </h3>
+
+<!---->
+            <div class="font-sans font-regular text-sm text-color-text-low-emphasis mt-0.5 line-clamp-3 related-content-card__metadata">
+              
+            <p class="font-sans font-regular text-sm text-color-text-low-emphasis mt-0.5 line-clamp-3 related-content-card__metadata-item">6,925,005 viewers</p>
+          
+            </div>
+      </div>
+    
+    
+      </a>
+  
+  
+  
+      
+  
+  
+              </li>
+              <li class="trending-courses__list-item">
+                
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <a href="https://www.linkedin.com/learning/drawing-foundations-figure?trk=learning-topics_trending-courses_related-content-card" target="_self" data-tracking-control-name="learning-topics_trending-courses_related-content-card" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline base-card--link related-content-card w-[228px] block relative
+        
+        related-content-card--link absolute z-[1] top-0 bottom-0 left-0 right-0 hover:no-underline focus:no-underline" aria-label="Drawing Foundations: Figure, 2h 29m, 2,157,014 viewers">
+        
+
+<!---->
+      
+        
+    <div class="related-entity-media relative block
+        w-[228px] h-[134px] rounded-[2px]">
+      <img class="related-entity-media__img w-full h-full object-cover rounded-[2px]" alt="Drawing Foundations: Figure" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQGCvi3dBFansQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1595287722573?e=2147483647&amp;v=beta&amp;t=KbT4sDrUDrNkABpbg0tmQe8Bs5xrZaHgyftPvn3dXiA">
+        <div class="related-entity-media__duration duration">
+          
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        2h 29m
+  
+        </div>
+<!---->    </div>
+  
+
+        <p class="related-content-card__identifier font-sans text-xs font-bold text-color-text-low-emphasis uppercase leading-[20px]">
+          
+            Course
+          
+        </p>
+
+      <div class="related-content-card__info flex flex-col mt-1">
+        <h3 class="related-content-card__title font-sans text-[18px] font-bold text-color-text line-clamp-2">
+          Drawing Foundations: Figure
+        </h3>
+
+<!---->
+            <div class="font-sans font-regular text-sm text-color-text-low-emphasis mt-0.5 line-clamp-3 related-content-card__metadata">
+              
+            <p class="font-sans font-regular text-sm text-color-text-low-emphasis mt-0.5 line-clamp-3 related-content-card__metadata-item">2,157,014 viewers</p>
+          
+            </div>
+      </div>
+    
+    
+      </a>
+  
+  
+  
+      
+  
+  
+              </li>
+              <li class="trending-courses__list-item">
+                
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <a href="https://www.linkedin.com/learning/what-is-generative-ai?trk=learning-topics_trending-courses_related-content-card" target="_self" data-tracking-control-name="learning-topics_trending-courses_related-content-card" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline base-card--link related-content-card w-[228px] block relative
+        
+        related-content-card--link absolute z-[1] top-0 bottom-0 left-0 right-0 hover:no-underline focus:no-underline" aria-label="What Is Generative AI?, 1h 3m, 1,435,758 viewers">
+        
+
+<!---->
+      
+        
+    <div class="related-entity-media relative block
+        w-[228px] h-[134px] rounded-[2px]">
+      <img class="related-entity-media__img w-full h-full object-cover rounded-[2px]" alt="What Is Generative AI?" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQE84AgCpYxX-Q/learning-public-crop_288_512/learning-public-crop_288_512/0/1678908578362?e=2147483647&amp;v=beta&amp;t=Jwr7vZ9ZHh0IKMXv9qeTU5wzTivAmvy40eYwzJOzous">
+        <div class="related-entity-media__duration duration">
+          
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        1h 3m
+  
+        </div>
+<!---->    </div>
+  
+
+        <p class="related-content-card__identifier font-sans text-xs font-bold text-color-text-low-emphasis uppercase leading-[20px]">
+          
+            Course
+          
+        </p>
+
+      <div class="related-content-card__info flex flex-col mt-1">
+        <h3 class="related-content-card__title font-sans text-[18px] font-bold text-color-text line-clamp-2">
+          What Is Generative AI?
+        </h3>
+
+<!---->
+            <div class="font-sans font-regular text-sm text-color-text-low-emphasis mt-0.5 line-clamp-3 related-content-card__metadata">
+              
+            <p class="font-sans font-regular text-sm text-color-text-low-emphasis mt-0.5 line-clamp-3 related-content-card__metadata-item">1,435,758 viewers</p>
+          
+            </div>
+      </div>
+    
+    
+      </a>
+  
+  
+  
+      
+  
+  
+              </li>
+              <li class="trending-courses__list-item">
+                
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <a href="https://www.linkedin.com/learning/artist-at-work-complementary-colors?trk=learning-topics_trending-courses_related-content-card" target="_self" data-tracking-control-name="learning-topics_trending-courses_related-content-card" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline base-card--link related-content-card w-[228px] block relative
+        
+        related-content-card--link absolute z-[1] top-0 bottom-0 left-0 right-0 hover:no-underline focus:no-underline" aria-label="Artist at Work: Complementary Colors, 18m, 1,416,413 viewers">
+        
+
+<!---->
+      
+        
+    <div class="related-entity-media relative block
+        w-[228px] h-[134px] rounded-[2px]">
+      <img class="related-entity-media__img w-full h-full object-cover rounded-[2px]" alt="Artist at Work: Complementary Colors" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQFpZ3cqYIVAzg/learning-public-crop_288_512/learning-public-crop_288_512/0/1568066633091?e=2147483647&amp;v=beta&amp;t=WfoMtTHLv1JUEKDeswBDTBIdBz2aA27ZZkvpxDku3Qo">
+        <div class="related-entity-media__duration duration">
+          
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        18m
+  
+        </div>
+<!---->    </div>
+  
+
+        <p class="related-content-card__identifier font-sans text-xs font-bold text-color-text-low-emphasis uppercase leading-[20px]">
+          
+            Course
+          
+        </p>
+
+      <div class="related-content-card__info flex flex-col mt-1">
+        <h3 class="related-content-card__title font-sans text-[18px] font-bold text-color-text line-clamp-2">
+          Artist at Work: Complementary Colors
+        </h3>
+
+<!---->
+            <div class="font-sans font-regular text-sm text-color-text-low-emphasis mt-0.5 line-clamp-3 related-content-card__metadata">
+              
+            <p class="font-sans font-regular text-sm text-color-text-low-emphasis mt-0.5 line-clamp-3 related-content-card__metadata-item">1,416,413 viewers</p>
+          
+            </div>
+      </div>
+    
+    
+      </a>
+  
+  
+  
+      
+  
+  
+              </li>
+          
+              </ul>
+        </div>
+
+          <div class="slide-list__nav">
+            <div class="slide-list__nav-wrap absolute flex h-full items-center top-0 z-1 slide-list__nav-wrap--next right-[-20px]">
+              <div class="next-slide-list__a11y-notification sr-only hidden" role="alert">
+                No more next content
+              </div>
+              <button data-tracking-control-name="learning-topics_trending-courses_slide_list_next_button" class="slide-list__nav-button btn-sm btn-overlay cursor-pointer disabled:hidden" aria-label="Trending courses next slide" data-direction="next">
+                <icon class="slide-list__nav-icon flex items-center justify-center pointer-events-none h-3 rtl:-scale-x-100 rtl:translate-x-[7px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c9dcz2pyrbwi3sr6xwxigmvlz"></icon>
+              </button>
+            </div>
+          </div>
+
+
+<!---->
+      <code id="i18n_slide_list_current_slide_aria_label" style="display: none"><!--"Current Item"--></code>
+    </section>
+  
+        
+      </div>
+    </section>
+  
+  
+          
+            </section>
+
+            <section class="serp-page__results-list">
+                
+              
+    
+    
+    
+    
+
+    <div class="search-results-header serp-page__results-heading">
+      
+    <h1 class="search-results-header__heading">
+            <span class="search-results-header__count">12,761</span>Results for "Graphic Design"
+<!---->      </h1>
+
+<!---->    </div>
+  
+          
+              
+            
+      <ul class="results-list">
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/indesign-2024-essential-training?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        InDesign 2024 Essential Training
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="InDesign 2024 Essential Training" data-delayed-url="https://media.licdn.com/dms/image/v2/D560DAQGOKHQmYmrBeA/learning-public-crop_288_512/learning-public-crop_288_512/0/1702947660318?e=2147483647&amp;v=beta&amp;t=dM_GM9mO2YQtp-shNW2MryLYkPctNG339188R9MO_5M">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        5h 22m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            InDesign 2024 Essential Training
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: David Blatner
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">19,835 viewers</span>
+            <span class="base-search-card__metadata-item">Released Dec 21, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/indesign-2023-essential-training?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        InDesign 2023 Essential Training
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="InDesign 2023 Essential Training" data-delayed-url="https://media.licdn.com/dms/image/v2/C560DAQF-GcCDT4CmqQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1674859305645?e=2147483647&amp;v=beta&amp;t=dnRa9loCI4cz2oJZLU--j8iyMRiXLc_qld6FoYHLCi0">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        5h 19m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            InDesign 2023 Essential Training
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: David Blatner
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">76,792 viewers</span>
+            <span class="base-search-card__metadata-item">Released Jan 31, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/lightroom-classic-essential-training?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Lightroom Classic Essential Training
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Lightroom Classic Essential Training" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQHwM6KT55CLfA/learning-public-crop_288_512/learning-public-crop_288_512/0/1597697935689?e=2147483647&amp;v=beta&amp;t=5pgJR4XBOT8_MBCA_3m5sxs-1gabr5X9PWm7kxZbw5k">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        4h 22m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Lightroom Classic Essential Training
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Theresa Jackson
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">42,637 viewers</span>
+            <span class="base-search-card__metadata-item">Released Aug 19, 2020</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/indesign-2022-essential-training?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        InDesign 2022 Essential Training
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="InDesign 2022 Essential Training" data-delayed-url="https://media.licdn.com/dms/image/v2/C560DAQF389SKXjrg0A/learning-public-crop_288_512/learning-public-crop_288_512/0/1648226184338?e=2147483647&amp;v=beta&amp;t=YmDVBz1rFEFYFB9XQBoWPOgs700YkOf6ZhsMBgmC41Y">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        5h 14m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            InDesign 2022 Essential Training
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: David Blatner
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">96,727 viewers</span>
+            <span class="base-search-card__metadata-item">Released Mar 29, 2022</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Midjourney: Tips and Techniques for Creating Images
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Midjourney: Tips and Techniques for Creating Images" data-delayed-url="https://media.licdn.com/dms/image/v2/D560DAQGLGDnK9LBtPg/learning-public-crop_288_512/learning-public-crop_288_512/0/1683140321492?e=2147483647&amp;v=beta&amp;t=kjfkNxeUkByd8f0EhqDZc_9GasAh5dtsgxBEVi_MnDU">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        2h 27m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Midjourney: Tips and Techniques for Creating Images
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Nick Harauz
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">17,872 viewers</span>
+            <span class="base-search-card__metadata-item">Released May 5, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/canva-essential-training?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Canva Essential Training
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Canva Essential Training" data-delayed-url="https://media.licdn.com/dms/image/v2/D560DAQFzpATbaD9N4Q/learning-public-crop_288_512/learning-public-crop_288_512/0/1683840234847?e=2147483647&amp;v=beta&amp;t=3igQFps6vBKY6Uvz9zBoEM5hB1RmvIBUvxWSzeDNPTQ">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        2h 23m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Canva Essential Training
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Nick Brazzi
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">41,349 viewers</span>
+            <span class="base-search-card__metadata-item">Released May 15, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/powerpoint-designing-better-slides-22852103?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        PowerPoint: Designing Better Slides
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="PowerPoint: Designing Better Slides" data-delayed-url="https://media.licdn.com/dms/image/v2/D560DAQHPlFk9QR4CDA/learning-public-crop_288_512/learning-public-crop_288_512/0/1694632785367?e=2147483647&amp;v=beta&amp;t=nu36T9IIkr4KkIze9QGsw2tGFEvBJW38ryj_ZNCmYzU">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        2h 42m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            PowerPoint: Designing Better Slides
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Heather Ackmann
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">63,582 viewers</span>
+            <span class="base-search-card__metadata-item">Released Sep 15, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/drawing-foundations-fundamentals?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Drawing Foundations: Fundamentals
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Drawing Foundations: Fundamentals" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQF8dGoqLGhQZg/learning-public-crop_288_512/learning-public-crop_288_512/0/1568669073097?e=2147483647&amp;v=beta&amp;t=9A9N86cu4IO5ukIMmjrlWnk6QHjXYZbwHjKiG2kuEcE">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        2h 24m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Drawing Foundations: Fundamentals
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Will Kemp
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">187,073 viewers</span>
+            <span class="base-search-card__metadata-item">Released Apr 28, 2014</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/what-is-generative-ai?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        What Is Generative AI?
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="What Is Generative AI?" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQE84AgCpYxX-Q/learning-public-crop_288_512/learning-public-crop_288_512/0/1678908578362?e=2147483647&amp;v=beta&amp;t=Jwr7vZ9ZHh0IKMXv9qeTU5wzTivAmvy40eYwzJOzous">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        1h 3m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            What Is Generative AI?
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Pinar Seyhan Demirdag
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">1,435,758 viewers</span>
+            <span class="base-search-card__metadata-item">Released Mar 15, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/graphic-design-foundations-layout-and-composition?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Graphic Design Foundations: Layout and Composition
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Graphic Design Foundations: Layout and Composition" data-delayed-url="https://media.licdn.com/dms/image/v2/C560DAQFpbZUd8JaSRA/learning-public-crop_288_512/learning-public-crop_288_512/0/1612291663502?e=2147483647&amp;v=beta&amp;t=yr4jc8YKGTKvBQhVggc7Wk3TFiFvCXyH4-Gdp78fTxA">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        2h 3m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Graphic Design Foundations: Layout and Composition
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Sean Adams
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">97,727 viewers</span>
+            <span class="base-search-card__metadata-item">Released Feb 2, 2021</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        How to Research and Write Using Generative AI Tools
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="How to Research and Write Using Generative AI Tools" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQGdrDxOMG6FBg/learning-public-crop_288_512/learning-public-crop_288_512/0/1679097853060?e=2147483647&amp;v=beta&amp;t=iD01EJ-ls8hyWIIMci0sDSobg683ay2ZlUs8WcDoDQ8">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        1h 15m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            How to Research and Write Using Generative AI Tools
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Dave Birss
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">268,880 viewers</span>
+            <span class="base-search-card__metadata-item">Released Mar 15, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/design-thinking-understanding-the-process?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Design Thinking: Understanding the Process
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Design Thinking: Understanding the Process" data-delayed-url="https://media.licdn.com/dms/image/v2/C560DAQE3-GCNgMk7qQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1602270074772?e=2147483647&amp;v=beta&amp;t=ArRaZ40qlf0gCRABxplBUqhsMHsvaLo3ytJw-Tw37ws">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        43m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Design Thinking: Understanding the Process
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Chris Nodder
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">277,619 viewers</span>
+            <span class="base-search-card__metadata-item">Released Oct 26, 2020</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/how-to-use-generative-ai-building-an-ai-first-mindset?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        How to Use Generative AI: Building an AI-First Mindset
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="How to Use Generative AI: Building an AI-First Mindset" data-delayed-url="https://media.licdn.com/dms/image/v2/D560DAQEHFiTbHQ_K_A/learning-public-crop_288_512/learning-public-crop_288_512/0/1720648036000?e=2147483647&amp;v=beta&amp;t=r7rr8vZzBkRksxUyo0oQo0g2WvisIUSXJuw_z9EYFlc">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        48m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            How to Use Generative AI: Building an AI-First Mindset
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Allie K. Miller
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">37,989 viewers</span>
+            <span class="base-search-card__metadata-item">Released Jul 30, 2024</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/learning-design-thinking?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Learning Design Thinking
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Learning Design Thinking" data-delayed-url="https://media.licdn.com/dms/image/v2/C560DAQG_SW5Q86KJHQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1621444866647?e=2147483647&amp;v=beta&amp;t=RYAySZv3iZSA6Vn9ykJdmw76l0BR9Ub9bljH0ulvZD8">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        33m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Learning Design Thinking
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Randall Elliott
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">159,555 viewers</span>
+            <span class="base-search-card__metadata-item">Released May 21, 2021</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/learning-print-production?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Learning Print Production
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Learning Print Production" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQGjNq2KyOdvow/learning-public-crop_288_512/learning-public-crop_288_512/0/1568662442037?e=2147483647&amp;v=beta&amp;t=WoBlzjFu35ObhjKHFzn_BOmmBmUNkdsd1C2Yx3qFAEQ">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        1h 23m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Learning Print Production
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Claudia McCue
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">96,607 viewers</span>
+            <span class="base-search-card__metadata-item">Released Oct 25, 2016</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/canva-web-and-digital-design-projects?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Canva: Web and Digital Design Projects
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Canva: Web and Digital Design Projects" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQFQkspq0I2CRA/learning-public-crop_288_512/learning-public-crop_288_512/0/1647620853045?e=2147483647&amp;v=beta&amp;t=1_UICUbAROWvwrnHWG2aCow-ykMymBVai0ZJa-SGAl8">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        1h 36m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Canva: Web and Digital Design Projects
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Heather Severino
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">35,030 viewers</span>
+            <span class="base-search-card__metadata-item">Released Mar 22, 2022</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/generative-ai-for-digital-marketers?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Generative AI for Digital Marketers
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Generative AI for Digital Marketers" data-delayed-url="https://media.licdn.com/dms/image/v2/D560DAQFV-kzpUBiKUg/learning-public-crop_288_512/learning-public-crop_288_512/0/1685564273312?e=2147483647&amp;v=beta&amp;t=C2BcC5RPNN31V09b7tTH92piTxhH22Ih7uEapmkLyu8">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        33m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Generative AI for Digital Marketers
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Martin Waxman
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">74,438 viewers</span>
+            <span class="base-search-card__metadata-item">Released Jun 2, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/learning-brainstorming?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Learning Brainstorming
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Learning Brainstorming" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0DAQGkLpGrVTX_6w/learning-public-crop_288_512/learning-public-crop_288_512/0/1567118578498?e=2147483647&amp;v=beta&amp;t=n0o1j8YpMADAZoH1qJHAehA8u-EGtLbxK3yEC-hEXv0">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        42m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Learning Brainstorming
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Stefan Mumaw
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">150,370 viewers</span>
+            <span class="base-search-card__metadata-item">Released Dec 18, 2014</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/graphic-design-foundations-typography-22699113?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Graphic Design Foundations: Typography
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Graphic Design Foundations: Typography" data-delayed-url="https://media.licdn.com/dms/image/v2/D560DAQEzoo4iHUAO4w/learning-public-crop_288_512/learning-public-crop_288_512/0/1692207728939?e=2147483647&amp;v=beta&amp;t=cpSjK0nLLFSuAs4Wm7erAD3NuV2oaKXsKaV7qBW5xXo">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        3h 10m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Graphic Design Foundations: Typography
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Ina Saltz
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">35,010 viewers</span>
+            <span class="base-search-card__metadata-item">Released Aug 24, 2023</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+          <li class="results-list__item">
+            
+      
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462?trk=learning-topics_learning-search-card_search-card" data-tracking-control-name="learning-topics_learning-search-card_search-card" data-tracking-will-navigate>
+          
+          <span class="sr-only">
+              
+        Introduction to Graphic Design: Concepts
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media search-entity-media--rectangle">
+        <img class="search-entity-media__img" alt="Introduction to Graphic Design: Concepts" data-delayed-url="https://media.licdn.com/dms/image/v2/D560DAQEL7fM_V2QpOw/learning-public-crop_288_512/learning-public-crop_288_512/0/1719432933467?e=2147483647&amp;v=beta&amp;t=IFpyHYSZAPM5D2NeGJt-0VRCfrb784sCQ7kihDACOe8">
+          <div class="search-entity-media__duration">
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        1h 3m
+  
+          </div>
+<!---->    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            Introduction to Graphic Design: Concepts
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+              By: Tony Harmer
+          
+            </h4>
+
+            <p class="base-search-card__identifier">
+              
+            Course
+          
+            </p>
+
+            <div class="base-search-card__metadata">
+              
+              <span class="base-search-card__metadata-item">7,573 viewers</span>
+            <span class="base-search-card__metadata-item">Released Jul 22, 2024</span>
+          
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+      
+  
+  
+  
+          </li>
+      </ul>
+  
+
+              
+    
+    
+
+    
+    
+
+    
+    
+
+    <div class="see-all-results-cta">
+      <h3 class="see-all-results-cta__header">
+          Not seeing what you’re looking for? Join now to see all 12,761 results.
+      </h3>
+      <a class="see-all-results-cta__link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Ftopics%2Fgraphic-design&amp;source=subs_learn_start&amp;trk=learning-topics_see-all-results-cta" data-tracking-control-name="learning-topics_see-all-results-cta" data-tracking-will-navigate>
+          Join now
+      </a>
+    </div>
+  
+          
+            </section>
+        </main>
+          <aside class="serp-page__aside">
+            
+              
+      
+      <section class="aside-section-container mb-4 aside-topics sidebar__child-topics">
+
+            <h2 class="aside-section-container__title section-title">
+              Explore Graphic Design Topics
+            </h2>
+
+<!---->
+        <div class="aside-section-container__content break-words">
+          
+          <ul class="aside-topics__pill-list">
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/artificial-intelligence-for-design?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Artificial Intelligence for Design
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/asset-management?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Asset Management
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/brand-design?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Brand Design
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/color-theory?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Color Theory
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/creativity-3?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Creativity
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/design-business?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Design Business
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/design-thinking?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Design Thinking
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/digital-publishing?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Digital Publishing
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/drawing?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Drawing
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/fashion-design?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Fashion Design
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/infographics?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Infographics
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/layout-and-composition?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Layout and Composition
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/logo-design?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Logo Design
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/poster-design?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Poster Design
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/print-production?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Print Production
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/19-4?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Typography
+                
+      </a>
+  
+              </li>
+          </ul>
+        
+        </div>
+      </section>
+  
+  
+
+              
+      
+      <section class="aside-section-container mb-4 aside-topics sidebar__related-topics">
+
+            <h2 class="aside-section-container__title section-title">
+              Explore Related Topics
+            </h2>
+
+<!---->
+        <div class="aside-section-container__content break-words">
+          
+          <ul class="aside-topics__pill-list">
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/artificial-intelligence-for-design?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Artificial Intelligence for Design
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/business?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Business
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/creative?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Creative
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/design-business?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Design Business
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/drawing?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Drawing
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/marketing-2?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Marketing
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/motion-graphics-and-vfx?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Motion Graphics and VFX
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/ux-design?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  UX Design
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/user-experience?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  User Experience
+                
+      </a>
+  
+              </li>
+              <li class="aside-topics__pill-list-item">
+                
+      <a href="https://www.linkedin.com/learning/topics/web-design?trk=learning-topics_aside-topics" data-tracking-control-name="learning-topics_aside-topics" data-tracking-will-navigate class="pill pill--allow-multiline flex w-fit mr-[6px] mb-1 hover:no-underline aside-topics__pill">
+        
+                  Web Design
+                
+      </a>
+  
+              </li>
+          </ul>
+        
+        </div>
+      </section>
+  
+  
+
+              
+    
+
+      <div class="buy-for-your-team-cta">
+        <p class="buy-for-your-team-cta__text">Buy LinkedIn Learning for your business, higher education, or government team</p>
+        
+  
+
+  <a class="buy-for-your-team-cta__link" href="/learning/subscription/teams?veh=lil_upx&amp;src=li-lil-upsell&amp;trk=learning-topics_buy-for-your-team-cta" data-tracking-control-name="learning-topics_buy-for-your-team-cta" data-tracking-impression-name="lil_upsell_learning-topics_buy-for-your-team-cta_teambuy" data-test-live-buy-for-your-team-upsell data-tracking-will-navigate>
+    Buy for my team
+  </a>
+
+      </div>
+  
+          
+          </aside>
+      
+      </div>
+
+      
+        
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <section class="tw-linkster bg-cool-gray-20 browse-map" data-impression-id="learning-topics_linkster" data-js-module-id="linkster">
+      <div class="max-w-screen-content-max-w w-full flex justify-between my-0 mx-auto mamabear:px-3 babybear:px-2 babybear:flex-col">
+          
+        
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+          <h3 class="text-md font-bold text-color-text leading-open">
+            Explore Business Topics
+          </h3>
+        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/business-analysis-and-strategy?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Business Analysis and Strategy
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/business-software-and-tools?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Business Software and Tools
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/career-development-5?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Career Development
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/customer-service-3?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Customer Service
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/diversity-equity-and-inclusion-dei?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Diversity, Equity, and Inclusion (DEI)
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/finance-and-accounting?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Finance and Accounting
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/human-resources-3?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Human Resources
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/leadership-and-management?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Leadership and Management
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/marketing-2?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Marketing
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/professional-development?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Professional Development
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/project-management?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Project Management
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/sales-3?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Sales
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/small-business-and-entrepreneurship?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Small Business and Entrepreneurship
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/training-and-education?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Training and Education
+              </a>
+            </li>
+        </ul>
+
+          <a class="link tw-linkster-general-link" aria-label="See all business courses" href="https://www.linkedin.com/learning/topics/business?trk=learning-topics_browsemap_general-link" data-tracking-control-name="learning-topics_browsemap_general-link" data-tracking-will-navigate>
+              See all
+          </a>
+      </div>
+  
+        
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+          <h3 class="text-md font-bold text-color-text leading-open">
+            Explore Creative Topics
+          </h3>
+        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/aec?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                AEC
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/animation-and-illustration?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Animation and Illustration
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/audio-and-music?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Audio and Music
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/graphic-design?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Graphic Design
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/motion-graphics-and-vfx?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Motion Graphics and VFX
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/photography-2?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Photography
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/product-and-manufacturing?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Product and Manufacturing
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/user-experience?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                User Experience
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/2015-54?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Video
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/visualization-and-real-time?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Visualization and Real-Time
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/web-design?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Web Design
+              </a>
+            </li>
+        </ul>
+
+          <a class="link tw-linkster-general-link" aria-label="See all creative courses" href="https://www.linkedin.com/learning/topics/creative?trk=learning-topics_browsemap_general-link" data-tracking-control-name="learning-topics_browsemap_general-link" data-tracking-will-navigate>
+              See all
+          </a>
+      </div>
+  
+        
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+          <h3 class="text-md font-bold text-color-text leading-open">
+            Explore Technology Topics
+          </h3>
+        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/artificial-intelligence?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Artificial Intelligence (AI)
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/cloud-computing-5?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Cloud Computing
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/security-3?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Cybersecurity
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/data-science?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Data Science
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/database-management?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Database Management
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/devops?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                DevOps
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/hardware?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Hardware
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/it-help-desk-5?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                IT Help Desk
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/mobile-development?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Mobile Development
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/network-and-system-administration?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Network and System Administration
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/software-development?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Software Development
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/learning/topics/web-development?trk=learning-topics_browsemap_link" data-js-module-id="link-column-link" data-tracking-control-name="learning-topics_browsemap_link" data-tracking-will-navigate>
+                Web Development
+              </a>
+            </li>
+        </ul>
+
+          <a class="link tw-linkster-general-link" aria-label="See all technology courses" href="https://www.linkedin.com/learning/topics/technology?trk=learning-topics_browsemap_general-link" data-tracking-control-name="learning-topics_browsemap_general-link" data-tracking-will-navigate>
+              See all
+          </a>
+      </div>
+  
+    
+      </div>
+    </section>
+  
+  
+          
+      
+
+      
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer bg-transparent w-full ">
+      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:w-[1128px] papabear:p-0">
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/e12h2cd8ac580qen9qdd0qks8"></icon>
+          <span class="li-footer__copy-text flex items-center">&copy; 2024</span>
+        
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=learning-topics_footer-about" data-tracking-control-name="learning-topics_footer-about" data-tracking-will-navigate>
+          
+          About
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=learning-topics_footer-accessibility" data-tracking-control-name="learning-topics_footer-accessibility" data-tracking-will-navigate>
+          
+          Accessibility
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=learning-topics_footer-user-agreement" data-tracking-control-name="learning-topics_footer-user-agreement" data-tracking-will-navigate>
+          
+          User Agreement
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=learning-topics_footer-privacy-policy" data-tracking-control-name="learning-topics_footer-privacy-policy" data-tracking-will-navigate>
+          
+          Privacy Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/california-privacy-disclosure?trk=learning-topics_footer-california-privacy-rights-act" data-tracking-control-name="learning-topics_footer-california-privacy-rights-act" data-tracking-will-navigate>
+          
+            Your California Privacy Choices
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=learning-topics_footer-cookie-policy" data-tracking-control-name="learning-topics_footer-cookie-policy" data-tracking-will-navigate>
+          
+          Cookie Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=learning-topics_footer-copyright-policy" data-tracking-control-name="learning-topics_footer-copyright-policy" data-tracking-will-navigate>
+          
+          Copyright Policy
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=learning-topics_footer-brand-policy" data-tracking-control-name="learning-topics_footer-brand-policy" data-tracking-will-navigate>
+          
+          Brand Policy
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=learning-topics_footer-guest-controls" data-tracking-control-name="learning-topics_footer-guest-controls" data-tracking-will-navigate>
+          
+            Guest Controls
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/professional-community-policies?trk=learning-topics_footer-community-guide" data-tracking-control-name="learning-topics_footer-community-guide" data-tracking-will-navigate>
+          
+          Community Guidelines
+        
+        </a>
+  </li>
+
+        
+<!---->
+          
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
+<!---->
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-[100%] top-auto" role="menu" tabindex="-1">
+          
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="العربية (Arabic)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ar_AE" data-locale="ar_AE" role="menuitem" lang="ar_AE">
+                العربية (Arabic)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="বাংলা (Bangla)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-bn_IN" data-locale="bn_IN" role="menuitem" lang="bn_IN">
+                বাংলা (Bangla)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Čeština (Czech)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-cs_CZ" data-locale="cs_CZ" role="menuitem" lang="cs_CZ">
+                Čeština (Czech)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Dansk (Danish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-da_DK" data-locale="da_DK" role="menuitem" lang="da_DK">
+                Dansk (Danish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Deutsch (German)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-de_DE" data-locale="de_DE" role="menuitem" lang="de_DE">
+                Deutsch (German)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Ελληνικά (Greek)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-el_GR" data-locale="el_GR" role="menuitem" lang="el_GR">
+                Ελληνικά (Greek)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English (English) selected" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link--selected" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                <strong>English (English)</strong>
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Español (Spanish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-es_ES" data-locale="es_ES" role="menuitem" lang="es_ES">
+                Español (Spanish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="فارسی (Persian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fa_IR" data-locale="fa_IR" role="menuitem" lang="fa_IR">
+                فارسی (Persian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Suomi (Finnish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fi_FI" data-locale="fi_FI" role="menuitem" lang="fi_FI">
+                Suomi (Finnish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Français (French)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fr_FR" data-locale="fr_FR" role="menuitem" lang="fr_FR">
+                Français (French)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="हिंदी (Hindi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hi_IN" data-locale="hi_IN" role="menuitem" lang="hi_IN">
+                हिंदी (Hindi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Magyar (Hungarian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hu_HU" data-locale="hu_HU" role="menuitem" lang="hu_HU">
+                Magyar (Hungarian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Indonesia (Indonesian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-in_ID" data-locale="in_ID" role="menuitem" lang="in_ID">
+                Bahasa Indonesia (Indonesian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Italiano (Italian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-it_IT" data-locale="it_IT" role="menuitem" lang="it_IT">
+                Italiano (Italian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="עברית (Hebrew)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-iw_IL" data-locale="iw_IL" role="menuitem" lang="iw_IL">
+                עברית (Hebrew)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="日本語 (Japanese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ja_JP" data-locale="ja_JP" role="menuitem" lang="ja_JP">
+                日本語 (Japanese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="한국어 (Korean)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ko_KR" data-locale="ko_KR" role="menuitem" lang="ko_KR">
+                한국어 (Korean)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="मराठी (Marathi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-mr_IN" data-locale="mr_IN" role="menuitem" lang="mr_IN">
+                मराठी (Marathi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Malaysia (Malay)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ms_MY" data-locale="ms_MY" role="menuitem" lang="ms_MY">
+                Bahasa Malaysia (Malay)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Nederlands (Dutch)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-nl_NL" data-locale="nl_NL" role="menuitem" lang="nl_NL">
+                Nederlands (Dutch)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Norsk (Norwegian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-no_NO" data-locale="no_NO" role="menuitem" lang="no_NO">
+                Norsk (Norwegian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ਪੰਜਾਬੀ (Punjabi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pa_IN" data-locale="pa_IN" role="menuitem" lang="pa_IN">
+                ਪੰਜਾਬੀ (Punjabi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Polski (Polish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pl_PL" data-locale="pl_PL" role="menuitem" lang="pl_PL">
+                Polski (Polish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Português (Portuguese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pt_BR" data-locale="pt_BR" role="menuitem" lang="pt_BR">
+                Português (Portuguese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Română (Romanian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ro_RO" data-locale="ro_RO" role="menuitem" lang="ro_RO">
+                Română (Romanian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Русский (Russian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ru_RU" data-locale="ru_RU" role="menuitem" lang="ru_RU">
+                Русский (Russian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Svenska (Swedish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-sv_SE" data-locale="sv_SE" role="menuitem" lang="sv_SE">
+                Svenska (Swedish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="తెలుగు (Telugu)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-te_IN" data-locale="te_IN" role="menuitem" lang="te_IN">
+                తెలుగు (Telugu)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ภาษาไทย (Thai)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-th_TH" data-locale="th_TH" role="menuitem" lang="th_TH">
+                ภาษาไทย (Thai)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tagalog (Tagalog)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tl_PH" data-locale="tl_PH" role="menuitem" lang="tl_PH">
+                Tagalog (Tagalog)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Türkçe (Turkish)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tr_TR" data-locale="tr_TR" role="menuitem" lang="tr_TR">
+                Türkçe (Turkish)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Українська (Ukrainian)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-uk_UA" data-locale="uk_UA" role="menuitem" lang="uk_UA">
+                Українська (Ukrainian)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tiếng Việt (Vietnamese)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-vi_VN" data-locale="vi_VN" role="menuitem" lang="vi_VN">
+                Tiếng Việt (Vietnamese)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="简体中文 (Chinese (Simplified))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_CN" data-locale="zh_CN" role="menuitem" lang="zh_CN">
+                简体中文 (Chinese (Simplified))
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="正體中文 (Chinese (Traditional))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_TW" data-locale="zh_TW" role="menuitem" lang="zh_TW">
+                正體中文 (Chinese (Traditional))
+            </button>
+          </li>
+<!---->      
+        </ul>
+
+          
+        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+          <span class="language-selector__label-text mr-0.5 break-words">
+            Language
+          </span>
+          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+        </button>
+      
+    </div>
+  
+  
+          
+  </li>
+
+      </ul>
+
+<!---->    </footer>
+  
+    </div>
+  
+  
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/eh08muqvrde4h3hc6koyij5ti" async></script>
+<!---->          
+          <script src="https://static.licdn.com/aero-v1/sc/h/cdw5o3wpuviowezimmxawcplf" async defer></script>
+      
+      </body>
+    </html>
+  
+  

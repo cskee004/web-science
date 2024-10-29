@@ -1,0 +1,1809 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script src="/sites/default/files/hotjar/hotjar.script.js?skfm92"></script>
+<meta name="description" content="New maps, old maps, and spatial data with expert librarians to help you bring them to life in research and teaching." />
+<link rel="canonical" href="https://library.harvard.edu/libraries/harvard-map-collection" />
+<meta property="og:site_name" content="Harvard Library" />
+<meta property="og:type" content="library" />
+<meta property="og:url" content="https://library.harvard.edu/libraries/harvard-map-collection" />
+<meta property="og:title" content="Harvard Map Collection" />
+<meta property="og:description" content="New maps, old maps, and spatial data with expert librarians to help you bring them to life in research and teaching." />
+<meta property="og:image" content="https://library.harvard.edu/sites/default/files/2020-04/21554953-crop.jpg" />
+<meta property="og:image:alt" content="a map from early Japan" />
+<meta itemprop="name" content="Harvard Map Collection" />
+<meta itemprop="description" content="New maps, old maps, and spatial data with expert librarians to help you bring them to life in research and teaching." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Harvard Library - Harvard Map Collection" />
+<meta name="twitter:site" content="@harvardlibrary" />
+<meta name="twitter:url" content="https://library.harvard.edu/libraries/harvard-map-collection" />
+<meta name="twitter:image:alt" content="a map from early Japan" />
+<meta name="twitter:image" content="https://library.harvard.edu/sites/default/files/2020-04/21554953-crop.jpg" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/harvard/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/default/files/google_tag/ga4/google_tag.script.js?skfm92" defer></script>
+
+    <title>Harvard Map Collection | Harvard Library</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_-3CVcbhcjrD8hpPmJzPL_9K_4PEBIq4p7YF1BaPJIA4.css?delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Lora:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_B_vRC4kly_77UEmaji62uAL5P1OVymz5fNeMSXfBArg.css?delta=2&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU" />
+
+    
+  </head>
+  <body class="path-node page-node-type-library">
+        <a href="#hl__main-id" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSHSDQ5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <section class="region">
+      
+  </section>
+
+
+  
+  <section class="hl__header region js-header">
+    <nav class="hl__header__container" aria-label="main">
+      <div class="hl__header__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library Homepage">
+            <img class="hl__image " alt="Harvard Library Homepage" height="82" width="110" src="/themes/custom/harvard/assets/images/logo-final.svg">
+          </a>
+        </section>
+      </div>
+
+      <div class="hl__header__menu">
+        <section class="hl__main-nav js-main-nav">
+          <button class="hl__hamburger-button js-hamburger-button" type="button" aria-label="open or close the Main Navigation">
+            <span class="hl__hamburger-button__icon"></span>
+          </button>
+          <div class="hl__main-nav__wrapper">
+            <div class="hl__main-nav__container">
+                
+
+<div class="hl__main-nav__menu">
+          <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-1">
+        Help with...
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-1">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/services-tools" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1326"><span>All Services, Tools & Catalogs</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-library-alum" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1416"><span>Alumni Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/borrow-renew-and-return-library-materials" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1306"><span>Borrowing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/get-support-research-publishing" class="hl__link-tag" title="Get Remote Support for Research &amp; Publishing" data-ga-link="Header Nav" data-drupal-link-system-path="node/9426"><span>Research & Publishing</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://library.harvard.edu/services-tools/scan-deliver" class="hl__link-tag" data-ga-link="Header Nav"><span>Scan & Deliver</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/teach-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1356"><span>Teaching</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-2">
+        Collections
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-2">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/explore-collections" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/341"><span>Explore Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://curiosity.lib.harvard.edu/" class="hl__link-tag" data-ga-link="Header Nav"><span>Curated Digital Collections</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/use-harvard-librarys-special-collections-and-archives" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1311"><span>How to Use Special Collections & Archives</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/how-to/how-choose-search-tool" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/11134"><span>How to Choose a Search Tool</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/collections/exhibits" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1441"><span>What's on Exhibit</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-3">
+        Events &amp; News
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-3">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="https://libcal.library.harvard.edu/calendar/main" title="Upcoming Events" class="hl__link-tag" data-ga-link="Header Nav"><span>Events</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/about/news" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/116"><span>News</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+      <div  class="hl__main-nav__menu-item js-main-nav-menu">
+      <button aria-expanded="false" class="hl__main-nav__top-link js-main-nav-top-link" id="hl__top-link-4">
+        Visit &amp; About
+      </button>
+      <div class="hl__main-nav__sub-menu js-main-nav-sub-menu">
+        <button aria-label="close sub menu" class="hl__button hl__button--small js-main-nav-back-button" type="button">back</button>
+        <ul class="hl__main-nav__items" role="menu" aria-labelledby="hl__top-link-4">
+                                    <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/libraries" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/171"><span>Locations & Hours</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visitor-access" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/3186"><span>Visitor Access</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/spaces" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="spaces"><span>Find a Space</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/confronting-anti-black-racism" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10946"><span>Confronting Anti-Black Racism</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/grants-fellowships" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1586"><span>Grants & Fellowships</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/staff" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/1466"><span>Staff Profiles</span></a>
+      </li>
+          <li role="menuitem" class="hl__main-nav__item js-main-nav-sub-menu-item">
+        <a href="/visit-about/about-harvard-library" class="hl__link-tag" data-ga-link="Header Nav" data-drupal-link-system-path="node/10241"><span>About Harvard Library</span></a>
+      </li>
+      
+                  </ul>
+      </div>
+    </div>
+  
+</div>
+
+
+
+  
+
+<div class="hl__main-nav__utility-nav">
+  <section class="hl__utility-nav js-utility-nav">
+                                                                                    <div class="js-utility-nav-item hl__utility-nav__link js-utility-nav-item--hollis">
+                                                  <a href="https://hollis.harvard.edu/primo-explore/account?vid=HVD2&amp;section=overview&amp;lang=en_US" data-icon="user" data-show-title="yes" data-item-type="link" data-item-label="hollis" class="hl__utility-nav__item" title="Sign in to HOLLIS">              <span class="hl__utility-nav__icon hl__utility-nav__item--hollis" aria-hidden="true">
+                <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="user-icon" style="pointer-events:none">
+      <title id="user-icon">Sign in to HOLLIS</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-1156.000000, -35.000000)">
+      <g transform="translate(1065.000000, 1.000000)">
+        <g transform="translate(91.000000, 34.000000)" fill="#1E1E1E" fill-rule="nonzero">
+          <path d="M17.5774327,20 C18.8046827,20 19.8251827,18.9925 19.5558077,17.795125 C18.5516827,13.333125 14.5650577,11.875 9.79980771,11.875 C5.03454521,11.875 1.04763271,13.333125 0.0435327056,17.795125 C-0.225904794,18.9925 0.794582706,20 2.02188271,20 L17.5774327,20 Z"></path>
+          <path d="M14.7996827,5 C14.7996827,7.761375 12.5610577,10 9.79968271,10 C7.03823271,10 4.79965771,7.761375 4.79965771,5 C4.79965771,2.238575 7.03823271,0 9.79968271,0 C12.5610577,0 14.7996827,2.238575 14.7996827,5 Z"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+
+              </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hollis ">MyHOLLIS</span>
+                          </a>
+              </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--ask">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--ask" id="hl__utility-nav__button-2" title="Ask a Librarian, contact us with your question" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--ask" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" role="img" aria-labelledby="ask-icon" style="pointer-events:none">
+      <title id="ask-icon">Ask a Librarian, contact us with your question</title>
+    <g>
+    <g transform="translate(-34 -74)"><path d="M41 81h-2v2h2zm4 0h-2v2h2zm4 0h-2v2h2zm3-7a2 2 0 0 1 2 2v18l-4-4H36a2 2 0 0 1-2-2V76c0-1.1.9-2 2-2z"></path>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--ask ">Ask</span>
+                                    </button>
+                      <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__dropdown-tray">
+      <div class="hl__dropdown-tray__container">
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--searchbox">
+          <h2 class="hl__comp-heading">Ask <span class="hl__dropdown-tray__heading--lora">a Librarian</span></h2>
+          <section class="hl__single-input-form  ">
+            <form class="hl__single-input-form__form" action="https://ask.library.harvard.edu/search" method="GET" autocomplete="off">
+              <label class="hl__label hl__label--inline" for="text-input">Ask a librarian</label>
+              <div class="hl__single-input-form__input-group">
+                                  <input class="hl__input hl__input--inline js-is-required" name="q" id="text-input" type="text" placeholder="Try &quot;printer help&quot; or &quot;Zotero&quot;" data-type="text" required="" autocomplete="off">
+                                <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label="">
+                  Go
+                </button>
+              </div>
+            </form>
+          </section>
+        </div>
+        <div class="hl__dropdown-tray__columns hl__dropdown-tray__columns--links">
+          <div class="hl__linked-list hl__linked-list--no-bullets ">
+            <h2 class="hl__comp-heading  ">More help options</h2>
+            <ul class="hl__linked-list__items">
+                              <li class="hl__linked-list__item">
+                  <a href="/services-tools/library-liaisons" class="hl__link-tag">Find my subject liaison</a>
+                </li>
+                              <li class="hl__linked-list__item">
+                  <a href="https://harvard.az1.qualtrics.com/jfe/form/SV_09DXHPBmaMSnqdL" class="hl__link-tag">Request a research appointment</a>
+                </li>
+                          </ul>
+          </div>
+          <!-- "Library.Harvard Chat Widget" embedded from ask.library.harvard.edu -->
+          <!-- update styles in sprinshare interface -->
+          <div id="hl__chat-button">
+            <div id="libchat_90b85bdd1489a074045c2519ad2fc1a5" class="hl__chat-button">
+              <p class="hl__chat-button__placeholder">Let's chat!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+                                            </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--hours">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--hours" id="hl__utility-nav__button-3" title="Library locations and hours" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--hours" aria-hidden="true">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="clock-icon" style="pointer-events:none">
+      <title id="clock-icon">Library locations and hours</title>
+    <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+
+            </span>
+                              <span class="hl__utility-nav__text hl__utility-nav__item--hours ">Hours</span>
+                                    </button>
+                                <div class="hl__utility-nav__dropdown  js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small   js-utility-nav-back-button " aria-label="close dropdown menu">
+    back
+  </button>
+  <div class="hl__utility-nav__dropdown-container">
+                  <section class="hl__featured-libraries">
+      <div class="hl__featured-libraries__container">
+        <div class="hl__featured-libraries__today">
+          <h2>
+            <span class="hl__highlighted-text">Saturday, Sep 28, 2024</span>
+          </h2>
+        </div>
+                  <ul class="hl__featured-libraries__items">
+              <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/widener" class="hl__link-tag"><span>Widener Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">9am - 5pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/lamont" class="hl__link-tag"><span>Lamont Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">11am - 10pm</span>
+</div>
+
+  </li>
+  <li class="hl__featured-libraries__item">
+    
+
+  <h3 class="hl__featured-libraries__name" ><a href="/libraries/cabot" class="hl__link-tag"><span>Cabot Science Library</span>
+</a></h3>
+
+<div class="hl__featured-libraries__hours">
+  <span class="hl__featured-libraries__icon">
+    <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+  </span>
+  <span class="hl__featured-libraries__status">Today</span>
+  <span class="hl__featured-libraries__time">12pm - 10pm</span>
+</div>
+
+  </li>
+
+                          <li class="hl__featured-libraries__item hl__featured-libraries__item--more">
+                <h3 class="hl__featured-libraries__all"><span>see all locations</span></h3>
+                <div class="hl__featured-libraries__see-more">
+              <span class="hl__featured-libraries__more-icon">
+                <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(-188 -510)">
+      <g>
+        <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+      </g>
+      <g>
+        <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+              </span>
+                  <span class="hl__featured-libraries__more-link">
+                      <a href="/libraries?active_filter=1" class="hl__link-tag hl__link-tag--with-arrow" #title="See more library hours"><span>Hours for all 25&plus; locations</span></a>
+
+                  </span>
+                </div>
+              </li>
+                      </ul>
+              </div>
+    </section>
+  
+
+      </div>
+</div>
+                                  </div>
+                                                                            <div class="js-utility-nav-item hl__utility-nav__button js-utility-nav-item--search">
+                  <button class="hl__utility-nav__item js-utility-nav-button hl__utility-nav__item--search" id="hl__utility-nav__button-4" title="Search" aria-expanded="false">
+                          <span class="hl__utility-nav__icon hl__utility-nav__item--search" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17" role="img" aria-labelledby="search-icon" style="pointer-events:none">
+      <title id="search-icon">Search</title>
+    <g>
+    <g transform="translate(-158 -656)"><path d="M170.15 666.7l4.85 4.85-1.45 1.45-4.86-4.85v-.77l-.26-.27a6.32 6.32 0 1 1 .68-.68l.27.26zm-5.83 0a4.37 4.37 0 1 0 .01-8.74 4.37 4.37 0 0 0-.01 8.73z"></path></g>
+  </g>
+</svg>
+
+            </span>
+                                    </button>
+                                          <div class="hl__utility-nav__dropdown js-utility-nav-dropdown">
+  <button type="button" class="hl__button hl__button--small js-utility-nav-back-button" aria-label="close dropdown menu" tabindex="-1"><span class="hl__button__text">back</span></button>
+  <div class="hl__utility-nav__dropdown-container">
+    <section class="hl__single-input-form hl__single-input-form--clear js-search-dropdown">
+      <form class="hl__single-input-form__form" action="/search" method="GET" autocomplete="off">
+        <label class="hl__label hl__label--hidden" for="utility-nav-search-input">Search website or HOLLIS catalog</label>
+        <div class="hl__single-input-form__input-group">
+          <input class="hl__input hl__input--inline js-is-required" name="keywords" id="utility-nav-search-input" type="text" placeholder="" data-type="text" required="" autocomplete="off" />
+          <button type="submit" class="hl__button hl__button--small hl__button--inline" aria-label=""><span class="hl__button__text">Search</span></button>
+        </div>
+        <div class="hl__single-input-form__dropdown">
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in website" id="search-website-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>website (library.harvard)</span>
+            </a>
+          </div>
+          <div class="hl__single-input-form__dropdown-item">
+            <a href="#" alt="search in library catalog" id="search-hollis-link" tabindex="0">
+              <div class="hl__single-input-form__search-term"></div>
+              in <span>library catalog &amp; articles (HOLLIS)</span>
+            </a>
+          </div>
+        </div>
+      </form>
+    </section>
+    <div class="hl__utility-nav__helper-text">
+      <section class="hl__rich-text">
+        <p>Search website or HOLLIS catalog</p>
+      </section>
+    </div>
+  </div>
+</div>
+                        </div>
+      
+  </section>
+</div>
+
+
+
+            </div>
+          </div>
+        </section>
+      </div>
+    </nav>
+  </section>
+  <div class="hl__header__sticky-gap"></div>
+
+
+<main id="hl__main-id" class="hl__full-template hl__library-details" tabindex="-1">
+
+  
+        <section class="hl__full-template__pre-content hl__library-details__pre-content region">
+      <div id="block-breadcrumbs" data-block-plugin-id="system_breadcrumb_block">
+            <nav role="navigation" aria-labelledby="system-breadcrumb"  class="hl__breadcrumb hl__breadcrumb--light">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+
+    <ul class="hl__breadcrumb__items">
+                        <li class="hl__breadcrumb__item">
+            <a href="/"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Home">Home</a>
+          </li>
+                                <li class="hl__breadcrumb__item">
+            <a href="/libraries"  class="hl__link-tag" data-ga-link="Breadcrumb" title="Locations &amp; Hours">Locations &amp; Hours</a>
+          </li>
+                  </ul>
+  </nav>
+
+      </div>
+
+  
+    
+
+<section  class="hl__page-header hl__page-header--light">
+  <div class="hl__page-header__container">
+    <div class="hl__page-header__page-title">
+        <h1 class="hl__page-title"><span>Harvard Map Collection</span>
+</h1>
+    </div>
+    <div class="hl__page-header__sub-text">
+        <div class="hl__sub-text"></div>
+    </div>
+  </div>
+</section>
+
+  <div class="hl__library-details__bg-overlay hl__library-details__bg-overlay--dark"></div>
+
+<style>
+  .hl__library-details__pre-content {
+    background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_narrow/public/2020-04/21554953-crop.jpg?h=b4ccc758&itok=j-Axf1W9');
+  }
+
+  @media (min-width: 800px) {
+    .hl__library-details__pre-content {
+      background-image: url('https://library.harvard.edu/sites/default/files/styles/library_header_wide/public/2020-04/21554953-crop.jpg?h=b4ccc758&itok=fK8QzFIX');
+    }
+  }
+</style>
+
+
+
+
+
+
+    
+  <div class="hl__library-details__jump-links">
+    <div class="hl__jump-links js-jump-links hl__jump-links--primary">
+                                                                                                        <div class="hl__jump-links__navigation">
+        <nav class="hl__jump-links__items" aria-label="in-page">
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#appointments" class="hl__link-tag"><span>Appointments</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#find" class="hl__link-tag"><span>Explore Maps</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#spatial" class="hl__link-tag"><span>Use Spatial Data</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#teach" class="hl__link-tag"><span>Teach with Us</span></a>
+            </div>
+                      <div class="hl__jump-links__link js-jump-links-link">
+              <a href="#about" class="hl__link-tag"><span>About Us</span></a>
+            </div>
+                  </nav>
+      </div>
+    </div>
+  </div>
+
+
+
+  </section>
+
+  
+    <section class="hl__full-template__main-content region">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-harvard-content" data-block-plugin-id="system_main_block">
+  
+    
+      
+<article>
+  
+
+  <div class="hl__library-details__info">
+    <a name="library-info" id="library-info"></a>
+     <section class="hl__library-info">
+      <div class="hl__library-info__container ">
+        <div class="hl__library-info__hours">
+          <section class="hl__library-hours">
+            <div class="hl__library-hours__icon">
+              <svg height="31" viewBox="0 0 30 31" width="30" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+                <g>
+                  <g transform="translate(-188 -510)">
+                    <g>
+                      <path fill="#fad154" d="M202.99 512.5a12.5 12.5 0 1 1 0 25.01 12.5 12.5 0 0 1 0-25.01zM203 535a10 10 0 1 0 0-20 10 10 0 0 0 0 20z"></path>
+                    </g>
+                    <g>
+                      <path fill="#fad154" d="M203.63 518.75h-1.88v7.5l6.56 3.94.94-1.54-5.63-3.34z"></path>
+                    </g>
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <div class="hl__library-hours__today">
+              Today: Closed
+            </div>
+                        <div class="hl__library-hours__see-all">
+                <a href="/libraries?active_filter=1&amp;library=map" class="hl__link-tag hl__link-tag--with-arrow" title="See all hours for Harvard Map Collection" data-ga-link="Text Link: In-Line Arrow"><span>See All Hours </span></a>
+
+            </div>
+                      </section>
+        </div>
+                <div class="hl__library-info__summary">
+          <h2 class="hl__comp-heading  ">Highlights</h2>
+          <div class="hl__library-info__highlights">
+            <section class="hl__rich-text  ">
+              <p>  New maps, old maps, and spatial data with expert librarians to help you bring them to life in research and teaching.
+</p>
+              <ul>
+      <li>Teach with maps and data</li>
+      <li>Explore history through maps</li>
+      <li>Get help with geospatial data</li>
+      <li>Dive into curated exhibitions</li>
+  </ul>
+
+            </section>
+          </div>
+                    <div class="hl__library-info__access">
+            <section class="hl__rich-text  ">
+                                Reading room open by appointment. Appointments available 10:30 am to 4:00 pm. 
+
+                                            <div class="hl__rich-text__see-all-link">
+                    <a href="/visitor-access" class="hl__link-tag hl__link-tag--with-arrow" data-ga-link="Text Link: In-Line Arrow"><span>Full access policy</span></a>
+
+                </div>
+                          </section>
+          </div>
+        </div>
+                  <div class="hl__library-info__cta hl__library-info__cta--social">
+            <section class="hl__pattern-cta hl__pattern-cta--small">
+              <div class="hl__pattern-cta__container">
+                <div class="hl__pattern-cta__text">
+                  <div class="hl__pattern-cta__title">Follow Harvard Map Collection</div>
+                  <div class="hl__pattern-cta__description">You can find us on Instagram and Twitter</div>
+                </div>
+                <div class="hl__pattern-cta__links">
+                  <div class="hl__pattern-cta-icon"><a class="hl__icon-link" href="https://www.instagram.com/harvardmaps" title="follow us on Instagram"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 15 15"><defs><path id="vqi3a2" d="M1331.5 1577.6a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8zm-4 7.4a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm0-6.35a3.85 3.85 0 1 1 0 7.7 3.85 3.85 0 0 1 0-7.7zm0-3.65c2.04 0 2.3 0 3.1.05 2.72.12 4.23 1.64 4.35 4.36.04.8.05 1.05.05 3.09s0 2.3-.05 3.1c-.12 2.72-1.64 4.23-4.36 4.36-.8.03-1.05.04-3.09.04s-2.3 0-3.1-.04c-2.72-.13-4.23-1.64-4.36-4.37-.03-.8-.04-1.05-.04-3.09s0-2.3.05-3.1c.12-2.72 1.63-4.23 4.36-4.36.8-.03 1.05-.04 3.09-.04zm0 1.35c-2 0-2.24 0-3.03.05-2.04.09-2.98 1.05-3.08 3.07-.03.8-.04 1.03-.04 3.03 0 2 0 2.24.05 3.03.09 2.01 1.03 2.98 3.07 3.08.79.03 1.03.04 3.03.04 2 0 2.24 0 3.03-.04 2.04-.1 2.98-1.06 3.08-3.08.03-.79.04-1.03.04-3.03 0-2 0-2.24-.05-3.03-.09-2.02-1.04-2.98-3.07-3.07-.79-.04-1.03-.05-3.03-.05z"></path></defs><g><g transform="translate(-1320 -1575)"><use fill="#E1306C" xlink:href="#vqi3a2"></use></g></g></svg></a></div><div class="hl__pattern-cta-icon"><a class="hl__icon-link" href="https://twitter.com/HarvardMapColl" title="follow us on Twitter"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="17" viewBox="0 0 20 17"><defs><path id="7gyva" d="M1386.63 1059.5c.87-.5 1.5-1.25 1.74-2.25a8.2 8.2 0 0 1-2.62 1 4.36 4.36 0 0 0-3-1.25c-2.13 0-4 1.88-4 4.13 0 .37 0 .62.13.87a11.5 11.5 0 0 1-8.5-4.25c-.38.63-.5 1.25-.5 2.13a4.1 4.1 0 0 0 1.87 3.37c-.63 0-1.25-.25-1.88-.5 0 2 1.38 3.63 3.26 4-.38.13-.76.13-1.13.13-.25 0-.5 0-.75-.13.5 1.63 2 2.88 3.88 2.88a7.95 7.95 0 0 1-5.13 1.74h-1a12.2 12.2 0 0 0 6.25 1.88c7.5 0 11.63-6.25 11.63-11.63v-.5a7.27 7.27 0 0 0 2.12-2.24c-.75.37-1.5.5-2.38.62z" /></defs><g><g transform="translate(-1369 -1057)"><use fill="#1da1f2" xlink:href="#7gyva" /></g></g></svg></a></div>                </div>
+              </div>
+            </section>
+          </div>
+
+                <div class="hl__library-info__sidebar js-accordion">
+          <div class="hl__library-info__contact">
+            <section class="hl__contact-info">
+              <h2 class="hl__comp-heading  ">Contact</h2>
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                  <div class="hl__contact-info__address">      Pusey Library <br />
+    <span class="address-line1">Harvard Yard</span>
+ <br />
+
+      Cambridge,
+    <span class="administrative-area">MA</span>
+ <span class="postal-code">02138</span>
+
+</div>
+                  <div class="hl__contact-info__directions">
+                    <span class="hl__contact-info__icon" aria-hidden="true"> <svg height="17" viewbox="0 0 12 17" width="12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M994 1676c3.32 0 6 2.66 6 5.95 0 4.46-6 11.05-6 11.05s-6-6.59-6-11.05a5.97 5.97 0 0 1 6-5.95zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4z" id="jpn3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-988 -1676)">
+            <use fill="silver" xlink:href="#jpn3a">
+            </use>
+        </g>
+    </g>
+</svg>
+</span>
+                    <a class="hl__link-tag" href="https://www.google.com/maps/place/Pusey+Library/@42.3732278,-71.1159372,15z/data=!4m2!3m1!1s0x0:0x9b2a46091ef35727?sa=X&amp;ved=0ahUKEwj-va7727zbAhWCm1kKHc36DNEQ_BIIkgEwDg" title="Get directions to Harvard Map Collection">
+                      <span>Directions</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="hl__contact-info">
+              <div class="hl__contact-info__list">
+                <div class="hl__contact-info__section">
+                                      <ul class="hl__contact-info__items hl__contact-info__items--email">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="12px" viewBox="0 0 15 12"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-845.000000, -677.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M57.5,165 L45.5,165 C44.675,165 44.0075,165.675 44.0075,166.5 L44,175.5 C44,176.325 44.675,177 45.5,177 L57.5,177 C58.325,177 59,176.325 59,175.5 L59,166.5 C59,165.675 58.325,165 57.5,165 L57.5,165 Z M58,168.428571 L52,172 L46,168.428571 L46,167 L52,170.571429 L58,167 L58,168.428571 L58,168.428571 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <span class="hl__contact-info__email"><a href="mailto:maps@harvard.edu" class="hl__link-tag">  <span class="hl__visually-hidden">email:</span>
+  <span>maps@harvard.edu</span>
+</a></span>
+                      </li>
+                    </ul>
+                                                        <ul class="hl__contact-info__items hl__contact-info__items--phone">
+                      <li class="hl__contact-info__item">
+                        <span class="hl__contact-info__icon" aria-hidden="true"><svg width="15px" height="15px" viewBox="0 0 15 15"
+     version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g id="Press-Release" stroke="none" stroke-width="1" fill-rule="evenodd">
+    <g id="press-release---final" transform="translate(-846.000000, -702.000000)">
+      <g id="for-the-media" transform="translate(801.000000, 512.000000)">
+        <path
+          d="M48.0166667,196.491667 C49.2166667,198.85 51.15,200.775 53.5083333,201.983333 L55.3416667,200.15 C55.5666667,199.925 55.9,199.85 56.1916667,199.95 C57.125,200.258333 58.1333333,200.425 59.1666667,200.425 C59.625,200.425 60,200.8 60,201.258333 L60,204.166667 C60,204.625 59.625,205 59.1666667,205 C51.3416667,205 45,198.658333 45,190.833333 C45,190.375 45.375,190 45.8333333,190 L48.75,190 C49.2083333,190 49.5833333,190.375 49.5833333,190.833333 C49.5833333,191.875 49.75,192.875 50.0583333,193.808333 C50.15,194.1 50.0833333,194.425 49.85,194.658333 L48.0166667,196.491667 L48.0166667,196.491667 Z"
+          id="Icon"></path>
+      </g>
+    </g>
+  </g>
+</svg></span>
+                        <a href="tel:617-495-2417" class="hl__contact-info__phone">  <span class="hl__contact-info__label hl__visually-hidden">Phone number</span>
+  617-495-2417
+</a>
+                      </li>
+                    </ul>
+                                  </div>
+              </div>
+            </section>
+          </div>
+          <div class="js-accordion-content">
+            <div class="hl__library-info__links">
+              <section class="hl__contact-info">
+                <div class="hl__contact-info__list">
+                  <div class="hl__contact-info__section">
+                                            <div class="hl__contact-info__website">
+    <span class="hl__contact-info__icon" aria-hidden="true">
+      <svg height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z" id="fwuua">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-986 -1703)">
+            <use fill="silver" xlink:href="#fwuua">
+            </use>
+        </g>
+    </g>
+</svg>
+    </span>
+    <a href="https://ask.library.harvard.edu/maps" class="hl__link-tag" title="Visit website for Ask a Map Librarian!"><span>Ask a Map Librarian!</span></a>
+  </div>
+  <div class="hl__contact-info__website">
+    <span class="hl__contact-info__icon" aria-hidden="true">
+      <svg height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z" id="fwuua">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-986 -1703)">
+            <use fill="silver" xlink:href="#fwuua">
+            </use>
+        </g>
+    </g>
+</svg>
+    </span>
+    <a href="https://github.com/HarvardMapCollection" class="hl__link-tag" title="Visit website for Find us GitHub"><span>Find us GitHub</span></a>
+  </div>
+
+                                      </div>
+                </div>
+              </section>
+              <div class="hl__library-info__links-buttons">
+                                    <a href="/staff?active_filter=1&amp;library=686" class="hl__library-info__contact-buttons hl__button hl__button--small" title="View Staff Directory">View Staff Directory</a>
+
+                              </div>
+            </div>
+                          <div class="hl__library-info__connect">
+              <section class="hl__icon-list">
+                                  <div class="hl__icon-list__label">Connect with Harvard Map Collection</div>
+                                <ul class="hl__icon-list__items">
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="https://www.facebook.com/HarvardMapCollection/" title="Facebook">
+                        <span role="presentation">
+                          <svg height="15" viewbox="0 0 9 15" width="9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1324.72 1538l-.02-6.56h-2.7v-2.82h2.7v-1.87c0-2.53 1.5-3.75 3.67-3.75 1.04 0 1.93.08 2.2.12v2.64h-1.51c-1.18 0-1.4.59-1.4 1.44v1.43h3.34l-.9 2.8h-2.45v6.57h-2.93z" id="jn7la">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1322 -1523)">
+            <use fill="silver" xlink:href="#jn7la">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="https://twitter.com/HarvardMapColl" title="Twitter">
+                        <span role="presentation">
+                          <svg height="12" viewbox="0 0 15 12" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1333.22 1552.85a2.62 2.62 0 0 0 1.31-1.67 6.2 6.2 0 0 1-1.97.74 3.3 3.3 0 0 0-2.25-.92c-1.6 0-3 1.38-3 3.05 0 .27 0 .46.1.64a8.67 8.67 0 0 1-6.38-3.14 2.8 2.8 0 0 0-.37 1.57c0 1.02.56 1.94 1.4 2.5-.47 0-.93-.19-1.4-.37a3 3 0 0 0 2.43 2.95c-.28.1-.56.1-.84.1-.19 0-.38 0-.56-.1a3.03 3.03 0 0 0 2.9 2.12 6.02 6.02 0 0 1-3.84 1.3h-.75c1.4.83 3 1.38 4.69 1.38a8.6 8.6 0 0 0 8.72-8.58v-.37a5.4 5.4 0 0 0 1.59-1.67c-.56.28-1.13.37-1.78.47z" id="1es3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1320 -1551)">
+            <use fill="silver" xlink:href="#1es3a">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="https://www.instagram.com/harvardmaps" title="Instagram">
+                        <span role="presentation">
+                          <svg height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1331.5 1577.6a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8zm-4 7.4a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm0-6.35a3.85 3.85 0 1 1 0 7.7 3.85 3.85 0 0 1 0-7.7zm0-3.65c2.04 0 2.3 0 3.1.05 2.72.12 4.23 1.64 4.35 4.36.04.8.05 1.05.05 3.09s0 2.3-.05 3.1c-.12 2.72-1.64 4.23-4.36 4.36-.8.03-1.05.04-3.09.04s-2.3 0-3.1-.04c-2.72-.13-4.23-1.64-4.36-4.37-.03-.8-.04-1.05-.04-3.09s0-2.3.05-3.1c.12-2.72 1.63-4.23 4.36-4.36.8-.03 1.05-.04 3.09-.04zm0 1.35c-2 0-2.24 0-3.03.05-2.04.09-2.98 1.05-3.08 3.07-.03.8-.04 1.03-.04 3.03 0 2 0 2.24.05 3.03.09 2.01 1.03 2.98 3.07 3.08.79.03 1.03.04 3.03.04 2 0 2.24 0 3.03-.04 2.04-.1 2.98-1.06 3.08-3.08.03-.79.04-1.03.04-3.03 0-2 0-2.24-.05-3.03-.09-2.02-1.04-2.98-3.07-3.07-.79-.04-1.03-.05-3.03-.05z" id="vqi3a">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1320 -1575)">
+            <use fill="silver" xlink:href="#vqi3a">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                                      <li class="hl__icon-list__item">
+                      <a class="hl__icon-list__link" href="https://www.youtube.com/channel/UCWJZvhbepA9A_7V2qiQLeNw" title="YouTube">
+                        <span role="presentation">
+                          <svg height="11" viewbox="0 0 15 11" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M1326 1611v-5l5 2.5zm-3.26-7.89c-2.43.17-2.72 1.6-2.74 5.39.02 3.78.3 5.22 2.74 5.39 2.25.15 7.27.15 9.52 0 2.43-.17 2.72-1.6 2.74-5.39-.02-3.78-.3-5.22-2.74-5.39-2.25-.15-7.27-.15-9.52 0z" id="bqfba">
+        </path>
+    </defs>
+    <g>
+        <g transform="translate(-1320 -1603)">
+            <use fill="silver" xlink:href="#bqfba">
+            </use>
+        </g>
+    </g>
+</svg>
+                        </span>
+                      </a>
+                    </li>
+                  
+                                  </ul>
+              </section>
+            </div>
+                      </div>
+          <div class="hl__library-info__more-info">
+            <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more contact information">
+              <span class="hl__link-tag__toggle-text">Less contact information</span> <span>More contact information</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+        <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="appointments" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Appointments
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-17881" tabindex="-1">
+        <section class="hl__show-more-text"><div  id="showMoreText17881"><section class="hl__rich-text"><p class="hl__rte-large">To consult with us or use maps or data in person at the Map Collection, please make an appointment.&nbsp;</p><p><a class="hl__button hl__button--secondary" href="https://bit.ly/HMCAppointment">Make an appointment</a></p><p class="hl__rte-large">To work with paper maps, please make a <a href="https://aeon.hul.harvard.edu/">HOLLIS Special Request account</a> before you arrive.&nbsp;</p></section></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-981" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="find" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Explore Maps
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_services-14171" tabindex="-1">
+        <section class="hl__category-teaser-grid"><h3  class="hl__comp-heading">  Searching
+</h3><div class="hl__category-teaser-grid__description"><section  class="hl__rich-text"><p>Much of our material is in <a href="https://hollis.harvard.edu">HOLLIS</a> but some is still only in the card catalog, which you can view and search in the <a href="https://listview.lib.harvard.edu/lists/hollis-013396766">digitized card catalog</a>. Explore more collections in our online collections and exhibitions.&nbsp;</p><p>Particular strengths of the collection include:</p><ul><li>18th-century maps of North America and Europe in print and manuscript</li><li>Early modern maps and atlases</li><li>Pictorial maps</li><li>19th- and 20th-century Topographical maps</li></ul><p>To view materials in our reading room or request copies, place requests in HOLLIS through<a href="https://library.harvard.edu/services-tools/hollis-special-request"> HOLLIS Special Request</a>. You must then schedule an appointment separately. Most materials can be pulled when you arrive. Materials stored off-site will arrive in 1-2 business days.</p></section></div><div class="hl__category-teaser-grid__grid"><a class="hl__category-teaser" href="/services-tools/hollis-special-request" title="HOLLIS Special Request"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="59" height="74" viewBox="0 0 59 74"><path fill-rule="evenodd" d="M15.0029446,39.0583559 C12.6597224,31.3633515 14.518336,22.6567971 20.6052471,16.5752284 C27.3364897,9.84405918 37.2687363,8.28910797 45.5016425,11.873021 L35.074658,22.2998918 C33.6741505,23.700384 33.6741505,25.9743263 35.074658,27.3749548 L41.6248557,33.9250811 C43.0253632,35.3255733 45.2993303,35.3255733 46.6999741,33.9250811 L57.1269585,23.4982103 C60.7109107,31.731163 59.1559425,41.6624834 52.4246999,48.3943342 C46.3378843,54.4810834 37.6357339,56.3449527 29.9413272,53.9965755 L1.55763687,82.3799563 C-1.93579284,85.8733479 -7.60203357,85.8733479 -11.0900101,82.3799563 L-13.3799277,80.0900637 C-16.8733574,76.6019888 -16.8733574,70.9359462 -13.3799277,67.4425546 L15.0029446,39.0583559 Z" transform="translate(0 -10)"></path></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Tool
+</div><h3 class="hl__category-teaser__title"><span>HOLLIS Special Request</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Request materials for use onsite in library reading rooms or request copies of library materials.
+
+      </section></div></div></a><a class="hl__category-teaser" href="/services-tools/reproductions" title="Reproductions"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Reproductions</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Need a copy? We can digitize special collections items for research or publication.
+
+      </section></div></div></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_exhibitions-14861" tabindex="-1">
+        <section class="hl__featured-events">
+              <header class="hl__featured-events__header hl__featured-events__header--left">
+                      <h3 class="hl__comp-heading hl__comp-heading--left ">  Exhibits
+</h3>
+                  </header>
+      
+      <div class="hl__featured-events__content hl__featured-events__content--3">
+          
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/minnesota-shouldnt-be-squishy" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/minnesota_panel_whitespace2.jpg?itok=aPqykkzO)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Minnesota Shouldn’t Be Squishy</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  The Science and Humor of xkcd
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Apr 18, 2024 through Aug 15, 2024
+              </span>
+    </div>
+  </div>
+</a>
+
+  
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/virtual-story-prester-john" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/25332803.jpg?itok=y4L1H3kw)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Virtual: The Story of Prester John</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  How Europeans made sense of the world prior to colonial expansion
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Feb 15, 2020 through Feb 15, 2023
+              </span>
+    </div>
+  </div>
+</a>
+
+  
+<a class="node node--type-event node--view-mode-exhibition-listing hl__event-teaser hl__event-teaser--link hl__event-teaser--overlay" href="/exhibits/virtual-annotating-landscape" style="background-image: url(https://library.harvard.edu/sites/default/files/styles/carousel_1200_x_900/public/445002883%20%281%29.jpg?itok=qmBm78j4)">
+
+  <div class="hl__event-teaser__details">
+    <h4 class="hl__event-teaser__title"><span>Virtual: Annotating the Landscape</span>
+</h4>
+        <div class="hl__event-teaser__sub-text">  Take a closer look at this manuscript map of Bavaria from the 19th century
+</div>
+        <div class="hl__event-teaser__date">
+      <span class="hl__highlighted-text hl__highlighted-text--outline hl__highlighted-text--color-inverted">
+                  Jun 24, 2020 through Feb 15, 2023
+              </span>
+    </div>
+  </div>
+</a>
+
+
+      </div>
+
+      
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_collections-1001" tabindex="-1">
+        <section class="hl__overlay-promo-grid hl__overlay-promo-grid--accordion js-accordion">
+      <div class="hl__overlay-promo-grid__container">
+                  <h3  class="hl__comp-heading">  Collections
+</h3>
+                              <section class="hl__masonry-promo">
+                  <div class="hl__overlay-promo-grid__grid">
+                                          
+
+<a
+   href="/collections/pictorial-maps" title="Read more about Pictorial Maps" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/4410_1930_2_detail.jpg?h=a1e1a043&amp;itok=cCjrSHqh')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Pictorial Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Pictorial Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Get lost in the fanciful delights of 20th-century pictorial cartography at the Harvard Map Collection.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="http://nrs.harvard.edu/urn-3:hul.eresource:harvmapc?utm_source=library.harvard" title="Read more about Scanned Maps" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/G7963_K36A5_1850_B8.jpg?h=2cffb181&amp;itok=dAtsgyuE')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Scanned Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Scanned Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Thousands of the Harvard Map Collection&#039;s maps and atlases from around the world are available online in hi-res.
+</div>
+      </div>
+</a>
+
+                                                        
+
+<a
+   href="/collections/geospatial-and-mapping-data" title="Read more about Geospatial and Mapping Data" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/WorldWind1.jpg?h=6d5a8fc6&amp;itok=3Y91vW0R')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Geospatial and Mapping Data</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Geospatial and Mapping Data</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Harvard Map Collection is the main repository for geospatial data at Harvard, including georeferenced scanned maps.
+</div>
+      </div>
+</a>
+
+                                                                                                                                                                                                                                                    </div>
+
+                      <div class="hl__overlay-promo-grid__grid hl__overlay-promo-grid__grid--accordion-content js-accordion-content" style="display: none;" id="paragraph-accordion-1001">
+                
+    
+
+<a
+   href="/collections/pictorial-maps" title="Read more about Pictorial Maps" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/4410_1930_2_detail.jpg?h=a1e1a043&amp;itok=cCjrSHqh')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Pictorial Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Pictorial Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Get lost in the fanciful delights of 20th-century pictorial cartography at the Harvard Map Collection.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="http://nrs.harvard.edu/urn-3:hul.eresource:harvmapc?utm_source=library.harvard" title="Read more about Scanned Maps" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/G7963_K36A5_1850_B8.jpg?h=2cffb181&amp;itok=dAtsgyuE')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Scanned Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Digital Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Scanned Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Thousands of the Harvard Map Collection&#039;s maps and atlases from around the world are available online in hi-res.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/geospatial-and-mapping-data" title="Read more about Geospatial and Mapping Data" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/WorldWind1.jpg?h=6d5a8fc6&amp;itok=3Y91vW0R')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Geospatial and Mapping Data</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Geospatial and Mapping Data</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Harvard Map Collection is the main repository for geospatial data at Harvard, including georeferenced scanned maps.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/fire-insurance-maps" title="Read more about Fire Insurance Maps" class="hl__overlay-promo hl__overlay-promo--description hl__overlay-promo--no-image"
+  >
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Fire Insurance Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Fire Insurance Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Harvard Map Collection&#039;s fire insurance maps focus primarily on the New England states. 
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/antiquarian-maps" title="Read more about Antiquarian Maps" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/G113_P7_1542_0088_crop.jpg?h=dc28f57c&amp;itok=oPBUFicK')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Antiquarian Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Antiquarian Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Pre-1900 maps from the Harvard Map Collection. 
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/atlases-gazetteers-and-reference-materials" title="Read more about Atlases, Gazetteers, and Reference Materials" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/50211927.jpg?h=a7ccef7d&amp;itok=JwOhcdDD')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Atlases, Gazetteers, and Reference Materials</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Atlases, Gazetteers, and Reference Materials</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Harvard Map Collection includes both current and historical atlases.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/nautical-charts" title="Read more about Nautical Charts" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/G4362_S22P5_1877_U5_ps.jpg?h=ede40943&amp;itok=u90tduuk')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Nautical Charts</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Nautical Charts</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Harvard Map Collection&#039;s nautical charts range from the 18th to the 21st century.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/thematic-maps" title="Read more about Thematic Maps" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/G3201_F33_1919_K5_ps.jpg?h=7570d613&amp;itok=-mNOCCEv')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Thematic Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Thematic Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Harvard Map Collection&#039;s holdings of thematic maps, which spatially depict a particular theme or idea. 
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/topographic-maps" title="Read more about Topographic Maps" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/G3764_W9_1981_S6_crop.jpg?h=7ada6771&amp;itok=y7D8GoAz')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Topographic Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Topographic Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  Harvard Map Collection&#039;s maps displaying topographic features.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/wall-maps" title="Read more about Wall Maps" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/IMG_6312_ps.jpg?h=ce1445bb&amp;itok=KXcR-DPQ')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Wall Maps</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Wall Maps</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  19th- and 20th-century wall maps from the Harvard Map Collection.
+</div>
+      </div>
+</a>
+
+    
+
+<a
+   href="/collections/aerial-photography-and-remotely-sensed-images" title="Read more about Aerial Photography and Remotely Sensed Images" class="hl__overlay-promo hl__overlay-promo--description"
+   style="background-image: url('https://library.harvard.edu/sites/default/files/styles/collection_listing/public/DPQ_8K_10_0.jpg?h=fc9e762e&amp;itok=cXsKdDvu')">
+  <div class="hl__overlay-promo__details-spacer" aria-hidden="true">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Aerial Photography and Remotely Sensed Images</span>
+</span>
+          </h3>
+      </div>
+  <div class="hl__overlay-promo__details">
+          <div class="hl__overlay-promo__eyebrow">  Collection
+</div>
+        <h3 class="hl__overlay-promo__title">
+      <span><span>Aerial Photography and Remotely Sensed Images</span>
+</span>
+          </h3>
+              <div class="hl__overlay-promo__description">  The Harvard Map Collection&#039;s aerial photography collection focuses primarily on the metro Boston area.
+</div>
+      </div>
+</a>
+
+
+            </div>
+          
+                      <div class="hl__overlay-promo-grid__see-all">
+              <a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more items" aria-expanded="false"  aria-controls="paragraph-accordion-1001">
+                <span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span>
+              </a>
+            </div>
+                        </section>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="featured_events-6496" tabindex="-1">
+                  <section class="hl__event-grid hl__event-grid--triple">
+                    <div class="hl__event-grid__container">
+            <h3 class="hl__comp-heading">  Upcoming Events
+</h3>
+            <div class="hl__event-grid__events">
+                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/12899732" title="See details about &quot;GIS Office Hours&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">GIS Office Hours</h3>
+                    <div class="hl__event-teaser__type">Event</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Friday, Oct 4, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        3:00 PM
+                                                  - 5:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Harvard Map Collection
+                      </div>
+                                      </div>
+                </a>
+                                                              <a class="hl__event-teaser hl__event-teaser--link" href="https://libcal.library.harvard.edu/event/12899733" title="See details about &quot;GIS Office Hours&quot;" style="">
+                  <div class="hl__event-teaser__details">
+                    <h3 class="hl__event-teaser__title">GIS Office Hours</h3>
+                    <div class="hl__event-teaser__type">Event</div>
+                    <div class="hl__event-teaser__date">
+                      <span class="hl__highlighted-text  ">Friday, Oct 11, 2024</span>
+                    </div>
+                                          <div class="hl__event-teaser__time">
+                        3:00 PM
+                                                  - 5:00 PM
+                                              </div>
+                                                              <div class="hl__event-teaser__location">
+                                                Harvard Map Collection
+                      </div>
+                                      </div>
+                </a>
+                                          </div>
+                          <div class="hl__event-grid__see-all">
+                  <a href="/events?library_verf=686" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See All Events</span></a>
+
+              </div>
+                      </div>
+        </section>
+        </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="fancy_links-12396" tabindex="-1">
+      <section class="hl__fancy-link-list  hl__fancy-link-list--accordion js-accordion "><h3 class="hl__comp-heading">  Story Maps by the Harvard Map Collection
+</h3><div class="hl__fancy-link-list__description"><section class="hl__rich-text"></section></div><div class="hl__fancy-link-list__grid"><a href="https://arcg.is/04maCX" class="hl__fancy-link hl__fancy-link--external" title="Building Boston, Shaping Shorelines"><span class="hl__fancy-link__text">Building Boston, Shaping Shorelines</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://storymaps.arcgis.com/stories/7fa8703759934185a4150510b69a8ea3" class="hl__fancy-link hl__fancy-link--external" title="Mapping the Moon in Black and White"><span class="hl__fancy-link__text">Mapping the Moon in Black and White</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://harvard-cga.maps.arcgis.com/apps/MapJournal/index.html?appid=761cc8613d0f40db8022d8e4218fff58" class="hl__fancy-link hl__fancy-link--external" title="A Fine and Fertile Country"><span class="hl__fancy-link__text">A Fine and Fertile Country</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a></div><div class="hl__fancy-link-list__grid hl__fancy-link-list__grid--accordion-content js-accordion-content" style="display:none"><a href="https://arcg.is/04maCX" class="hl__fancy-link hl__fancy-link--external" title="Building Boston, Shaping Shorelines"><span class="hl__fancy-link__text">Building Boston, Shaping Shorelines</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://storymaps.arcgis.com/stories/7fa8703759934185a4150510b69a8ea3" class="hl__fancy-link hl__fancy-link--external" title="Mapping the Moon in Black and White"><span class="hl__fancy-link__text">Mapping the Moon in Black and White</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://harvard-cga.maps.arcgis.com/apps/MapJournal/index.html?appid=761cc8613d0f40db8022d8e4218fff58" class="hl__fancy-link hl__fancy-link--external" title="A Fine and Fertile Country"><span class="hl__fancy-link__text">A Fine and Fertile Country</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="http://arcg.is/2xgHVlO" class="hl__fancy-link hl__fancy-link--external" title="Look but Don&#039;t Touch"><span class="hl__fancy-link__text">Look but Don&#039;t Touch</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://harvard-cga.maps.arcgis.com/apps/MapJournal/index.html?appid=b1297a3f80e24e4dada72bc3c4e8529b " class="hl__fancy-link hl__fancy-link--external" title="Annotating the Landscape "><span class="hl__fancy-link__text">Annotating the Landscape </span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://uploads.knightlab.com/storymapjs/1a785295a92458a9c978f0b64d0380c8/americas-wild-beasts/index.html" class="hl__fancy-link hl__fancy-link--external" title="Cartographic Beasts of North America"><span class="hl__fancy-link__text">Cartographic Beasts of North America</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="http://arcg.is/1eDeL1" class="hl__fancy-link hl__fancy-link--external" title="Manuscript Maps"><span class="hl__fancy-link__text">Manuscript Maps</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="http://arcg.is/2xgHVlO" class="hl__fancy-link hl__fancy-link--external" title="Where Pirates and Cannibals Meet"><span class="hl__fancy-link__text">Where Pirates and Cannibals Meet</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="http://arcg.is/2lKPelb" class="hl__fancy-link hl__fancy-link--external" title="Where Disaster Strikes"><span class="hl__fancy-link__text">Where Disaster Strikes</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="http://arcg.is/2sTPgHL" class="hl__fancy-link hl__fancy-link--external" title="The Ancestry of the Motherroad"><span class="hl__fancy-link__text">The Ancestry of the Motherroad</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="http://arcg.is/2tqCtfX" class="hl__fancy-link hl__fancy-link--external" title="Embellishing the Map"><span class="hl__fancy-link__text">Embellishing the Map</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://uploads.knightlab.com/storymapjs/1a785295a92458a9c978f0b64d0380c8/top-secret/index.html" class="hl__fancy-link hl__fancy-link--external" title="Top Secret: Decoding a WWII Manuscript Map"><span class="hl__fancy-link__text">Top Secret: Decoding a WWII Manuscript Map</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://uploads.knightlab.com/storymapjs/1a785295a92458a9c978f0b64d0380c8/lille-under-attack/index.html" class="hl__fancy-link hl__fancy-link--external" title="Lille Under Siege"><span class="hl__fancy-link__text">Lille Under Siege</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://harvard-cga.maps.arcgis.com/apps/Cascade/index.html?appid=c2f9d3dc83b34492ae60c124ffa1ec68" class="hl__fancy-link hl__fancy-link--external" title="The Harvard Map Collection and the Future of Cartography"><span class="hl__fancy-link__text">The Harvard Map Collection and the Future of Cartography</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://harvard-cga.maps.arcgis.com/apps/MapJournal/index.html?appid=b9e4da1527804d9d80215dc6960b2759" class="hl__fancy-link hl__fancy-link--external" title="Farming the American West"><span class="hl__fancy-link__text">Farming the American West</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://harvard-cga.maps.arcgis.com/apps/MapJournal/index.html?appid=506d0c06aa0b4c99a0d744508da23cfa" class="hl__fancy-link hl__fancy-link--external" title="Wheat, Corn, Cows, and the Origins of American Food"><span class="hl__fancy-link__text">Wheat, Corn, Cows, and the Origins of American Food</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a></div><div class="hl__fancy-link-list__see-all"><a class="hl__link-tag hl__link-tag--with-arrow js-accordion-link" href="#" title="Show or hide more items"><span class="hl__link-tag__toggle-text">Show Less</span><span>Show More</span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="fancy_links-2406" tabindex="-1">
+      <section class="hl__fancy-link-list "><div class="hl__fancy-link-list__description"><section class="hl__rich-text"></section></div><div class="hl__fancy-link-list__grid"><a href="https://archive.org/details/FollowTheMapCatalogue" class="hl__fancy-link hl__fancy-link--external" title="Follow the Map: The Harvard Map Collection at 200"><span class="hl__fancy-link__text">Follow the Map: The Harvard Map Collection at 200</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="http://sea-atlases.org/" class="hl__fancy-link hl__fancy-link--external" title="Sea Atlases: A Selection of Atlases from the Harvard Map Collection"><span class="hl__fancy-link__text">Sea Atlases: A Selection of Atlases from the Harvard Map Collection</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a><a href="https://library.harvard.edu/onlineexhibits/baroque/index.html" class="hl__fancy-link hl__fancy-link--external" title="Going for Baroque: The Iconography of the Ornamental Map"><span class="hl__fancy-link__text">Going for Baroque: The Iconography of the Ornamental Map</span><span class="hl__fancy-link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15"><defs><path id="fwuua" d="M999.33 1716.33v-5.83h1.67v5.83c0 .92-.75 1.67-1.67 1.67h-11.66c-.93 0-1.67-.75-1.67-1.67v-11.66c0-.92.74-1.67 1.67-1.67h5.83v1.67h-5.83v11.66zm-4.15-13.33h5.82v5.82h-1.66v-2.99l-8.17 8.17-1.17-1.17 8.17-8.17h-2.99z"/></defs><g><g transform="translate(-986 -1703)"><use fill="silver" xlink:href="#fwuua"/></g></g></svg></span></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-17068" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="spatial" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Use Spatial Data
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_services-2361" tabindex="-1">
+        <section class="hl__category-teaser-grid"><div class="hl__category-teaser-grid__description"><section  class="hl__rich-text"><p>Our GIS Librarians can help you through all stages of your digital mapping or spatial analysis project.</p><ul><li>Lend conceptual context and ethics considerations&nbsp;to work that engages with&nbsp;data and mapping technologies.&nbsp;</li><li>Identify and use the spatial data that will enhance your research and teaching.&nbsp;</li><li>Design your analysis to get you to the answers you need</li><li>Select the right software for the project</li><li>Visualize the results</li></ul><p>You can find spatial datasets in HOLLIS and the <a href="http://hgl.harvard.edu/">Harvard Geospatial Library</a>. Our <a href="https://mapping.share.library.harvard.edu/">map and data tutorials and project examples</a> can also use you get started. Contact us and we can help you find and use any spatial data.</p></section></div><div class="hl__category-teaser-grid__grid"><a class="hl__category-teaser" href="/services-tools/digital-mapping-and-gis-support" title="Digital Mapping and GIS Support"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Digital Mapping and GIS Support</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Get help with maps, mapping, geographic information systems, and other geospatial tools, as well as cartographic design.
+
+      </section></div></div></a><a class="hl__category-teaser" href="http://hgl.harvard.edu" title="Harvard Geospatial Library"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="59" height="74" viewBox="0 0 59 74"><path fill-rule="evenodd" d="M15.0029446,39.0583559 C12.6597224,31.3633515 14.518336,22.6567971 20.6052471,16.5752284 C27.3364897,9.84405918 37.2687363,8.28910797 45.5016425,11.873021 L35.074658,22.2998918 C33.6741505,23.700384 33.6741505,25.9743263 35.074658,27.3749548 L41.6248557,33.9250811 C43.0253632,35.3255733 45.2993303,35.3255733 46.6999741,33.9250811 L57.1269585,23.4982103 C60.7109107,31.731163 59.1559425,41.6624834 52.4246999,48.3943342 C46.3378843,54.4810834 37.6357339,56.3449527 29.9413272,53.9965755 L1.55763687,82.3799563 C-1.93579284,85.8733479 -7.60203357,85.8733479 -11.0900101,82.3799563 L-13.3799277,80.0900637 C-16.8733574,76.6019888 -16.8733574,70.9359462 -13.3799277,67.4425546 L15.0029446,39.0583559 Z" transform="translate(0 -10)"></path></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Tool
+</div><h3 class="hl__category-teaser__title"><span>Harvard Geospatial Library</span><span class="hl__link-tag__external-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20"><g><g transform="translate(-906 -1005)"><path d="M923.78 1022.78V1015H926v7.78c0 1.22-1 2.22-2.22 2.22h-15.56c-1.23 0-2.22-1-2.22-2.22v-15.56c0-1.22.99-2.22 2.22-2.22H916v2.22h-7.78v15.56zm-5.71-17.78H926v7.93h-2.27v-4.07L912.6 1020l-1.6-1.6 11.14-11.13h-4.07z"></path></g></g></svg></span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Search and download regional and local geographic data and georeferenced scanned paper maps.
+
+      </section></div></div></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-12401" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="teach" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  Teach with Us
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_services-14181" tabindex="-1">
+        <section class="hl__category-teaser-grid"><div class="hl__category-teaser-grid__description"><section  class="hl__rich-text"><p>We work with classes every term to incorporate maps and geospatial resources into the curriculum. For each class, we help select maps and data and tailor hands-on activities to your particular course. Classes in the Map Collection have spanned the whole curriculum including Computer Science, History, Earth Sciences, and English.</p></section></div><div class="hl__category-teaser-grid__grid"><a class="hl__category-teaser" href="/services-tools/teach-special-collections" title="Teach with Special Collections"><div class="hl__category-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18"
+     viewBox="0 0 18 18"><g><g transform="translate(-150 -107)"><path id="2klaa"
+            d="M157.44 116c0-.86.64-1.56 1.44-1.56.8 0 1.44.7 1.44 1.56 0 .86-.65 1.56-1.44 1.56-.8 0-1.44-.7-1.44-1.56zm1.07-4.44c-.23.62-.29 1.02-.77 1.22-.49.2-.81-.03-1.41-.32l-.87.87c.28.6.52.92.32 1.4-.2.5-.6.55-1.22.78v1.22c.62.22 1.02.29 1.22.77.2.49-.04.82-.32 1.41l.87.87c.6-.28.92-.52 1.4-.32.5.2.55.6.78 1.22h1.22c.23-.62.29-1.02.77-1.22.48-.2.81.03 1.41.32l.87-.87c-.28-.6-.52-.92-.32-1.4.2-.5.6-.56 1.22-.78v-1.22c-.63-.23-1.02-.29-1.22-.77-.2-.49.04-.81.32-1.41l-.87-.87c-.6.28-.92.52-1.4.32-.5-.2-.55-.6-.78-1.22zm-8.23 2.2a9 9 0 1 0 3.52-5.1l-1.28-1.66-1.45 4.5H156l-1.28-1.64a7.5 7.5 0 1 1-2.88 3.9z"></path></g></g></svg></div><div class="hl__category-teaser__content"><div class="hl__category-teaser__eyebrow">  Service
+</div><h3 class="hl__category-teaser__title"><span>Teach with Special Collections</span></h3><div class="hl__category-teaser__description"><section class="hl__rich-text ">
+          Discover, engage, and collaborate with Special Collections to help students use primary sources and understand material culture.
+
+      </section></div></div></a></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="related_how_tos-14161" tabindex="-1">
+        <section class="hl__staggered-type-list">
+      <header class="hl__staggered-type-list__header">
+                          <div class="hl__staggered-type-list__description">
+            <section  class="hl__rich-text">
+              
+            </section>
+          </div>
+              </header>
+      <div class="hl__staggered-type-list__list-wrapper">
+        <div class="hl__staggered-type-list__list">
+            <a class="hl__type-promo" href="/how-to/use-harvard-librarys-special-collections-and-archives" title="Use Harvard Library&#039;s Special Collections and Archives" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/staggered_card/public/colonial_houghton_004_922_0.jpg?h=2e80255c&itok=VRxDTCTN')">
+  <div class="hl__type-promo__header">
+    <div class="hl__type-promo__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <g>
+    <g transform="translate(-169 -5817)">
+      <path fill="#f8c21b" d="M199 5832a15 15 0 1 1-30 0 15 15 0 0 1 30 0zm-17.69-2.69l-4.64 10.02 10.02-4.64 4.64-10.02zm2.69 1.3a1.4 1.4 0 0 1 .99 2.38A1.4 1.4 0 0 1 183 5831c.27-.27.63-.4.99-.4z"></path>
+    </g>
+  </g>
+</svg>
+    </div>
+    <div class="hl__type-promo__subject">How To</div>
+  </div>
+  <div class="hl__type-promo__details">
+    <h3 class="hl__type-promo__title">Use Harvard Library&#039;s Special Collections and Archives</h3>
+          <div class="hl__type-promo__description">
+          Open to all, these unique materials can take you to places you never expected.
+
+      </div>
+      </div>
+</a>
+
+
+        </div>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="divider-14186" tabindex="-1">
+        <hr class="hl__section-divider hl__section-divider--thin" aria-hidden="true" />
+  </div>
+
+      <div class="hl__full-template__page-content hl__full-template__page-content--stacked" id="about" tabindex="-1"><div class="hl__comp-header" tab-index="-1"><h2 class="hl__comp-heading ">  About Us
+</h2></div></div>  
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-14156" tabindex="-1">
+        <section class="hl__show-more-text"><div  id="showMoreText14156"><section class="hl__rich-text"><h3>Our Mission</h3><p>With experts in spatial analysis, map-making, and historical analysis, we want to help you make the most of the over 500,000 maps and terabytes of data at the Harvard Map Collection. Whether you are analyzing the spatial dimensions of health, making a map about demographics, or tracing changing borders on old maps, we want to find ways to support your work and collaborate on innovative research and teaching.&nbsp;</p><p>We collect maps and geospatial data from all time periods and all places in all languages. We are particularly interested in acquiring maps and objects that document how people have used and continue to use maps, whether it be in maps, cartographers’ drafts and journals, artists’ books, or ephemera. We seek out data that helps answer questions about the natural world and the people in it such as census data, population data, and climate information. Then we help analyze that data and bring out new geospatial insights.&nbsp;</p></section></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="rich_text-17591" tabindex="-1">
+        <section class="hl__show-more-text"><div  id="showMoreText17591"><section class="hl__rich-text"><h3>Getting Here</h3><p>You can access our space via a flight of stairs down from ground level at the Pusey Library main entrance or through the&nbsp;<a href="https://library.harvard.edu/libraries/lamont">Lamont Library</a> west entrance. Access without stairways is available through the Lamont Library main entrance via the ramp at the Quincy Street gate.</p><h3>Accessibility of the Harvard Map Collection</h3><ul><li>The closest accessible entrance to the Harvard Map Collection and Pusey Library is the main entrance to Lamont Library. This entrance can be accessed via Quincy Street and is accessible by automatic door and ramp. There are two elevators that go down to level B of Lamont that connects to Level 1 of Pusey Library and the Map Collection.</li><li>Lamont Library is not open to the public. If you don’t have a Harvard ID please let us know you are coming and will be entering through Lamont so we can alert the guards.</li></ul><p>Contact Map Collection staff member Bonnie Burns (<a href="mailto:bburns@fas.harvard.edu">bburns@fas.harvard.edu</a>, 617-495-2417) with questions about accessibility of the reading room.</p></section></div></section>  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="small_content_block-4861" tabindex="-1">
+        <section  class="hl__overlay-cta hl__overlay-cta--center">
+      <div class="hl__overlay-cta__container" style="background-image: url('https://library.harvard.edu/sites/default/files/styles/paragraph_small_background/public/promo_postcard4x6-web.jpg?h=b9c7ca73&itok=zP3pQv0c')">
+
+        <div class="hl__overlay-cta__text">
+          <div class="hl__overlay-cta__title">  Celebrating Our 200th Birthday!
+</div>
+
+                      <div class="hl__overlay-cta__description">
+                2018 marked 200 years since the original gift that founded the Map Collection. Read more about it in our online catalog for &quot;Follow the Map: The Harvard Map Collection at 200.&quot;
+
+            </div>
+          
+                      <div class="hl__overlay-cta__links">
+                <a href="https://archive.org/details/FollowTheMapCatalogue" class="hl__button hl__button--small hl__button--minor" title="Visit link for &quot;Explore &quot;Follow the Map!&quot;&quot;"><span class="hl__button__text">Explore &quot;Follow the Map!&quot;</span></a>
+
+            </div>
+                  </div>
+      </div>
+    </section>
+  </div>
+
+  
+
+
+
+
+
+<div class="hl__full-template__page-content hl__full-template__page-content--stacked hl__full-template__page-content--sub-row" id="recent_news-17882" tabindex="-1">
+        <section class="hl__teaser-grid">
+      <div class="hl__teaser-grid__container">
+        <h3 class="hl__comp-heading">Recent News</h3>
+
+                <div>
+  
+  
+  
+
+  
+  
+  
+
+  <section class="hl__teaser-grid ">
+  <div class="hl__teaser-grid__container">
+    <div class="hl__teaser-grid__grid">
+              
+<a  data-ga-link="Featured Stories" class="hl__teaser-link" href="/about/news/2024-06-27/re-wilding-harvard-spring-2024" title="Re-Wilding Harvard, Spring 2024">
+  
+  <div class="hl__teaser-link__container">
+          <div class="hl__teaser-link__image">
+        <img class="hl__image" alt="four side-by-side images of bright green plants" src="https://library.harvard.edu/sites/default/files/styles/extra_large_600_x_600/public/re-wild_0.png?itok=teQkT0gy" width="107" height="190" />
+      </div>
+        <div class="hl__teaser-link__details">
+      <div class="hl__teaser-link__subject hl__teaser-link__subject--with-date"></div>
+      <div class="hl__teaser-link__date">  <time datetime="2024-06-13T12:00:00Z">June 13, 2024</time>
+
+</div>
+      <h4 class="hl__teaser-link__title"><span>Re-Wilding Harvard, Spring 2024</span>
+</h4>
+      <div class="hl__teaser-link__description">
+        <section class="hl__rich-text">
+          <p>  During Spring 2024, the Harvard Map Collection embedded with history course Re-Wilding Harvard, taught by Professor Joyce Chaplin. 
+</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</a>
+
+              
+<a  data-ga-link="Featured Stories" class="hl__teaser-link" href="/about/news/2024-02-21/oldest-smallest-weirdest-closer-look-fictional-maps" title="Oldest, Smallest, Weirdest: A Closer Look at Fictional Maps">
+  
+  <div class="hl__teaser-link__container">
+          <div class="hl__teaser-link__image">
+        <img class="hl__image" alt="Bonnie Burns shares a map" src="https://library.harvard.edu/sites/default/files/styles/extra_large_600_x_600/public/img_5645_0.jpeg?itok=L3JIYK18" width="107" height="190" />
+      </div>
+        <div class="hl__teaser-link__details">
+      <div class="hl__teaser-link__subject hl__teaser-link__subject--with-date"></div>
+      <div class="hl__teaser-link__date">  <time datetime="2024-02-22T12:00:00Z">February 22, 2024</time>
+
+</div>
+      <h4 class="hl__teaser-link__title"><span>Oldest, Smallest, Weirdest: A Closer Look at Fictional Maps</span>
+</h4>
+      <div class="hl__teaser-link__description">
+        <section class="hl__rich-text">
+          <p>  Superlative maps from the recent exhibit Academieland to Zelda: Mapping the Fictional and Imaginary, which showcased fictional settings in map form.
+</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</a>
+
+          </div>
+  </div>
+</section>
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+       
+                  <div class="hl__teaser-grid__see-all">
+              <a href="/about/news" class="hl__link-tag hl__link-tag--with-arrow" title="See more of this content"><span>See All news</span></a>
+
+          </div>
+              </div>
+    </section>
+  </div>
+
+
+</article>
+
+  </div>
+
+  </section>
+
+
+        <section class="hl__full-template__post-content region">
+    <div id="block-newslettersignupblock" data-block-plugin-id="newsletter_signup_block">
+  
+    
+      <section class="hl__single-input-form"><form class="newsletter-signup hl__single-input-form__form" data-drupal-selector="newsletter-signup" action="/libraries/harvard-map-collection" method="post" id="newsletter-signup" accept-charset="UTF-8">
+  <label class="hl__label hl__label--inline" data-drupal-selector="edit-title" for="edit-email-address" id="edit-title">Stay in the know</label><div class="hl__single-input-form__input-group">
+<input placeholder="Email Address" class="hl__input hl__input--inline js-is-required form-email required" data-twig-suggestion="newsletter_signup_email" data-drupal-selector="edit-email-address" type="email" id="edit-email-address" name="email_address" value="" maxlength="254" required="required" aria-required="true" />
+
+<button class="hl__button hl__button--small hl__button--inline button js-form-submit form-submit" data-twig-suggestion="newsletter_signup_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Sign up" data-ga-link="Form: Email Full-Width">
+  Sign up  
+</button></div><input autocomplete="off" data-drupal-selector="form-pglgdk10cn1x-fxtqbat8chbrezpzyikni1qr5gldw8" type="hidden" name="form_build_id" value="form-PgLGdK10CN1X_fxtQBAt8cHBRezpZyIkNi1qR5gLdW8" />
+<input data-drupal-selector="edit-newsletter-signup" type="hidden" name="form_id" value="newsletter_signup" />
+
+</form>
+</section>
+  </div>
+
+  </section>
+
+  </main>
+
+  <footer role="contentinfo">
+    <section>  <section class="region hl__footer">
+    <div class="hl__footer__container">
+      <div class="hl__footer__logo">
+        <section class="hl__linked-image">
+          <a href="/" title="Harvard Library">
+            <img class="hl__image" alt="Harvard Library Logo" height="24" width="270" src="/themes/custom/harvard/assets/images/logo-large.svg">
+          </a>
+        </section>
+      </div>
+
+        
+<div class="hl__footer__links">
+                <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 1 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/support-library" class="hl__link-tag" data-drupal-link-system-path="node/5341"><span>Giving to the Library</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://provost.harvard.edu/" class="hl__link-tag"><span>Office of the Provost</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollis.harvard.edu/" class="hl__link-tag"><span>HOLLIS</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://hollisarchives.lib.harvard.edu/" class="hl__link-tag"><span>HOLLIS for Archival Discovery</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="http://nrs.harvard.edu/urn-3:hul.ois:databases" class="hl__link-tag"><span>Databases</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+          <div class="hl__footer__column">
+        <nav class="hl__footer-nav" aria-label="footer 2 of 2">
+          <ul class="hl__footer-nav__items">
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="/library-newsletters-social-media" class="hl__link-tag" data-drupal-link-system-path="node/10856"><span>Newsletters/Social</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://staff.library.harvard.edu" class="hl__link-tag"><span>Staff Portal</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://library.harvard.edu/accessibility" class="hl__link-tag"><span>Library Accessibility</span></a>
+              </li>
+                          
+              <li data-ga-link="Footer Links" class="hl__footer-nav__item">
+                <a href="https://nrs.harvard.edu/urn-3:hul.ois:reportaproblem" class="hl__link-tag"><span>Report a Problem</span></a>
+              </li>
+                      </ul>
+        </nav>
+      </div>
+      
+</div>
+
+
+
+
+      <div class="hl__footer__content">
+        <div class="hl__footer__top-links">
+          <div class="hl__footer__quick-links">
+
+            <div class="hl__linked-list hl__linked-list--no-bullets ">
+              <ul class="hl__linked-list__items">
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="https://accessibility.harvard.edu/" title="Read our accessibility"><span>Accessibility</span></a>
+                </li>
+                <li class="hl__linked-list__item">
+                  <a class="hl__link-tag" href="/privacy-terms-use-copyright-information/" title="Read our Privacy Policy"><span>Privacy</span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="hl__footer__license">
+          <div class="hl__footer__cc-icon">
+            <img class="hl__image " alt="Creative Commons license" height="31" width="88" src="/themes/custom/harvard/assets/images/cc-88x31.png">
+          </div>
+          <div class="hl__footer__cc-text">Creative Commons Attribution 4.0 International License</div>
+        </div>
+        <div class="hl__footer__message">
+          <section class="hl__rich-text hl__rich-text--small ">
+            <p>Except where otherwise noted, this work is subject to a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, which allows anyone to share and adapt our material as long as proper attribution is given. For details and exceptions, see the <a href="https://osc.hul.harvard.edu/programs/copyright/ccby">Harvard Library Copyright Policy</a> &copy;2024 Presidents and Fellows of Harvard College.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+  </footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_LwjaQiGzOrCwzVrRBti8K86MznwJk7GyLWx7kaTRtmo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=harvard&amp;include=eJxlyDEOgCAMBdALIZzpIw2QVGlawHB7EwcdXN7wbFmnI0QYuQKd0BQytwjerC-uZ_71rlW6vc1N4QSKrJBiIekQsP_Gj1NG5GqFkpuVLguP_mhpMN3y_jLU"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=90b85bdd1489a074045c2519ad2fc1a5"></script>
+<script src="https://v2.libanswers.com/load_chat.php?hash=055503cc8dd52ad22b42fb2afdf10da9"></script>
+
+  </body>
+</html>
