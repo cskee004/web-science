@@ -1,6 +1,5 @@
-# HW4 - Report
 ### Chris Skeens
-### Due Date: 10/27/24
+
 
 ## Q1: Analyze Datetimes of Mementos
 
