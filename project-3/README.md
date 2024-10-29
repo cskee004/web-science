@@ -1,6 +1,5 @@
-# HW3 - Report
 ### Chris Skeens
-### Due Date: 10/20/24
+
 
 ## Q1: *Get TimeMaps for Each URI*
 ### Answer:
