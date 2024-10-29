@@ -1,6 +1,4 @@
-# HW1 - Report
 ### Chris Skeens
-### Due Date: 09/15/24
 
 # Q1
 ## Answer
